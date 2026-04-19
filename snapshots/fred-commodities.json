@@ -1,0 +1,20 @@
+[
+  {
+    "symbol": "WTI",
+    "name": "WTI 原油",
+    "price": 100.72,
+    "changePct": 2.42,
+    "currency": "USD",
+    "unit": "bbl",
+    "asOf": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "symbol": "BRENT",
+    "name": "Brent 原油",
+    "price": 123.28,
+    "changePct": 3.54,
+    "currency": "USD",
+    "unit": "bbl",
+    "asOf": "2026-04-13T00:00:00.000Z"
+  }
+]

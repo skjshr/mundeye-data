@@ -1,8 +1,9 @@
 {
-  "startedAt": "2026-04-19T09:14:43.195Z",
-  "finishedAt": "2026-04-19T09:14:57.839Z",
+  "startedAt": "2026-04-19T09:50:34.978Z",
+  "finishedAt": "2026-04-19T09:50:38.243Z",
   "targets": [
-    "fred-forex"
+    "fred-commodities",
+    "fred-rates"
   ],
   "mode": "all"
 }

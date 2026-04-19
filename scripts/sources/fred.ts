@@ -13,7 +13,7 @@
 //   - changePct は直近 2 営業日の close 差。同日連続値が返ることがあるので dedup が必要。
 
 import { fetchText, writeJson, sleep } from "../lib/io.ts";
-import type { StockIndex, ForexRate } from "../lib/types.ts";
+import type { StockIndex, ForexRate, Commodity, YieldRate } from "../lib/types.ts";
 
 /**
  * FRED series の定義。指数を追加したいときはここに 1 行足すだけ。
@@ -163,4 +163,123 @@ export async function fetchFredForex(): Promise<void> {
   }
 
   await writeJson("fred-forex.json", results);
+}
+
+/**
+ * 商品シリーズ定義。WTI と Brent は FRED で日次 CSV 取れる 2 大原油ベンチマーク。
+ * Gold の日次スポット（GOLDAMGBD228NLBM / GOLDPMGBD228NLBM）は 2024 年以降 FRED で
+ * 更新停止・HTML エラーを返すため除外。将来的には LBMA の直接配信か
+ * Alpha Vantage 経由で金を追加する余地あり。
+ */
+interface FredCommoditySeries {
+  fredId: string;
+  symbol: string;
+  name: string;
+  currency: string;
+  unit: string;
+}
+
+const COMMODITY_SERIES: readonly FredCommoditySeries[] = [
+  { fredId: "DCOILWTICO", symbol: "WTI", name: "WTI 原油", currency: "USD", unit: "bbl" },
+  { fredId: "DCOILBRENTEU", symbol: "BRENT", name: "Brent 原油", currency: "USD", unit: "bbl" },
+];
+
+export async function fetchFredCommodities(): Promise<void> {
+  console.log("• FRED (commodities)…");
+  const results: Commodity[] = [];
+
+  for (const series of COMMODITY_SERIES) {
+    try {
+      const url = `https://fred.stlouisfed.org/graph/fredgraph.csv?id=${series.fredId}`;
+      const csv = await fetchText(url, 30_000);
+      const rows = parseFredCsv(csv);
+
+      if (rows.length < 2) {
+        throw new Error(`not enough data (got ${rows.length} rows)`);
+      }
+
+      const latest = rows[0];
+      const prev = rows[1];
+      const changePct = ((latest.value - prev.value) / prev.value) * 100;
+
+      results.push({
+        symbol: series.symbol,
+        name: series.name,
+        price: latest.value,
+        changePct: Number(changePct.toFixed(2)),
+        currency: series.currency,
+        unit: series.unit,
+        asOf: new Date(latest.date + "T00:00:00Z").toISOString(),
+      });
+
+      console.log(`  ✓ ${series.symbol}: ${latest.value} ${series.currency}/${series.unit} (${changePct.toFixed(2)}%) @ ${latest.date}`);
+      await sleep(150);
+    } catch (e) {
+      console.warn(`  ! ${series.fredId}: ${(e as Error).message}`);
+    }
+  }
+
+  if (results.length === 0) {
+    throw new Error("all FRED commodity series failed — skipping write to preserve previous snapshot");
+  }
+
+  await writeJson("fred-commodities.json", results);
+}
+
+/**
+ * 米国債利回りシリーズ。DGS2/DGS10/DGS30 で短中長期イールドカーブを表現する。
+ * yield 数値の前日比は basis point（bp）で返す（"4.32% が 4.35% に" = +3bp）。
+ * % の % は誤読を誘うので changePct にしない。
+ */
+interface FredYieldSeries {
+  fredId: string;
+  symbol: string;
+  name: string;
+}
+
+const YIELD_SERIES: readonly FredYieldSeries[] = [
+  { fredId: "DGS2", symbol: "US2Y", name: "米 2 年国債" },
+  { fredId: "DGS10", symbol: "US10Y", name: "米 10 年国債" },
+  { fredId: "DGS30", symbol: "US30Y", name: "米 30 年国債" },
+];
+
+export async function fetchFredRates(): Promise<void> {
+  console.log("• FRED (treasury yields)…");
+  const results: YieldRate[] = [];
+
+  for (const series of YIELD_SERIES) {
+    try {
+      const url = `https://fred.stlouisfed.org/graph/fredgraph.csv?id=${series.fredId}`;
+      const csv = await fetchText(url, 30_000);
+      const rows = parseFredCsv(csv);
+
+      if (rows.length < 2) {
+        throw new Error(`not enough data (got ${rows.length} rows)`);
+      }
+
+      const latest = rows[0];
+      const prev = rows[1];
+      // yield 値の差分を bp（1bp = 0.01%）に換算: (4.32 - 4.30) × 100 = 2 bp
+      const changeBps = Math.round((latest.value - prev.value) * 100);
+
+      results.push({
+        symbol: series.symbol,
+        name: series.name,
+        yield: latest.value,
+        changeBps,
+        asOf: new Date(latest.date + "T00:00:00Z").toISOString(),
+      });
+
+      console.log(`  ✓ ${series.symbol}: ${latest.value}% (${changeBps >= 0 ? "+" : ""}${changeBps} bp) @ ${latest.date}`);
+      await sleep(150);
+    } catch (e) {
+      console.warn(`  ! ${series.fredId}: ${(e as Error).message}`);
+    }
+  }
+
+  if (results.length === 0) {
+    throw new Error("all FRED yield series failed — skipping write to preserve previous snapshot");
+  }
+
+  await writeJson("fred-rates.json", results);
 }

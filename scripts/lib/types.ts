@@ -54,3 +54,31 @@ export interface ForexRate {
   changePct: number;
   asOf: string; // ISO8601
 }
+
+/**
+ * 商品（原油など）のスポット価格。FRED の DCOILWTICO / DCOILBRENTEU 等。
+ * 金（gold）は FRED 日次シリーズが停止済みのため Phase A 対象外。
+ * ForexRate と別型の理由: pair を持たず unit（bbl/oz 等）で価格を解釈する必要がある。
+ */
+export interface Commodity {
+  symbol: string; // "WTI" | "BRENT"
+  name: string; // "WTI 原油"
+  price: number;
+  changePct: number;
+  currency: string; // "USD"
+  unit: string; // "bbl"（1 バレル = 約 159 L）
+  asOf: string;
+}
+
+/**
+ * 米国債利回り（FRED DGS2 / DGS10 / DGS30）。
+ * yield は既に % 単位の値なので「前日比」は basis point（bp）で返す（金融慣習）。
+ * changePct を使うと "4.32% の 0.7% 増" のような二重%になり誤読を誘うので採らない。
+ */
+export interface YieldRate {
+  symbol: string; // "US10Y"
+  name: string; // "米 10 年国債"
+  yield: number; // percent value（4.32 → 4.32%）
+  changeBps: number; // basis points（1bp = 0.01%）
+  asOf: string;
+}
