@@ -5,12 +5,16 @@
   "type": "module",
   "description": "world-lens のデータスナップショット取得スクリプト",
   "scripts": {
-    "fetch": "tsx scripts/fetch.ts"
+    "fetch": "tsx scripts/fetch.ts",
+    "admin2": "tsx scripts/admin2/build.ts"
   },
   "dependencies": {
     "fast-xml-parser": "^5.2.5"
   },
   "devDependencies": {
+    "@turf/helpers": "^7.3.4",
+    "@turf/simplify": "^7.3.4",
+    "@types/geojson": "^7946.0.16",
     "@types/node": "^22.10.2",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2"
