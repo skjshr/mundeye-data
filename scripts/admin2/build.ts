@@ -64,6 +64,29 @@ const ISO2_TO_ISO3: Readonly<Record<string, string>> = {
   TR: "TUR",
   AR: "ARG",
   ZA: "ZAF",
+  // 先進主要国（G20 外）。欧州追加・東南アジア・中東・アフリカ・ラ米・大洋州から代表を網羅
+  NL: "NLD",
+  PL: "POL",
+  SE: "SWE",
+  NO: "NOR",
+  CH: "CHE",
+  // AE (UAE) は geoBoundaries gbOpen に ADM2 データが無い（emirate = ADM1 が最下位）。
+  // ADM1 ポリゴンで代替されるので明示的に除外する。gbAuthoritative なら存在するが
+  // ライセンス条件が異なるため採用しない。
+  SG: "SGP",
+  TH: "THA",
+  VN: "VNM",
+  PH: "PHL",
+  MY: "MYS",
+  EG: "EGY",
+  NG: "NGA",
+  IL: "ISR",
+  NZ: "NZL",
+  CL: "CHL",
+  CO: "COL",
+  PE: "PER",
+  GR: "GRC",
+  PT: "PRT",
 };
 
 /** geoBoundaries API のメタデータレスポンス（必要フィールドのみ） */
