@@ -2,74 +2,74 @@
   "JP": {
     "countryCode": "JP",
     "cityName": "東京",
-    "tempC": 11.2,
-    "humidity": 98,
+    "tempC": 11.4,
+    "humidity": 96,
     "weatherCode": 2,
-    "asOf": "2026-04-20T05:00"
+    "asOf": "2026-04-20T05:45"
   },
   "US": {
     "countryCode": "US",
     "cityName": "ワシントンD.C.",
-    "tempC": 13.6,
-    "humidity": 47,
+    "tempC": 13.9,
+    "humidity": 35,
     "weatherCode": 0,
-    "asOf": "2026-04-19T16:00"
+    "asOf": "2026-04-19T16:45"
   },
   "GB": {
     "countryCode": "GB",
     "cityName": "ロンドン",
-    "tempC": 12.4,
-    "humidity": 56,
+    "tempC": 11.6,
+    "humidity": 62,
     "weatherCode": 2,
-    "asOf": "2026-04-19T21:00"
+    "asOf": "2026-04-19T21:45"
   },
   "DE": {
     "countryCode": "DE",
     "cityName": "ベルリン",
-    "tempC": 6.4,
-    "humidity": 84,
+    "tempC": 6.2,
+    "humidity": 80,
     "weatherCode": 63,
-    "asOf": "2026-04-19T22:00"
+    "asOf": "2026-04-19T22:45"
   },
   "FR": {
     "countryCode": "FR",
     "cityName": "パリ",
-    "tempC": 14.6,
-    "humidity": 45,
+    "tempC": 13.1,
+    "humidity": 55,
     "weatherCode": 3,
-    "asOf": "2026-04-19T22:00"
+    "asOf": "2026-04-19T22:45"
   },
   "CN": {
     "countryCode": "CN",
     "cityName": "北京",
-    "tempC": 8.5,
-    "humidity": 19,
+    "tempC": 8.2,
+    "humidity": 21,
     "weatherCode": 0,
-    "asOf": "2026-04-20T04:00"
+    "asOf": "2026-04-20T04:45"
   },
   "KR": {
     "countryCode": "KR",
     "cityName": "ソウル",
-    "tempC": 8.4,
+    "tempC": 8.3,
     "humidity": 99,
     "weatherCode": 3,
-    "asOf": "2026-04-20T05:00"
+    "asOf": "2026-04-20T05:45"
   },
   "IN": {
     "countryCode": "IN",
     "cityName": "ニューデリー",
-    "tempC": 26.3,
-    "humidity": 47,
+    "tempC": 25.5,
+    "humidity": 50,
     "weatherCode": 0,
-    "asOf": "2026-04-20T01:30"
+    "asOf": "2026-04-20T02:15"
   },
   "BR": {
     "countryCode": "BR",
     "cityName": "ブラジリア",
-    "tempC": 25.4,
-    "humidity": 45,
+    "tempC": 23.5,
+    "humidity": 55,
     "weatherCode": 2,
-    "asOf": "2026-04-19T17:00"
+    "asOf": "2026-04-19T17:45"
   },
   "AU": {
     "countryCode": "AU",
@@ -77,6 +77,6 @@
     "tempC": 1.2,
     "humidity": 98,
     "weatherCode": 45,
-    "asOf": "2026-04-20T06:00"
+    "asOf": "2026-04-20T06:45"
   }
 }
