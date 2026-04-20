@@ -31,7 +31,7 @@
     "name": "Nikkei 225",
     "countryCode": "JP",
     "price": 58824.89,
-    "changePct": 0.02,
+    "changePct": 0,
     "currency": "JPY",
     "asOf": "2026-04-20T00:00:00.000Z"
   },
@@ -40,7 +40,7 @@
     "name": "Hang Seng",
     "countryCode": "HK",
     "price": 26361.07,
-    "changePct": 0.21,
+    "changePct": 0,
     "currency": "HKD",
     "asOf": "2026-04-20T00:00:00.000Z"
   },
@@ -48,8 +48,8 @@
     "symbol": "FTSE",
     "name": "FTSE 100",
     "countryCode": "GB",
-    "price": 22930.16,
-    "changePct": -1.19,
+    "price": 22963.14,
+    "changePct": 0.14,
     "currency": "GBP",
     "asOf": "2026-04-20T00:00:00.000Z"
   },
@@ -57,8 +57,8 @@
     "symbol": "DAX",
     "name": "DAX",
     "countryCode": "DE",
-    "price": 24326.83,
-    "changePct": -1.52,
+    "price": 24373.05,
+    "changePct": 0.19,
     "currency": "EUR",
     "asOf": "2026-04-20T00:00:00.000Z"
   }
