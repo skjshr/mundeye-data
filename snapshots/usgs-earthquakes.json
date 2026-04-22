@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ss1k",
+    "type": "earthquake",
+    "lat": 46.8378,
+    "lng": 92.8983,
+    "intensity": 4.9,
+    "timestamp": "2026-04-22T11:11:46.916Z",
+    "description": "M 4.9 - 160 km SE of Khovd, Mongolia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ss13",
     "type": "earthquake",
     "lat": 10.4424,
@@ -67,16 +77,6 @@
     "intensity": 4.5,
     "timestamp": "2026-04-21T14:24:37.872Z",
     "description": "M 4.5 - 31 km NW of Mawlaik, Burma (Myanmar)",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000srtg",
-    "type": "earthquake",
-    "lat": -23.1597,
-    "lng": 170.8816,
-    "intensity": 4.7,
-    "timestamp": "2026-04-21T11:03:15.713Z",
-    "description": "M 4.7 - southeast of the Loyalty Islands",
     "source": "USGS"
   }
 ]

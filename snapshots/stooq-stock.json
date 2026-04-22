@@ -48,8 +48,8 @@
     "symbol": "FTSE",
     "name": "FTSE 100",
     "countryCode": "GB",
-    "price": 23005.25,
-    "changePct": -0.07,
+    "price": 22998.82,
+    "changePct": -0.03,
     "currency": "GBP",
     "asOf": "2026-04-22T00:00:00.000Z"
   },
@@ -57,8 +57,8 @@
     "symbol": "DAX",
     "name": "DAX",
     "countryCode": "DE",
-    "price": 24209.41,
-    "changePct": -0.21,
+    "price": 24237.84,
+    "changePct": 0.12,
     "currency": "EUR",
     "asOf": "2026-04-22T00:00:00.000Z"
   }
