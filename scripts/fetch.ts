@@ -20,6 +20,7 @@ import {
 } from "./sources/fred.ts";
 import { fetchStooqStock } from "./sources/stooq.ts";
 import { fetchLbmaCommodities } from "./sources/lbma.ts";
+import { fetchUsgs } from "./sources/usgs.ts";
 import { writeJson } from "./lib/io.ts";
 
 // 株価・為替・商品・金利: FRED の公開 CSV endpoint（API key 不要）を使う。
@@ -34,7 +35,8 @@ type SourceName =
   | "fred-commodities"
   | "fred-rates"
   | "stooq"
-  | "lbma";
+  | "lbma"
+  | "usgs";
 
 const SOURCES: Record<SourceName, () => Promise<void>> = {
   gdelt: fetchGdelt,
@@ -47,11 +49,12 @@ const SOURCES: Record<SourceName, () => Promise<void>> = {
   "fred-rates": fetchFredRates,
   stooq: fetchStooqStock,
   lbma: fetchLbmaCommodities,
+  usgs: fetchUsgs,
 };
 
 // MODE ごとの実行対象
-// - hourly: 日中動くデータ（ニュース、天気、株価、為替、商品、金利）。FRED は日次更新だが
-//   CSV 取得は数秒で終わるため hourly に含めても CI コストはほぼゼロ。cron 分離しない。
+// - hourly: 日中動くデータ（ニュース、天気、株価、為替、商品、金利、地震）。
+//   FRED は日次更新だが CSV 取得は数秒で終わるため hourly に含めても CI コストはほぼゼロ。
 // - weekly: 低頻度更新（world-bank は年次）
 const MODE_SETS: Record<string, SourceName[]> = {
   hourly: [
@@ -64,6 +67,7 @@ const MODE_SETS: Record<string, SourceName[]> = {
     "fred-rates",
     "stooq",
     "lbma",
+    "usgs",
   ],
   weekly: ["world-bank"],
   all: [
@@ -77,6 +81,7 @@ const MODE_SETS: Record<string, SourceName[]> = {
     "fred-rates",
     "stooq",
     "lbma",
+    "usgs",
   ],
 };
 

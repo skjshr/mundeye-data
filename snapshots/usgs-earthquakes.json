@@ -1,0 +1,82 @@
+[
+  {
+    "id": "us6000srzq",
+    "type": "earthquake",
+    "lat": 49.9647,
+    "lng": 157.1919,
+    "intensity": 4.9,
+    "timestamp": "2026-04-22T07:40:49.877Z",
+    "description": "M 4.9 - 109 km SE of Severo-Kuril’sk, Russia",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000srxu",
+    "type": "earthquake",
+    "lat": 39.9179,
+    "lng": 143.2055,
+    "intensity": 5.3,
+    "timestamp": "2026-04-22T00:01:12.294Z",
+    "description": "M 5.3 - 112 km ENE of Miyako, Japan",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000srvu",
+    "type": "earthquake",
+    "lat": 40.1562,
+    "lng": 143.4599,
+    "intensity": 5.6,
+    "timestamp": "2026-04-21T18:44:12.001Z",
+    "description": "M 5.6 - 140 km E of Noda, Japan",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000srv3",
+    "type": "earthquake",
+    "lat": -12.425,
+    "lng": -75.5727,
+    "intensity": 4.5,
+    "timestamp": "2026-04-21T16:18:55.418Z",
+    "description": "M 4.5 - 24 km ESE of Laraos, Peru",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sru5",
+    "type": "earthquake",
+    "lat": 16.7709,
+    "lng": -95.7767,
+    "intensity": 5,
+    "timestamp": "2026-04-21T14:52:17.411Z",
+    "description": "M 5.0 - 12 km SSW of Santiago Quiavicuzas, Mexico",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sru6",
+    "type": "earthquake",
+    "lat": 23.85,
+    "lng": 94.1865,
+    "intensity": 4.5,
+    "timestamp": "2026-04-21T14:24:37.872Z",
+    "description": "M 4.5 - 31 km NW of Mawlaik, Burma (Myanmar)",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000srtg",
+    "type": "earthquake",
+    "lat": -23.1597,
+    "lng": 170.8816,
+    "intensity": 4.7,
+    "timestamp": "2026-04-21T11:03:15.713Z",
+    "description": "M 4.7 - southeast of the Loyalty Islands",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000srtd",
+    "type": "earthquake",
+    "lat": -62.0123,
+    "lng": 164.998,
+    "intensity": 5.7,
+    "timestamp": "2026-04-21T10:30:27.397Z",
+    "description": "M 5.7 - Balleny Islands region",
+    "source": "USGS"
+  }
+]
