@@ -3,7 +3,7 @@
 //
 // 返す形は world-lens の NewsItem[]。見出し / URL / 発信時刻のみ保持（著作権配慮）。
 
-import { fetchJson, writeJson } from "../lib/io.ts";
+import { fetchJson, writeJson, sleep } from "../lib/io.ts";
 import { dedupeByHeadline } from "../lib/dedupe.ts";
 import type { NewsItem } from "../lib/types.ts";
 
@@ -119,6 +119,9 @@ export async function fetchGdelt(): Promise<void> {
   } else {
     console.log("  ⏭ gdelt-global 取得 0 件、既存 snapshot を維持");
   }
+
+  // GDELT のレート制限（5秒/リクエスト）に配慮して間隔を空ける
+  await sleep(6000);
 
   // 日本関連（日本語）
   const jp = await fetchGdeltQuery("sourcelang:japanese", 100);
