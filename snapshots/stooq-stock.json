@@ -30,8 +30,8 @@
     "symbol": "N225",
     "name": "Nikkei 225",
     "countryCode": "JP",
-    "price": 59653.56,
-    "changePct": 0.51,
+    "price": 59373.47,
+    "changePct": -0.47,
     "currency": "JPY",
     "asOf": "2026-04-22T00:00:00.000Z"
   },
@@ -39,8 +39,8 @@
     "symbol": "HSI",
     "name": "Hang Seng",
     "countryCode": "HK",
-    "price": 26092.47,
-    "changePct": -1.49,
+    "price": 26136.96,
+    "changePct": 0.17,
     "currency": "HKD",
     "asOf": "2026-04-22T00:00:00.000Z"
   },
