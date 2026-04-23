@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ssak",
+    "type": "earthquake",
+    "lat": 13.1854,
+    "lng": -89.4104,
+    "intensity": 4.8,
+    "timestamp": "2026-04-23T14:09:26.046Z",
+    "description": "M 4.8 - 34 km SSW of La Libertad, El Salvador",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ss9m",
     "type": "earthquake",
     "lat": -42.2859,
@@ -87,16 +97,6 @@
     "intensity": 4.78,
     "timestamp": "2026-04-22T17:23:37.085Z",
     "description": "M 4.8 - 19 km SE of Silver Springs, Nevada",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ss20",
-    "type": "earthquake",
-    "lat": -15.4409,
-    "lng": 167.4412,
-    "intensity": 5,
-    "timestamp": "2026-04-22T13:20:45.869Z",
-    "description": "M 5.0 - 31 km ENE of Luganville, Vanuatu",
     "source": "USGS"
   }
 ]
