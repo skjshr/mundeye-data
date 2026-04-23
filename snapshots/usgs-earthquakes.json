@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ssf4",
+    "type": "earthquake",
+    "lat": -28.438,
+    "lng": -63.3248,
+    "intensity": 4.5,
+    "timestamp": "2026-04-23T20:32:18.498Z",
+    "description": "M 4.5 - 40 km WNW of Colonia Dora, Argentina",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssci",
     "type": "earthquake",
     "lat": -34.7876,
