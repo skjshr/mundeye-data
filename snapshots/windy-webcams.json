@@ -231,17 +231,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -946,17 +935,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035112",
-    "name": "Bern: Bellevue Palace Bern",
-    "city": "Bern",
-    "countryCode": "JP",
-    "lat": 46.94641,
-    "lng": 7.44676,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183402927",
     "name": "Denver: Live Downtown - weather camera",
     "city": "Denver",
@@ -964,6 +942,17 @@
     "lat": 39.73719,
     "lng": -104.96372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035112",
+    "name": "Bern: Bellevue Palace Bern",
+    "city": "Bern",
+    "countryCode": "JP",
+    "lat": 46.94641,
+    "lng": 7.44676,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2519,17 +2508,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2603,6 +2581,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5522,17 +5511,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "JP",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -5540,6 +5518,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "JP",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7689,17 +7678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418724444",
-    "name": "Livigno: Lombardia, Italia",
-    "city": "Livigno",
-    "countryCode": "JP",
-    "lat": 46.53862,
-    "lng": 10.13617,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556830271",
     "name": "Waitaki District › East: SH8 Twizel North, South Canterbury",
     "city": "unknown",
@@ -7707,6 +7685,17 @@
     "lat": -44.29043,
     "lng": 170.08438,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556830271/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418724444",
+    "name": "Livigno: Lombardia, Italia",
+    "city": "Livigno",
+    "countryCode": "JP",
+    "lat": 46.53862,
+    "lng": 10.13617,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7982,17 +7971,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11000,17 +10978,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -11715,17 +11682,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035112",
-    "name": "Bern: Bellevue Palace Bern",
-    "city": "Bern",
-    "countryCode": "US",
-    "lat": 46.94641,
-    "lng": 7.44676,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183402927",
     "name": "Denver: Live Downtown - weather camera",
     "city": "Denver",
@@ -11733,6 +11689,17 @@
     "lat": 39.73719,
     "lng": -104.96372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035112",
+    "name": "Bern: Bellevue Palace Bern",
+    "city": "Bern",
+    "countryCode": "US",
+    "lat": 46.94641,
+    "lng": 7.44676,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13288,17 +13255,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13372,6 +13328,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16291,17 +16258,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "US",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -16309,6 +16265,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "US",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18458,17 +18425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418724444",
-    "name": "Livigno: Lombardia, Italia",
-    "city": "Livigno",
-    "countryCode": "US",
-    "lat": 46.53862,
-    "lng": 10.13617,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556830271",
     "name": "Waitaki District › East: SH8 Twizel North, South Canterbury",
     "city": "unknown",
@@ -18476,6 +18432,17 @@
     "lat": -44.29043,
     "lng": 170.08438,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556830271/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418724444",
+    "name": "Livigno: Lombardia, Italia",
+    "city": "Livigno",
+    "countryCode": "US",
+    "lat": 46.53862,
+    "lng": 10.13617,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18751,17 +18718,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21769,17 +21725,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -22484,17 +22429,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035112",
-    "name": "Bern: Bellevue Palace Bern",
-    "city": "Bern",
-    "countryCode": "GB",
-    "lat": 46.94641,
-    "lng": 7.44676,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183402927",
     "name": "Denver: Live Downtown - weather camera",
     "city": "Denver",
@@ -22502,6 +22436,17 @@
     "lat": 39.73719,
     "lng": -104.96372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035112",
+    "name": "Bern: Bellevue Palace Bern",
+    "city": "Bern",
+    "countryCode": "GB",
+    "lat": 46.94641,
+    "lng": 7.44676,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24057,17 +24002,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24141,6 +24075,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27060,17 +27005,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "GB",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -27078,6 +27012,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "GB",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29227,17 +29172,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418724444",
-    "name": "Livigno: Lombardia, Italia",
-    "city": "Livigno",
-    "countryCode": "GB",
-    "lat": 46.53862,
-    "lng": 10.13617,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556830271",
     "name": "Waitaki District › East: SH8 Twizel North, South Canterbury",
     "city": "unknown",
@@ -29245,6 +29179,17 @@
     "lat": -44.29043,
     "lng": 170.08438,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556830271/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418724444",
+    "name": "Livigno: Lombardia, Italia",
+    "city": "Livigno",
+    "countryCode": "GB",
+    "lat": 46.53862,
+    "lng": 10.13617,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29520,17 +29465,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32538,17 +32472,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -33253,17 +33176,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035112",
-    "name": "Bern: Bellevue Palace Bern",
-    "city": "Bern",
-    "countryCode": "DE",
-    "lat": 46.94641,
-    "lng": 7.44676,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183402927",
     "name": "Denver: Live Downtown - weather camera",
     "city": "Denver",
@@ -33271,6 +33183,17 @@
     "lat": 39.73719,
     "lng": -104.96372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035112",
+    "name": "Bern: Bellevue Palace Bern",
+    "city": "Bern",
+    "countryCode": "DE",
+    "lat": 46.94641,
+    "lng": 7.44676,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34826,17 +34749,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -34910,6 +34822,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37829,17 +37752,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "DE",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -37847,6 +37759,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "DE",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39996,17 +39919,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418724444",
-    "name": "Livigno: Lombardia, Italia",
-    "city": "Livigno",
-    "countryCode": "DE",
-    "lat": 46.53862,
-    "lng": 10.13617,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556830271",
     "name": "Waitaki District › East: SH8 Twizel North, South Canterbury",
     "city": "unknown",
@@ -40014,6 +39926,17 @@
     "lat": -44.29043,
     "lng": 170.08438,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556830271/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418724444",
+    "name": "Livigno: Lombardia, Italia",
+    "city": "Livigno",
+    "countryCode": "DE",
+    "lat": 46.53862,
+    "lng": 10.13617,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40289,17 +40212,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43307,17 +43219,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -44022,17 +43923,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035112",
-    "name": "Bern: Bellevue Palace Bern",
-    "city": "Bern",
-    "countryCode": "FR",
-    "lat": 46.94641,
-    "lng": 7.44676,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183402927",
     "name": "Denver: Live Downtown - weather camera",
     "city": "Denver",
@@ -44040,6 +43930,17 @@
     "lat": 39.73719,
     "lng": -104.96372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035112",
+    "name": "Bern: Bellevue Palace Bern",
+    "city": "Bern",
+    "countryCode": "FR",
+    "lat": 46.94641,
+    "lng": 7.44676,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45595,17 +45496,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45679,6 +45569,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48598,17 +48499,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "FR",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -48616,6 +48506,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "FR",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50765,17 +50666,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418724444",
-    "name": "Livigno: Lombardia, Italia",
-    "city": "Livigno",
-    "countryCode": "FR",
-    "lat": 46.53862,
-    "lng": 10.13617,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556830271",
     "name": "Waitaki District › East: SH8 Twizel North, South Canterbury",
     "city": "unknown",
@@ -50783,6 +50673,17 @@
     "lat": -44.29043,
     "lng": 170.08438,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556830271/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418724444",
+    "name": "Livigno: Lombardia, Italia",
+    "city": "Livigno",
+    "countryCode": "FR",
+    "lat": 46.53862,
+    "lng": 10.13617,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51058,17 +50959,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54076,17 +53966,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -54791,17 +54670,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035112",
-    "name": "Bern: Bellevue Palace Bern",
-    "city": "Bern",
-    "countryCode": "CN",
-    "lat": 46.94641,
-    "lng": 7.44676,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183402927",
     "name": "Denver: Live Downtown - weather camera",
     "city": "Denver",
@@ -54809,6 +54677,17 @@
     "lat": 39.73719,
     "lng": -104.96372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035112",
+    "name": "Bern: Bellevue Palace Bern",
+    "city": "Bern",
+    "countryCode": "CN",
+    "lat": 46.94641,
+    "lng": 7.44676,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56364,17 +56243,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56448,6 +56316,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59367,17 +59246,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "CN",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -59385,6 +59253,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "CN",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61534,17 +61413,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418724444",
-    "name": "Livigno: Lombardia, Italia",
-    "city": "Livigno",
-    "countryCode": "CN",
-    "lat": 46.53862,
-    "lng": 10.13617,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556830271",
     "name": "Waitaki District › East: SH8 Twizel North, South Canterbury",
     "city": "unknown",
@@ -61552,6 +61420,17 @@
     "lat": -44.29043,
     "lng": 170.08438,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556830271/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418724444",
+    "name": "Livigno: Lombardia, Italia",
+    "city": "Livigno",
+    "countryCode": "CN",
+    "lat": 46.53862,
+    "lng": 10.13617,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61827,17 +61706,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64845,17 +64713,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -65560,17 +65417,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035112",
-    "name": "Bern: Bellevue Palace Bern",
-    "city": "Bern",
-    "countryCode": "KR",
-    "lat": 46.94641,
-    "lng": 7.44676,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183402927",
     "name": "Denver: Live Downtown - weather camera",
     "city": "Denver",
@@ -65578,6 +65424,17 @@
     "lat": 39.73719,
     "lng": -104.96372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035112",
+    "name": "Bern: Bellevue Palace Bern",
+    "city": "Bern",
+    "countryCode": "KR",
+    "lat": 46.94641,
+    "lng": 7.44676,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67133,17 +66990,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67217,6 +67063,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70136,17 +69993,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "KR",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -70154,6 +70000,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "KR",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72303,17 +72160,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418724444",
-    "name": "Livigno: Lombardia, Italia",
-    "city": "Livigno",
-    "countryCode": "KR",
-    "lat": 46.53862,
-    "lng": 10.13617,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556830271",
     "name": "Waitaki District › East: SH8 Twizel North, South Canterbury",
     "city": "unknown",
@@ -72321,6 +72167,17 @@
     "lat": -44.29043,
     "lng": 170.08438,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556830271/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418724444",
+    "name": "Livigno: Lombardia, Italia",
+    "city": "Livigno",
+    "countryCode": "KR",
+    "lat": 46.53862,
+    "lng": 10.13617,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72596,17 +72453,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75614,17 +75460,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -76329,17 +76164,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035112",
-    "name": "Bern: Bellevue Palace Bern",
-    "city": "Bern",
-    "countryCode": "IN",
-    "lat": 46.94641,
-    "lng": 7.44676,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183402927",
     "name": "Denver: Live Downtown - weather camera",
     "city": "Denver",
@@ -76347,6 +76171,17 @@
     "lat": 39.73719,
     "lng": -104.96372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035112",
+    "name": "Bern: Bellevue Palace Bern",
+    "city": "Bern",
+    "countryCode": "IN",
+    "lat": 46.94641,
+    "lng": 7.44676,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77902,17 +77737,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -77986,6 +77810,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80905,17 +80740,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "IN",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -80923,6 +80747,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "IN",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83072,17 +82907,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418724444",
-    "name": "Livigno: Lombardia, Italia",
-    "city": "Livigno",
-    "countryCode": "IN",
-    "lat": 46.53862,
-    "lng": 10.13617,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556830271",
     "name": "Waitaki District › East: SH8 Twizel North, South Canterbury",
     "city": "unknown",
@@ -83090,6 +82914,17 @@
     "lat": -44.29043,
     "lng": 170.08438,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556830271/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418724444",
+    "name": "Livigno: Lombardia, Italia",
+    "city": "Livigno",
+    "countryCode": "IN",
+    "lat": 46.53862,
+    "lng": 10.13617,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83365,17 +83200,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86383,17 +86207,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -87098,17 +86911,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035112",
-    "name": "Bern: Bellevue Palace Bern",
-    "city": "Bern",
-    "countryCode": "BR",
-    "lat": 46.94641,
-    "lng": 7.44676,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183402927",
     "name": "Denver: Live Downtown - weather camera",
     "city": "Denver",
@@ -87116,6 +86918,17 @@
     "lat": 39.73719,
     "lng": -104.96372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035112",
+    "name": "Bern: Bellevue Palace Bern",
+    "city": "Bern",
+    "countryCode": "BR",
+    "lat": 46.94641,
+    "lng": 7.44676,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88671,17 +88484,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -88755,6 +88557,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91674,17 +91487,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "BR",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -91692,6 +91494,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "BR",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93841,17 +93654,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418724444",
-    "name": "Livigno: Lombardia, Italia",
-    "city": "Livigno",
-    "countryCode": "BR",
-    "lat": 46.53862,
-    "lng": 10.13617,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556830271",
     "name": "Waitaki District › East: SH8 Twizel North, South Canterbury",
     "city": "unknown",
@@ -93859,6 +93661,17 @@
     "lat": -44.29043,
     "lng": 170.08438,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556830271/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418724444",
+    "name": "Livigno: Lombardia, Italia",
+    "city": "Livigno",
+    "countryCode": "BR",
+    "lat": 46.53862,
+    "lng": 10.13617,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94134,17 +93947,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97152,17 +96954,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -97867,17 +97658,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035112",
-    "name": "Bern: Bellevue Palace Bern",
-    "city": "Bern",
-    "countryCode": "AU",
-    "lat": 46.94641,
-    "lng": 7.44676,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183402927",
     "name": "Denver: Live Downtown - weather camera",
     "city": "Denver",
@@ -97885,6 +97665,17 @@
     "lat": 39.73719,
     "lng": -104.96372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035112",
+    "name": "Bern: Bellevue Palace Bern",
+    "city": "Bern",
+    "countryCode": "AU",
+    "lat": 46.94641,
+    "lng": 7.44676,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99440,17 +99231,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -99524,6 +99304,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102443,17 +102234,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "AU",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1572407376",
     "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
     "city": "unknown",
@@ -102461,6 +102241,17 @@
     "lat": -44.67137,
     "lng": 167.92803,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "AU",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104610,17 +104401,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418724444",
-    "name": "Livigno: Lombardia, Italia",
-    "city": "Livigno",
-    "countryCode": "AU",
-    "lat": 46.53862,
-    "lng": 10.13617,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1556830271",
     "name": "Waitaki District › East: SH8 Twizel North, South Canterbury",
     "city": "unknown",
@@ -104628,6 +104408,17 @@
     "lat": -44.29043,
     "lng": 170.08438,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556830271/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418724444",
+    "name": "Livigno: Lombardia, Italia",
+    "city": "Livigno",
+    "countryCode": "AU",
+    "lat": 46.53862,
+    "lng": 10.13617,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104903,17 +104694,6 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },

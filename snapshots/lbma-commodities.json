@@ -2,19 +2,19 @@
   {
     "symbol": "GOLD",
     "name": "金スポット",
-    "price": 4742.1,
-    "changePct": -0.73,
+    "price": 4719.15,
+    "changePct": -0.48,
     "currency": "USD",
     "unit": "oz",
-    "asOf": "2026-04-22T00:00:00.000Z"
+    "asOf": "2026-04-23T00:00:00.000Z"
   },
   {
     "symbol": "SILVER",
     "name": "銀スポット",
-    "price": 78.065,
-    "changePct": -1.19,
+    "price": 74.545,
+    "changePct": -4.51,
     "currency": "USD",
     "unit": "oz",
-    "asOf": "2026-04-22T00:00:00.000Z"
+    "asOf": "2026-04-23T00:00:00.000Z"
   }
 ]

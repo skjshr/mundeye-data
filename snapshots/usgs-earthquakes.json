@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000ssga",
+    "type": "earthquake",
+    "lat": 28.3412,
+    "lng": 131.0964,
+    "intensity": 5,
+    "timestamp": "2026-04-23T22:52:54.569Z",
+    "description": "M 5.0 - 147 km E of Tatsugō, Japan",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssfy",
+    "type": "earthquake",
+    "lat": -7.1972,
+    "lng": 129.1163,
+    "intensity": 4.6,
+    "timestamp": "2026-04-23T22:13:24.099Z",
+    "description": "M 4.6 - 275 km ENE of Lospalos, Timor Leste",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssf4",
     "type": "earthquake",
     "lat": -28.438,
