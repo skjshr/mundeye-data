@@ -1,6 +1,6 @@
 {
-  "startedAt": "2026-04-23T00:03:37.982Z",
-  "finishedAt": "2026-04-23T00:04:39.828Z",
+  "startedAt": "2026-04-23T03:47:53.272Z",
+  "finishedAt": "2026-04-23T03:48:59.428Z",
   "targets": [
     "gdelt",
     "rss",
@@ -11,7 +11,9 @@
     "fred-rates",
     "stooq",
     "lbma",
-    "usgs"
+    "usgs",
+    "wikipedia",
+    "wikipedia-onthisday"
   ],
   "mode": "hourly"
 }

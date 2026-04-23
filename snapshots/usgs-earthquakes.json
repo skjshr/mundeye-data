@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000ss8a",
+    "type": "earthquake",
+    "lat": 51.3012,
+    "lng": 159.842,
+    "intensity": 4.9,
+    "timestamp": "2026-04-23T01:43:46.712Z",
+    "description": "M 4.9 - 206 km SSE of Vilyuchinsk, Russia",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ss7p",
+    "type": "earthquake",
+    "lat": 39.6744,
+    "lng": 143.3289,
+    "intensity": 4.9,
+    "timestamp": "2026-04-23T00:07:57.051Z",
+    "description": "M 4.9 - 119 km E of Miyako, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ss74",
     "type": "earthquake",
     "lat": 18.1152,
