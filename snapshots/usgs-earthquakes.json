@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000ssci",
+    "type": "earthquake",
+    "lat": -34.7876,
+    "lng": -179.1302,
+    "intensity": 4.8,
+    "timestamp": "2026-04-23T17:46:13.559Z",
+    "description": "M 4.8 - south of the Kermadec Islands",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sscv",
+    "type": "earthquake",
+    "lat": 35.6218,
+    "lng": 140.0662,
+    "intensity": 4.5,
+    "timestamp": "2026-04-23T14:53:17.030Z",
+    "description": "M 4.5 - 3 km S of Kemigawa, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssak",
     "type": "earthquake",
     "lat": 13.1854,
@@ -67,16 +87,6 @@
     "intensity": 4.5,
     "timestamp": "2026-04-22T22:04:07.657Z",
     "description": "M 4.5 - Pagan region, Northern Mariana Islands",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ss58",
-    "type": "earthquake",
-    "lat": -10.9927,
-    "lng": 113.8493,
-    "intensity": 4.7,
-    "timestamp": "2026-04-22T18:15:00.002Z",
-    "description": "M 4.7 - 282 km SSW of Jimbaran, Indonesia",
     "source": "USGS"
   }
 ]
