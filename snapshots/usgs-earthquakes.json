@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000ss90",
+    "type": "earthquake",
+    "lat": -20.7822,
+    "lng": -176.2603,
+    "intensity": 5.2,
+    "timestamp": "2026-04-23T06:31:10.762Z",
+    "description": "M 5.2 - 108 km WNW of Houma, Tonga",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ss8w",
+    "type": "earthquake",
+    "lat": -57.1,
+    "lng": -24.5095,
+    "intensity": 5,
+    "timestamp": "2026-04-23T05:30:59.775Z",
+    "description": "M 5.0 - South Sandwich Islands region",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ss8a",
     "type": "earthquake",
     "lat": 51.3012,
@@ -117,16 +137,6 @@
     "intensity": 4.9,
     "timestamp": "2026-04-22T08:35:51.205Z",
     "description": "M 4.9 - northern Mid-Atlantic Ridge",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000srzq",
-    "type": "earthquake",
-    "lat": 49.9647,
-    "lng": 157.1919,
-    "intensity": 4.9,
-    "timestamp": "2026-04-22T07:40:49.877Z",
-    "description": "M 4.9 - 109 km SE of Severo-Kuril’sk, Russia",
     "source": "USGS"
   }
 ]
