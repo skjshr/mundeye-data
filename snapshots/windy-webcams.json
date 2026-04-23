@@ -880,6 +880,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1358599882",
+    "name": "Limone Piemonte: Centro Paese",
+    "city": "Limone Piemonte",
+    "countryCode": "JP",
+    "lat": 44.20155,
+    "lng": 7.57636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358599882/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1171032883",
     "name": "Pajara › West: Coronado Beach Resort",
     "city": "Pajara",
@@ -1771,6 +1782,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793901472",
+    "name": "Palma de Mallorca: Marina Port De Mallorca",
+    "city": "Palma de Mallorca",
+    "countryCode": "JP",
+    "lat": 39.5646,
+    "lng": 2.62794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793901472/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232134737",
     "name": "Goschenen: Göscheneralp",
     "city": "Goschenen",
@@ -1866,17 +1888,6 @@
     "lat": 12.24056,
     "lng": 79.05757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "JP",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2108,17 +2119,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "JP",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2526,6 +2526,17 @@
     "lat": 64.73153,
     "lng": 177.48721,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "JP",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4312,6 +4323,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1211015736",
+    "name": "Lietzow › West: Seeblick",
+    "city": "Lietzow",
+    "countryCode": "JP",
+    "lat": 54.48375,
+    "lng": 13.5064,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211015736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1517771527",
     "name": "Duszniki-Zdroj › North: Masarykova chata",
     "city": "Duszniki-Zdroj",
@@ -5331,17 +5353,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "JP",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6688,17 +6699,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "JP",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -6706,6 +6706,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "JP",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6754,13 +6765,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1244413570",
-    "name": "La Serena › North-west: La Florida Airport",
-    "city": "La Serena",
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
     "countryCode": "JP",
-    "lat": -29.91768,
-    "lng": -71.20172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6776,13 +6787,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
+    "id": "windy-1244413570",
+    "name": "La Serena › North-west: La Florida Airport",
+    "city": "La Serena",
     "countryCode": "JP",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
+    "lat": -29.91768,
+    "lng": -71.20172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6974,6 +6985,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "JP",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1631913152",
     "name": "Ancon: Pedro Miguel Locks",
     "city": "Ancon",
@@ -6992,6 +7014,17 @@
     "lat": 48.13678,
     "lng": 11.57694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292519416",
+    "name": "Wildhaus: Freienalp",
+    "city": "Wildhaus",
+    "countryCode": "JP",
+    "lat": 47.18659,
+    "lng": 9.34658,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292519416/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7388,6 +7421,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1251715794/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "JP",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7971,6 +8015,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "JP",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8932,17 +8987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
-    "countryCode": "JP",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -8950,6 +8994,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "JP",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10490,6 +10545,17 @@
     "lat": 40.33294,
     "lng": 17.42583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "JP",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11616,6 +11682,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1358599882",
+    "name": "Limone Piemonte: Centro Paese",
+    "city": "Limone Piemonte",
+    "countryCode": "US",
+    "lat": 44.20155,
+    "lng": 7.57636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358599882/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1171032883",
     "name": "Pajara › West: Coronado Beach Resort",
     "city": "Pajara",
@@ -12507,6 +12584,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793901472",
+    "name": "Palma de Mallorca: Marina Port De Mallorca",
+    "city": "Palma de Mallorca",
+    "countryCode": "US",
+    "lat": 39.5646,
+    "lng": 2.62794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793901472/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232134737",
     "name": "Goschenen: Göscheneralp",
     "city": "Goschenen",
@@ -12602,17 +12690,6 @@
     "lat": 12.24056,
     "lng": 79.05757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "US",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12844,17 +12921,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "US",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13262,6 +13328,17 @@
     "lat": 64.73153,
     "lng": 177.48721,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "US",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15048,6 +15125,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1211015736",
+    "name": "Lietzow › West: Seeblick",
+    "city": "Lietzow",
+    "countryCode": "US",
+    "lat": 54.48375,
+    "lng": 13.5064,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211015736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1517771527",
     "name": "Duszniki-Zdroj › North: Masarykova chata",
     "city": "Duszniki-Zdroj",
@@ -16067,17 +16155,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "US",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17424,17 +17501,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "US",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -17442,6 +17508,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "US",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17490,13 +17567,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1244413570",
-    "name": "La Serena › North-west: La Florida Airport",
-    "city": "La Serena",
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
     "countryCode": "US",
-    "lat": -29.91768,
-    "lng": -71.20172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17512,13 +17589,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
+    "id": "windy-1244413570",
+    "name": "La Serena › North-west: La Florida Airport",
+    "city": "La Serena",
     "countryCode": "US",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
+    "lat": -29.91768,
+    "lng": -71.20172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17710,6 +17787,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "US",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1631913152",
     "name": "Ancon: Pedro Miguel Locks",
     "city": "Ancon",
@@ -17728,6 +17816,17 @@
     "lat": 48.13678,
     "lng": 11.57694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292519416",
+    "name": "Wildhaus: Freienalp",
+    "city": "Wildhaus",
+    "countryCode": "US",
+    "lat": 47.18659,
+    "lng": 9.34658,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292519416/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18124,6 +18223,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1251715794/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "US",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18707,6 +18817,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "US",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19668,17 +19789,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
-    "countryCode": "US",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -19686,6 +19796,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "US",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21226,6 +21347,17 @@
     "lat": 40.33294,
     "lng": 17.42583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "US",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22352,6 +22484,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1358599882",
+    "name": "Limone Piemonte: Centro Paese",
+    "city": "Limone Piemonte",
+    "countryCode": "GB",
+    "lat": 44.20155,
+    "lng": 7.57636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358599882/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1171032883",
     "name": "Pajara › West: Coronado Beach Resort",
     "city": "Pajara",
@@ -23243,6 +23386,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793901472",
+    "name": "Palma de Mallorca: Marina Port De Mallorca",
+    "city": "Palma de Mallorca",
+    "countryCode": "GB",
+    "lat": 39.5646,
+    "lng": 2.62794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793901472/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232134737",
     "name": "Goschenen: Göscheneralp",
     "city": "Goschenen",
@@ -23338,17 +23492,6 @@
     "lat": 12.24056,
     "lng": 79.05757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "GB",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23580,17 +23723,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "GB",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23998,6 +24130,17 @@
     "lat": 64.73153,
     "lng": 177.48721,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "GB",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25784,6 +25927,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1211015736",
+    "name": "Lietzow › West: Seeblick",
+    "city": "Lietzow",
+    "countryCode": "GB",
+    "lat": 54.48375,
+    "lng": 13.5064,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211015736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1517771527",
     "name": "Duszniki-Zdroj › North: Masarykova chata",
     "city": "Duszniki-Zdroj",
@@ -26803,17 +26957,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "GB",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28160,17 +28303,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "GB",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -28178,6 +28310,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "GB",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28226,13 +28369,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1244413570",
-    "name": "La Serena › North-west: La Florida Airport",
-    "city": "La Serena",
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
     "countryCode": "GB",
-    "lat": -29.91768,
-    "lng": -71.20172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28248,13 +28391,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
+    "id": "windy-1244413570",
+    "name": "La Serena › North-west: La Florida Airport",
+    "city": "La Serena",
     "countryCode": "GB",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
+    "lat": -29.91768,
+    "lng": -71.20172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28446,6 +28589,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "GB",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1631913152",
     "name": "Ancon: Pedro Miguel Locks",
     "city": "Ancon",
@@ -28464,6 +28618,17 @@
     "lat": 48.13678,
     "lng": 11.57694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292519416",
+    "name": "Wildhaus: Freienalp",
+    "city": "Wildhaus",
+    "countryCode": "GB",
+    "lat": 47.18659,
+    "lng": 9.34658,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292519416/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28860,6 +29025,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1251715794/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "GB",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29443,6 +29619,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "GB",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30404,17 +30591,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
-    "countryCode": "GB",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -30422,6 +30598,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "GB",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31962,6 +32149,17 @@
     "lat": 40.33294,
     "lng": 17.42583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "GB",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33088,6 +33286,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1358599882",
+    "name": "Limone Piemonte: Centro Paese",
+    "city": "Limone Piemonte",
+    "countryCode": "DE",
+    "lat": 44.20155,
+    "lng": 7.57636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358599882/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1171032883",
     "name": "Pajara › West: Coronado Beach Resort",
     "city": "Pajara",
@@ -33979,6 +34188,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793901472",
+    "name": "Palma de Mallorca: Marina Port De Mallorca",
+    "city": "Palma de Mallorca",
+    "countryCode": "DE",
+    "lat": 39.5646,
+    "lng": 2.62794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793901472/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232134737",
     "name": "Goschenen: Göscheneralp",
     "city": "Goschenen",
@@ -34074,17 +34294,6 @@
     "lat": 12.24056,
     "lng": 79.05757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "DE",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34316,17 +34525,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "DE",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34734,6 +34932,17 @@
     "lat": 64.73153,
     "lng": 177.48721,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "DE",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36520,6 +36729,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1211015736",
+    "name": "Lietzow › West: Seeblick",
+    "city": "Lietzow",
+    "countryCode": "DE",
+    "lat": 54.48375,
+    "lng": 13.5064,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211015736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1517771527",
     "name": "Duszniki-Zdroj › North: Masarykova chata",
     "city": "Duszniki-Zdroj",
@@ -37539,17 +37759,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "DE",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38896,17 +39105,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "DE",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -38914,6 +39112,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "DE",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38962,13 +39171,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1244413570",
-    "name": "La Serena › North-west: La Florida Airport",
-    "city": "La Serena",
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
     "countryCode": "DE",
-    "lat": -29.91768,
-    "lng": -71.20172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38984,13 +39193,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
+    "id": "windy-1244413570",
+    "name": "La Serena › North-west: La Florida Airport",
+    "city": "La Serena",
     "countryCode": "DE",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
+    "lat": -29.91768,
+    "lng": -71.20172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39182,6 +39391,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "DE",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1631913152",
     "name": "Ancon: Pedro Miguel Locks",
     "city": "Ancon",
@@ -39200,6 +39420,17 @@
     "lat": 48.13678,
     "lng": 11.57694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292519416",
+    "name": "Wildhaus: Freienalp",
+    "city": "Wildhaus",
+    "countryCode": "DE",
+    "lat": 47.18659,
+    "lng": 9.34658,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292519416/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39596,6 +39827,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1251715794/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "DE",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40179,6 +40421,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "DE",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41140,17 +41393,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
-    "countryCode": "DE",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -41158,6 +41400,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "DE",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42698,6 +42951,17 @@
     "lat": 40.33294,
     "lng": 17.42583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "DE",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43824,6 +44088,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1358599882",
+    "name": "Limone Piemonte: Centro Paese",
+    "city": "Limone Piemonte",
+    "countryCode": "FR",
+    "lat": 44.20155,
+    "lng": 7.57636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358599882/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1171032883",
     "name": "Pajara › West: Coronado Beach Resort",
     "city": "Pajara",
@@ -44715,6 +44990,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793901472",
+    "name": "Palma de Mallorca: Marina Port De Mallorca",
+    "city": "Palma de Mallorca",
+    "countryCode": "FR",
+    "lat": 39.5646,
+    "lng": 2.62794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793901472/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232134737",
     "name": "Goschenen: Göscheneralp",
     "city": "Goschenen",
@@ -44810,17 +45096,6 @@
     "lat": 12.24056,
     "lng": 79.05757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "FR",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45052,17 +45327,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "FR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45470,6 +45734,17 @@
     "lat": 64.73153,
     "lng": 177.48721,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "FR",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47256,6 +47531,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1211015736",
+    "name": "Lietzow › West: Seeblick",
+    "city": "Lietzow",
+    "countryCode": "FR",
+    "lat": 54.48375,
+    "lng": 13.5064,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211015736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1517771527",
     "name": "Duszniki-Zdroj › North: Masarykova chata",
     "city": "Duszniki-Zdroj",
@@ -48275,17 +48561,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "FR",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49632,17 +49907,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "FR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -49650,6 +49914,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "FR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49698,13 +49973,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1244413570",
-    "name": "La Serena › North-west: La Florida Airport",
-    "city": "La Serena",
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
     "countryCode": "FR",
-    "lat": -29.91768,
-    "lng": -71.20172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49720,13 +49995,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
+    "id": "windy-1244413570",
+    "name": "La Serena › North-west: La Florida Airport",
+    "city": "La Serena",
     "countryCode": "FR",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
+    "lat": -29.91768,
+    "lng": -71.20172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49918,6 +50193,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "FR",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1631913152",
     "name": "Ancon: Pedro Miguel Locks",
     "city": "Ancon",
@@ -49936,6 +50222,17 @@
     "lat": 48.13678,
     "lng": 11.57694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292519416",
+    "name": "Wildhaus: Freienalp",
+    "city": "Wildhaus",
+    "countryCode": "FR",
+    "lat": 47.18659,
+    "lng": 9.34658,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292519416/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50332,6 +50629,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1251715794/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "FR",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50915,6 +51223,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "FR",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51876,17 +52195,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
-    "countryCode": "FR",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -51894,6 +52202,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "FR",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53434,6 +53753,17 @@
     "lat": 40.33294,
     "lng": 17.42583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "FR",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54560,6 +54890,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1358599882",
+    "name": "Limone Piemonte: Centro Paese",
+    "city": "Limone Piemonte",
+    "countryCode": "CN",
+    "lat": 44.20155,
+    "lng": 7.57636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358599882/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1171032883",
     "name": "Pajara › West: Coronado Beach Resort",
     "city": "Pajara",
@@ -55451,6 +55792,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793901472",
+    "name": "Palma de Mallorca: Marina Port De Mallorca",
+    "city": "Palma de Mallorca",
+    "countryCode": "CN",
+    "lat": 39.5646,
+    "lng": 2.62794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793901472/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232134737",
     "name": "Goschenen: Göscheneralp",
     "city": "Goschenen",
@@ -55546,17 +55898,6 @@
     "lat": 12.24056,
     "lng": 79.05757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "CN",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55788,17 +56129,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "CN",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56206,6 +56536,17 @@
     "lat": 64.73153,
     "lng": 177.48721,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "CN",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57992,6 +58333,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1211015736",
+    "name": "Lietzow › West: Seeblick",
+    "city": "Lietzow",
+    "countryCode": "CN",
+    "lat": 54.48375,
+    "lng": 13.5064,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211015736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1517771527",
     "name": "Duszniki-Zdroj › North: Masarykova chata",
     "city": "Duszniki-Zdroj",
@@ -59011,17 +59363,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "CN",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60368,17 +60709,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "CN",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -60386,6 +60716,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "CN",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60434,13 +60775,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1244413570",
-    "name": "La Serena › North-west: La Florida Airport",
-    "city": "La Serena",
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
     "countryCode": "CN",
-    "lat": -29.91768,
-    "lng": -71.20172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60456,13 +60797,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
+    "id": "windy-1244413570",
+    "name": "La Serena › North-west: La Florida Airport",
+    "city": "La Serena",
     "countryCode": "CN",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
+    "lat": -29.91768,
+    "lng": -71.20172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60654,6 +60995,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "CN",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1631913152",
     "name": "Ancon: Pedro Miguel Locks",
     "city": "Ancon",
@@ -60672,6 +61024,17 @@
     "lat": 48.13678,
     "lng": 11.57694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292519416",
+    "name": "Wildhaus: Freienalp",
+    "city": "Wildhaus",
+    "countryCode": "CN",
+    "lat": 47.18659,
+    "lng": 9.34658,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292519416/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61068,6 +61431,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1251715794/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "CN",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61651,6 +62025,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "CN",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62612,17 +62997,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
-    "countryCode": "CN",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -62630,6 +63004,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "CN",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64170,6 +64555,17 @@
     "lat": 40.33294,
     "lng": 17.42583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "CN",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65296,6 +65692,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1358599882",
+    "name": "Limone Piemonte: Centro Paese",
+    "city": "Limone Piemonte",
+    "countryCode": "KR",
+    "lat": 44.20155,
+    "lng": 7.57636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358599882/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1171032883",
     "name": "Pajara › West: Coronado Beach Resort",
     "city": "Pajara",
@@ -66187,6 +66594,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793901472",
+    "name": "Palma de Mallorca: Marina Port De Mallorca",
+    "city": "Palma de Mallorca",
+    "countryCode": "KR",
+    "lat": 39.5646,
+    "lng": 2.62794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793901472/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232134737",
     "name": "Goschenen: Göscheneralp",
     "city": "Goschenen",
@@ -66282,17 +66700,6 @@
     "lat": 12.24056,
     "lng": 79.05757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "KR",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66524,17 +66931,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "KR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66942,6 +67338,17 @@
     "lat": 64.73153,
     "lng": 177.48721,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "KR",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68728,6 +69135,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1211015736",
+    "name": "Lietzow › West: Seeblick",
+    "city": "Lietzow",
+    "countryCode": "KR",
+    "lat": 54.48375,
+    "lng": 13.5064,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211015736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1517771527",
     "name": "Duszniki-Zdroj › North: Masarykova chata",
     "city": "Duszniki-Zdroj",
@@ -69747,17 +70165,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "KR",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71104,17 +71511,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "KR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -71122,6 +71518,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "KR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71170,13 +71577,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1244413570",
-    "name": "La Serena › North-west: La Florida Airport",
-    "city": "La Serena",
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
     "countryCode": "KR",
-    "lat": -29.91768,
-    "lng": -71.20172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71192,13 +71599,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
+    "id": "windy-1244413570",
+    "name": "La Serena › North-west: La Florida Airport",
+    "city": "La Serena",
     "countryCode": "KR",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
+    "lat": -29.91768,
+    "lng": -71.20172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71390,6 +71797,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "KR",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1631913152",
     "name": "Ancon: Pedro Miguel Locks",
     "city": "Ancon",
@@ -71408,6 +71826,17 @@
     "lat": 48.13678,
     "lng": 11.57694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292519416",
+    "name": "Wildhaus: Freienalp",
+    "city": "Wildhaus",
+    "countryCode": "KR",
+    "lat": 47.18659,
+    "lng": 9.34658,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292519416/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71804,6 +72233,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1251715794/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "KR",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72387,6 +72827,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "KR",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73348,17 +73799,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
-    "countryCode": "KR",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -73366,6 +73806,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "KR",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74906,6 +75357,17 @@
     "lat": 40.33294,
     "lng": 17.42583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "KR",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76032,6 +76494,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1358599882",
+    "name": "Limone Piemonte: Centro Paese",
+    "city": "Limone Piemonte",
+    "countryCode": "IN",
+    "lat": 44.20155,
+    "lng": 7.57636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358599882/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1171032883",
     "name": "Pajara › West: Coronado Beach Resort",
     "city": "Pajara",
@@ -76923,6 +77396,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793901472",
+    "name": "Palma de Mallorca: Marina Port De Mallorca",
+    "city": "Palma de Mallorca",
+    "countryCode": "IN",
+    "lat": 39.5646,
+    "lng": 2.62794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793901472/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232134737",
     "name": "Goschenen: Göscheneralp",
     "city": "Goschenen",
@@ -77018,17 +77502,6 @@
     "lat": 12.24056,
     "lng": 79.05757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "IN",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77260,17 +77733,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "IN",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77678,6 +78140,17 @@
     "lat": 64.73153,
     "lng": 177.48721,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "IN",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79464,6 +79937,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1211015736",
+    "name": "Lietzow › West: Seeblick",
+    "city": "Lietzow",
+    "countryCode": "IN",
+    "lat": 54.48375,
+    "lng": 13.5064,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211015736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1517771527",
     "name": "Duszniki-Zdroj › North: Masarykova chata",
     "city": "Duszniki-Zdroj",
@@ -80483,17 +80967,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "IN",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81840,17 +82313,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "IN",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -81858,6 +82320,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "IN",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81906,13 +82379,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1244413570",
-    "name": "La Serena › North-west: La Florida Airport",
-    "city": "La Serena",
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
     "countryCode": "IN",
-    "lat": -29.91768,
-    "lng": -71.20172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81928,13 +82401,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
+    "id": "windy-1244413570",
+    "name": "La Serena › North-west: La Florida Airport",
+    "city": "La Serena",
     "countryCode": "IN",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
+    "lat": -29.91768,
+    "lng": -71.20172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82126,6 +82599,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "IN",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1631913152",
     "name": "Ancon: Pedro Miguel Locks",
     "city": "Ancon",
@@ -82144,6 +82628,17 @@
     "lat": 48.13678,
     "lng": 11.57694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292519416",
+    "name": "Wildhaus: Freienalp",
+    "city": "Wildhaus",
+    "countryCode": "IN",
+    "lat": 47.18659,
+    "lng": 9.34658,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292519416/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82540,6 +83035,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1251715794/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "IN",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83123,6 +83629,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "IN",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84084,17 +84601,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
-    "countryCode": "IN",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -84102,6 +84608,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "IN",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85642,6 +86159,17 @@
     "lat": 40.33294,
     "lng": 17.42583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "IN",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86768,6 +87296,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1358599882",
+    "name": "Limone Piemonte: Centro Paese",
+    "city": "Limone Piemonte",
+    "countryCode": "BR",
+    "lat": 44.20155,
+    "lng": 7.57636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358599882/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1171032883",
     "name": "Pajara › West: Coronado Beach Resort",
     "city": "Pajara",
@@ -87659,6 +88198,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793901472",
+    "name": "Palma de Mallorca: Marina Port De Mallorca",
+    "city": "Palma de Mallorca",
+    "countryCode": "BR",
+    "lat": 39.5646,
+    "lng": 2.62794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793901472/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232134737",
     "name": "Goschenen: Göscheneralp",
     "city": "Goschenen",
@@ -87754,17 +88304,6 @@
     "lat": 12.24056,
     "lng": 79.05757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "BR",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87996,17 +88535,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "BR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88414,6 +88942,17 @@
     "lat": 64.73153,
     "lng": 177.48721,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "BR",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90200,6 +90739,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1211015736",
+    "name": "Lietzow › West: Seeblick",
+    "city": "Lietzow",
+    "countryCode": "BR",
+    "lat": 54.48375,
+    "lng": 13.5064,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211015736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1517771527",
     "name": "Duszniki-Zdroj › North: Masarykova chata",
     "city": "Duszniki-Zdroj",
@@ -91219,17 +91769,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "BR",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92576,17 +93115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "BR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -92594,6 +93122,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "BR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92642,13 +93181,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1244413570",
-    "name": "La Serena › North-west: La Florida Airport",
-    "city": "La Serena",
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
     "countryCode": "BR",
-    "lat": -29.91768,
-    "lng": -71.20172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92664,13 +93203,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
+    "id": "windy-1244413570",
+    "name": "La Serena › North-west: La Florida Airport",
+    "city": "La Serena",
     "countryCode": "BR",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
+    "lat": -29.91768,
+    "lng": -71.20172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92862,6 +93401,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "BR",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1631913152",
     "name": "Ancon: Pedro Miguel Locks",
     "city": "Ancon",
@@ -92880,6 +93430,17 @@
     "lat": 48.13678,
     "lng": 11.57694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292519416",
+    "name": "Wildhaus: Freienalp",
+    "city": "Wildhaus",
+    "countryCode": "BR",
+    "lat": 47.18659,
+    "lng": 9.34658,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292519416/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93276,6 +93837,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1251715794/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "BR",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93859,6 +94431,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "BR",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94820,17 +95403,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
-    "countryCode": "BR",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -94838,6 +95410,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "BR",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96378,6 +96961,17 @@
     "lat": 40.33294,
     "lng": 17.42583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "BR",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97504,6 +98098,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1358599882",
+    "name": "Limone Piemonte: Centro Paese",
+    "city": "Limone Piemonte",
+    "countryCode": "AU",
+    "lat": 44.20155,
+    "lng": 7.57636,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1358599882/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1171032883",
     "name": "Pajara › West: Coronado Beach Resort",
     "city": "Pajara",
@@ -98395,6 +99000,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793901472",
+    "name": "Palma de Mallorca: Marina Port De Mallorca",
+    "city": "Palma de Mallorca",
+    "countryCode": "AU",
+    "lat": 39.5646,
+    "lng": 2.62794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793901472/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1232134737",
     "name": "Goschenen: Göscheneralp",
     "city": "Goschenen",
@@ -98490,17 +99106,6 @@
     "lat": 12.24056,
     "lng": 79.05757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1229546637",
-    "name": "Naifaru: Kuredu Island Resort & Spa",
-    "city": "Naifaru",
-    "countryCode": "AU",
-    "lat": 5.54924,
-    "lng": 73.46516,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98732,17 +99337,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "AU",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99150,6 +99744,17 @@
     "lat": 64.73153,
     "lng": 177.48721,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1105964003",
+    "name": "Rothenthurm: Skilift Neusell, Bergstation",
+    "city": "Rothenthurm",
+    "countryCode": "AU",
+    "lat": 47.08631,
+    "lng": 8.67019,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100936,6 +101541,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1211015736",
+    "name": "Lietzow › West: Seeblick",
+    "city": "Lietzow",
+    "countryCode": "AU",
+    "lat": 54.48375,
+    "lng": 13.5064,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211015736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1517771527",
     "name": "Duszniki-Zdroj › North: Masarykova chata",
     "city": "Duszniki-Zdroj",
@@ -101955,17 +102571,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "AU",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103312,17 +103917,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "AU",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1385324307",
     "name": "San Cristobal de La Laguna: Aeropuerto Tenerife Norte desde el Ortigal",
     "city": "San Cristobal de La Laguna",
@@ -103330,6 +103924,17 @@
     "lat": 28.47299,
     "lng": -16.36944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385324307/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "AU",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103378,13 +103983,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1244413570",
-    "name": "La Serena › North-west: La Florida Airport",
-    "city": "La Serena",
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
     "countryCode": "AU",
-    "lat": -29.91768,
-    "lng": -71.20172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103400,13 +104005,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
+    "id": "windy-1244413570",
+    "name": "La Serena › North-west: La Florida Airport",
+    "city": "La Serena",
     "countryCode": "AU",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
+    "lat": -29.91768,
+    "lng": -71.20172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244413570/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103598,6 +104203,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "AU",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1631913152",
     "name": "Ancon: Pedro Miguel Locks",
     "city": "Ancon",
@@ -103616,6 +104232,17 @@
     "lat": 48.13678,
     "lng": 11.57694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292519416",
+    "name": "Wildhaus: Freienalp",
+    "city": "Wildhaus",
+    "countryCode": "AU",
+    "lat": 47.18659,
+    "lng": 9.34658,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292519416/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104012,6 +104639,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1251715794/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "AU",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104595,6 +105233,17 @@
     "lat": 43.33361,
     "lng": 16.97275,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430166304/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132577265",
+    "name": "Surlej: Silvaplana, Eventbar Hossa",
+    "city": "Surlej",
+    "countryCode": "AU",
+    "lat": 46.44102,
+    "lng": 9.83045,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105556,17 +106205,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206376399",
-    "name": "Gorlitz › East: Old Town Bridge",
-    "city": "Gorlitz",
-    "countryCode": "AU",
-    "lat": 51.1578,
-    "lng": 14.99296,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1641224317",
     "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
     "city": "Udine",
@@ -105574,6 +106212,17 @@
     "lat": 46.06285,
     "lng": 13.23289,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206376399",
+    "name": "Gorlitz › East: Old Town Bridge",
+    "city": "Gorlitz",
+    "countryCode": "AU",
+    "lat": 51.1578,
+    "lng": 14.99296,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107114,6 +107763,17 @@
     "lat": 40.33294,
     "lng": 17.42583,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "AU",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
