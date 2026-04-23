@@ -1683,17 +1683,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "JP",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -2119,6 +2108,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "JP",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2574,17 +2574,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369739199",
-    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
-    "city": "Hoyos del Espino",
-    "countryCode": "JP",
-    "lat": 40.31775,
-    "lng": -5.16769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1210831370",
     "name": "Enontekio: Tie 21 Enontekiö, Kilpisjärvi - Norjaan",
     "city": "Enontekio",
@@ -2592,6 +2581,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369739199",
+    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
+    "city": "Hoyos del Espino",
+    "countryCode": "JP",
+    "lat": 40.31775,
+    "lng": -5.16769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2944,6 +2944,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "JP",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3927,6 +3938,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "JP",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -4147,17 +4169,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160066",
-    "name": "Schaffhausen: Vordergasse",
-    "city": "Schaffhausen",
-    "countryCode": "JP",
-    "lat": 47.69636,
-    "lng": 8.63506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -4165,6 +4176,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1027160066",
+    "name": "Schaffhausen: Vordergasse",
+    "city": "Schaffhausen",
+    "countryCode": "JP",
+    "lat": 47.69636,
+    "lng": 8.63506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4462,6 +4484,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1505780894",
+    "name": "Sainte-Marie: Île de la Reunion - Réunion",
+    "city": "Sainte-Marie",
+    "countryCode": "JP",
+    "lat": -21.00329,
+    "lng": 55.48997,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5423,13 +5456,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1256082169",
-    "name": "Nakhon Ratchasima: Korat Web Cam",
-    "city": "Nakhon Ratchasima",
+    "id": "windy-1228317630",
+    "name": "Lucerne: Lake Lucerne",
+    "city": "Lucerne",
     "countryCode": "JP",
-    "lat": 14.96506,
-    "lng": 102.0423,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "lat": 47.05143,
+    "lng": 8.31233,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228317630/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6369,17 +6402,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "JP",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -6820,17 +6842,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295480394",
-    "name": "Ronda",
-    "city": "Ronda",
-    "countryCode": "JP",
-    "lat": 36.74853,
-    "lng": -5.1578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -6842,6 +6853,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "JP",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -6849,6 +6871,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "JP",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7502,17 +7535,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236588937",
-    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
-    "city": "Hohfluh",
-    "countryCode": "JP",
-    "lat": 46.74542,
-    "lng": 8.17756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1632557523",
     "name": "Rieti › West: Monte Terminillo",
     "city": "Rieti",
@@ -7520,6 +7542,17 @@
     "lat": 42.45409,
     "lng": 12.98699,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236588937",
+    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
+    "city": "Hohfluh",
+    "countryCode": "JP",
+    "lat": 46.74542,
+    "lng": 8.17756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9031,17 +9064,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "JP",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1206376399",
     "name": "Gorlitz › East: Old Town Bridge",
     "city": "Gorlitz",
@@ -9049,6 +9071,17 @@
     "lat": 51.1578,
     "lng": 14.99296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "JP",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9614,17 +9647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "JP",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -9632,6 +9654,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "JP",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10307,13 +10340,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1612893548",
+    "name": "Wimereux › West: Plage Wimereux",
+    "city": "Wimereux",
     "countryCode": "JP",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 50.76572,
+    "lng": 1.60659,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10545,6 +10578,17 @@
     "lat": 49.01017,
     "lng": 17.12242,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10853,6 +10897,28 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793899732",
+    "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
+    "city": "Shoeburyness",
+    "countryCode": "JP",
+    "lat": 51.52747,
+    "lng": 0.76585,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793899732/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12540,17 +12606,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "US",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -12976,6 +13031,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "US",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13431,17 +13497,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369739199",
-    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
-    "city": "Hoyos del Espino",
-    "countryCode": "US",
-    "lat": 40.31775,
-    "lng": -5.16769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1210831370",
     "name": "Enontekio: Tie 21 Enontekiö, Kilpisjärvi - Norjaan",
     "city": "Enontekio",
@@ -13449,6 +13504,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369739199",
+    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
+    "city": "Hoyos del Espino",
+    "countryCode": "US",
+    "lat": 40.31775,
+    "lng": -5.16769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13801,6 +13867,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "US",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14784,6 +14861,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "US",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -15004,17 +15092,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160066",
-    "name": "Schaffhausen: Vordergasse",
-    "city": "Schaffhausen",
-    "countryCode": "US",
-    "lat": 47.69636,
-    "lng": 8.63506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -15022,6 +15099,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1027160066",
+    "name": "Schaffhausen: Vordergasse",
+    "city": "Schaffhausen",
+    "countryCode": "US",
+    "lat": 47.69636,
+    "lng": 8.63506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15319,6 +15407,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1505780894",
+    "name": "Sainte-Marie: Île de la Reunion - Réunion",
+    "city": "Sainte-Marie",
+    "countryCode": "US",
+    "lat": -21.00329,
+    "lng": 55.48997,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16280,13 +16379,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1256082169",
-    "name": "Nakhon Ratchasima: Korat Web Cam",
-    "city": "Nakhon Ratchasima",
+    "id": "windy-1228317630",
+    "name": "Lucerne: Lake Lucerne",
+    "city": "Lucerne",
     "countryCode": "US",
-    "lat": 14.96506,
-    "lng": 102.0423,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "lat": 47.05143,
+    "lng": 8.31233,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228317630/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17226,17 +17325,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "US",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -17677,17 +17765,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295480394",
-    "name": "Ronda",
-    "city": "Ronda",
-    "countryCode": "US",
-    "lat": 36.74853,
-    "lng": -5.1578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -17699,6 +17776,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "US",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -17706,6 +17794,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "US",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18359,17 +18458,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236588937",
-    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
-    "city": "Hohfluh",
-    "countryCode": "US",
-    "lat": 46.74542,
-    "lng": 8.17756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1632557523",
     "name": "Rieti › West: Monte Terminillo",
     "city": "Rieti",
@@ -18377,6 +18465,17 @@
     "lat": 42.45409,
     "lng": 12.98699,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236588937",
+    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
+    "city": "Hohfluh",
+    "countryCode": "US",
+    "lat": 46.74542,
+    "lng": 8.17756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19888,17 +19987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "US",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1206376399",
     "name": "Gorlitz › East: Old Town Bridge",
     "city": "Gorlitz",
@@ -19906,6 +19994,17 @@
     "lat": 51.1578,
     "lng": 14.99296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "US",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20471,17 +20570,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "US",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -20489,6 +20577,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "US",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21164,13 +21263,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1612893548",
+    "name": "Wimereux › West: Plage Wimereux",
+    "city": "Wimereux",
     "countryCode": "US",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 50.76572,
+    "lng": 1.60659,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21402,6 +21501,17 @@
     "lat": 49.01017,
     "lng": 17.12242,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21710,6 +21820,28 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793899732",
+    "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
+    "city": "Shoeburyness",
+    "countryCode": "US",
+    "lat": 51.52747,
+    "lng": 0.76585,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793899732/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23397,17 +23529,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "GB",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -23833,6 +23954,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "GB",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24288,17 +24420,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369739199",
-    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
-    "city": "Hoyos del Espino",
-    "countryCode": "GB",
-    "lat": 40.31775,
-    "lng": -5.16769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1210831370",
     "name": "Enontekio: Tie 21 Enontekiö, Kilpisjärvi - Norjaan",
     "city": "Enontekio",
@@ -24306,6 +24427,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369739199",
+    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
+    "city": "Hoyos del Espino",
+    "countryCode": "GB",
+    "lat": 40.31775,
+    "lng": -5.16769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24658,6 +24790,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "GB",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25641,6 +25784,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "GB",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -25861,17 +26015,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160066",
-    "name": "Schaffhausen: Vordergasse",
-    "city": "Schaffhausen",
-    "countryCode": "GB",
-    "lat": 47.69636,
-    "lng": 8.63506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -25879,6 +26022,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1027160066",
+    "name": "Schaffhausen: Vordergasse",
+    "city": "Schaffhausen",
+    "countryCode": "GB",
+    "lat": 47.69636,
+    "lng": 8.63506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26176,6 +26330,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1505780894",
+    "name": "Sainte-Marie: Île de la Reunion - Réunion",
+    "city": "Sainte-Marie",
+    "countryCode": "GB",
+    "lat": -21.00329,
+    "lng": 55.48997,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27137,13 +27302,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1256082169",
-    "name": "Nakhon Ratchasima: Korat Web Cam",
-    "city": "Nakhon Ratchasima",
+    "id": "windy-1228317630",
+    "name": "Lucerne: Lake Lucerne",
+    "city": "Lucerne",
     "countryCode": "GB",
-    "lat": 14.96506,
-    "lng": 102.0423,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "lat": 47.05143,
+    "lng": 8.31233,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228317630/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28083,17 +28248,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "GB",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -28534,17 +28688,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295480394",
-    "name": "Ronda",
-    "city": "Ronda",
-    "countryCode": "GB",
-    "lat": 36.74853,
-    "lng": -5.1578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -28556,6 +28699,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "GB",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -28563,6 +28717,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "GB",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29216,17 +29381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236588937",
-    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
-    "city": "Hohfluh",
-    "countryCode": "GB",
-    "lat": 46.74542,
-    "lng": 8.17756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1632557523",
     "name": "Rieti › West: Monte Terminillo",
     "city": "Rieti",
@@ -29234,6 +29388,17 @@
     "lat": 42.45409,
     "lng": 12.98699,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236588937",
+    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
+    "city": "Hohfluh",
+    "countryCode": "GB",
+    "lat": 46.74542,
+    "lng": 8.17756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30745,17 +30910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "GB",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1206376399",
     "name": "Gorlitz › East: Old Town Bridge",
     "city": "Gorlitz",
@@ -30763,6 +30917,17 @@
     "lat": 51.1578,
     "lng": 14.99296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "GB",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31328,17 +31493,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "GB",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -31346,6 +31500,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "GB",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32021,13 +32186,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1612893548",
+    "name": "Wimereux › West: Plage Wimereux",
+    "city": "Wimereux",
     "countryCode": "GB",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 50.76572,
+    "lng": 1.60659,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32259,6 +32424,17 @@
     "lat": 49.01017,
     "lng": 17.12242,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32567,6 +32743,28 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793899732",
+    "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
+    "city": "Shoeburyness",
+    "countryCode": "GB",
+    "lat": 51.52747,
+    "lng": 0.76585,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793899732/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34254,17 +34452,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "DE",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -34690,6 +34877,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "DE",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35145,17 +35343,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369739199",
-    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
-    "city": "Hoyos del Espino",
-    "countryCode": "DE",
-    "lat": 40.31775,
-    "lng": -5.16769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1210831370",
     "name": "Enontekio: Tie 21 Enontekiö, Kilpisjärvi - Norjaan",
     "city": "Enontekio",
@@ -35163,6 +35350,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369739199",
+    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
+    "city": "Hoyos del Espino",
+    "countryCode": "DE",
+    "lat": 40.31775,
+    "lng": -5.16769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35515,6 +35713,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "DE",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36498,6 +36707,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "DE",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -36718,17 +36938,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160066",
-    "name": "Schaffhausen: Vordergasse",
-    "city": "Schaffhausen",
-    "countryCode": "DE",
-    "lat": 47.69636,
-    "lng": 8.63506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -36736,6 +36945,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1027160066",
+    "name": "Schaffhausen: Vordergasse",
+    "city": "Schaffhausen",
+    "countryCode": "DE",
+    "lat": 47.69636,
+    "lng": 8.63506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37033,6 +37253,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1505780894",
+    "name": "Sainte-Marie: Île de la Reunion - Réunion",
+    "city": "Sainte-Marie",
+    "countryCode": "DE",
+    "lat": -21.00329,
+    "lng": 55.48997,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37994,13 +38225,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1256082169",
-    "name": "Nakhon Ratchasima: Korat Web Cam",
-    "city": "Nakhon Ratchasima",
+    "id": "windy-1228317630",
+    "name": "Lucerne: Lake Lucerne",
+    "city": "Lucerne",
     "countryCode": "DE",
-    "lat": 14.96506,
-    "lng": 102.0423,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "lat": 47.05143,
+    "lng": 8.31233,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228317630/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38940,17 +39171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "DE",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -39391,17 +39611,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295480394",
-    "name": "Ronda",
-    "city": "Ronda",
-    "countryCode": "DE",
-    "lat": 36.74853,
-    "lng": -5.1578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -39413,6 +39622,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "DE",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -39420,6 +39640,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "DE",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40073,17 +40304,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236588937",
-    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
-    "city": "Hohfluh",
-    "countryCode": "DE",
-    "lat": 46.74542,
-    "lng": 8.17756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1632557523",
     "name": "Rieti › West: Monte Terminillo",
     "city": "Rieti",
@@ -40091,6 +40311,17 @@
     "lat": 42.45409,
     "lng": 12.98699,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236588937",
+    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
+    "city": "Hohfluh",
+    "countryCode": "DE",
+    "lat": 46.74542,
+    "lng": 8.17756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41602,17 +41833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "DE",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1206376399",
     "name": "Gorlitz › East: Old Town Bridge",
     "city": "Gorlitz",
@@ -41620,6 +41840,17 @@
     "lat": 51.1578,
     "lng": 14.99296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "DE",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42185,17 +42416,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "DE",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -42203,6 +42423,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "DE",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42878,13 +43109,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1612893548",
+    "name": "Wimereux › West: Plage Wimereux",
+    "city": "Wimereux",
     "countryCode": "DE",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 50.76572,
+    "lng": 1.60659,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43116,6 +43347,17 @@
     "lat": 49.01017,
     "lng": 17.12242,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43424,6 +43666,28 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793899732",
+    "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
+    "city": "Shoeburyness",
+    "countryCode": "DE",
+    "lat": 51.52747,
+    "lng": 0.76585,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793899732/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45111,17 +45375,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "FR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -45547,6 +45800,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "FR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46002,17 +46266,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369739199",
-    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
-    "city": "Hoyos del Espino",
-    "countryCode": "FR",
-    "lat": 40.31775,
-    "lng": -5.16769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1210831370",
     "name": "Enontekio: Tie 21 Enontekiö, Kilpisjärvi - Norjaan",
     "city": "Enontekio",
@@ -46020,6 +46273,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369739199",
+    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
+    "city": "Hoyos del Espino",
+    "countryCode": "FR",
+    "lat": 40.31775,
+    "lng": -5.16769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46372,6 +46636,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "FR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47355,6 +47630,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "FR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -47575,17 +47861,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160066",
-    "name": "Schaffhausen: Vordergasse",
-    "city": "Schaffhausen",
-    "countryCode": "FR",
-    "lat": 47.69636,
-    "lng": 8.63506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -47593,6 +47868,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1027160066",
+    "name": "Schaffhausen: Vordergasse",
+    "city": "Schaffhausen",
+    "countryCode": "FR",
+    "lat": 47.69636,
+    "lng": 8.63506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47890,6 +48176,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1505780894",
+    "name": "Sainte-Marie: Île de la Reunion - Réunion",
+    "city": "Sainte-Marie",
+    "countryCode": "FR",
+    "lat": -21.00329,
+    "lng": 55.48997,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48851,13 +49148,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1256082169",
-    "name": "Nakhon Ratchasima: Korat Web Cam",
-    "city": "Nakhon Ratchasima",
+    "id": "windy-1228317630",
+    "name": "Lucerne: Lake Lucerne",
+    "city": "Lucerne",
     "countryCode": "FR",
-    "lat": 14.96506,
-    "lng": 102.0423,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "lat": 47.05143,
+    "lng": 8.31233,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228317630/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49797,17 +50094,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "FR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -50248,17 +50534,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295480394",
-    "name": "Ronda",
-    "city": "Ronda",
-    "countryCode": "FR",
-    "lat": 36.74853,
-    "lng": -5.1578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -50270,6 +50545,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "FR",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -50277,6 +50563,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "FR",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50930,17 +51227,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236588937",
-    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
-    "city": "Hohfluh",
-    "countryCode": "FR",
-    "lat": 46.74542,
-    "lng": 8.17756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1632557523",
     "name": "Rieti › West: Monte Terminillo",
     "city": "Rieti",
@@ -50948,6 +51234,17 @@
     "lat": 42.45409,
     "lng": 12.98699,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236588937",
+    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
+    "city": "Hohfluh",
+    "countryCode": "FR",
+    "lat": 46.74542,
+    "lng": 8.17756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52459,17 +52756,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "FR",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1206376399",
     "name": "Gorlitz › East: Old Town Bridge",
     "city": "Gorlitz",
@@ -52477,6 +52763,17 @@
     "lat": 51.1578,
     "lng": 14.99296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "FR",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53042,17 +53339,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "FR",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -53060,6 +53346,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "FR",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53735,13 +54032,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1612893548",
+    "name": "Wimereux › West: Plage Wimereux",
+    "city": "Wimereux",
     "countryCode": "FR",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 50.76572,
+    "lng": 1.60659,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53973,6 +54270,17 @@
     "lat": 49.01017,
     "lng": 17.12242,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54281,6 +54589,28 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793899732",
+    "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
+    "city": "Shoeburyness",
+    "countryCode": "FR",
+    "lat": 51.52747,
+    "lng": 0.76585,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793899732/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55968,17 +56298,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "CN",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -56404,6 +56723,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "CN",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56859,17 +57189,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369739199",
-    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
-    "city": "Hoyos del Espino",
-    "countryCode": "CN",
-    "lat": 40.31775,
-    "lng": -5.16769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1210831370",
     "name": "Enontekio: Tie 21 Enontekiö, Kilpisjärvi - Norjaan",
     "city": "Enontekio",
@@ -56877,6 +57196,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369739199",
+    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
+    "city": "Hoyos del Espino",
+    "countryCode": "CN",
+    "lat": 40.31775,
+    "lng": -5.16769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57229,6 +57559,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "CN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58212,6 +58553,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "CN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -58432,17 +58784,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160066",
-    "name": "Schaffhausen: Vordergasse",
-    "city": "Schaffhausen",
-    "countryCode": "CN",
-    "lat": 47.69636,
-    "lng": 8.63506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -58450,6 +58791,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1027160066",
+    "name": "Schaffhausen: Vordergasse",
+    "city": "Schaffhausen",
+    "countryCode": "CN",
+    "lat": 47.69636,
+    "lng": 8.63506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58747,6 +59099,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1505780894",
+    "name": "Sainte-Marie: Île de la Reunion - Réunion",
+    "city": "Sainte-Marie",
+    "countryCode": "CN",
+    "lat": -21.00329,
+    "lng": 55.48997,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59708,13 +60071,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1256082169",
-    "name": "Nakhon Ratchasima: Korat Web Cam",
-    "city": "Nakhon Ratchasima",
+    "id": "windy-1228317630",
+    "name": "Lucerne: Lake Lucerne",
+    "city": "Lucerne",
     "countryCode": "CN",
-    "lat": 14.96506,
-    "lng": 102.0423,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "lat": 47.05143,
+    "lng": 8.31233,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228317630/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60654,17 +61017,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "CN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -61105,17 +61457,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295480394",
-    "name": "Ronda",
-    "city": "Ronda",
-    "countryCode": "CN",
-    "lat": 36.74853,
-    "lng": -5.1578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -61127,6 +61468,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "CN",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -61134,6 +61486,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "CN",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61787,17 +62150,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236588937",
-    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
-    "city": "Hohfluh",
-    "countryCode": "CN",
-    "lat": 46.74542,
-    "lng": 8.17756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1632557523",
     "name": "Rieti › West: Monte Terminillo",
     "city": "Rieti",
@@ -61805,6 +62157,17 @@
     "lat": 42.45409,
     "lng": 12.98699,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236588937",
+    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
+    "city": "Hohfluh",
+    "countryCode": "CN",
+    "lat": 46.74542,
+    "lng": 8.17756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63316,17 +63679,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "CN",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1206376399",
     "name": "Gorlitz › East: Old Town Bridge",
     "city": "Gorlitz",
@@ -63334,6 +63686,17 @@
     "lat": 51.1578,
     "lng": 14.99296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "CN",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63899,17 +64262,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "CN",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -63917,6 +64269,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "CN",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64592,13 +64955,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1612893548",
+    "name": "Wimereux › West: Plage Wimereux",
+    "city": "Wimereux",
     "countryCode": "CN",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 50.76572,
+    "lng": 1.60659,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64830,6 +65193,17 @@
     "lat": 49.01017,
     "lng": 17.12242,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65138,6 +65512,28 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793899732",
+    "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
+    "city": "Shoeburyness",
+    "countryCode": "CN",
+    "lat": 51.52747,
+    "lng": 0.76585,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793899732/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66825,17 +67221,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "KR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -67261,6 +67646,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "KR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67716,17 +68112,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369739199",
-    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
-    "city": "Hoyos del Espino",
-    "countryCode": "KR",
-    "lat": 40.31775,
-    "lng": -5.16769,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1210831370",
     "name": "Enontekio: Tie 21 Enontekiö, Kilpisjärvi - Norjaan",
     "city": "Enontekio",
@@ -67734,6 +68119,17 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369739199",
+    "name": "Hoyos del Espino › South-west: Sierra De Gredos",
+    "city": "Hoyos del Espino",
+    "countryCode": "KR",
+    "lat": 40.31775,
+    "lng": -5.16769,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369739199/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68086,6 +68482,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "KR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69069,6 +69476,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "KR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -69289,17 +69707,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1027160066",
-    "name": "Schaffhausen: Vordergasse",
-    "city": "Schaffhausen",
-    "countryCode": "KR",
-    "lat": 47.69636,
-    "lng": 8.63506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -69307,6 +69714,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1027160066",
+    "name": "Schaffhausen: Vordergasse",
+    "city": "Schaffhausen",
+    "countryCode": "KR",
+    "lat": 47.69636,
+    "lng": 8.63506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1027160066/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69604,6 +70022,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1505780894",
+    "name": "Sainte-Marie: Île de la Reunion - Réunion",
+    "city": "Sainte-Marie",
+    "countryCode": "KR",
+    "lat": -21.00329,
+    "lng": 55.48997,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70565,13 +70994,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1256082169",
-    "name": "Nakhon Ratchasima: Korat Web Cam",
-    "city": "Nakhon Ratchasima",
+    "id": "windy-1228317630",
+    "name": "Lucerne: Lake Lucerne",
+    "city": "Lucerne",
     "countryCode": "KR",
-    "lat": 14.96506,
-    "lng": 102.0423,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "lat": 47.05143,
+    "lng": 8.31233,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228317630/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71511,17 +71940,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "KR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -71962,17 +72380,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295480394",
-    "name": "Ronda",
-    "city": "Ronda",
-    "countryCode": "KR",
-    "lat": 36.74853,
-    "lng": -5.1578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -71984,6 +72391,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "KR",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1260740169",
     "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
     "city": "Falkenstein",
@@ -71991,6 +72409,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "KR",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72644,17 +73073,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1236588937",
-    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
-    "city": "Hohfluh",
-    "countryCode": "KR",
-    "lat": 46.74542,
-    "lng": 8.17756,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1632557523",
     "name": "Rieti › West: Monte Terminillo",
     "city": "Rieti",
@@ -72662,6 +73080,17 @@
     "lat": 42.45409,
     "lng": 12.98699,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1236588937",
+    "name": "Hohfluh: Hasliberg: Blick auf die Berner Alpen",
+    "city": "Hohfluh",
+    "countryCode": "KR",
+    "lat": 46.74542,
+    "lng": 8.17756,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1236588937/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74173,17 +74602,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1641224317",
-    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
-    "city": "Udine",
-    "countryCode": "KR",
-    "lat": 46.06285,
-    "lng": 13.23289,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1206376399",
     "name": "Gorlitz › East: Old Town Bridge",
     "city": "Gorlitz",
@@ -74191,6 +74609,17 @@
     "lat": 51.1578,
     "lng": 14.99296,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206376399/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1641224317",
+    "name": "Udine: Piazza San Giacomo - Piazza Giacomo Matteotti",
+    "city": "Udine",
+    "countryCode": "KR",
+    "lat": 46.06285,
+    "lng": 13.23289,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1641224317/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74756,17 +75185,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182884690",
-    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
-    "city": "Kaprun",
-    "countryCode": "KR",
-    "lat": 47.27286,
-    "lng": 12.75085,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -74774,6 +75192,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182884690",
+    "name": "Kaprun: Kitzsteinhorn - Maiskogel",
+    "city": "Kaprun",
+    "countryCode": "KR",
+    "lat": 47.27286,
+    "lng": 12.75085,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182884690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75691,6 +76120,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1308698338",
     "name": "Unicov",
     "city": "Unicov",
@@ -75995,6 +76435,28 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793899732",
+    "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
+    "city": "Shoeburyness",
+    "countryCode": "KR",
+    "lat": 51.52747,
+    "lng": 0.76585,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793899732/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77682,17 +78144,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "IN",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -78118,6 +78569,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "IN",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78943,6 +79405,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "IN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79926,6 +80399,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "IN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -80461,6 +80945,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1505780894",
+    "name": "Sainte-Marie: Île de la Reunion - Réunion",
+    "city": "Sainte-Marie",
+    "countryCode": "IN",
+    "lat": -21.00329,
+    "lng": 55.48997,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82368,17 +82863,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "IN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -82848,6 +83332,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "IN",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86306,17 +86801,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "IN",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -86324,6 +86808,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "IN",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86544,6 +87039,17 @@
     "lat": 49.01017,
     "lng": 17.12242,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86841,6 +87347,39 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "IN",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793899732",
+    "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
+    "city": "Shoeburyness",
+    "countryCode": "IN",
+    "lat": 51.52747,
+    "lng": 0.76585,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793899732/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88528,17 +89067,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "BR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -88964,6 +89492,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "BR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89789,6 +90328,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "BR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90772,6 +91322,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "BR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -91307,6 +91868,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1505780894",
+    "name": "Sainte-Marie: Île de la Reunion - Réunion",
+    "city": "Sainte-Marie",
+    "countryCode": "BR",
+    "lat": -21.00329,
+    "lng": 55.48997,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93214,17 +93786,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "BR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -93694,6 +94255,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "BR",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97152,17 +97724,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "BR",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -97170,6 +97731,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "BR",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97390,6 +97962,17 @@
     "lat": 49.01017,
     "lng": 17.12242,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97687,6 +98270,39 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "BR",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793899732",
+    "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
+    "city": "Shoeburyness",
+    "countryCode": "BR",
+    "lat": 51.52747,
+    "lng": 0.76585,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793899732/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99374,17 +99990,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "AU",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -99810,6 +100415,17 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "AU",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100635,6 +101251,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "AU",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101618,6 +102245,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "AU",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1369846835",
     "name": "Vira › South: Hvar",
     "city": "Vira",
@@ -102153,6 +102791,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1505780894",
+    "name": "Sainte-Marie: Île de la Reunion - Réunion",
+    "city": "Sainte-Marie",
+    "countryCode": "AU",
+    "lat": -21.00329,
+    "lng": 55.48997,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1505780894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104060,17 +104709,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "AU",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -104540,6 +105178,17 @@
     "lat": 50.49719,
     "lng": 12.37848,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "AU",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107998,17 +108647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
-    "countryCode": "AU",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -108016,6 +108654,17 @@
     "lat": 50.76572,
     "lng": 1.60659,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1612893548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "AU",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108236,6 +108885,17 @@
     "lat": 49.01017,
     "lng": 17.12242,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108533,6 +109193,39 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1495818660",
+    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
+    "city": "Mogan",
+    "countryCode": "AU",
+    "lat": 27.77219,
+    "lng": -15.69782,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793899732",
+    "name": "Shoeburyness › South: Thorpe Bay Yacht Club",
+    "city": "Shoeburyness",
+    "countryCode": "AU",
+    "lat": 51.52747,
+    "lng": 0.76585,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793899732/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
