@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000ssiy",
+    "type": "earthquake",
+    "lat": 52.9131,
+    "lng": 160.9481,
+    "intensity": 5.4,
+    "timestamp": "2026-04-24T10:04:37.607Z",
+    "description": "M 5.4 - 156 km E of Petropavlovsk-Kamchatsky, Russia",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssiq",
+    "type": "earthquake",
+    "lat": 35.0827,
+    "lng": 25.918,
+    "intensity": 4.7,
+    "timestamp": "2026-04-24T09:26:45.744Z",
+    "description": "M 4.7 - 16 km ENE of Kentrí, Greece",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssik",
     "type": "earthquake",
     "lat": 52.9231,
