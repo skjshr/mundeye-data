@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000ssib",
+    "type": "earthquake",
+    "lat": -4.5392,
+    "lng": 153.271,
+    "intensity": 4.8,
+    "timestamp": "2026-04-24T07:26:31.285Z",
+    "description": "M 4.8 - 113 km E of Kokopo, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sshp",
     "type": "earthquake",
     "lat": 40.095,
@@ -147,16 +157,6 @@
     "intensity": 5.2,
     "timestamp": "2026-04-23T10:07:48.736Z",
     "description": "M 5.2 - southern Mid-Atlantic Ridge",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ss90",
-    "type": "earthquake",
-    "lat": -20.7822,
-    "lng": -176.2603,
-    "intensity": 5.2,
-    "timestamp": "2026-04-23T06:31:10.762Z",
-    "description": "M 5.2 - 108 km WNW of Houma, Tonga",
     "source": "USGS"
   }
 ]
