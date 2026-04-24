@@ -231,17 +231,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -1305,6 +1294,17 @@
     "lat": 52.28815,
     "lng": 8.91669,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1448989422/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1420893641",
+    "name": "London: Trafalgar Square",
+    "city": "London",
+    "countryCode": "JP",
+    "lat": 51.5074,
+    "lng": -0.12765,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2497,17 +2497,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2603,6 +2592,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3146,17 +3146,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477116534",
-    "name": "Castelldefels › East: Surf spot Castelldefels",
-    "city": "Castelldefels",
-    "countryCode": "JP",
-    "lat": 41.2611,
-    "lng": 1.92807,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1445850758",
     "name": "Møre og Romsdal › North-west: Langvatnet",
     "city": "unknown",
@@ -3164,6 +3153,17 @@
     "lat": 62.46096,
     "lng": 8.58161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1445850758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477116534",
+    "name": "Castelldefels › East: Surf spot Castelldefels",
+    "city": "Castelldefels",
+    "countryCode": "JP",
+    "lat": 41.2611,
+    "lng": 1.92807,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6490,17 +6490,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
-    "city": "Verbania",
-    "countryCode": "JP",
-    "lat": 45.92137,
-    "lng": 8.55091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1581409578",
     "name": "Aberdeenshire › South",
     "city": "unknown",
@@ -6508,6 +6497,17 @@
     "lat": 57.00122,
     "lng": -3.39329,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1581409578/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1430473084",
+    "name": "Verbania: Piedmont, Italy",
+    "city": "Verbania",
+    "countryCode": "JP",
+    "lat": 45.92137,
+    "lng": 8.55091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6717,17 +6717,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "JP",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8030,17 +8019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -9064,17 +9042,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "JP",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -9082,6 +9049,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "JP",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11055,17 +11033,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -12129,6 +12096,17 @@
     "lat": 52.28815,
     "lng": 8.91669,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1448989422/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1420893641",
+    "name": "London: Trafalgar Square",
+    "city": "London",
+    "countryCode": "US",
+    "lat": 51.5074,
+    "lng": -0.12765,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13321,17 +13299,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13427,6 +13394,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13970,17 +13948,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477116534",
-    "name": "Castelldefels › East: Surf spot Castelldefels",
-    "city": "Castelldefels",
-    "countryCode": "US",
-    "lat": 41.2611,
-    "lng": 1.92807,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1445850758",
     "name": "Møre og Romsdal › North-west: Langvatnet",
     "city": "unknown",
@@ -13988,6 +13955,17 @@
     "lat": 62.46096,
     "lng": 8.58161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1445850758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477116534",
+    "name": "Castelldefels › East: Surf spot Castelldefels",
+    "city": "Castelldefels",
+    "countryCode": "US",
+    "lat": 41.2611,
+    "lng": 1.92807,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17314,17 +17292,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
-    "city": "Verbania",
-    "countryCode": "US",
-    "lat": 45.92137,
-    "lng": 8.55091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1581409578",
     "name": "Aberdeenshire › South",
     "city": "unknown",
@@ -17332,6 +17299,17 @@
     "lat": 57.00122,
     "lng": -3.39329,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1581409578/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1430473084",
+    "name": "Verbania: Piedmont, Italy",
+    "city": "Verbania",
+    "countryCode": "US",
+    "lat": 45.92137,
+    "lng": 8.55091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17541,17 +17519,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "US",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18854,17 +18821,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -19888,17 +19844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "US",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -19906,6 +19851,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "US",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21879,17 +21835,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -22953,6 +22898,17 @@
     "lat": 52.28815,
     "lng": 8.91669,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1448989422/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1420893641",
+    "name": "London: Trafalgar Square",
+    "city": "London",
+    "countryCode": "GB",
+    "lat": 51.5074,
+    "lng": -0.12765,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24145,17 +24101,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24251,6 +24196,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24794,17 +24750,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477116534",
-    "name": "Castelldefels › East: Surf spot Castelldefels",
-    "city": "Castelldefels",
-    "countryCode": "GB",
-    "lat": 41.2611,
-    "lng": 1.92807,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1445850758",
     "name": "Møre og Romsdal › North-west: Langvatnet",
     "city": "unknown",
@@ -24812,6 +24757,17 @@
     "lat": 62.46096,
     "lng": 8.58161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1445850758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477116534",
+    "name": "Castelldefels › East: Surf spot Castelldefels",
+    "city": "Castelldefels",
+    "countryCode": "GB",
+    "lat": 41.2611,
+    "lng": 1.92807,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28138,17 +28094,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
-    "city": "Verbania",
-    "countryCode": "GB",
-    "lat": 45.92137,
-    "lng": 8.55091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1581409578",
     "name": "Aberdeenshire › South",
     "city": "unknown",
@@ -28156,6 +28101,17 @@
     "lat": 57.00122,
     "lng": -3.39329,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1581409578/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1430473084",
+    "name": "Verbania: Piedmont, Italy",
+    "city": "Verbania",
+    "countryCode": "GB",
+    "lat": 45.92137,
+    "lng": 8.55091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28365,17 +28321,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "GB",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29678,17 +29623,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -30712,17 +30646,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "GB",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -30730,6 +30653,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "GB",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32703,17 +32637,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -33777,6 +33700,17 @@
     "lat": 52.28815,
     "lng": 8.91669,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1448989422/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1420893641",
+    "name": "London: Trafalgar Square",
+    "city": "London",
+    "countryCode": "DE",
+    "lat": 51.5074,
+    "lng": -0.12765,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34969,17 +34903,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -35075,6 +34998,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35618,17 +35552,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477116534",
-    "name": "Castelldefels › East: Surf spot Castelldefels",
-    "city": "Castelldefels",
-    "countryCode": "DE",
-    "lat": 41.2611,
-    "lng": 1.92807,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1445850758",
     "name": "Møre og Romsdal › North-west: Langvatnet",
     "city": "unknown",
@@ -35636,6 +35559,17 @@
     "lat": 62.46096,
     "lng": 8.58161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1445850758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477116534",
+    "name": "Castelldefels › East: Surf spot Castelldefels",
+    "city": "Castelldefels",
+    "countryCode": "DE",
+    "lat": 41.2611,
+    "lng": 1.92807,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38962,17 +38896,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
-    "city": "Verbania",
-    "countryCode": "DE",
-    "lat": 45.92137,
-    "lng": 8.55091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1581409578",
     "name": "Aberdeenshire › South",
     "city": "unknown",
@@ -38980,6 +38903,17 @@
     "lat": 57.00122,
     "lng": -3.39329,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1581409578/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1430473084",
+    "name": "Verbania: Piedmont, Italy",
+    "city": "Verbania",
+    "countryCode": "DE",
+    "lat": 45.92137,
+    "lng": 8.55091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39189,17 +39123,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "DE",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40502,17 +40425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -41536,17 +41448,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "DE",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -41554,6 +41455,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "DE",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43527,17 +43439,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -44601,6 +44502,17 @@
     "lat": 52.28815,
     "lng": 8.91669,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1448989422/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1420893641",
+    "name": "London: Trafalgar Square",
+    "city": "London",
+    "countryCode": "FR",
+    "lat": 51.5074,
+    "lng": -0.12765,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45793,17 +45705,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45899,6 +45800,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46442,17 +46354,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477116534",
-    "name": "Castelldefels › East: Surf spot Castelldefels",
-    "city": "Castelldefels",
-    "countryCode": "FR",
-    "lat": 41.2611,
-    "lng": 1.92807,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1445850758",
     "name": "Møre og Romsdal › North-west: Langvatnet",
     "city": "unknown",
@@ -46460,6 +46361,17 @@
     "lat": 62.46096,
     "lng": 8.58161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1445850758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477116534",
+    "name": "Castelldefels › East: Surf spot Castelldefels",
+    "city": "Castelldefels",
+    "countryCode": "FR",
+    "lat": 41.2611,
+    "lng": 1.92807,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49786,17 +49698,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
-    "city": "Verbania",
-    "countryCode": "FR",
-    "lat": 45.92137,
-    "lng": 8.55091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1581409578",
     "name": "Aberdeenshire › South",
     "city": "unknown",
@@ -49804,6 +49705,17 @@
     "lat": 57.00122,
     "lng": -3.39329,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1581409578/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1430473084",
+    "name": "Verbania: Piedmont, Italy",
+    "city": "Verbania",
+    "countryCode": "FR",
+    "lat": 45.92137,
+    "lng": 8.55091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50013,17 +49925,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "FR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51326,17 +51227,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -52360,17 +52250,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "FR",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -52378,6 +52257,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "FR",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54351,17 +54241,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -55425,6 +55304,17 @@
     "lat": 52.28815,
     "lng": 8.91669,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1448989422/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1420893641",
+    "name": "London: Trafalgar Square",
+    "city": "London",
+    "countryCode": "CN",
+    "lat": 51.5074,
+    "lng": -0.12765,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56617,17 +56507,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56723,6 +56602,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57266,17 +57156,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477116534",
-    "name": "Castelldefels › East: Surf spot Castelldefels",
-    "city": "Castelldefels",
-    "countryCode": "CN",
-    "lat": 41.2611,
-    "lng": 1.92807,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1445850758",
     "name": "Møre og Romsdal › North-west: Langvatnet",
     "city": "unknown",
@@ -57284,6 +57163,17 @@
     "lat": 62.46096,
     "lng": 8.58161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1445850758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477116534",
+    "name": "Castelldefels › East: Surf spot Castelldefels",
+    "city": "Castelldefels",
+    "countryCode": "CN",
+    "lat": 41.2611,
+    "lng": 1.92807,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60610,17 +60500,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
-    "city": "Verbania",
-    "countryCode": "CN",
-    "lat": 45.92137,
-    "lng": 8.55091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1581409578",
     "name": "Aberdeenshire › South",
     "city": "unknown",
@@ -60628,6 +60507,17 @@
     "lat": 57.00122,
     "lng": -3.39329,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1581409578/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1430473084",
+    "name": "Verbania: Piedmont, Italy",
+    "city": "Verbania",
+    "countryCode": "CN",
+    "lat": 45.92137,
+    "lng": 8.55091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60837,17 +60727,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "CN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62150,17 +62029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -63184,17 +63052,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "CN",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -63202,6 +63059,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "CN",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65175,17 +65043,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -66249,6 +66106,17 @@
     "lat": 52.28815,
     "lng": 8.91669,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1448989422/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1420893641",
+    "name": "London: Trafalgar Square",
+    "city": "London",
+    "countryCode": "KR",
+    "lat": 51.5074,
+    "lng": -0.12765,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67441,17 +67309,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67547,6 +67404,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68090,17 +67958,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477116534",
-    "name": "Castelldefels › East: Surf spot Castelldefels",
-    "city": "Castelldefels",
-    "countryCode": "KR",
-    "lat": 41.2611,
-    "lng": 1.92807,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1445850758",
     "name": "Møre og Romsdal › North-west: Langvatnet",
     "city": "unknown",
@@ -68108,6 +67965,17 @@
     "lat": 62.46096,
     "lng": 8.58161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1445850758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477116534",
+    "name": "Castelldefels › East: Surf spot Castelldefels",
+    "city": "Castelldefels",
+    "countryCode": "KR",
+    "lat": 41.2611,
+    "lng": 1.92807,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71434,17 +71302,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
-    "city": "Verbania",
-    "countryCode": "KR",
-    "lat": 45.92137,
-    "lng": 8.55091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1581409578",
     "name": "Aberdeenshire › South",
     "city": "unknown",
@@ -71452,6 +71309,17 @@
     "lat": 57.00122,
     "lng": -3.39329,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1581409578/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1430473084",
+    "name": "Verbania: Piedmont, Italy",
+    "city": "Verbania",
+    "countryCode": "KR",
+    "lat": 45.92137,
+    "lng": 8.55091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71661,17 +71529,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "KR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72974,17 +72831,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -74008,17 +73854,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "KR",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -74026,6 +73861,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "KR",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75999,17 +75845,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -77073,6 +76908,17 @@
     "lat": 52.28815,
     "lng": 8.91669,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1448989422/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1420893641",
+    "name": "London: Trafalgar Square",
+    "city": "London",
+    "countryCode": "IN",
+    "lat": 51.5074,
+    "lng": -0.12765,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78265,17 +78111,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -78371,6 +78206,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78914,17 +78760,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477116534",
-    "name": "Castelldefels › East: Surf spot Castelldefels",
-    "city": "Castelldefels",
-    "countryCode": "IN",
-    "lat": 41.2611,
-    "lng": 1.92807,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1445850758",
     "name": "Møre og Romsdal › North-west: Langvatnet",
     "city": "unknown",
@@ -78932,6 +78767,17 @@
     "lat": 62.46096,
     "lng": 8.58161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1445850758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477116534",
+    "name": "Castelldefels › East: Surf spot Castelldefels",
+    "city": "Castelldefels",
+    "countryCode": "IN",
+    "lat": 41.2611,
+    "lng": 1.92807,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82258,17 +82104,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
-    "city": "Verbania",
-    "countryCode": "IN",
-    "lat": 45.92137,
-    "lng": 8.55091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1581409578",
     "name": "Aberdeenshire › South",
     "city": "unknown",
@@ -82276,6 +82111,17 @@
     "lat": 57.00122,
     "lng": -3.39329,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1581409578/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1430473084",
+    "name": "Verbania: Piedmont, Italy",
+    "city": "Verbania",
+    "countryCode": "IN",
+    "lat": 45.92137,
+    "lng": 8.55091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82485,17 +82331,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "IN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83798,17 +83633,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -84832,17 +84656,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "IN",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -84850,6 +84663,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "IN",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86823,17 +86647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -87897,6 +87710,17 @@
     "lat": 52.28815,
     "lng": 8.91669,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1448989422/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1420893641",
+    "name": "London: Trafalgar Square",
+    "city": "London",
+    "countryCode": "BR",
+    "lat": 51.5074,
+    "lng": -0.12765,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89089,17 +88913,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -89195,6 +89008,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89738,17 +89562,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477116534",
-    "name": "Castelldefels › East: Surf spot Castelldefels",
-    "city": "Castelldefels",
-    "countryCode": "BR",
-    "lat": 41.2611,
-    "lng": 1.92807,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1445850758",
     "name": "Møre og Romsdal › North-west: Langvatnet",
     "city": "unknown",
@@ -89756,6 +89569,17 @@
     "lat": 62.46096,
     "lng": 8.58161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1445850758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477116534",
+    "name": "Castelldefels › East: Surf spot Castelldefels",
+    "city": "Castelldefels",
+    "countryCode": "BR",
+    "lat": 41.2611,
+    "lng": 1.92807,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93082,17 +92906,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
-    "city": "Verbania",
-    "countryCode": "BR",
-    "lat": 45.92137,
-    "lng": 8.55091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1581409578",
     "name": "Aberdeenshire › South",
     "city": "unknown",
@@ -93100,6 +92913,17 @@
     "lat": 57.00122,
     "lng": -3.39329,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1581409578/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1430473084",
+    "name": "Verbania: Piedmont, Italy",
+    "city": "Verbania",
+    "countryCode": "BR",
+    "lat": 45.92137,
+    "lng": 8.55091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93309,17 +93133,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "BR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94622,17 +94435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -95656,17 +95458,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "BR",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -95674,6 +95465,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "BR",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97647,17 +97449,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -98721,6 +98512,17 @@
     "lat": 52.28815,
     "lng": 8.91669,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1448989422/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1420893641",
+    "name": "London: Trafalgar Square",
+    "city": "London",
+    "countryCode": "AU",
+    "lat": 51.5074,
+    "lng": -0.12765,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420893641/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99913,17 +99715,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -100019,6 +99810,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100562,17 +100364,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477116534",
-    "name": "Castelldefels › East: Surf spot Castelldefels",
-    "city": "Castelldefels",
-    "countryCode": "AU",
-    "lat": 41.2611,
-    "lng": 1.92807,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1445850758",
     "name": "Møre og Romsdal › North-west: Langvatnet",
     "city": "unknown",
@@ -100580,6 +100371,17 @@
     "lat": 62.46096,
     "lng": 8.58161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1445850758/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1477116534",
+    "name": "Castelldefels › East: Surf spot Castelldefels",
+    "city": "Castelldefels",
+    "countryCode": "AU",
+    "lat": 41.2611,
+    "lng": 1.92807,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477116534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103906,17 +103708,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
-    "city": "Verbania",
-    "countryCode": "AU",
-    "lat": 45.92137,
-    "lng": 8.55091,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1581409578",
     "name": "Aberdeenshire › South",
     "city": "unknown",
@@ -103924,6 +103715,17 @@
     "lat": 57.00122,
     "lng": -3.39329,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1581409578/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1430473084",
+    "name": "Verbania: Piedmont, Italy",
+    "city": "Verbania",
+    "countryCode": "AU",
+    "lat": 45.92137,
+    "lng": 8.55091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1430473084/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104133,17 +103935,6 @@
     "lat": 49.14404,
     "lng": 15.00301,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "AU",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105446,17 +105237,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -106480,17 +106260,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "AU",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -106498,6 +106267,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1498986660",
+    "name": "Nyeri: Aberdare Range, Kenya",
+    "city": "Nyeri",
+    "countryCode": "AU",
+    "lat": -0.39825,
+    "lng": 36.83132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
