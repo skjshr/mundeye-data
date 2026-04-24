@@ -1,5 +1,45 @@
 [
   {
+    "id": "us6000ssik",
+    "type": "earthquake",
+    "lat": 52.9231,
+    "lng": 161.1117,
+    "intensity": 5.3,
+    "timestamp": "2026-04-24T08:59:28.540Z",
+    "description": "M 5.3 - 167 km E of Petropavlovsk-Kamchatsky, Russia",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssij",
+    "type": "earthquake",
+    "lat": 34.9902,
+    "lng": 26.1319,
+    "intensity": 5,
+    "timestamp": "2026-04-24T08:58:17.508Z",
+    "description": "M 5.0 - 24 km S of Sitia, Greece",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssil",
+    "type": "earthquake",
+    "lat": 49.963,
+    "lng": 155.8577,
+    "intensity": 4.5,
+    "timestamp": "2026-04-24T08:47:02.290Z",
+    "description": "M 4.5 - 81 km SSW of Severo-Kuril’sk, Russia",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssih",
+    "type": "earthquake",
+    "lat": 1.5616,
+    "lng": 126.6602,
+    "intensity": 4.6,
+    "timestamp": "2026-04-24T08:41:38.770Z",
+    "description": "M 4.6 - 117 km NW of Ternate, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssib",
     "type": "earthquake",
     "lat": -4.5392,
@@ -147,16 +187,6 @@
     "intensity": 4.8,
     "timestamp": "2026-04-23T14:09:26.046Z",
     "description": "M 4.8 - 34 km SSW of La Libertad, El Salvador",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ss9m",
-    "type": "earthquake",
-    "lat": -42.2859,
-    "lng": -18.4093,
-    "intensity": 5.2,
-    "timestamp": "2026-04-23T10:07:48.736Z",
-    "description": "M 5.2 - southern Mid-Atlantic Ridge",
     "source": "USGS"
   }
 ]
