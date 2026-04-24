@@ -1,5 +1,55 @@
 [
   {
+    "id": "us6000sshc",
+    "type": "earthquake",
+    "lat": 34.9345,
+    "lng": 25.8274,
+    "intensity": 5.8,
+    "timestamp": "2026-04-24T03:18:53.476Z",
+    "description": "M 5.8 - 11 km SE of Ierápetra, Greece",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sshb",
+    "type": "earthquake",
+    "lat": -18.5264,
+    "lng": -175.4126,
+    "intensity": 4.5,
+    "timestamp": "2026-04-24T03:15:33.895Z",
+    "description": "M 4.5 - 151 km W of Neiafu, Tonga",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssgv",
+    "type": "earthquake",
+    "lat": -34.7235,
+    "lng": -179.1959,
+    "intensity": 5.4,
+    "timestamp": "2026-04-24T01:51:59.835Z",
+    "description": "M 5.4 - south of the Kermadec Islands",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssgq",
+    "type": "earthquake",
+    "lat": 52.4282,
+    "lng": -168.3713,
+    "intensity": 4.7,
+    "timestamp": "2026-04-24T01:01:06.682Z",
+    "description": "M 4.7 - 65 km SSE of Nikolski, Alaska",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssgp",
+    "type": "earthquake",
+    "lat": -18.8416,
+    "lng": 168.9718,
+    "intensity": 4.5,
+    "timestamp": "2026-04-24T00:21:22.140Z",
+    "description": "M 4.5 - 84 km NNW of Isangel, Vanuatu",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssgf",
     "type": "earthquake",
     "lat": 13.8985,
@@ -97,16 +147,6 @@
     "intensity": 5,
     "timestamp": "2026-04-23T05:30:59.775Z",
     "description": "M 5.0 - South Sandwich Islands region",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ss8a",
-    "type": "earthquake",
-    "lat": 51.3012,
-    "lng": 159.842,
-    "intensity": 4.9,
-    "timestamp": "2026-04-23T01:43:46.712Z",
-    "description": "M 4.9 - 206 km SSE of Vilyuchinsk, Russia",
     "source": "USGS"
   }
 ]
