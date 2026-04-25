@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000sssz",
+    "type": "earthquake",
+    "lat": 51.2238,
+    "lng": 89.8293,
+    "intensity": 4.7,
+    "timestamp": "2026-04-25T09:40:38.381Z",
+    "description": "M 4.7 - 35 km NW of Teeli, Russia",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssss",
+    "type": "earthquake",
+    "lat": -5.0454,
+    "lng": 130.5676,
+    "intensity": 4.6,
+    "timestamp": "2026-04-25T09:07:07.123Z",
+    "description": "M 4.6 - 250 km WNW of Tual, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sssg",
     "type": "earthquake",
     "lat": 53.5884,
@@ -97,26 +117,6 @@
     "intensity": 5.1,
     "timestamp": "2026-04-24T12:49:37.014Z",
     "description": "M 5.1 - 164 km E of Petropavlovsk-Kamchatsky, Russia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssiy",
-    "type": "earthquake",
-    "lat": 52.9131,
-    "lng": 160.9481,
-    "intensity": 5.4,
-    "timestamp": "2026-04-24T10:04:37.607Z",
-    "description": "M 5.4 - 156 km E of Petropavlovsk-Kamchatsky, Russia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssiq",
-    "type": "earthquake",
-    "lat": 35.0827,
-    "lng": 25.918,
-    "intensity": 4.7,
-    "timestamp": "2026-04-24T09:26:45.744Z",
-    "description": "M 4.7 - 16 km ENE of Kentrí, Greece",
     "source": "USGS"
   }
 ]
