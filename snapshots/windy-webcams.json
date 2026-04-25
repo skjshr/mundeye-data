@@ -110,17 +110,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "JP",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -616,17 +605,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "JP",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -803,17 +781,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229687591",
-    "name": "Barcelona: Plaça de Catalunya",
-    "city": "Barcelona",
-    "countryCode": "JP",
-    "lat": 41.38565,
-    "lng": 2.17014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1228154082",
     "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
     "city": "San Bartolome de Tirajana",
@@ -821,6 +788,17 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229687591",
+    "name": "Barcelona: Plaça de Catalunya",
+    "city": "Barcelona",
+    "countryCode": "JP",
+    "lat": 41.38565,
+    "lng": 2.17014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5379,17 +5357,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
-    "city": "Sanremo",
-    "countryCode": "JP",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -5397,6 +5364,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
+    "city": "Sanremo",
+    "countryCode": "JP",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5984,17 +5962,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
-    "countryCode": "JP",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -6002,6 +5969,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "JP",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6827,6 +6805,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "JP",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8767,17 +8756,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "JP",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -8785,6 +8763,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
+    "countryCode": "JP",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9295,17 +9284,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "JP",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1472382702",
     "name": "Hong Kong › North-east: Peak Tower",
     "city": "Hong Kong",
@@ -9313,6 +9291,17 @@
     "lat": 22.27095,
     "lng": 114.15031,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "JP",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9614,17 +9603,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295699310",
-    "name": "Offida: Piazza del Popolo",
-    "city": "Offida",
-    "countryCode": "JP",
-    "lat": 42.93452,
-    "lng": 13.69084,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -9632,6 +9610,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295699310",
+    "name": "Offida: Piazza del Popolo",
+    "city": "Offida",
+    "countryCode": "JP",
+    "lat": 42.93452,
+    "lng": 13.69084,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10087,17 +10076,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1548405479",
-    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
-    "city": "Crissolo",
-    "countryCode": "JP",
-    "lat": 44.7006,
-    "lng": 7.11813,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -10105,6 +10083,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1548405479",
+    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
+    "city": "Crissolo",
+    "countryCode": "JP",
+    "lat": 44.7006,
+    "lng": 7.11813,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10318,17 +10307,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
-    "city": "Guarcino",
-    "countryCode": "JP",
-    "lat": 41.83495,
-    "lng": 13.33682,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -10340,13 +10318,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1258320410",
+    "name": "Guarcino: CAMPOCATINOMETEO",
+    "city": "Guarcino",
     "countryCode": "JP",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 41.83495,
+    "lng": 13.33682,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10358,6 +10336,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "JP",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10505,17 +10494,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
-    "countryCode": "JP",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -10523,6 +10501,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
+    "countryCode": "JP",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10967,17 +10956,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "US",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -11473,17 +11451,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "US",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -11660,17 +11627,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229687591",
-    "name": "Barcelona: Plaça de Catalunya",
-    "city": "Barcelona",
-    "countryCode": "US",
-    "lat": 41.38565,
-    "lng": 2.17014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1228154082",
     "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
     "city": "San Bartolome de Tirajana",
@@ -11678,6 +11634,17 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229687591",
+    "name": "Barcelona: Plaça de Catalunya",
+    "city": "Barcelona",
+    "countryCode": "US",
+    "lat": 41.38565,
+    "lng": 2.17014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16236,17 +16203,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
-    "city": "Sanremo",
-    "countryCode": "US",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -16254,6 +16210,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
+    "city": "Sanremo",
+    "countryCode": "US",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16841,17 +16808,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
-    "countryCode": "US",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -16859,6 +16815,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "US",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17684,6 +17651,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "US",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19624,17 +19602,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "US",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -19642,6 +19609,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
+    "countryCode": "US",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20152,17 +20130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "US",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1472382702",
     "name": "Hong Kong › North-east: Peak Tower",
     "city": "Hong Kong",
@@ -20170,6 +20137,17 @@
     "lat": 22.27095,
     "lng": 114.15031,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "US",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20471,17 +20449,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295699310",
-    "name": "Offida: Piazza del Popolo",
-    "city": "Offida",
-    "countryCode": "US",
-    "lat": 42.93452,
-    "lng": 13.69084,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -20489,6 +20456,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295699310",
+    "name": "Offida: Piazza del Popolo",
+    "city": "Offida",
+    "countryCode": "US",
+    "lat": 42.93452,
+    "lng": 13.69084,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20944,17 +20922,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1548405479",
-    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
-    "city": "Crissolo",
-    "countryCode": "US",
-    "lat": 44.7006,
-    "lng": 7.11813,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -20962,6 +20929,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1548405479",
+    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
+    "city": "Crissolo",
+    "countryCode": "US",
+    "lat": 44.7006,
+    "lng": 7.11813,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21175,17 +21153,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
-    "city": "Guarcino",
-    "countryCode": "US",
-    "lat": 41.83495,
-    "lng": 13.33682,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -21197,13 +21164,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1258320410",
+    "name": "Guarcino: CAMPOCATINOMETEO",
+    "city": "Guarcino",
     "countryCode": "US",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 41.83495,
+    "lng": 13.33682,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21215,6 +21182,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "US",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21362,17 +21340,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
-    "countryCode": "US",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -21380,6 +21347,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
+    "countryCode": "US",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21824,17 +21802,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "GB",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -22330,17 +22297,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "GB",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -22517,17 +22473,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229687591",
-    "name": "Barcelona: Plaça de Catalunya",
-    "city": "Barcelona",
-    "countryCode": "GB",
-    "lat": 41.38565,
-    "lng": 2.17014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1228154082",
     "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
     "city": "San Bartolome de Tirajana",
@@ -22535,6 +22480,17 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229687591",
+    "name": "Barcelona: Plaça de Catalunya",
+    "city": "Barcelona",
+    "countryCode": "GB",
+    "lat": 41.38565,
+    "lng": 2.17014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27093,17 +27049,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
-    "city": "Sanremo",
-    "countryCode": "GB",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -27111,6 +27056,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
+    "city": "Sanremo",
+    "countryCode": "GB",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27698,17 +27654,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
-    "countryCode": "GB",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -27716,6 +27661,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "GB",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28541,6 +28497,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "GB",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30481,17 +30448,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "GB",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -30499,6 +30455,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
+    "countryCode": "GB",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31009,17 +30976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "GB",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1472382702",
     "name": "Hong Kong › North-east: Peak Tower",
     "city": "Hong Kong",
@@ -31027,6 +30983,17 @@
     "lat": 22.27095,
     "lng": 114.15031,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "GB",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31328,17 +31295,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295699310",
-    "name": "Offida: Piazza del Popolo",
-    "city": "Offida",
-    "countryCode": "GB",
-    "lat": 42.93452,
-    "lng": 13.69084,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -31346,6 +31302,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295699310",
+    "name": "Offida: Piazza del Popolo",
+    "city": "Offida",
+    "countryCode": "GB",
+    "lat": 42.93452,
+    "lng": 13.69084,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31801,17 +31768,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1548405479",
-    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
-    "city": "Crissolo",
-    "countryCode": "GB",
-    "lat": 44.7006,
-    "lng": 7.11813,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -31819,6 +31775,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1548405479",
+    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
+    "city": "Crissolo",
+    "countryCode": "GB",
+    "lat": 44.7006,
+    "lng": 7.11813,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32032,17 +31999,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
-    "city": "Guarcino",
-    "countryCode": "GB",
-    "lat": 41.83495,
-    "lng": 13.33682,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -32054,13 +32010,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1258320410",
+    "name": "Guarcino: CAMPOCATINOMETEO",
+    "city": "Guarcino",
     "countryCode": "GB",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 41.83495,
+    "lng": 13.33682,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32072,6 +32028,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "GB",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32219,17 +32186,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
-    "countryCode": "GB",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -32237,6 +32193,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
+    "countryCode": "GB",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32681,17 +32648,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "DE",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -33187,17 +33143,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "DE",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -33374,17 +33319,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229687591",
-    "name": "Barcelona: Plaça de Catalunya",
-    "city": "Barcelona",
-    "countryCode": "DE",
-    "lat": 41.38565,
-    "lng": 2.17014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1228154082",
     "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
     "city": "San Bartolome de Tirajana",
@@ -33392,6 +33326,17 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229687591",
+    "name": "Barcelona: Plaça de Catalunya",
+    "city": "Barcelona",
+    "countryCode": "DE",
+    "lat": 41.38565,
+    "lng": 2.17014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37950,17 +37895,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
-    "city": "Sanremo",
-    "countryCode": "DE",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -37968,6 +37902,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
+    "city": "Sanremo",
+    "countryCode": "DE",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38555,17 +38500,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
-    "countryCode": "DE",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -38573,6 +38507,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "DE",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39398,6 +39343,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "DE",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41338,17 +41294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "DE",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -41356,6 +41301,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
+    "countryCode": "DE",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41866,17 +41822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "DE",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1472382702",
     "name": "Hong Kong › North-east: Peak Tower",
     "city": "Hong Kong",
@@ -41884,6 +41829,17 @@
     "lat": 22.27095,
     "lng": 114.15031,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "DE",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42185,17 +42141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295699310",
-    "name": "Offida: Piazza del Popolo",
-    "city": "Offida",
-    "countryCode": "DE",
-    "lat": 42.93452,
-    "lng": 13.69084,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -42203,6 +42148,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295699310",
+    "name": "Offida: Piazza del Popolo",
+    "city": "Offida",
+    "countryCode": "DE",
+    "lat": 42.93452,
+    "lng": 13.69084,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42658,17 +42614,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1548405479",
-    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
-    "city": "Crissolo",
-    "countryCode": "DE",
-    "lat": 44.7006,
-    "lng": 7.11813,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -42676,6 +42621,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1548405479",
+    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
+    "city": "Crissolo",
+    "countryCode": "DE",
+    "lat": 44.7006,
+    "lng": 7.11813,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42889,17 +42845,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
-    "city": "Guarcino",
-    "countryCode": "DE",
-    "lat": 41.83495,
-    "lng": 13.33682,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -42911,13 +42856,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1258320410",
+    "name": "Guarcino: CAMPOCATINOMETEO",
+    "city": "Guarcino",
     "countryCode": "DE",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 41.83495,
+    "lng": 13.33682,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42929,6 +42874,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "DE",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43076,17 +43032,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
-    "countryCode": "DE",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -43094,6 +43039,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
+    "countryCode": "DE",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43538,17 +43494,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "FR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -44044,17 +43989,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "FR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -44231,17 +44165,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229687591",
-    "name": "Barcelona: Plaça de Catalunya",
-    "city": "Barcelona",
-    "countryCode": "FR",
-    "lat": 41.38565,
-    "lng": 2.17014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1228154082",
     "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
     "city": "San Bartolome de Tirajana",
@@ -44249,6 +44172,17 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229687591",
+    "name": "Barcelona: Plaça de Catalunya",
+    "city": "Barcelona",
+    "countryCode": "FR",
+    "lat": 41.38565,
+    "lng": 2.17014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48807,17 +48741,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
-    "city": "Sanremo",
-    "countryCode": "FR",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -48825,6 +48748,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
+    "city": "Sanremo",
+    "countryCode": "FR",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49412,17 +49346,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
-    "countryCode": "FR",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -49430,6 +49353,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "FR",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50255,6 +50189,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "FR",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52195,17 +52140,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "FR",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -52213,6 +52147,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
+    "countryCode": "FR",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52723,17 +52668,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "FR",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1472382702",
     "name": "Hong Kong › North-east: Peak Tower",
     "city": "Hong Kong",
@@ -52741,6 +52675,17 @@
     "lat": 22.27095,
     "lng": 114.15031,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "FR",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53042,17 +52987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295699310",
-    "name": "Offida: Piazza del Popolo",
-    "city": "Offida",
-    "countryCode": "FR",
-    "lat": 42.93452,
-    "lng": 13.69084,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -53060,6 +52994,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295699310",
+    "name": "Offida: Piazza del Popolo",
+    "city": "Offida",
+    "countryCode": "FR",
+    "lat": 42.93452,
+    "lng": 13.69084,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53515,17 +53460,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1548405479",
-    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
-    "city": "Crissolo",
-    "countryCode": "FR",
-    "lat": 44.7006,
-    "lng": 7.11813,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -53533,6 +53467,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1548405479",
+    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
+    "city": "Crissolo",
+    "countryCode": "FR",
+    "lat": 44.7006,
+    "lng": 7.11813,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53746,17 +53691,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
-    "city": "Guarcino",
-    "countryCode": "FR",
-    "lat": 41.83495,
-    "lng": 13.33682,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -53768,13 +53702,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1258320410",
+    "name": "Guarcino: CAMPOCATINOMETEO",
+    "city": "Guarcino",
     "countryCode": "FR",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 41.83495,
+    "lng": 13.33682,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53786,6 +53720,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "FR",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53933,17 +53878,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
-    "countryCode": "FR",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -53951,6 +53885,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
+    "countryCode": "FR",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54395,17 +54340,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "CN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -54901,17 +54835,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "CN",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -55088,17 +55011,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229687591",
-    "name": "Barcelona: Plaça de Catalunya",
-    "city": "Barcelona",
-    "countryCode": "CN",
-    "lat": 41.38565,
-    "lng": 2.17014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1228154082",
     "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
     "city": "San Bartolome de Tirajana",
@@ -55106,6 +55018,17 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229687591",
+    "name": "Barcelona: Plaça de Catalunya",
+    "city": "Barcelona",
+    "countryCode": "CN",
+    "lat": 41.38565,
+    "lng": 2.17014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59664,17 +59587,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
-    "city": "Sanremo",
-    "countryCode": "CN",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -59682,6 +59594,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
+    "city": "Sanremo",
+    "countryCode": "CN",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60269,17 +60192,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
-    "countryCode": "CN",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -60287,6 +60199,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "CN",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61112,6 +61035,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "CN",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63052,17 +62986,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "CN",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -63070,6 +62993,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
+    "countryCode": "CN",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63580,17 +63514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "CN",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1472382702",
     "name": "Hong Kong › North-east: Peak Tower",
     "city": "Hong Kong",
@@ -63598,6 +63521,17 @@
     "lat": 22.27095,
     "lng": 114.15031,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "CN",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63899,17 +63833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295699310",
-    "name": "Offida: Piazza del Popolo",
-    "city": "Offida",
-    "countryCode": "CN",
-    "lat": 42.93452,
-    "lng": 13.69084,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -63917,6 +63840,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295699310",
+    "name": "Offida: Piazza del Popolo",
+    "city": "Offida",
+    "countryCode": "CN",
+    "lat": 42.93452,
+    "lng": 13.69084,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64372,17 +64306,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1548405479",
-    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
-    "city": "Crissolo",
-    "countryCode": "CN",
-    "lat": 44.7006,
-    "lng": 7.11813,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -64390,6 +64313,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1548405479",
+    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
+    "city": "Crissolo",
+    "countryCode": "CN",
+    "lat": 44.7006,
+    "lng": 7.11813,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64603,17 +64537,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
-    "city": "Guarcino",
-    "countryCode": "CN",
-    "lat": 41.83495,
-    "lng": 13.33682,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -64625,13 +64548,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1258320410",
+    "name": "Guarcino: CAMPOCATINOMETEO",
+    "city": "Guarcino",
     "countryCode": "CN",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 41.83495,
+    "lng": 13.33682,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64643,6 +64566,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "CN",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64790,17 +64724,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
-    "countryCode": "CN",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -64808,6 +64731,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
+    "countryCode": "CN",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65252,17 +65186,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "KR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -65758,17 +65681,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "KR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -65945,17 +65857,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229687591",
-    "name": "Barcelona: Plaça de Catalunya",
-    "city": "Barcelona",
-    "countryCode": "KR",
-    "lat": 41.38565,
-    "lng": 2.17014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1228154082",
     "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
     "city": "San Bartolome de Tirajana",
@@ -65963,6 +65864,17 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229687591",
+    "name": "Barcelona: Plaça de Catalunya",
+    "city": "Barcelona",
+    "countryCode": "KR",
+    "lat": 41.38565,
+    "lng": 2.17014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70521,17 +70433,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
-    "city": "Sanremo",
-    "countryCode": "KR",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -70539,6 +70440,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
+    "city": "Sanremo",
+    "countryCode": "KR",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71126,17 +71038,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
-    "countryCode": "KR",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -71144,6 +71045,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "KR",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71969,6 +71881,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "KR",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73909,17 +73832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "KR",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -73927,6 +73839,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
+    "countryCode": "KR",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74437,17 +74360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "KR",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1472382702",
     "name": "Hong Kong › North-east: Peak Tower",
     "city": "Hong Kong",
@@ -74455,6 +74367,17 @@
     "lat": 22.27095,
     "lng": 114.15031,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "KR",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74756,17 +74679,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295699310",
-    "name": "Offida: Piazza del Popolo",
-    "city": "Offida",
-    "countryCode": "KR",
-    "lat": 42.93452,
-    "lng": 13.69084,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -74774,6 +74686,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295699310",
+    "name": "Offida: Piazza del Popolo",
+    "city": "Offida",
+    "countryCode": "KR",
+    "lat": 42.93452,
+    "lng": 13.69084,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75229,17 +75152,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1548405479",
-    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
-    "city": "Crissolo",
-    "countryCode": "KR",
-    "lat": 44.7006,
-    "lng": 7.11813,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -75247,6 +75159,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1548405479",
+    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
+    "city": "Crissolo",
+    "countryCode": "KR",
+    "lat": 44.7006,
+    "lng": 7.11813,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75460,17 +75383,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
-    "city": "Guarcino",
-    "countryCode": "KR",
-    "lat": 41.83495,
-    "lng": 13.33682,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -75482,13 +75394,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1258320410",
+    "name": "Guarcino: CAMPOCATINOMETEO",
+    "city": "Guarcino",
     "countryCode": "KR",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 41.83495,
+    "lng": 13.33682,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75500,6 +75412,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "KR",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75647,17 +75570,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
-    "countryCode": "KR",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -75665,6 +75577,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
+    "countryCode": "KR",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76109,17 +76032,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "IN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -76615,17 +76527,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "IN",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -76802,17 +76703,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229687591",
-    "name": "Barcelona: Plaça de Catalunya",
-    "city": "Barcelona",
-    "countryCode": "IN",
-    "lat": 41.38565,
-    "lng": 2.17014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1228154082",
     "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
     "city": "San Bartolome de Tirajana",
@@ -76820,6 +76710,17 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229687591",
+    "name": "Barcelona: Plaça de Catalunya",
+    "city": "Barcelona",
+    "countryCode": "IN",
+    "lat": 41.38565,
+    "lng": 2.17014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81378,17 +81279,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
-    "city": "Sanremo",
-    "countryCode": "IN",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -81396,6 +81286,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
+    "city": "Sanremo",
+    "countryCode": "IN",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81983,17 +81884,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
-    "countryCode": "IN",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -82001,6 +81891,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "IN",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82826,6 +82727,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "IN",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84766,17 +84678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "IN",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -84784,6 +84685,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
+    "countryCode": "IN",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85294,17 +85206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "IN",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1472382702",
     "name": "Hong Kong › North-east: Peak Tower",
     "city": "Hong Kong",
@@ -85312,6 +85213,17 @@
     "lat": 22.27095,
     "lng": 114.15031,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "IN",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85613,17 +85525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295699310",
-    "name": "Offida: Piazza del Popolo",
-    "city": "Offida",
-    "countryCode": "IN",
-    "lat": 42.93452,
-    "lng": 13.69084,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -85631,6 +85532,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295699310",
+    "name": "Offida: Piazza del Popolo",
+    "city": "Offida",
+    "countryCode": "IN",
+    "lat": 42.93452,
+    "lng": 13.69084,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86086,17 +85998,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1548405479",
-    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
-    "city": "Crissolo",
-    "countryCode": "IN",
-    "lat": 44.7006,
-    "lng": 7.11813,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -86104,6 +86005,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1548405479",
+    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
+    "city": "Crissolo",
+    "countryCode": "IN",
+    "lat": 44.7006,
+    "lng": 7.11813,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86317,17 +86229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
-    "city": "Guarcino",
-    "countryCode": "IN",
-    "lat": 41.83495,
-    "lng": 13.33682,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -86339,13 +86240,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1258320410",
+    "name": "Guarcino: CAMPOCATINOMETEO",
+    "city": "Guarcino",
     "countryCode": "IN",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 41.83495,
+    "lng": 13.33682,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86357,6 +86258,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "IN",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86504,17 +86416,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
-    "countryCode": "IN",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -86522,6 +86423,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
+    "countryCode": "IN",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86966,17 +86878,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "BR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -87472,17 +87373,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "BR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -87659,17 +87549,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229687591",
-    "name": "Barcelona: Plaça de Catalunya",
-    "city": "Barcelona",
-    "countryCode": "BR",
-    "lat": 41.38565,
-    "lng": 2.17014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1228154082",
     "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
     "city": "San Bartolome de Tirajana",
@@ -87677,6 +87556,17 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229687591",
+    "name": "Barcelona: Plaça de Catalunya",
+    "city": "Barcelona",
+    "countryCode": "BR",
+    "lat": 41.38565,
+    "lng": 2.17014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92235,17 +92125,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
-    "city": "Sanremo",
-    "countryCode": "BR",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -92253,6 +92132,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
+    "city": "Sanremo",
+    "countryCode": "BR",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92840,17 +92730,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
-    "countryCode": "BR",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -92858,6 +92737,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "BR",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93683,6 +93573,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "BR",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95623,17 +95524,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "BR",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -95641,6 +95531,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
+    "countryCode": "BR",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96151,17 +96052,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "BR",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1472382702",
     "name": "Hong Kong › North-east: Peak Tower",
     "city": "Hong Kong",
@@ -96169,6 +96059,17 @@
     "lat": 22.27095,
     "lng": 114.15031,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "BR",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96470,17 +96371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295699310",
-    "name": "Offida: Piazza del Popolo",
-    "city": "Offida",
-    "countryCode": "BR",
-    "lat": 42.93452,
-    "lng": 13.69084,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -96488,6 +96378,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295699310",
+    "name": "Offida: Piazza del Popolo",
+    "city": "Offida",
+    "countryCode": "BR",
+    "lat": 42.93452,
+    "lng": 13.69084,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96943,17 +96844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1548405479",
-    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
-    "city": "Crissolo",
-    "countryCode": "BR",
-    "lat": 44.7006,
-    "lng": 7.11813,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -96961,6 +96851,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1548405479",
+    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
+    "city": "Crissolo",
+    "countryCode": "BR",
+    "lat": 44.7006,
+    "lng": 7.11813,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97174,17 +97075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
-    "city": "Guarcino",
-    "countryCode": "BR",
-    "lat": 41.83495,
-    "lng": 13.33682,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -97196,13 +97086,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1258320410",
+    "name": "Guarcino: CAMPOCATINOMETEO",
+    "city": "Guarcino",
     "countryCode": "BR",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 41.83495,
+    "lng": 13.33682,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97214,6 +97104,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "BR",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97361,17 +97262,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
-    "countryCode": "BR",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -97379,6 +97269,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
+    "countryCode": "BR",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97823,17 +97724,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "AU",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -98329,17 +98219,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "AU",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1010222761",
     "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
     "city": "Grindelwald",
@@ -98516,17 +98395,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229687591",
-    "name": "Barcelona: Plaça de Catalunya",
-    "city": "Barcelona",
-    "countryCode": "AU",
-    "lat": 41.38565,
-    "lng": 2.17014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1228154082",
     "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
     "city": "San Bartolome de Tirajana",
@@ -98534,6 +98402,17 @@
     "lat": 27.73698,
     "lng": -15.59462,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229687591",
+    "name": "Barcelona: Plaça de Catalunya",
+    "city": "Barcelona",
+    "countryCode": "AU",
+    "lat": 41.38565,
+    "lng": 2.17014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103092,17 +102971,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1182187198",
-    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
-    "city": "Sanremo",
-    "countryCode": "AU",
-    "lat": 43.81726,
-    "lng": 7.78062,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -103110,6 +102978,17 @@
     "lat": 14.96506,
     "lng": 102.0423,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256082169/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1182187198",
+    "name": "Sanremo: Vista della spiaggia di - e della marina di Portosole",
+    "city": "Sanremo",
+    "countryCode": "AU",
+    "lat": 43.81726,
+    "lng": 7.78062,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187198/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103697,17 +103576,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
-    "countryCode": "AU",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1456874522",
     "name": "Vladivostok › South-east: Pos'etskaya Vladi",
     "city": "Vladivostok",
@@ -103715,6 +103583,17 @@
     "lat": 43.1121,
     "lng": 131.87948,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456874522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "AU",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104540,6 +104419,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "AU",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106480,17 +106370,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1401952091",
-    "name": "Strachan › South: Cairn O'Mount Road",
-    "city": "Strachan",
-    "countryCode": "AU",
-    "lat": 56.96278,
-    "lng": -2.57569,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -106498,6 +106377,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1401952091",
+    "name": "Strachan › South: Cairn O'Mount Road",
+    "city": "Strachan",
+    "countryCode": "AU",
+    "lat": 56.96278,
+    "lng": -2.57569,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401952091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107008,17 +106898,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "AU",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1472382702",
     "name": "Hong Kong › North-east: Peak Tower",
     "city": "Hong Kong",
@@ -107026,6 +106905,17 @@
     "lat": 22.27095,
     "lng": 114.15031,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1472382702/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "AU",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107327,17 +107217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295699310",
-    "name": "Offida: Piazza del Popolo",
-    "city": "Offida",
-    "countryCode": "AU",
-    "lat": 42.93452,
-    "lng": 13.69084,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1326740058",
     "name": "Castagneto Carducci: Circolo Nautico Donoratico",
     "city": "Castagneto Carducci",
@@ -107345,6 +107224,17 @@
     "lat": 43.18326,
     "lng": 10.53824,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295699310",
+    "name": "Offida: Piazza del Popolo",
+    "city": "Offida",
+    "countryCode": "AU",
+    "lat": 42.93452,
+    "lng": 13.69084,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295699310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107800,17 +107690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1548405479",
-    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
-    "city": "Crissolo",
-    "countryCode": "AU",
-    "lat": 44.7006,
-    "lng": 7.11813,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -107818,6 +107697,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1548405479",
+    "name": "Crissolo: Piemonte, Italia: Pian della Regina",
+    "city": "Crissolo",
+    "countryCode": "AU",
+    "lat": 44.7006,
+    "lng": 7.11813,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1548405479/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108031,17 +107921,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
-    "city": "Guarcino",
-    "countryCode": "AU",
-    "lat": 41.83495,
-    "lng": 13.33682,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1612893548",
     "name": "Wimereux › West: Plage Wimereux",
     "city": "Wimereux",
@@ -108053,13 +107932,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1545396501",
-    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
-    "city": "Kirkja",
+    "id": "windy-1258320410",
+    "name": "Guarcino: CAMPOCATINOMETEO",
+    "city": "Guarcino",
     "countryCode": "AU",
-    "lat": 62.3194,
-    "lng": -6.32016,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "lat": 41.83495,
+    "lng": 13.33682,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1258320410/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108071,6 +107950,17 @@
     "lat": 31.56019,
     "lng": 130.55814,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545396501",
+    "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
+    "city": "Kirkja",
+    "countryCode": "AU",
+    "lat": 62.3194,
+    "lng": -6.32016,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108218,17 +108108,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
-    "countryCode": "AU",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -108236,6 +108115,17 @@
     "lat": 38.67922,
     "lng": -9.17496,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1537250912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
+    "countryCode": "AU",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
