@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sswe",
+    "type": "earthquake",
+    "lat": -5.633,
+    "lng": 103.2816,
+    "intensity": 4.7,
+    "timestamp": "2026-04-25T23:00:58.746Z",
+    "description": "M 4.7 - 177 km S of Pagar Alam, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssvu",
     "type": "earthquake",
     "lat": 39.8948,
