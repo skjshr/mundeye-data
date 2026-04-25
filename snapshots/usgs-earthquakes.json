@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sspm",
+    "type": "earthquake",
+    "lat": 14.0519,
+    "lng": 51.6612,
+    "intensity": 4.5,
+    "timestamp": "2026-04-24T21:47:45.247Z",
+    "description": "M 4.5 - 215 km NNW of Kilmia, Yemen",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssn7",
     "type": "earthquake",
     "lat": -31.0308,
@@ -147,36 +157,6 @@
     "intensity": 4.5,
     "timestamp": "2026-04-24T03:15:33.895Z",
     "description": "M 4.5 - 151 km W of Neiafu, Tonga",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssgv",
-    "type": "earthquake",
-    "lat": -34.7235,
-    "lng": -179.1959,
-    "intensity": 5.4,
-    "timestamp": "2026-04-24T01:51:59.835Z",
-    "description": "M 5.4 - south of the Kermadec Islands",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssgq",
-    "type": "earthquake",
-    "lat": 52.4282,
-    "lng": -168.3713,
-    "intensity": 4.7,
-    "timestamp": "2026-04-24T01:01:06.682Z",
-    "description": "M 4.7 - 65 km SSE of Nikolski, Alaska",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssgp",
-    "type": "earthquake",
-    "lat": -18.8416,
-    "lng": 168.9718,
-    "intensity": 4.5,
-    "timestamp": "2026-04-24T00:21:22.140Z",
-    "description": "M 4.5 - 84 km NNW of Isangel, Vanuatu",
     "source": "USGS"
   }
 ]
