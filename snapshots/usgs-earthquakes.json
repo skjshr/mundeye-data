@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000st16",
+    "type": "earthquake",
+    "lat": 40.311,
+    "lng": 51.7016,
+    "intensity": 4.5,
+    "timestamp": "2026-04-26T17:09:17.927Z",
+    "description": "M 4.5 - 111 km WNW of Türkmenbaşy, Turkmenistan",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000st11",
+    "type": "earthquake",
+    "lat": 39.9892,
+    "lng": 142.7328,
+    "intensity": 5,
+    "timestamp": "2026-04-26T16:57:22.275Z",
+    "description": "M 5.0 - 77 km ENE of Miyako, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000st08",
     "type": "earthquake",
     "lat": 51.4865,
@@ -107,16 +127,6 @@
     "intensity": 4.9,
     "timestamp": "2026-04-25T19:49:58.244Z",
     "description": "M 4.9 - 14 km ENE of Kentrí, Greece",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssuz",
-    "type": "earthquake",
-    "lat": 0.2021,
-    "lng": 125.9627,
-    "intensity": 4.6,
-    "timestamp": "2026-04-25T17:40:24.367Z",
-    "description": "M 4.6 - 165 km SE of Bitung, Indonesia",
     "source": "USGS"
   }
 ]
