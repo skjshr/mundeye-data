@@ -118,25 +118,5 @@
     "timestamp": "2026-04-25T10:20:21.431Z",
     "description": "M 5.2 - 34 km SE of Vilyuchinsk, Russia",
     "source": "USGS"
-  },
-  {
-    "id": "us6000sst2",
-    "type": "earthquake",
-    "lat": -8.9734,
-    "lng": -74.9018,
-    "intensity": 4.6,
-    "timestamp": "2026-04-25T09:53:40.539Z",
-    "description": "M 4.6 - 22 km WSW of Tournavista, Peru",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sssz",
-    "type": "earthquake",
-    "lat": 51.2238,
-    "lng": 89.8293,
-    "intensity": 4.7,
-    "timestamp": "2026-04-25T09:40:38.381Z",
-    "description": "M 4.7 - 35 km NW of Teeli, Russia",
-    "source": "USGS"
   }
 ]
