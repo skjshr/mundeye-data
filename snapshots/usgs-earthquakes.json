@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000ssxr",
+    "type": "earthquake",
+    "lat": 53.7119,
+    "lng": -164.8126,
+    "intensity": 4.6,
+    "timestamp": "2026-04-26T04:26:59.156Z",
+    "description": "M 4.6 - 78 km SE of Akutan, Alaska",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000ssxt",
+    "type": "earthquake",
+    "lat": 46.7887,
+    "lng": 92.9681,
+    "intensity": 5.9,
+    "timestamp": "2026-04-26T04:23:24.102Z",
+    "description": "M 5.9 - 168 km SE of Khovd, Mongolia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000ssxk",
     "type": "earthquake",
     "lat": 52.2084,
@@ -127,16 +147,6 @@
     "intensity": 5.4,
     "timestamp": "2026-04-25T08:05:56.204Z",
     "description": "M 5.4 - 83 km SE of Akutan, Alaska",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssrm",
-    "type": "earthquake",
-    "lat": 52.2239,
-    "lng": 176.5528,
-    "intensity": 4.5,
-    "timestamp": "2026-04-25T05:18:45.076Z",
-    "description": "M 4.5 - 238 km ESE of Attu Station, Alaska",
     "source": "USGS"
   }
 ]
