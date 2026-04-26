@@ -138,25 +138,5 @@
     "timestamp": "2026-04-25T09:40:38.381Z",
     "description": "M 4.7 - 35 km NW of Teeli, Russia",
     "source": "USGS"
-  },
-  {
-    "id": "us6000ssss",
-    "type": "earthquake",
-    "lat": -5.0454,
-    "lng": 130.5676,
-    "intensity": 4.6,
-    "timestamp": "2026-04-25T09:07:07.123Z",
-    "description": "M 4.6 - 250 km WNW of Tual, Indonesia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sssg",
-    "type": "earthquake",
-    "lat": 53.5884,
-    "lng": -164.9144,
-    "intensity": 5.4,
-    "timestamp": "2026-04-25T08:05:56.204Z",
-    "description": "M 5.4 - 83 km SE of Akutan, Alaska",
-    "source": "USGS"
   }
 ]
