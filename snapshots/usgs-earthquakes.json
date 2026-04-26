@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sswn",
+    "type": "earthquake",
+    "lat": -30.2935,
+    "lng": -177.8716,
+    "intensity": 4.9,
+    "timestamp": "2026-04-25T23:35:19.847Z",
+    "description": "M 4.9 - Kermadec Islands, New Zealand",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sswe",
     "type": "earthquake",
     "lat": -5.633,
@@ -137,16 +147,6 @@
     "intensity": 4.5,
     "timestamp": "2026-04-25T02:09:28.475Z",
     "description": "M 4.5 - 47 km SW of Champerico, Guatemala",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssqb",
-    "type": "earthquake",
-    "lat": -4.6304,
-    "lng": 153.6037,
-    "intensity": 4.6,
-    "timestamp": "2026-04-24T23:59:31.491Z",
-    "description": "M 4.6 - 151 km ESE of Kokopo, Papua New Guinea",
     "source": "USGS"
   }
 ]
