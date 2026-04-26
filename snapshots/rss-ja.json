@@ -1,6 +1,510 @@
 [
   {
-    "id": "France 24-0-of-presidential-election",
+    "id": "DW-0-a=en-rss-en-all-1573-rdf",
+    "headline": "Is Germany's pension system still secure?",
+    "sourceName": "DW",
+    "sourceUrl": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-all-1573-rdf",
+    "publishedAt": "2026-04-26T07:54:00.000Z",
+    "countryCode": "DE",
+    "lang": "en"
+  },
+  {
+    "id": "ANSA-5-1-9113-e155c94a6c62.html",
+    "headline": "Sparatoria al gala dei media con Trump, arrestato l'aggressore",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/mondo/2026/04/26/sparatoria-al-gala-dei-media-con-trump-arrestato-laggressore-_60bfcf1c-6673-41e1-9113-e155c94a6c62.html",
+    "publishedAt": "2026-04-26T07:52:23.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "NHK-4-426/k10015108391000.html",
+    "headline": "岩手 大槌町の山林火災 約1373ヘクタールが焼ける",
+    "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108391000.html",
+    "publishedAt": "2026-04-26T07:50:58.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "The Hindu-0-lert/article70907809.ece",
+    "headline": "Engineering student harassed in Vijayawada auto, accused booked after Sakthi App alert",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/engineering-student-harassed-in-vijayawada-auto-accused-booked-after-sakthi-app-alert/article70907809.ece",
+    "publishedAt": "2026-04-26T07:45:03.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-0-ggets?traffic_source=rss",
+    "headline": "Anthony Edwards injures knee in Timberwolves’ Game 4 win against Nuggets",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/sports/2026/4/26/anthony-edwards-injures-knee-in-timberwolves-game-4-win-against-nuggets?traffic_source=rss",
+    "publishedAt": "2026-04-26T07:42:38.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "NHK-5-426/k10015108641000.html",
+    "headline": "福島 喜多方で山林火災 178世帯458人に避難指示",
+    "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108641000.html",
+    "publishedAt": "2026-04-26T07:41:46.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "DW-1-a=en-rss-en-all-1573-rdf",
+    "headline": "Iran war: Peace talks on hold, what's next?",
+    "sourceName": "DW",
+    "sourceUrl": "https://www.dw.com/en/iran-war-peace-talks-on-hold-what-s-next/live-76939472?maca=en-rss-en-all-1573-rdf",
+    "publishedAt": "2026-04-26T07:40:00.000Z",
+    "countryCode": "DE",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-1-ople/article70904910.ece",
+    "headline": "1,000 days of Annavaasal: Erode’s dusk meal mission feeds over 2.5 lakh people",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/1000-days-of-annavaasal-erodes-dusk-meal-mission-feeds-over-25-lakh-people/article70904910.ece",
+    "publishedAt": "2026-04-26T07:39:21.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "France 24-0--white-house-journalists",
+    "headline": "What we know about the shooting at Trump's dinner with White House journalists",
+    "sourceName": "France 24",
+    "sourceUrl": "https://www.france24.com/en/americas/20260426-what-we-know-about-the-shooting-at-trump-s-dinner-with-white-house-journalists",
+    "publishedAt": "2026-04-26T07:33:17.000Z",
+    "countryCode": "FR",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-2-erns/article70906091.ece",
+    "headline": "Tagged Olive Ridley turtles from Tamil Nadu reach Sri Lanka Dome, reveal migration patterns",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tagged-olive-ridley-turtles-from-tn-reach-sri-lanka-dome-reveal-migration-patterns/article70906091.ece",
+    "publishedAt": "2026-04-26T07:32:02.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-3-2026/article70907853.ece",
+    "headline": "India, New Zealand to sign FTA on April 27; deal provides Indian exporters 100% duty-free access",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/business/Economy/india-new-zealand-to-sign-fta-on-april-27-2026/article70907853.ece",
+    "publishedAt": "2026-04-26T07:31:30.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-4-fy27/article70908025.ece",
+    "headline": "Adani Green to invest ₹15,000 crore to add 10 gigawatt battery storage in FY27",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/business/Industry/adani-green-to-invest-15000-crore-to-add-10-gigawatt-battery-storage-in-fy27/article70908025.ece",
+    "publishedAt": "2026-04-26T07:30:08.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-5-port/article70907898.ece",
+    "headline": "Zurich-bound Swiss plane aborts take-off at Delhi airport",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/zurich-bound-swiss-plane-aborts-take-off-at-delhi-airport/article70907898.ece",
+    "publishedAt": "2026-04-26T07:29:40.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-0-os-jantar-gala-eua.ghtml",
+    "headline": "Segurança fraca, 'momento traumático' e investigações ao suspeito: o que se sabe sobre tiros em jantar de gala nos EUA",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/26/seguranca-fraca-momento-traumatico-investigacoes-o-que-se-sabe-tiros-jantar-gala-eua.ghtml",
+    "publishedAt": "2026-04-26T07:26:23.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "The Hindu-6--roy/article70902848.ece",
+    "headline": "Interview | BJP will form govt. on its own strength this time in Bengal, says senior leader Tapas Roy",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-will-form-government-on-its-own-strength-this-time-in-west-bengal-says-senior-leader-tapas-roy/article70902848.ece",
+    "publishedAt": "2026-04-26T07:22:40.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "NHK-0-426/k10015108571000.html",
+    "headline": "トランプ氏出席の夕食会で発砲か「発砲者は確保」とSNSに投稿",
+    "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108571000.html",
+    "publishedAt": "2026-04-26T07:20:54.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "The Hindu-7-ults/article70907689.ece",
+    "headline": "Assembly Elections 2026 LIVE: PM Modi to address rallies, visit temples, take part in road show in West Bengal today",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-26-2026-tamil-nadu-kerala-puducherry-assam-west-bengal-results/article70907689.ece",
+    "publishedAt": "2026-04-26T07:19:30.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-8-t-83/article70907614.ece",
+    "headline": "Raghu Rai, renowned photographer, passes away at 83",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/entertainment/art/raghu-rai-renowned-photographer-passes-away-at-83/article70907614.ece",
+    "publishedAt": "2026-04-26T07:18:09.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "ANSA-13-2-b481-18c8d59a30f4.html",
+    "headline": "Spari al gala dei corrispondenti della Casa Bianca, Trump portato in salvo",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/videogallery/mondo/2026/04/26/spari-al-gala-dei-corrispondenti-della-casa-bianca-trump-portato-in-salvo_df98b36f-4809-4a32-b481-18c8d59a30f4.html",
+    "publishedAt": "2026-04-26T07:18:04.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "ANSA-20-3-bfcc-3900a6f1ec18.html",
+    "headline": "'Posti di padre in figlio' alla Fenice, nuova polemica su Beatrice Venezi",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/cultura/2026/04/25/posti-di-padre-in-figlio-alla-fenice-nuova-polemica-su-beatrice-venezi_c64a44e2-86b9-4233-bfcc-3900a6f1ec18.html",
+    "publishedAt": "2026-04-26T07:17:29.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "Al Jazeera-1-s-how?traffic_source=rss",
+    "headline": "We can make sure another Chornobyl disaster does not happen, here is how",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/opinions/2026/4/26/we-can-make-sure-another-chornobyl-disaster-does-not-happen-here-is-how?traffic_source=rss",
+    "publishedAt": "2026-04-26T07:16:05.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-9-olls/article70905327.ece",
+    "headline": "Tamil Nadu Assembly election 2026: Over 50 lakh more people voted this time compared to 2024 Lok Sabha polls",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-elections-over-50-lakh-morevoters-exercise-their-franchise-this-time-compared-to-2024-lok-sabha-polls/article70905327.ece",
+    "publishedAt": "2026-04-26T07:16:04.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-10-2026/article70907951.ece",
+    "headline": "Mann Ki Baat: PM Modi hails ‘historical milestone’ of Kalpakkam nuclear reactor, strides in wind energy",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/mann-ki-baat-prime-minister-narendra-modi-april-26-2026/article70907951.ece",
+    "publishedAt": "2026-04-26T07:15:58.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-2-o-far?traffic_source=rss",
+    "headline": "Washington shooting: Is Trump safe? What we know so far",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/4/26/washington-shooting-is-trump-safe-what-we-know-so-far?traffic_source=rss",
+    "publishedAt": "2026-04-26T07:15:12.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-11-view/article70907947.ece",
+    "headline": "Panic buying shuts 421 petrol bunks in Andhra Pradesh; CM Naidu orders review",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/panic-buying-shuts-421-petrol-bunks-in-andhra-pradesh-cm-naidu-orders-review/article70907947.ece",
+    "publishedAt": "2026-04-26T07:14:56.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-12-sons/article70906438.ece",
+    "headline": "Dinesh Trivedi | A man for all seasons",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/dinesh-trivedi-a-man-for-all-seasons/article70906438.ece",
+    "publishedAt": "2026-04-26T07:13:13.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Guardian-15-n-sydney-hospital-ntwnfb",
+    "headline": "Patient allegedly attacks several nurses, police and member of the public at Sydney hospital",
+    "sourceName": "The Guardian",
+    "sourceUrl": "https://www.theguardian.com/australia-news/2026/apr/26/patient-shot-with-taser-after-allegedly-injuring-nurse-and-others-in-sydney-hospital-ntwnfb",
+    "publishedAt": "2026-04-26T07:09:25.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "ANSA-19-5-9cce-380538feb7f3.html",
+    "headline": "7,4 milioni di italiani in viaggio per il ponte del primo maggio",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/canale_viaggi/notizie/news/2026/04/25/federalberghi-74-milioni-di-italiani-in-viaggio-per-il-ponte-del-primo-maggio_5ae5ba07-16b3-43f5-9cce-380538feb7f3.html",
+    "publishedAt": "2026-04-26T07:04:19.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "The Hindu-13-e-ii/article70907986.ece",
+    "headline": "Six border villages in J-K's Kathua brought under Centre's Vibrant Village Programme-II",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/six-border-villages-in-j-ks-kathua-brought-under-centres-vibrant-village-programme-ii/article70907986.ece",
+    "publishedAt": "2026-04-26T07:03:30.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-1-etos-desconhecidos.ghtml",
+    "headline": "Quando pais e filhos se tornam completos desconhecidos",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/04/26/quando-pais-e-filhos-se-tornam-completos-desconhecidos.ghtml",
+    "publishedAt": "2026-04-26T07:01:45.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-2-storico-pelo-iphan.ghtml",
+    "headline": "Mais de 260 mil hectares e 39 comunidades: quilombo Kalunga celebra tombamento histórico pelo Iphan",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/go/goias/noticia/2026/04/26/mais-de-260-mil-hectares-e-39-comunidades-quilombo-kalunga-celebra-tombamento-historico-pelo-iphan.ghtml",
+    "publishedAt": "2026-04-26T07:01:43.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-3-oncurso-de-sorvete.ghtml",
+    "headline": "Você conhece a gabiroba gigante? Fruta rara da Mata Atlântica ficou famosa ao vencer concurso de sorvete",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/04/26/voce-conhece-a-gabiroba-gigante-fruta-rara-da-mata-atlantica-ficou-famosa-ao-vencer-concurso-de-sorvete.ghtml",
+    "publishedAt": "2026-04-26T07:01:42.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-4-sejo-no-mundo-todo.ghtml",
+    "headline": "Como China sintoniza com novas gerações para tornar suas marcas objeto de desejo no mundo todo",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/economia/noticia/2026/04/26/como-china-sintoniza-com-novas-geracoes-para-tornar-suas-marcas-objeto-de-desejo-no-mundo-todo.ghtml",
+    "publishedAt": "2026-04-26T07:01:39.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-5-obter-alvara-no-rj.ghtml",
+    "headline": "A igreja luciferiana que chama atenção com castelo e estátuas às margens de rodovia enquanto tenta obter alvará no RJ",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/04/26/a-igreja-luciferiana-que-chama-atencao-com-castelo-e-estatuas-as-margens-de-rodovia-enquanto-tenta-obter-alvara-no-rj.ghtml",
+    "publishedAt": "2026-04-26T07:01:37.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-6--nas-redes-entenda.ghtml",
+    "headline": "Italiana critica brasileiros por uso de leite condensado em doces e cria controvérsia nas redes; entenda",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/26/italiana-critica-brasileiros-por-uso-de-leite-condensado-em-doces-e-cria-controversia-nas-redes-entenda.ghtml",
+    "publishedAt": "2026-04-26T07:01:36.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-7-familia-brasileira.ghtml",
+    "headline": "Vori-vori: prato paraguaio que superou a picanha em ranking internacional é tradição de família brasileira",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/04/26/vori-vori-prato-paraguaio-que-superou-a-picanha-em-ranking-internacional-e-tradicao-de-familia-brasileira.ghtml",
+    "publishedAt": "2026-04-26T07:01:33.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-8-enda-como-funciona.ghtml",
+    "headline": "Indicado ao STF, Jorge Messias passa por sabatina da CCJ do Senado na próxima quarta-feira; entenda como funciona",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/politica/noticia/2026/04/26/indicado-ao-stf-jorge-messias-passa-por-sabatina-da-ccj-do-senado-na-proxima-quarta-feira-entenda-como-funciona.ghtml",
+    "publishedAt": "2026-04-26T07:01:32.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-9-s-tragedia-de-2024.ghtml",
+    "headline": "El Niño forte em 2026 reacende alerta de cheias no RS e testa preparo após tragédia de 2024",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/26/el-nino-forte-em-2026-reacende-alerta-de-cheias-no-rs-e-testa-preparo-apos-tragedia-de-2024.ghtml",
+    "publishedAt": "2026-04-26T07:01:27.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-10--policiais-na-area.ghtml",
+    "headline": "Desde 2024, governo do RJ cortou verba para 'Informação e Inteligência', deixou de executar projetos e reduziu meta de capacitação de policiais na área",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/26/desde-2024-governo-do-rj-cortou-verba-para-informacao-e-inteligencia-deixou-de-executar-projetos-e-reduziu-meta-de-capacitacao-de-policiais-na-area.ghtml",
+    "publishedAt": "2026-04-26T07:01:18.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-11-am-vaga-no-mundial.ghtml",
+    "headline": "VÍDEO: mais de 100 cachorros Border Collie participam de campeonato de pastoreio no Paraná e disputam vaga no mundial",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/04/26/video-mais-de-100-cachorros-border-collie-participam-de-campeonato-de-pastoreio-no-parana-e-disputam-vaga-no-mundial.ghtml",
+    "publishedAt": "2026-04-26T07:01:15.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-12-m-se-sentir-melhor.ghtml",
+    "headline": "‘Detox digital’: jovens ficam um mês sem smartphone e dizem se sentir melhor",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/tecnologia/noticia/2026/04/26/detox-digital-jovens-ficam-um-mes-sem-smartphone-e-dizem-se-sentir-melhor.ghtml",
+    "publishedAt": "2026-04-26T07:01:08.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-13-inuto-apos-decolar.ghtml",
+    "headline": "Tragédia transmitida ao vivo: o anel de borracha que fez ônibus espacial da NASA explodir 1 minuto após decolar",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/ciencia/noticia/2026/04/26/tragedia-transmitida-ao-vivo-o-anel-de-borracha-que-fez-onibus-espacial-da-nasa-explodir-1-minuto-apos-decolar.ghtml",
+    "publishedAt": "2026-04-26T07:00:33.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "The Hindu-14-tion/article70905621.ece",
+    "headline": "Bharat Tex 2026: Apparel leaders urged to promote India as key textile sourcing hub",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/buying-houses-of-apparel-brands-urged-to-promote-india-as-a-sourcing-destination/article70905621.ece",
+    "publishedAt": "2026-04-26T06:59:27.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "NHK-2-426/k10015108661000.html",
+    "headline": "山林で山菜採りしていた50代男性 クマに襲われ足にけが 福島",
+    "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108661000.html",
+    "publishedAt": "2026-04-26T06:49:04.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "The Hindu-15-kasi/article70906379.ece",
+    "headline": "The killing firecracker factories of Sivakasi",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/the-killing-factories-ofsivakasi/article70906379.ece",
+    "publishedAt": "2026-04-26T06:48:30.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "NHK-1-426/k10015108651000.html",
+    "headline": "代替調達の米国産原油が日本に到着 イラン情勢悪化後初めて",
+    "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108651000.html",
+    "publishedAt": "2026-04-26T06:46:03.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "ANSA-14-3-8cfd-117941687ce6.html",
+    "headline": "Zubin Mehta: \"Compio 90 anni ma non mi fermo\"",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/cultura/2026/04/25/zubin-mehta-compio-90-anni-ma-non-mi-fermo_a224abb1-275d-49b3-8cfd-117941687ce6.html",
+    "publishedAt": "2026-04-26T06:45:42.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "ANSA-11-a-b4f7-a6eaf777e6d8.html",
+    "headline": "25 aprile, Meloni: 'Ricordiamo la sconfitta dell'oppressione fascista'",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/politica/2026/04/25/meloni-ricordiamo-la-sconfitta-delloppressione-fascista_73c5aeea-e4ae-407a-b4f7-a6eaf777e6d8.html",
+    "publishedAt": "2026-04-26T06:41:55.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "The Guardian-16-wen-labor-liberal-ntwnfb",
+    "headline": "Australia news live: Canavan says ‘too much talk of diversity’ in address to Canberra anti-immigration rally – as it happened",
+    "sourceName": "The Guardian",
+    "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/apr/26/australia-news-live-victoria-car-registration-rebate-cost-of-living-fuel-crisis-anzac-angus-taylor-albanese-chris-bowen-labor-liberal-ntwnfb",
+    "publishedAt": "2026-04-26T06:40:13.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-16-tion/article70905944.ece",
+    "headline": "Huge rush in Home Guard recruitment examination signals looming unemployment scenario in U.P., says Opposition",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/huge-rush-in-home-guard-recruitment-examination-signals-looming-unemployment-scenario-in-up-says-opposition/article70905944.ece",
+    "publishedAt": "2026-04-26T06:31:48.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-17-tive/article70907941.ece",
+    "headline": "ED conducts raids in Kolkata in connection with financial fraud linked to fugitive",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/west-bengal/ed-conducts-raids-in-kolkata-in-connection-with-financial-fraud-linked-to-fugitive/article70907941.ece",
+    "publishedAt": "2026-04-26T06:31:36.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-3-stall?traffic_source=rss",
+    "headline": "Iran war: What’s happening on day 58 as Tehran-Washington talks stall?",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/4/26/iran-war-whats-happening-on-day-58-as-tehran-washington-talks-stall?traffic_source=rss",
+    "publishedAt": "2026-04-26T06:29:14.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "The Guardian-17-untries-singles-out-iran",
+    "headline": "Taylor says higher risk of ‘bad people coming from bad countries’ and that welcome to country ceremonies ‘overused’",
+    "sourceName": "The Guardian",
+    "sourceUrl": "https://www.theguardian.com/australia-news/2026/apr/26/angus-taylor-higher-risk-bad-people-coming-from-bad-countries-singles-out-iran",
+    "publishedAt": "2026-04-26T06:22:49.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-18-2026/article70907914.ece",
+    "headline": "Mercury likely to touch 44 degrees Celsius in Delhi; IMD issues alert for heatwave-like conditions",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-temperature-heatwave-weather-updates-april-26-2026/article70907914.ece",
+    "publishedAt": "2026-04-26T06:19:22.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-19-rder/article70904654.ece",
+    "headline": "War of words erupts over girl’s death in Ghazipur, U.P.; Rahul Gandhi demands immediate justice",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/victim-is-dalit-poor-every-time-rahul-gandhi-demands-probe-into-ghazipur-rape-murder/article70904654.ece",
+    "publishedAt": "2026-04-26T06:10:35.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-20-inor/article70846558.ece",
+    "headline": "Supreme Court terms U.P. child assault, its aftermath ‘appalling’; calls for independent probe",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/shocked-sc-summons-police-commissioner-io-on-april-13-in-ghaziabad-rape-murder-case-of-minor/article70846558.ece",
+    "publishedAt": "2026-04-26T06:10:19.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "France 24-1-of-presidential-election",
     "headline": "Several killed in Colombia highway bomb attack ahead of presidential election",
     "sourceName": "France 24",
     "sourceUrl": "https://www.france24.com/en/americas/20260426-several-killed-in-colombia-highway-bomb-attack-ahead-of-presidential-election",
@@ -9,16 +513,7 @@
     "lang": "en"
   },
   {
-    "id": "The Hindu-0-ults/article70907689.ece",
-    "headline": "Assembly Elections 2026 LIVE: Modi to address rallies, visit temples, take part in road show in West Bengal today",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-26-2026-tamil-nadu-kerala-puducherry-assam-west-bengal-results/article70907689.ece",
-    "publishedAt": "2026-04-26T06:05:01.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-1-mand/article70905656.ece",
+    "id": "The Hindu-21-mand/article70905656.ece",
     "headline": "Woman kills policeman’s wife, minor son over refused live-in demand",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/chhattisgarh/woman-kills-policemans-wife-minor-son-over-refused-live-in-demand/article70905656.ece",
@@ -27,16 +522,7 @@
     "lang": "en"
   },
   {
-    "id": "NHK-1-426/k10015108391000.html",
-    "headline": "岩手 大槌町の山林火災 約1373ヘクタールが焼ける",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108391000.html",
-    "publishedAt": "2026-04-26T06:04:44.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "The Hindu-2-mily/article70907805.ece",
+    "id": "The Hindu-22-mily/article70907805.ece",
     "headline": "Ghazipur case: U.P. govt extends financial aid to victim's family",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/ghazipur-case-up-govt-extends-financial-aid-to-victims-family/article70907805.ece",
@@ -45,16 +531,7 @@
     "lang": "en"
   },
   {
-    "id": "The Hindu-3-tion/article70907837.ece",
-    "headline": "Pakistan PM dials Iranian President, discusses evolving regional situation",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/pakistan-pm-dials-iranian-president-discusses-evolving-regional-situation/article70907837.ece",
-    "publishedAt": "2026-04-26T06:00:53.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-0--colonias-digitais.ghtml",
+    "id": "g1 Globo-14--colonias-digitais.ghtml",
     "headline": "Análise: Data centers podem fazer de países do Sul Global novas colônias digitais",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/tecnologia/noticia/2026/04/26/analise-data-centers-podem-fazer-de-paises-do-sul-global-novas-colonias-digitais.ghtml",
@@ -63,9 +540,9 @@
     "lang": "pt"
   },
   {
-    "id": "NHK国際-0-426/k10015108611000.html",
+    "id": "NHK-3-426/k10015108611000.html",
     "headline": "北朝鮮“最高人民会議常任委員長がロシア下院議長と会談”報道",
-    "sourceName": "NHK国際",
+    "sourceName": "NHK",
     "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108611000.html",
     "publishedAt": "2026-04-26T06:00:07.000Z",
     "countryCode": "JP",
@@ -81,25 +558,16 @@
     "lang": "en"
   },
   {
-    "id": "The Guardian-15-wen-labor-liberal-ntwnfb",
-    "headline": "Australia news live: Canavan says ‘too much talk of diversity’ in address to Canberra anti-immigration rally",
-    "sourceName": "The Guardian",
-    "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/apr/26/australia-news-live-victoria-car-registration-rebate-cost-of-living-fuel-crisis-anzac-angus-taylor-albanese-chris-bowen-labor-liberal-ntwnfb",
-    "publishedAt": "2026-04-26T05:53:59.000Z",
-    "countryCode": "GB",
+    "id": "Al Jazeera-4-icial?traffic_source=rss",
+    "headline": "Injured Salah has played his last game for Liverpool: Egypt team official",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/sports/2026/4/26/injured-salah-has-played-his-last-game-for-liverpool-egypt-team-official?traffic_source=rss",
+    "publishedAt": "2026-04-26T05:50:30.000Z",
+    "countryCode": "QA",
     "lang": "en"
   },
   {
-    "id": "The Hindu-4-2026/article70907853.ece",
-    "headline": "India, New Zealand to sign FTA on April 27; deal provides Indian exporters 100% duty-free access",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/business/Economy/india-new-zealand-to-sign-fta-on-april-27-2026/article70907853.ece",
-    "publishedAt": "2026-04-26T05:53:42.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-5-bund/article70905788.ece",
+    "id": "The Hindu-23-bund/article70905788.ece",
     "headline": "Hydrologist backs TUDA plan to revive Avilala tank on lines of Hyderabad’s Tank Bund",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/hydrologist-backs-tuda-plan-to-revive-avilala-tank-on-lines-of-hyderabads-tank-bund/article70905788.ece",
@@ -108,7 +576,7 @@
     "lang": "en"
   },
   {
-    "id": "The Hindu-6--adr/article70907887.ece",
+    "id": "The Hindu-24--adr/article70907887.ece",
     "headline": "CJI bats for structured national registry of former judges willing to serve in ADR",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/rajasthan/cji-bats-for-structured-national-registry-of-former-judges-willing-to-serve-in-adr/article70907887.ece",
@@ -117,7 +585,7 @@
     "lang": "en"
   },
   {
-    "id": "The Hindu-7-idnt/article70907840.ece",
+    "id": "The Hindu-25-idnt/article70907840.ece",
     "headline": "Thrissur pooram returned, but they didn’t",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/kerala/thrissur-pooram-returned-but-they-didnt/article70907840.ece",
@@ -126,7 +594,7 @@
     "lang": "en"
   },
   {
-    "id": "The Hindu-8-sted/article70906004.ece",
+    "id": "The Hindu-26-sted/article70906004.ece",
     "headline": "Head master death case; one arrested",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/chhattisgarh/head-master-death-case-one-arrested/article70906004.ece",
@@ -135,16 +603,7 @@
     "lang": "en"
   },
   {
-    "id": "The Hindu-9-t-83/article70907614.ece",
-    "headline": "Raghu Rai, renowned photographer, passes away at 83",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/entertainment/art/raghu-rai-renowned-photographer-passes-away-at-83/article70907614.ece",
-    "publishedAt": "2026-04-26T05:36:22.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-10-isis/article70907657.ece",
+    "id": "The Hindu-27-isis/article70907657.ece",
     "headline": "From Bengal to Punjab: Amit Shah sets sights on border State’s drug crisis",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/punjab/from-bengal-to-punjab-amit-shah-sets-sights-on-border-states-drug-crisis/article70907657.ece",
@@ -153,7 +612,7 @@
     "lang": "en"
   },
   {
-    "id": "g1 Globo-1-o-trump-diz-jornal.ghtml",
+    "id": "g1 Globo-15-o-trump-diz-jornal.ghtml",
     "headline": "Suspeito de ataque em jantar nos EUA queria atirar em autoridades do governo Trump, diz jornal",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/26/suspeito-ataque-tiros-jantar-gala-eua-queria-atirar-autoridades-governo-trump-diz-jornal.ghtml",
@@ -162,7 +621,7 @@
     "lang": "pt"
   },
   {
-    "id": "The Hindu-11-safe/article70907772.ece",
+    "id": "The Hindu-28-safe/article70907772.ece",
     "headline": "PM Modi expresses relief to learn Trump and First Lady are safe",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/pm-modi-expresses-relief-to-learn-trump-and-first-lady-are-safe/article70907772.ece",
@@ -171,7 +630,7 @@
     "lang": "en"
   },
   {
-    "id": "The Hindu-12-erns/article70903136.ece",
+    "id": "The Hindu-29-erns/article70903136.ece",
     "headline": "Turnout increases in Tamil Nadu followed spatial patterns",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/data/turnout-increases-in-tamil-nadu-followed-spatial-patterns/article70903136.ece",
@@ -180,16 +639,7 @@
     "lang": "en"
   },
   {
-    "id": "The Hindu-13-arty/article70905469.ece",
-    "headline": "Meant to protect free speech from anti-defection law, ‘merger’ is now a defence for joining a rival party",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/meant-to-protect-free-speech-from-anti-defection-law-merger-is-now-a-defence-for-joining-a-rival-party/article70905469.ece",
-    "publishedAt": "2026-04-26T05:25:47.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "DW-0-a=en-rss-en-all-1573-rdf",
+    "id": "DW-2-a=en-rss-en-all-1573-rdf",
     "headline": "Colombia highway bomb attack kills 14",
     "sourceName": "DW",
     "sourceUrl": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-14/a-76939450?maca=en-rss-en-all-1573-rdf",
@@ -198,25 +648,7 @@
     "lang": "en"
   },
   {
-    "id": "The Hindu-14-s-up/article70906066.ece",
-    "headline": "Effective water quality monitoring mechanism under Jal Jeevan scheme yielding positive outcome, says U.P.",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/effective-water-quality-monitoring-mechanism-under-jal-jeevan-scheme-yielding-positive-outcomesays-up/article70906066.ece",
-    "publishedAt": "2026-04-26T05:19:21.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-15-test/article70907788.ece",
-    "headline": "Voting underway for local body elections in Gujarat",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/gujarat/gujarat-local-body-elections-voting-bjp-congress-aap-updates-latest/article70907788.ece",
-    "publishedAt": "2026-04-26T05:16:54.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "France 24-1-s-us-envoys-cancel-visit",
+    "id": "France 24-2-s-us-envoys-cancel-visit",
     "headline": "Middle East war live: Iran's FM to return to Pakistan for talks as US envoys cancel visit",
     "sourceName": "France 24",
     "sourceUrl": "https://www.france24.com/en/middle-east/20260426-middle-east-war-live-iran-s-fm-to-return-to-pakistan-for-talks-as-us-envoys-cancel-visit",
@@ -225,7 +657,7 @@
     "lang": "en"
   },
   {
-    "id": "NHK-2-426/k10015108471000.html",
+    "id": "NHK-6-426/k10015108471000.html",
     "headline": "米特使ら派遣取りやめ トランプ大統領イラン側対応注視の姿勢",
     "sourceName": "NHK",
     "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108471000.html",
@@ -234,25 +666,16 @@
     "lang": "ja"
   },
   {
-    "id": "The Hindu-16--bjp/article70906320.ece",
-    "headline": "Will AAP MPs face disqualification after joining BJP?",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/will-aap-mps-face-disqualification-after-joining-bjp/article70906320.ece",
-    "publishedAt": "2026-04-26T05:11:29.000Z",
-    "countryCode": "IN",
-    "lang": "en"
+    "id": "El País-1-de-atentado-a-trump.html",
+    "headline": "Video | Los momentos claves del intento de atentado a Trump",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/us/2026-04-26/video-los-momentos-claves-del-intento-de-atentado-a-trump.html",
+    "publishedAt": "2026-04-26T05:03:30.000Z",
+    "countryCode": "ES",
+    "lang": "es"
   },
   {
-    "id": "The Hindu-17-tion/article70905944.ece",
-    "headline": "Huge rush in Home Guard recruitment examination signals looming unemployment scenario in U.P., says Opposition",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/huge-rush-in-home-guard-recruitment-examination-signals-looming-unemployment-scenario-in-up-says-opposition/article70905944.ece",
-    "publishedAt": "2026-04-26T05:08:04.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-2--debaixo-das-mesas.ghtml",
+    "id": "g1 Globo-16--debaixo-das-mesas.ghtml",
     "headline": "Presente em jantar nos EUA, Raquel Krahenbuhl relata tensão durante tiros: 'Todos começaram a entrar debaixo das mesas'",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/26/raquel-krahenbuhl-relata-tensao-tiros-jantar-eua-todos-comecaram-a-entrar-debaixo-das-mesas.ghtml",
@@ -261,7 +684,7 @@
     "lang": "pt"
   },
   {
-    "id": "g1 Globo-3-pera-meta-nacional.ghtml",
+    "id": "g1 Globo-17-pera-meta-nacional.ghtml",
     "headline": "Uso da PrEP contra o HIV triplica no DF desde 2023 e já supera meta nacional",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/26/uso-da-prep-contra-o-hiv-triplica-no-df-desde-2023-e-ja-supera-meta-nacional.ghtml",
@@ -270,7 +693,7 @@
     "lang": "pt"
   },
   {
-    "id": "g1 Globo-4-familias-perplexas.ghtml",
+    "id": "g1 Globo-18-familias-perplexas.ghtml",
     "headline": "As teorias da conspiração sobre 'cientistas desaparecidos' nos EUA que deixam famílias perplexas",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/26/as-teorias-da-conspiracao-sobre-cientistas-desaparecidos-nos-eua-que-deixam-familias-perplexas.ghtml",
@@ -279,7 +702,7 @@
     "lang": "pt"
   },
   {
-    "id": "g1 Globo-5-nina-neste-domingo.ghtml",
+    "id": "g1 Globo-19-nina-neste-domingo.ghtml",
     "headline": "Parque Ibirapuera recebe 'aulão' gratuito de defesa pessoal feminina neste domingo",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/26/parque-ibirapuera-recebe-aulao-gratuito-de-defesa-pessoal-feminina-neste-domingo.ghtml",
@@ -288,7 +711,7 @@
     "lang": "pt"
   },
   {
-    "id": "g1 Globo-6-cy-em-visita-ao-rs.ghtml",
+    "id": "g1 Globo-20-cy-em-visita-ao-rs.ghtml",
     "headline": "Chimarrão com maconha? Conheça bebida terapêutica (e que não dá barato) compartilhada por Eduardo Suplicy em visita ao RS",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/26/chimarrao-com-maconha-conheca-bebida-terapeutica-e-que-nao-da-barato-compartilhada-por-eduardo-suplicy-em-visita-ao-rs.ghtml",
@@ -297,7 +720,7 @@
     "lang": "pt"
   },
   {
-    "id": "g1 Globo-7-les-ficarao-presos.ghtml",
+    "id": "g1 Globo-21-les-ficarao-presos.ghtml",
     "headline": "Réus por chacina no DF receberam pena superior a 300 anos; entenda quanto tempo eles ficarão presos",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/26/reus-por-chacina-no-df-receberam-pena-superior-a-300-anos-entenda-quanto-tempo-eles-ficarao-presos.ghtml",
@@ -306,43 +729,7 @@
     "lang": "pt"
   },
   {
-    "id": "The Hindu-18-iuml/article70905473.ece",
-    "headline": "Rumours of rift in Congress over CM nominee in Kerala a ‘media creation’ says IUML",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/kerala/rumours-of-rift-in-congress-over-cm-nominee-in-kerala-a-media-creation-says-iuml/article70905473.ece",
-    "publishedAt": "2026-04-26T04:59:35.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "NHK-0-426/k10015108571000.html",
-    "headline": "トランプ氏出席の夕食会で発砲か「発砲者は確保」とSNSに投稿",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108571000.html",
-    "publishedAt": "2026-04-26T04:57:54.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "The Hindu-19-erma/article70904765.ece",
-    "headline": "BJP says Kejriwal spent private money on ‘Sheesh Mahal 2’; AAP calls allegation ‘fake’",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/arvind-kejriwal-used-to-lavish-living-spent-private-money-on-sheesh-mahal-2-parvesh-verma/article70904765.ece",
-    "publishedAt": "2026-04-26T04:49:04.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-20-oots/article70907743.ece",
-    "headline": "News in Frames: Back to the roots",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/news-in-frames-back-to-the-roots/article70907743.ece",
-    "publishedAt": "2026-04-26T04:45:57.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "France 24-2-lafaurie-tells-his-story",
+    "id": "France 24-3-lafaurie-tells-his-story",
     "headline": "'I’m the only person who can do it': Why 102-year-old Dachau survivor Jean Lafaurie tells his story",
     "sourceName": "France 24",
     "sourceUrl": "https://www.france24.com/en/france/20260426-i-m-the-only-person-who-can-do-it-why-102-year-old-dachau-survivor-jean-lafaurie-tells-his-story",
@@ -351,7 +738,7 @@
     "lang": "en"
   },
   {
-    "id": "El País-2-a-de-corresponsales.html",
+    "id": "El País-3-a-de-corresponsales.html",
     "headline": "Todos al suelo en el primer plato: el intento de atentado de Trump desde el interior de la cena de corresponsales",
     "sourceName": "El País",
     "sourceUrl": "https://elpais.com/internacional/2026-04-26/todos-al-suelo-en-el-primer-plato-el-intento-de-atentado-de-trump-desde-el-interior-de-la-cena-de-corresponsales.html",
@@ -360,7 +747,16 @@
     "lang": "es"
   },
   {
-    "id": "g1 Globo-8-eua-trump-evacuado.ghtml",
+    "id": "BBC World-28-dium=RSS&at_campaign=rss",
+    "headline": "Video shows correspondents' dinner suspect charge checkpoint",
+    "sourceName": "BBC World",
+    "sourceUrl": "https://www.bbc.com/news/videos/cj0v0484dmmo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-04-26T04:27:08.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-22-eua-trump-evacuado.ghtml",
     "headline": "Líderes mundiais condenam tiros em jantar de gala nos EUA e celebram segurança de Trump",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/26/repercussao-tiros-jantar-eua-trump-evacuado.ghtml",
@@ -369,7 +765,7 @@
     "lang": "pt"
   },
   {
-    "id": "DW-1-a=en-rss-en-all-1573-rdf",
+    "id": "DW-3-a=en-rss-en-all-1573-rdf",
     "headline": "Trump uninjured after shooting at Correspondents' Dinner",
     "sourceName": "DW",
     "sourceUrl": "https://www.dw.com/en/trump-uninjured-after-shooting-at-correspondents-dinner/live-76938867?maca=en-rss-en-all-1573-rdf",
@@ -378,13 +774,13 @@
     "lang": "en"
   },
   {
-    "id": "NHK-6-426/k10015108601000.html",
-    "headline": "ドジャース 佐々木 今季初勝利 6回途中4失点も打線の援護受け",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108601000.html",
-    "publishedAt": "2026-04-26T04:21:36.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
+    "id": "BBC World-0-dium=RSS&at_campaign=rss",
+    "headline": "What it was like in the room as shots rang out at correspondents' dinner",
+    "sourceName": "BBC World",
+    "sourceUrl": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-04-26T04:22:59.000Z",
+    "countryCode": "GB",
+    "lang": "en"
   },
   {
     "id": "El País-0-s-de-la-casa-blanca.html",
@@ -396,25 +792,16 @@
     "lang": "es"
   },
   {
-    "id": "ANSA-5-1-9113-e155c94a6c62.html",
-    "headline": "Sparatoria al gala dei media con Trump, arrestato l'aggressore",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/mondo/2026/04/26/sparatoria-al-gala-dei-media-con-trump-arrestato-laggressore-_60bfcf1c-6673-41e1-9113-e155c94a6c62.html",
-    "publishedAt": "2026-04-26T04:12:47.000Z",
-    "countryCode": "IT",
-    "lang": "it"
+    "id": "BBC World-29-dium=RSS&at_campaign=rss",
+    "headline": "'You just didn't know': Gary O'Donoghue describes confusion and fears at correspondents' dinner",
+    "sourceName": "BBC World",
+    "sourceUrl": "https://www.bbc.com/news/videos/c8dldp2mdego?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-04-26T04:08:27.000Z",
+    "countryCode": "GB",
+    "lang": "en"
   },
   {
-    "id": "NHK-3-426/k10015108591000.html",
-    "headline": "日韓両政府 次官級「2プラス2」来月初開催へ 安保協力強化図る",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108591000.html",
-    "publishedAt": "2026-04-26T04:05:16.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "g1 Globo-9--tutoras-em-guaiba.ghtml",
+    "id": "g1 Globo-23--tutoras-em-guaiba.ghtml",
     "headline": "De vítima de maus-tratos a 'daminha': a história da cadela que levou alianças no casamento das tutoras em Guaíba",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/26/de-vitima-de-maus-tratos-a-daminha-a-historia-da-cadela-que-levou-aliancas-no-casamento-das-tutoras-em-guaiba.ghtml",
@@ -423,7 +810,7 @@
     "lang": "pt"
   },
   {
-    "id": "g1 Globo-10-o-da-cantora-video.ghtml",
+    "id": "g1 Globo-24-o-da-cantora-video.ghtml",
     "headline": "Amigos e familiares cantam para Amanda Wanessa durante aniversário da cantora; VÍDEO",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/pe/pernambuco/noticia/2026/04/26/amigos-e-familiares-cantam-para-amanda-wanessa-durante-aniversario-da-cantora-video.ghtml",
@@ -441,7 +828,7 @@
     "lang": "en"
   },
   {
-    "id": "El País-12-un-pais-provisional.html",
+    "id": "El País-7-un-pais-provisional.html",
     "headline": "Venezuela, un país provisional",
     "sourceName": "El País",
     "sourceUrl": "https://elpais.com/america/2026-04-26/venezuela-un-pais-provisional.html",
@@ -450,7 +837,7 @@
     "lang": "es"
   },
   {
-    "id": "El País-13-n-caminos-distintos.html",
+    "id": "El País-8-n-caminos-distintos.html",
     "headline": "La oposición venezolana: mismo fin, caminos distintos",
     "sourceName": "El País",
     "sourceUrl": "https://elpais.com/america/2026-04-26/la-oposicion-venezolana-mismo-fin-caminos-distintos.html",
@@ -459,7 +846,7 @@
     "lang": "es"
   },
   {
-    "id": "El País-14-as-ruinas-de-maduro.html",
+    "id": "El País-9-as-ruinas-de-maduro.html",
     "headline": "Purgas internas y tutela externa: el chavismo reconstruye su fe sobre las ruinas de Maduro",
     "sourceName": "El País",
     "sourceUrl": "https://elpais.com/america/2026-04-26/purgas-internas-y-tutela-externa-el-chavismo-reconstruye-su-fe-sobre-las-ruinas-de-maduro.html",
@@ -468,7 +855,7 @@
     "lang": "es"
   },
   {
-    "id": "Al Jazeera-0--gala?traffic_source=rss",
+    "id": "Al Jazeera-5--gala?traffic_source=rss",
     "headline": "Trump confirms officer shot at White House Correspondents’ gala",
     "sourceName": "Al Jazeera",
     "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/26/trump-confirms-officer-shot-at-white-house-correspondents-gala?traffic_source=rss",
@@ -477,16 +864,7 @@
     "lang": "en"
   },
   {
-    "id": "The Guardian-16-untries-singles-out-iran",
-    "headline": "Taylor says higher risk of ‘bad people coming from bad countries’ and that welcome to country ceremonies ‘overused’",
-    "sourceName": "The Guardian",
-    "sourceUrl": "https://www.theguardian.com/australia-news/2026/apr/26/angus-taylor-higher-risk-bad-people-coming-from-bad-countries-singles-out-iran",
-    "publishedAt": "2026-04-26T03:57:07.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-11-tar-na-casa-branca.ghtml",
+    "id": "g1 Globo-25-tar-na-casa-branca.ghtml",
     "headline": "Trump diz que homem detido após tiros durante jantar em hotel é 'lobo solitário'",
     "sourceName": "g1 Globo",
     "sourceUrl": "https://g1.globo.com/mundo/ao-vivo/trump-e-retirado-de-jantar-na-casa-branca.ghtml",
@@ -495,7 +873,7 @@
     "lang": "pt"
   },
   {
-    "id": "El País-1-de-atentado-a-trump.html",
+    "id": "El País-2-de-atentado-a-trump.html",
     "headline": "Video | Así fue el momento de la detención del sospechoso del intendo de atentado a Trump",
     "sourceName": "El País",
     "sourceUrl": "https://elpais.com/us/2026-04-26/video-asi-fue-el-momento-de-la-detencion-del-sospechoso-del-intendo-de-atentado-a-trump.html",
@@ -504,16 +882,7 @@
     "lang": "es"
   },
   {
-    "id": "The Hindu-21-tion/article70905621.ece",
-    "headline": "Bharat Tex 2026: Apparel leaders urged to promote India as key textile sourcing hub",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/buying-houses-of-apparel-brands-urged-to-promote-india-as-a-sourcing-destination/article70905621.ece",
-    "publishedAt": "2026-04-26T03:46:28.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "France 24-3-ent-vote-condemned-china",
+    "id": "France 24-4-ent-vote-condemned-china",
     "headline": "Tibetans-in-exile vote for new government as future without Dalai Lama looms",
     "sourceName": "France 24",
     "sourceUrl": "https://www.france24.com/en/asia-pacific/20260426-exiled-tibetans-elect-government-vote-condemned-china",
@@ -522,381 +891,12 @@
     "lang": "en"
   },
   {
-    "id": "El País-10--de-los-dinosaurios.html",
+    "id": "El País-14--de-los-dinosaurios.html",
     "headline": "La odisea para sobrevivir de la tortuga que desova a 2.000 kilómetros de donde nació: “Hacen esto desde la época de los dinosaurios”",
     "sourceName": "El País",
     "sourceUrl": "https://elpais.com/ciencia/2026-04-26/la-odisea-para-sobrevivir-de-la-tortuga-que-desova-a-2000-kilometros-de-donde-nacio-hacen-esto-desde-la-epoca-de-los-dinosaurios.html",
     "publishedAt": "2026-04-26T03:45:01.000Z",
     "countryCode": "ES",
     "lang": "es"
-  },
-  {
-    "id": "El País-18--decirlo-en-publico.html",
-    "headline": "Isabel Rodríguez: “Hemos ganado; quienes defienden el pelotazo ya no se atreven a decirlo en público”",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/economia/vivienda/2026-04-26/isabel-rodriguez-hemos-ganado-quienes-defienden-el-pelotazo-ya-no-se-atreven-a-decirlo-en-publico.html",
-    "publishedAt": "2026-04-26T03:45:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-19-omo-a-especuladores.html",
-    "headline": "Vecinos atrapados en el laberinto de la VPO: “Nos tratan como a especuladores”",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/economia/vivienda/2026-04-26/vecinos-atrapados-en-el-laberinto-de-la-vpo-nos-tratan-como-a-especuladores.html",
-    "publishedAt": "2026-04-26T03:45:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-20-onsables-declarados.html",
-    "headline": "Un año del apagón eléctrico: la factura de la luz se ha encarecido y no hay responsables declarados",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/economia/2026-04-26/un-ano-del-apagon-electrico-la-factura-de-la-luz-se-ha-encarecido-y-no-hay-responsables-declarados.html",
-    "publishedAt": "2026-04-26T03:45:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-8-ca-grande-o-pequeno.html",
-    "headline": "Lazaro Hernandez y Jack McCollough, directores creativos de Loewe: “En España todo el mundo ha tenido o tiene algo de la marca, grande o pequeño”",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/eps/2026-04-25/lazaro-hernandez-y-jack-mccollough-directores-creativos-de-loewe-en-espana-todo-el-mundo-ha-tenido-o-tiene-algo-de-la-marca-grande-o-pequeno.html",
-    "publishedAt": "2026-04-26T03:40:00.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-5-a-en-estados-unidos.html",
-    "headline": "De Kennedy a Reagan y ahora Trump: una historia de la violencia política en Estados Unidos",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/internacional/2026-04-26/de-kennedy-a-reagan-y-ahora-trump-una-historia-de-la-violencia-politica-en-estados-unidos.html",
-    "publishedAt": "2026-04-26T03:38:50.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-4-intento-en-dos-anos.html",
-    "headline": "El atentado contra Trump en la Cena de Corresponsales de la Casa Blanca, el tercero en dos años",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/us/2026-04-26/el-atentado-contra-trump-en-la-cena-de-corresponsales-de-la-casa-blanca-el-tercer-intento-en-dos-anos.html",
-    "publishedAt": "2026-04-26T03:38:25.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "Al Jazeera-1--bomb?traffic_source=rss",
-    "headline": "Video: Colombia blames dissident FARC rebel for deadly bus bomb",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-colombia-blames-dissident-farc-rebel-for-deadly-bus-bomb?traffic_source=rss",
-    "publishedAt": "2026-04-26T03:37:17.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "El País-9-o-de-estados-unidos.html",
-    "headline": "Científicos desaparecidos o muertos: la teoría de la conspiración que investigan el FBI y el Congreso de Estados Unidos",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/internacional/2026-04-26/cientificos-desaparecidos-o-muertos-la-teoria-de-la-conspiracion-que-investigan-el-fbi-y-el-congreso-de-estados-unidos.html",
-    "publishedAt": "2026-04-26T03:30:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-16-s-han-colado-un-gol.html",
-    "headline": "La “prioridad nacional” pactada con Vox divide al PP: “Nos han colado un gol”",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/espana/2026-04-26/la-prioridad-nacional-pactada-con-vox-divide-al-pp-nos-han-colado-un-gol.html",
-    "publishedAt": "2026-04-26T03:30:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-17-madura-los-necesita.html",
-    "headline": "Vox no quiere migrantes, Extremadura los necesita",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/espana/2026-04-26/vox-no-quiere-migrantes-extremadura-los-necesita.html",
-    "publishedAt": "2026-04-26T03:30:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-21--sumario-de-kitchen.html",
-    "headline": "Contradicciones y tesis enfrentadas: Rajoy y Cospedal, contra otros testigos y datos del sumario de Kitchen",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/espana/2026-04-26/contradicciones-y-tesis-enfrentadas-rajoy-y-cospedal-contra-otros-testigos-y-datos-del-sumario-de-kitchen.html",
-    "publishedAt": "2026-04-26T03:30:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-22-a-hora-de-la-verdad.html",
-    "headline": "Ábalos, Koldo y Aldama, ante la hora de la verdad",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/espana/2026-04-26/abalos-koldo-y-aldama-ante-la-hora-de-la-verdad.html",
-    "publishedAt": "2026-04-26T03:30:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-23-ones-de-una-familia.html",
-    "headline": "Nacer en una secta: así destruyó el tío Toni a tres generaciones de una familia",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/espana/2026-04-26/nacer-en-una-secta-asi-destruyo-el-tio-toni-a-tres-generaciones-de-una-familia.html",
-    "publishedAt": "2026-04-26T03:30:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-24--en-silla-de-ruedas.html",
-    "headline": "El Leyenda, de líder pandillero a ‘tiktoker’ en silla de ruedas",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/espana/madrid/2026-04-26/el-leyenda-de-lider-pandillero-de-los-ddp-a-tiktoker-en-silla-de-ruedas.html",
-    "publishedAt": "2026-04-26T03:30:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-26-ica-en-plena-tregua.html",
-    "headline": "Israel impone en Líbano el modelo de Gaza y acelera la limpieza étnica en plena tregua",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/internacional/2026-04-26/israel-impone-en-libano-el-modelo-de-gaza-y-acelera-la-limpieza-etnica-en-plena-tregua.html",
-    "publishedAt": "2026-04-26T03:30:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-6-ue-lo-ha-estimulado.html",
-    "headline": "Javier Cercas: “EL PAÍS no solo ha tolerado que escribiese contra su línea editorial, sino que lo ha estimulado”",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/videos/2026-04-26/javier-cercas-el-pais-no-solo-ha-tolerado-que-escribiese-contra-su-linea-editorial-sino-que-lo-ha-estimulado.html",
-    "publishedAt": "2026-04-26T03:30:00.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-11--esta-desmantelando.html",
-    "headline": "Sean Hepburn Ferrer, hijo de Audrey Hepburn: “Mi madre dio su vida por el sueño de una sociedad inclusiva y se está desmantelando”",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/gente/2026-04-26/sean-hepburn-ferrer-hijo-de-audrey-hepburn-mi-madre-dio-su-vida-por-el-sueno-de-una-sociedad-inclusiva-y-se-esta-desmantelando.html",
-    "publishedAt": "2026-04-26T03:30:00.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "El País-15-uela-sin-democracia.html",
-    "headline": "Venezuela sin democracia",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/opinion/2026-04-26/venezuela-sin-democracia.html",
-    "publishedAt": "2026-04-26T03:30:00.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "The Hindu-22-once/article70906571.ece",
-    "headline": "'Women will respond': Congress slams govt over 'delay' in 33% quota; says implement it at once",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/women-will-respond-congress-slams-govt-over-delay-in-33-quota-says-implement-it-at-once/article70906571.ece",
-    "publishedAt": "2026-04-26T03:25:30.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "El País-3-profesion-peligrosa.html",
-    "headline": "Trump comparece tras el tiroteo de la cena de corresponsales: “La de presidente es una profesión peligrosa”",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/internacional/2026-04-26/trump-comparece-tras-el-atentado-de-la-cena-de-corresponsales-la-de-presidente-es-una-profesion-peligrosa.html",
-    "publishedAt": "2026-04-26T03:22:30.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "The Hindu-23-ndhi/article70905993.ece",
-    "headline": "The real contest is between the BJP and Congress, not with Trinamool, says Rahul Gandhi",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/elections/west-bengal-assembly/the-real-contest-is-between-the-bjp-and-congress-not-with-trinamool-says-rahul-gandhi/article70905993.ece",
-    "publishedAt": "2026-04-26T03:12:14.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-12-os-projetos-atuais.ghtml",
-    "headline": "Tons terrosos redefinem a estética dos projetos atuais",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/04/26/tons-terrosos-redefinem-a-estetica-dos-projetos-atuais.ghtml",
-    "publishedAt": "2026-04-26T03:02:33.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-13-s-de-aposta-online.ghtml",
-    "headline": "'Meu sonho é conquistar tudo que eu perdi', diz mulher que vendeu casas e fez dívida de R$ 50 mil em jogos de aposta online",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/ce/ceara/noticia/2026/04/26/meu-sonho-e-conquistar-tudo-que-eu-perdi-diz-mulher-que-vendeu-casas-e-fez-divida-de-r-50-mil-em-jogos-de-aposta-online.ghtml",
-    "publishedAt": "2026-04-26T03:00:55.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-14-o-desastre-nuclear.ghtml",
-    "headline": "Chernobyl, 40 anos: em meio a guerras, quais as chances de um novo desastre nuclear?",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/26/chernobyl-40-anos-em-meio-a-guerras-quais-as-chances-de-um-novo-desastre-nuclear.ghtml",
-    "publishedAt": "2026-04-26T03:00:54.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-15-o-que-esta-em-jogo.ghtml",
-    "headline": "Congresso Nacional analisa veto de Lula ao PL da Dosimetria; saiba o que está em jogo",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/politica/noticia/2026/04/26/congresso-nacional-analisa-veto-de-lula-ao-pl-da-dosimetria-saiba-o-que-esta-em-jogo.ghtml",
-    "publishedAt": "2026-04-26T03:00:44.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-16-tra-amava-criancas.ghtml",
-    "headline": "Estudante de medicina de SC assassinada no Paraguai queria ser pediatra e mãe: 'Amava crianças'",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/sc/santa-catarina/noticia/2026/04/26/estudante-medicina-sc-assassinada-paraguai-pediatra-amava-criancas.ghtml",
-    "publishedAt": "2026-04-26T03:00:37.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "NHK-4-426/k10015108491000.html",
-    "headline": "北海道・三陸沖後発地震注意情報 引き続き日頃の備え確認を",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108491000.html",
-    "publishedAt": "2026-04-26T02:55:34.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "g1 Globo-17-ar-correspondentes.ghtml",
-    "headline": "Trump diz que homem detido após tiros em jantar de correspondentes é 'lobo solitário e doente'",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/25/trump-coletiva-tiros-jantar-correspondentes.ghtml",
-    "publishedAt": "2026-04-26T02:35:19.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-18-do-servico-secreto.ghtml",
-    "headline": "Trump divulga vídeo que mostra homem furando segurança e sendo alvejado por agentes do Serviço Secreto",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/25/trump-divulga-video-que-mostra-homem-furando-seguranca-e-sendo-alvejado-por-agentes-do-servico-secreto.ghtml",
-    "publishedAt": "2026-04-26T02:32:54.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-19--grafismo-indigena.ghtml",
-    "headline": "Festival Viva Roraima reúne chocolate de Caroebe, damurida de Alto Alegre e grafismo indígena",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rr/roraima/noticia/2026/04/25/festival-viva-roraima-reune-chocolate-de-caroebe-damurida-de-alto-alegre-e-grafismo-indigena.ghtml",
-    "publishedAt": "2026-04-26T02:28:30.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-20-ondentes-com-trump.ghtml",
-    "headline": "Agente do Serviço Secreto foi baleado no jantar de correspondentes com Trump, diz presidente dos EUA",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/25/agente-do-servico-secreto-foi-baleado-no-jantar-de-correspondentes-com-trump.ghtml",
-    "publishedAt": "2026-04-26T02:17:23.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "Al Jazeera-2-inner?traffic_source=rss",
-    "headline": "Trump live: Suspect in custody after shooting at correspondents’ dinner",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/4/26/trump-live-us-president-safe-after-shots-fired-at-correspondents-dinner?traffic_source=rss",
-    "publishedAt": "2026-04-26T02:10:00.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "Al Jazeera-3-stall?traffic_source=rss",
-    "headline": "Hundreds of Israelis rally as US-Iran peace talks stall",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss",
-    "publishedAt": "2026-04-26T02:00:32.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "NHK-5-426/k10015108461000.html",
-    "headline": "ロシア下院議長 北朝鮮訪問 ロシア派兵記念館開館式出席へ",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260426/k10015108461000.html",
-    "publishedAt": "2026-04-26T01:57:20.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "The Hindu-24--out/article70905962.ece",
-    "headline": "Census 2027: States asked to identify vulnerable areas, keep biased enumerators out",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/census-2027-states-asked-to-identify-vulnerable-areas-keep-biased-enumerators-out/article70905962.ece",
-    "publishedAt": "2026-04-26T01:47:10.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-25-ourt/article70905440.ece",
-    "headline": "No restriction on women entering mosques, AIMPLB tells Supreme Court",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/no-restriction-on-women-entering-mosques-aimplb-tells-supreme-court/article70905440.ece",
-    "publishedAt": "2026-04-26T01:42:35.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-21-do-servico-secreto.ghtml",
-    "headline": "Trump diz que jantar de correspondentes será adiado e deixa local por recomendação do Serviço Secreto",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/25/trump-diz-que-jantar-de-correspondentes-sera-adiado-e-deixa-local-por-recomendacao-do-servico-secreto.ghtml",
-    "publishedAt": "2026-04-26T01:40:21.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "France 24-4-nner-as-trump-rushed-out",
-    "headline": "Trump rushed off stage after shots fired at White House correspondents’ dinner",
-    "sourceName": "France 24",
-    "sourceUrl": "https://www.france24.com/en/americas/20260426-%F0%9F%94%B4-suspected-gunshots-disrupt-white-house-correspondents-dinner-as-trump-rushed-out",
-    "publishedAt": "2026-04-26T01:25:17.000Z",
-    "countryCode": "FR",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-22-ntar-em-washington.ghtml",
-    "headline": "Trump diz que suspeito foi preso após incidente em jantar em Washington",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/25/trump-diz-que-atirador-foi-preso-apos-incidente-em-jantar-em-washington.ghtml",
-    "publishedAt": "2026-04-26T01:21:41.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "The Guardian-17-in-eastern-states-ntwnfb",
-    "headline": "Police blocked members of anti-immigration group from Perth dawn service after Anzac Day booing in eastern states",
-    "sourceName": "The Guardian",
-    "sourceUrl": "https://www.theguardian.com/australia-news/2026/apr/26/police-blocked-people-connected-to-anti-immigration-group-from-perth-dawn-service-after-anzac-day-booing-in-eastern-states-ntwnfb",
-    "publishedAt": "2026-04-26T01:20:04.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "Al Jazeera-4--gala?traffic_source=rss",
-    "headline": "Dramatic scenes as Trump rushed from White House gala",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/26/dramatic-scenes-as-trump-rushed-from-white-house-gala?traffic_source=rss",
-    "publishedAt": "2026-04-26T01:14:33.000Z",
-    "countryCode": "QA",
-    "lang": "en"
   }
 ]
