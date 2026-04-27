@@ -58,25 +58,5 @@
     "timestamp": "2026-04-26T06:43:53.060Z",
     "description": "M 4.7 - 74 km E of Noda, Japan",
     "source": "USGS"
-  },
-  {
-    "id": "us6000ssxr",
-    "type": "earthquake",
-    "lat": 53.7119,
-    "lng": -164.8126,
-    "intensity": 4.6,
-    "timestamp": "2026-04-26T04:26:59.156Z",
-    "description": "M 4.6 - 78 km SE of Akutan, Alaska",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000ssxt",
-    "type": "earthquake",
-    "lat": 46.8638,
-    "lng": 93.0122,
-    "intensity": 5.5,
-    "timestamp": "2026-04-26T04:23:24.394Z",
-    "description": "M 5.5 - 163 km SE of Khovd, Mongolia",
-    "source": "USGS"
   }
 ]
