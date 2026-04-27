@@ -231,17 +231,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -1628,17 +1617,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515286",
-    "name": "Innertkirchen: Sustenpasssee",
-    "city": "Innertkirchen",
-    "countryCode": "JP",
-    "lat": 46.72951,
-    "lng": 8.44793,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -1646,6 +1624,17 @@
     "lat": 71.17001,
     "lng": 25.7837,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1665493001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515286",
+    "name": "Innertkirchen: Sustenpasssee",
+    "city": "Innertkirchen",
+    "countryCode": "JP",
+    "lat": 46.72951,
+    "lng": 8.44793,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2519,17 +2508,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2614,6 +2592,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2713,17 +2702,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "JP",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3498,13 +3476,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
+    "id": "windy-1349757611",
+    "name": "Naha: Okinawa - Tomarin Harbour",
+    "city": "Naha",
     "countryCode": "JP",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
+    "lat": 26.22364,
+    "lng": 127.68344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3520,13 +3498,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349757611",
-    "name": "Naha: Okinawa - Tomarin Harbour",
-    "city": "Naha",
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
     "countryCode": "JP",
-    "lat": 26.22364,
-    "lng": 127.68344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3846,6 +3824,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "JP",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4983,17 +4972,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547739658",
-    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
-    "city": "Aviemore",
-    "countryCode": "JP",
-    "lat": 57.13363,
-    "lng": -3.66991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1221295499",
     "name": "Australian Antarctic Territory › South-west: Davis station",
     "city": "unknown",
@@ -5001,6 +4979,17 @@
     "lat": -68.57679,
     "lng": 77.96925,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221295499/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547739658",
+    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
+    "city": "Aviemore",
+    "countryCode": "JP",
+    "lat": 57.13363,
+    "lng": -3.66991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6721,17 +6710,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "JP",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -8019,17 +7997,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -8954,17 +8921,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "JP",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -8972,6 +8928,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "JP",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10978,17 +10945,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -12375,17 +12331,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515286",
-    "name": "Innertkirchen: Sustenpasssee",
-    "city": "Innertkirchen",
-    "countryCode": "US",
-    "lat": 46.72951,
-    "lng": 8.44793,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -12393,6 +12338,17 @@
     "lat": 71.17001,
     "lng": 25.7837,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1665493001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515286",
+    "name": "Innertkirchen: Sustenpasssee",
+    "city": "Innertkirchen",
+    "countryCode": "US",
+    "lat": 46.72951,
+    "lng": 8.44793,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13266,17 +13222,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13361,6 +13306,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13460,17 +13416,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "US",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14245,13 +14190,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
+    "id": "windy-1349757611",
+    "name": "Naha: Okinawa - Tomarin Harbour",
+    "city": "Naha",
     "countryCode": "US",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
+    "lat": 26.22364,
+    "lng": 127.68344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14267,13 +14212,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349757611",
-    "name": "Naha: Okinawa - Tomarin Harbour",
-    "city": "Naha",
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
     "countryCode": "US",
-    "lat": 26.22364,
-    "lng": 127.68344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14593,6 +14538,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "US",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15730,17 +15686,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547739658",
-    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
-    "city": "Aviemore",
-    "countryCode": "US",
-    "lat": 57.13363,
-    "lng": -3.66991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1221295499",
     "name": "Australian Antarctic Territory › South-west: Davis station",
     "city": "unknown",
@@ -15748,6 +15693,17 @@
     "lat": -68.57679,
     "lng": 77.96925,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221295499/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547739658",
+    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
+    "city": "Aviemore",
+    "countryCode": "US",
+    "lat": 57.13363,
+    "lng": -3.66991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17468,17 +17424,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "US",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -18766,17 +18711,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -19701,17 +19635,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "US",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -19719,6 +19642,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "US",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21725,17 +21659,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -23122,17 +23045,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515286",
-    "name": "Innertkirchen: Sustenpasssee",
-    "city": "Innertkirchen",
-    "countryCode": "GB",
-    "lat": 46.72951,
-    "lng": 8.44793,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -23140,6 +23052,17 @@
     "lat": 71.17001,
     "lng": 25.7837,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1665493001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515286",
+    "name": "Innertkirchen: Sustenpasssee",
+    "city": "Innertkirchen",
+    "countryCode": "GB",
+    "lat": 46.72951,
+    "lng": 8.44793,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24013,17 +23936,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24108,6 +24020,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24207,17 +24130,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "GB",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24992,13 +24904,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
+    "id": "windy-1349757611",
+    "name": "Naha: Okinawa - Tomarin Harbour",
+    "city": "Naha",
     "countryCode": "GB",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
+    "lat": 26.22364,
+    "lng": 127.68344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25014,13 +24926,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349757611",
-    "name": "Naha: Okinawa - Tomarin Harbour",
-    "city": "Naha",
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
     "countryCode": "GB",
-    "lat": 26.22364,
-    "lng": 127.68344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25340,6 +25252,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "GB",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26477,17 +26400,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547739658",
-    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
-    "city": "Aviemore",
-    "countryCode": "GB",
-    "lat": 57.13363,
-    "lng": -3.66991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1221295499",
     "name": "Australian Antarctic Territory › South-west: Davis station",
     "city": "unknown",
@@ -26495,6 +26407,17 @@
     "lat": -68.57679,
     "lng": 77.96925,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221295499/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547739658",
+    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
+    "city": "Aviemore",
+    "countryCode": "GB",
+    "lat": 57.13363,
+    "lng": -3.66991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28215,17 +28138,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "GB",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -29513,17 +29425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -30448,17 +30349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "GB",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -30466,6 +30356,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "GB",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32472,17 +32373,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -33869,17 +33759,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515286",
-    "name": "Innertkirchen: Sustenpasssee",
-    "city": "Innertkirchen",
-    "countryCode": "DE",
-    "lat": 46.72951,
-    "lng": 8.44793,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -33887,6 +33766,17 @@
     "lat": 71.17001,
     "lng": 25.7837,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1665493001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515286",
+    "name": "Innertkirchen: Sustenpasssee",
+    "city": "Innertkirchen",
+    "countryCode": "DE",
+    "lat": 46.72951,
+    "lng": 8.44793,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34760,17 +34650,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -34855,6 +34734,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34954,17 +34844,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "DE",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35739,13 +35618,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
+    "id": "windy-1349757611",
+    "name": "Naha: Okinawa - Tomarin Harbour",
+    "city": "Naha",
     "countryCode": "DE",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
+    "lat": 26.22364,
+    "lng": 127.68344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35761,13 +35640,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349757611",
-    "name": "Naha: Okinawa - Tomarin Harbour",
-    "city": "Naha",
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
     "countryCode": "DE",
-    "lat": 26.22364,
-    "lng": 127.68344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36087,6 +35966,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "DE",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37224,17 +37114,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547739658",
-    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
-    "city": "Aviemore",
-    "countryCode": "DE",
-    "lat": 57.13363,
-    "lng": -3.66991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1221295499",
     "name": "Australian Antarctic Territory › South-west: Davis station",
     "city": "unknown",
@@ -37242,6 +37121,17 @@
     "lat": -68.57679,
     "lng": 77.96925,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221295499/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547739658",
+    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
+    "city": "Aviemore",
+    "countryCode": "DE",
+    "lat": 57.13363,
+    "lng": -3.66991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38962,17 +38852,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "DE",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -40260,17 +40139,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -41195,17 +41063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "DE",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -41213,6 +41070,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "DE",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43219,17 +43087,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -44616,17 +44473,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515286",
-    "name": "Innertkirchen: Sustenpasssee",
-    "city": "Innertkirchen",
-    "countryCode": "FR",
-    "lat": 46.72951,
-    "lng": 8.44793,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -44634,6 +44480,17 @@
     "lat": 71.17001,
     "lng": 25.7837,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1665493001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515286",
+    "name": "Innertkirchen: Sustenpasssee",
+    "city": "Innertkirchen",
+    "countryCode": "FR",
+    "lat": 46.72951,
+    "lng": 8.44793,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45507,17 +45364,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45602,6 +45448,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45701,17 +45558,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "FR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46486,13 +46332,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
+    "id": "windy-1349757611",
+    "name": "Naha: Okinawa - Tomarin Harbour",
+    "city": "Naha",
     "countryCode": "FR",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
+    "lat": 26.22364,
+    "lng": 127.68344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46508,13 +46354,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349757611",
-    "name": "Naha: Okinawa - Tomarin Harbour",
-    "city": "Naha",
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
     "countryCode": "FR",
-    "lat": 26.22364,
-    "lng": 127.68344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46834,6 +46680,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "FR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47971,17 +47828,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547739658",
-    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
-    "city": "Aviemore",
-    "countryCode": "FR",
-    "lat": 57.13363,
-    "lng": -3.66991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1221295499",
     "name": "Australian Antarctic Territory › South-west: Davis station",
     "city": "unknown",
@@ -47989,6 +47835,17 @@
     "lat": -68.57679,
     "lng": 77.96925,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221295499/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547739658",
+    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
+    "city": "Aviemore",
+    "countryCode": "FR",
+    "lat": 57.13363,
+    "lng": -3.66991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49709,17 +49566,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "FR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -51007,17 +50853,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -51942,17 +51777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "FR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -51960,6 +51784,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "FR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53966,17 +53801,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -55363,17 +55187,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515286",
-    "name": "Innertkirchen: Sustenpasssee",
-    "city": "Innertkirchen",
-    "countryCode": "CN",
-    "lat": 46.72951,
-    "lng": 8.44793,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -55381,6 +55194,17 @@
     "lat": 71.17001,
     "lng": 25.7837,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1665493001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515286",
+    "name": "Innertkirchen: Sustenpasssee",
+    "city": "Innertkirchen",
+    "countryCode": "CN",
+    "lat": 46.72951,
+    "lng": 8.44793,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56254,17 +56078,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56349,6 +56162,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56448,17 +56272,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "CN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57233,13 +57046,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
+    "id": "windy-1349757611",
+    "name": "Naha: Okinawa - Tomarin Harbour",
+    "city": "Naha",
     "countryCode": "CN",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
+    "lat": 26.22364,
+    "lng": 127.68344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57255,13 +57068,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349757611",
-    "name": "Naha: Okinawa - Tomarin Harbour",
-    "city": "Naha",
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
     "countryCode": "CN",
-    "lat": 26.22364,
-    "lng": 127.68344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57581,6 +57394,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "CN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58718,17 +58542,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547739658",
-    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
-    "city": "Aviemore",
-    "countryCode": "CN",
-    "lat": 57.13363,
-    "lng": -3.66991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1221295499",
     "name": "Australian Antarctic Territory › South-west: Davis station",
     "city": "unknown",
@@ -58736,6 +58549,17 @@
     "lat": -68.57679,
     "lng": 77.96925,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221295499/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547739658",
+    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
+    "city": "Aviemore",
+    "countryCode": "CN",
+    "lat": 57.13363,
+    "lng": -3.66991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60456,17 +60280,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "CN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -61754,17 +61567,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -62689,17 +62491,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "CN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -62707,6 +62498,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "CN",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64713,17 +64515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -66110,17 +65901,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515286",
-    "name": "Innertkirchen: Sustenpasssee",
-    "city": "Innertkirchen",
-    "countryCode": "KR",
-    "lat": 46.72951,
-    "lng": 8.44793,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -66128,6 +65908,17 @@
     "lat": 71.17001,
     "lng": 25.7837,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1665493001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515286",
+    "name": "Innertkirchen: Sustenpasssee",
+    "city": "Innertkirchen",
+    "countryCode": "KR",
+    "lat": 46.72951,
+    "lng": 8.44793,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67001,17 +66792,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67096,6 +66876,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67195,17 +66986,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "KR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67980,13 +67760,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
+    "id": "windy-1349757611",
+    "name": "Naha: Okinawa - Tomarin Harbour",
+    "city": "Naha",
     "countryCode": "KR",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
+    "lat": 26.22364,
+    "lng": 127.68344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68002,13 +67782,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349757611",
-    "name": "Naha: Okinawa - Tomarin Harbour",
-    "city": "Naha",
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
     "countryCode": "KR",
-    "lat": 26.22364,
-    "lng": 127.68344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68328,6 +68108,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "KR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69465,17 +69256,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547739658",
-    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
-    "city": "Aviemore",
-    "countryCode": "KR",
-    "lat": 57.13363,
-    "lng": -3.66991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1221295499",
     "name": "Australian Antarctic Territory › South-west: Davis station",
     "city": "unknown",
@@ -69483,6 +69263,17 @@
     "lat": -68.57679,
     "lng": 77.96925,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221295499/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547739658",
+    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
+    "city": "Aviemore",
+    "countryCode": "KR",
+    "lat": 57.13363,
+    "lng": -3.66991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71203,17 +70994,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "KR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -72501,17 +72281,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -73436,17 +73205,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "KR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -73454,6 +73212,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "KR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75460,17 +75229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -76857,17 +76615,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515286",
-    "name": "Innertkirchen: Sustenpasssee",
-    "city": "Innertkirchen",
-    "countryCode": "IN",
-    "lat": 46.72951,
-    "lng": 8.44793,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -76875,6 +76622,17 @@
     "lat": 71.17001,
     "lng": 25.7837,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1665493001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515286",
+    "name": "Innertkirchen: Sustenpasssee",
+    "city": "Innertkirchen",
+    "countryCode": "IN",
+    "lat": 46.72951,
+    "lng": 8.44793,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77748,17 +77506,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -77843,6 +77590,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77942,17 +77700,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "IN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78727,13 +78474,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
+    "id": "windy-1349757611",
+    "name": "Naha: Okinawa - Tomarin Harbour",
+    "city": "Naha",
     "countryCode": "IN",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
+    "lat": 26.22364,
+    "lng": 127.68344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78749,13 +78496,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349757611",
-    "name": "Naha: Okinawa - Tomarin Harbour",
-    "city": "Naha",
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
     "countryCode": "IN",
-    "lat": 26.22364,
-    "lng": 127.68344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79075,6 +78822,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "IN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80212,17 +79970,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547739658",
-    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
-    "city": "Aviemore",
-    "countryCode": "IN",
-    "lat": 57.13363,
-    "lng": -3.66991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1221295499",
     "name": "Australian Antarctic Territory › South-west: Davis station",
     "city": "unknown",
@@ -80230,6 +79977,17 @@
     "lat": -68.57679,
     "lng": 77.96925,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221295499/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547739658",
+    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
+    "city": "Aviemore",
+    "countryCode": "IN",
+    "lat": 57.13363,
+    "lng": -3.66991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81950,17 +81708,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "IN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -83248,17 +82995,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -84183,17 +83919,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "IN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -84201,6 +83926,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "IN",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86207,17 +85943,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -87604,17 +87329,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515286",
-    "name": "Innertkirchen: Sustenpasssee",
-    "city": "Innertkirchen",
-    "countryCode": "BR",
-    "lat": 46.72951,
-    "lng": 8.44793,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -87622,6 +87336,17 @@
     "lat": 71.17001,
     "lng": 25.7837,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1665493001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515286",
+    "name": "Innertkirchen: Sustenpasssee",
+    "city": "Innertkirchen",
+    "countryCode": "BR",
+    "lat": 46.72951,
+    "lng": 8.44793,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88495,17 +88220,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -88590,6 +88304,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88689,17 +88414,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "BR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89474,13 +89188,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
+    "id": "windy-1349757611",
+    "name": "Naha: Okinawa - Tomarin Harbour",
+    "city": "Naha",
     "countryCode": "BR",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
+    "lat": 26.22364,
+    "lng": 127.68344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89496,13 +89210,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349757611",
-    "name": "Naha: Okinawa - Tomarin Harbour",
-    "city": "Naha",
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
     "countryCode": "BR",
-    "lat": 26.22364,
-    "lng": 127.68344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89822,6 +89536,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "BR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90959,17 +90684,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547739658",
-    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
-    "city": "Aviemore",
-    "countryCode": "BR",
-    "lat": 57.13363,
-    "lng": -3.66991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1221295499",
     "name": "Australian Antarctic Territory › South-west: Davis station",
     "city": "unknown",
@@ -90977,6 +90691,17 @@
     "lat": -68.57679,
     "lng": 77.96925,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221295499/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547739658",
+    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
+    "city": "Aviemore",
+    "countryCode": "BR",
+    "lat": 57.13363,
+    "lng": -3.66991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92697,17 +92422,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "BR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -93995,17 +93709,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -94930,17 +94633,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "BR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -94948,6 +94640,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "BR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96954,17 +96657,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -98351,17 +98043,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292515286",
-    "name": "Innertkirchen: Sustenpasssee",
-    "city": "Innertkirchen",
-    "countryCode": "AU",
-    "lat": 46.72951,
-    "lng": 8.44793,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -98369,6 +98050,17 @@
     "lat": 71.17001,
     "lng": 25.7837,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1665493001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292515286",
+    "name": "Innertkirchen: Sustenpasssee",
+    "city": "Innertkirchen",
+    "countryCode": "AU",
+    "lat": 46.72951,
+    "lng": 8.44793,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292515286/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99242,17 +98934,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -99337,6 +99018,17 @@
     "lat": 37.76793,
     "lng": 21.29578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99436,17 +99128,6 @@
     "lat": 45.81403,
     "lng": 9.07087,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "AU",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100221,13 +99902,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
+    "id": "windy-1349757611",
+    "name": "Naha: Okinawa - Tomarin Harbour",
+    "city": "Naha",
     "countryCode": "AU",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
+    "lat": 26.22364,
+    "lng": 127.68344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100243,13 +99924,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1349757611",
-    "name": "Naha: Okinawa - Tomarin Harbour",
-    "city": "Naha",
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
     "countryCode": "AU",
-    "lat": 26.22364,
-    "lng": 127.68344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349757611/original.jpg",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100569,6 +100250,17 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "AU",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101706,17 +101398,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547739658",
-    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
-    "city": "Aviemore",
-    "countryCode": "AU",
-    "lat": 57.13363,
-    "lng": -3.66991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1221295499",
     "name": "Australian Antarctic Territory › South-west: Davis station",
     "city": "unknown",
@@ -101724,6 +101405,17 @@
     "lat": -68.57679,
     "lng": 77.96925,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1221295499/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547739658",
+    "name": "Aviemore › North: The Cairngorms - Scotland, United Kingdom: main car park",
+    "city": "Aviemore",
+    "countryCode": "AU",
+    "lat": 57.13363,
+    "lng": -3.66991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547739658/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103444,17 +103136,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "AU",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -104742,17 +104423,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1393697860",
     "name": "Subiaco: Monte Livata",
     "city": "Subiaco",
@@ -105677,17 +105347,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "AU",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -105695,6 +105354,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "AU",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
