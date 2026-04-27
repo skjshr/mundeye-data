@@ -1606,17 +1606,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "JP",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349746206",
     "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
@@ -2130,17 +2119,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "JP",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2750,6 +2728,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1256304311",
+    "name": "Korenov › East: Jizerka",
+    "city": "Korenov",
+    "countryCode": "JP",
+    "lat": 50.8194,
+    "lng": 15.34596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256304311/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1290613023",
     "name": "Amden › South: Restaurant Monte Mio - Arvenbüel - Skigebiet Arvenbüel Amden - Leistchamm - Mürtschenstock",
     "city": "Amden",
@@ -3021,6 +3010,17 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1239271528",
+    "name": "Bregaglia: Maloja webcam",
+    "city": "Bregaglia",
+    "countryCode": "JP",
+    "lat": 46.40533,
+    "lng": 9.69525,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3956,17 +3956,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "JP",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4917,17 +4906,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "JP",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387161",
     "name": "Tondo",
     "city": "Tondo",
@@ -4935,6 +4913,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387161/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "JP",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5386,17 +5375,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "JP",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7799,17 +7777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -7817,6 +7784,17 @@
     "lat": 69.67969,
     "lng": 18.97081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9086,17 +9064,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "JP",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -9104,6 +9071,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "JP",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9159,6 +9137,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249042255",
+    "name": "Bergun: Dorf",
+    "city": "Bergun",
+    "countryCode": "JP",
+    "lat": 46.62867,
+    "lng": 9.7457,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249042255/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9867,17 +9856,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1522910373",
-    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
-    "city": "Bologna",
-    "countryCode": "JP",
-    "lat": 44.50518,
-    "lng": 11.3695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -9885,6 +9863,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1522910373",
+    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
+    "city": "Bologna",
+    "countryCode": "JP",
+    "lat": 44.50518,
+    "lng": 11.3695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10582,17 +10571,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -10758,17 +10736,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "JP",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -10776,6 +10743,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "JP",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10791,17 +10769,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "JP",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -10809,6 +10776,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "JP",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10897,17 +10875,6 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "JP",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12518,17 +12485,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "US",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349746206",
     "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
@@ -13042,17 +12998,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "US",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13662,6 +13607,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1256304311",
+    "name": "Korenov › East: Jizerka",
+    "city": "Korenov",
+    "countryCode": "US",
+    "lat": 50.8194,
+    "lng": 15.34596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256304311/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1290613023",
     "name": "Amden › South: Restaurant Monte Mio - Arvenbüel - Skigebiet Arvenbüel Amden - Leistchamm - Mürtschenstock",
     "city": "Amden",
@@ -13933,6 +13889,17 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1239271528",
+    "name": "Bregaglia: Maloja webcam",
+    "city": "Bregaglia",
+    "countryCode": "US",
+    "lat": 46.40533,
+    "lng": 9.69525,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14868,17 +14835,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "US",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15829,17 +15785,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "US",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387161",
     "name": "Tondo",
     "city": "Tondo",
@@ -15847,6 +15792,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387161/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "US",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16298,17 +16254,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "US",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18711,17 +18656,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -18729,6 +18663,17 @@
     "lat": 69.67969,
     "lng": 18.97081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19998,17 +19943,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "US",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -20016,6 +19950,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "US",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20071,6 +20016,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249042255",
+    "name": "Bergun: Dorf",
+    "city": "Bergun",
+    "countryCode": "US",
+    "lat": 46.62867,
+    "lng": 9.7457,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249042255/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20779,17 +20735,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1522910373",
-    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
-    "city": "Bologna",
-    "countryCode": "US",
-    "lat": 44.50518,
-    "lng": 11.3695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -20797,6 +20742,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1522910373",
+    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
+    "city": "Bologna",
+    "countryCode": "US",
+    "lat": 44.50518,
+    "lng": 11.3695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21494,17 +21450,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -21670,17 +21615,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "US",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -21688,6 +21622,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "US",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21703,17 +21648,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "US",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -21721,6 +21655,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "US",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21809,17 +21754,6 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "US",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23430,17 +23364,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "GB",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349746206",
     "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
@@ -23954,17 +23877,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "GB",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24574,6 +24486,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1256304311",
+    "name": "Korenov › East: Jizerka",
+    "city": "Korenov",
+    "countryCode": "GB",
+    "lat": 50.8194,
+    "lng": 15.34596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256304311/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1290613023",
     "name": "Amden › South: Restaurant Monte Mio - Arvenbüel - Skigebiet Arvenbüel Amden - Leistchamm - Mürtschenstock",
     "city": "Amden",
@@ -24845,6 +24768,17 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1239271528",
+    "name": "Bregaglia: Maloja webcam",
+    "city": "Bregaglia",
+    "countryCode": "GB",
+    "lat": 46.40533,
+    "lng": 9.69525,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25780,17 +25714,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "GB",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26741,17 +26664,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "GB",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387161",
     "name": "Tondo",
     "city": "Tondo",
@@ -26759,6 +26671,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387161/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "GB",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27210,17 +27133,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "GB",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29623,17 +29535,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -29641,6 +29542,17 @@
     "lat": 69.67969,
     "lng": 18.97081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30910,17 +30822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "GB",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -30928,6 +30829,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "GB",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30983,6 +30895,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249042255",
+    "name": "Bergun: Dorf",
+    "city": "Bergun",
+    "countryCode": "GB",
+    "lat": 46.62867,
+    "lng": 9.7457,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249042255/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31691,17 +31614,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1522910373",
-    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
-    "city": "Bologna",
-    "countryCode": "GB",
-    "lat": 44.50518,
-    "lng": 11.3695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -31709,6 +31621,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1522910373",
+    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
+    "city": "Bologna",
+    "countryCode": "GB",
+    "lat": 44.50518,
+    "lng": 11.3695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32406,17 +32329,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -32582,17 +32494,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "GB",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -32600,6 +32501,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "GB",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32615,17 +32527,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "GB",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -32633,6 +32534,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "GB",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32721,17 +32633,6 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "GB",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34342,17 +34243,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "DE",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349746206",
     "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
@@ -34866,17 +34756,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "DE",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35486,6 +35365,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1256304311",
+    "name": "Korenov › East: Jizerka",
+    "city": "Korenov",
+    "countryCode": "DE",
+    "lat": 50.8194,
+    "lng": 15.34596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256304311/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1290613023",
     "name": "Amden › South: Restaurant Monte Mio - Arvenbüel - Skigebiet Arvenbüel Amden - Leistchamm - Mürtschenstock",
     "city": "Amden",
@@ -35757,6 +35647,17 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1239271528",
+    "name": "Bregaglia: Maloja webcam",
+    "city": "Bregaglia",
+    "countryCode": "DE",
+    "lat": 46.40533,
+    "lng": 9.69525,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36692,17 +36593,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "DE",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37653,17 +37543,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "DE",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387161",
     "name": "Tondo",
     "city": "Tondo",
@@ -37671,6 +37550,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387161/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "DE",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38122,17 +38012,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "DE",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40535,17 +40414,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -40553,6 +40421,17 @@
     "lat": 69.67969,
     "lng": 18.97081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41822,17 +41701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "DE",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -41840,6 +41708,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "DE",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41895,6 +41774,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249042255",
+    "name": "Bergun: Dorf",
+    "city": "Bergun",
+    "countryCode": "DE",
+    "lat": 46.62867,
+    "lng": 9.7457,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249042255/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42603,17 +42493,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1522910373",
-    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
-    "city": "Bologna",
-    "countryCode": "DE",
-    "lat": 44.50518,
-    "lng": 11.3695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -42621,6 +42500,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1522910373",
+    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
+    "city": "Bologna",
+    "countryCode": "DE",
+    "lat": 44.50518,
+    "lng": 11.3695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43318,17 +43208,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -43494,17 +43373,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "DE",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -43512,6 +43380,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "DE",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43527,17 +43406,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "DE",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -43545,6 +43413,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "DE",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43633,17 +43512,6 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "DE",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45254,17 +45122,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "FR",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349746206",
     "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
@@ -45778,17 +45635,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "FR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46398,6 +46244,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1256304311",
+    "name": "Korenov › East: Jizerka",
+    "city": "Korenov",
+    "countryCode": "FR",
+    "lat": 50.8194,
+    "lng": 15.34596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256304311/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1290613023",
     "name": "Amden › South: Restaurant Monte Mio - Arvenbüel - Skigebiet Arvenbüel Amden - Leistchamm - Mürtschenstock",
     "city": "Amden",
@@ -46669,6 +46526,17 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1239271528",
+    "name": "Bregaglia: Maloja webcam",
+    "city": "Bregaglia",
+    "countryCode": "FR",
+    "lat": 46.40533,
+    "lng": 9.69525,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47604,17 +47472,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "FR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48565,17 +48422,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "FR",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387161",
     "name": "Tondo",
     "city": "Tondo",
@@ -48583,6 +48429,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387161/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "FR",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49034,17 +48891,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "FR",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51447,17 +51293,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -51465,6 +51300,17 @@
     "lat": 69.67969,
     "lng": 18.97081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52734,17 +52580,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "FR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -52752,6 +52587,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "FR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52807,6 +52653,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249042255",
+    "name": "Bergun: Dorf",
+    "city": "Bergun",
+    "countryCode": "FR",
+    "lat": 46.62867,
+    "lng": 9.7457,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249042255/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53515,17 +53372,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1522910373",
-    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
-    "city": "Bologna",
-    "countryCode": "FR",
-    "lat": 44.50518,
-    "lng": 11.3695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -53533,6 +53379,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1522910373",
+    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
+    "city": "Bologna",
+    "countryCode": "FR",
+    "lat": 44.50518,
+    "lng": 11.3695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54230,17 +54087,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -54406,17 +54252,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "FR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -54424,6 +54259,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "FR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54439,17 +54285,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "FR",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -54457,6 +54292,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "FR",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54545,17 +54391,6 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "FR",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56166,17 +56001,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "CN",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349746206",
     "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
@@ -56690,17 +56514,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "CN",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57310,6 +57123,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1256304311",
+    "name": "Korenov › East: Jizerka",
+    "city": "Korenov",
+    "countryCode": "CN",
+    "lat": 50.8194,
+    "lng": 15.34596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256304311/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1290613023",
     "name": "Amden › South: Restaurant Monte Mio - Arvenbüel - Skigebiet Arvenbüel Amden - Leistchamm - Mürtschenstock",
     "city": "Amden",
@@ -57581,6 +57405,17 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1239271528",
+    "name": "Bregaglia: Maloja webcam",
+    "city": "Bregaglia",
+    "countryCode": "CN",
+    "lat": 46.40533,
+    "lng": 9.69525,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58516,17 +58351,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "CN",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59477,17 +59301,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "CN",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387161",
     "name": "Tondo",
     "city": "Tondo",
@@ -59495,6 +59308,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387161/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "CN",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59946,17 +59770,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "CN",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62359,17 +62172,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -62377,6 +62179,17 @@
     "lat": 69.67969,
     "lng": 18.97081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63646,17 +63459,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "CN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -63664,6 +63466,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "CN",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63719,6 +63532,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249042255",
+    "name": "Bergun: Dorf",
+    "city": "Bergun",
+    "countryCode": "CN",
+    "lat": 46.62867,
+    "lng": 9.7457,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249042255/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64427,17 +64251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1522910373",
-    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
-    "city": "Bologna",
-    "countryCode": "CN",
-    "lat": 44.50518,
-    "lng": 11.3695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -64445,6 +64258,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1522910373",
+    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
+    "city": "Bologna",
+    "countryCode": "CN",
+    "lat": 44.50518,
+    "lng": 11.3695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65142,17 +64966,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -65318,17 +65131,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "CN",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -65336,6 +65138,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "CN",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65351,17 +65164,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "CN",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -65369,6 +65171,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "CN",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65457,17 +65270,6 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "CN",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67078,17 +66880,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "KR",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349746206",
     "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
@@ -67602,17 +67393,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "KR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68222,6 +68002,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1256304311",
+    "name": "Korenov › East: Jizerka",
+    "city": "Korenov",
+    "countryCode": "KR",
+    "lat": 50.8194,
+    "lng": 15.34596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256304311/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1290613023",
     "name": "Amden › South: Restaurant Monte Mio - Arvenbüel - Skigebiet Arvenbüel Amden - Leistchamm - Mürtschenstock",
     "city": "Amden",
@@ -68493,6 +68284,17 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1239271528",
+    "name": "Bregaglia: Maloja webcam",
+    "city": "Bregaglia",
+    "countryCode": "KR",
+    "lat": 46.40533,
+    "lng": 9.69525,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69428,17 +69230,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "KR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70389,17 +70180,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "KR",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387161",
     "name": "Tondo",
     "city": "Tondo",
@@ -70407,6 +70187,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387161/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "KR",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70858,17 +70649,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "KR",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73271,17 +73051,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -73289,6 +73058,17 @@
     "lat": 69.67969,
     "lng": 18.97081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74558,17 +74338,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "KR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -74576,6 +74345,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "KR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74631,6 +74411,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249042255",
+    "name": "Bergun: Dorf",
+    "city": "Bergun",
+    "countryCode": "KR",
+    "lat": 46.62867,
+    "lng": 9.7457,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249042255/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75339,17 +75130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1522910373",
-    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
-    "city": "Bologna",
-    "countryCode": "KR",
-    "lat": 44.50518,
-    "lng": 11.3695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -75357,6 +75137,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1522910373",
+    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
+    "city": "Bologna",
+    "countryCode": "KR",
+    "lat": 44.50518,
+    "lng": 11.3695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76054,17 +75845,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -76230,17 +76010,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "KR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -76248,6 +76017,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "KR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76263,17 +76043,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "KR",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -76281,6 +76050,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "KR",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76369,17 +76149,6 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "KR",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77990,17 +77759,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "IN",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349746206",
     "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
@@ -78514,17 +78272,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "IN",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79134,6 +78881,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1256304311",
+    "name": "Korenov › East: Jizerka",
+    "city": "Korenov",
+    "countryCode": "IN",
+    "lat": 50.8194,
+    "lng": 15.34596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256304311/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1290613023",
     "name": "Amden › South: Restaurant Monte Mio - Arvenbüel - Skigebiet Arvenbüel Amden - Leistchamm - Mürtschenstock",
     "city": "Amden",
@@ -79405,6 +79163,17 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1239271528",
+    "name": "Bregaglia: Maloja webcam",
+    "city": "Bregaglia",
+    "countryCode": "IN",
+    "lat": 46.40533,
+    "lng": 9.69525,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80340,17 +80109,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "IN",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81301,17 +81059,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "IN",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387161",
     "name": "Tondo",
     "city": "Tondo",
@@ -81319,6 +81066,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387161/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "IN",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81770,17 +81528,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "IN",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84183,17 +83930,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -84201,6 +83937,17 @@
     "lat": 69.67969,
     "lng": 18.97081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85470,17 +85217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "IN",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -85488,6 +85224,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "IN",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85543,6 +85290,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249042255",
+    "name": "Bergun: Dorf",
+    "city": "Bergun",
+    "countryCode": "IN",
+    "lat": 46.62867,
+    "lng": 9.7457,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249042255/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86251,17 +86009,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1522910373",
-    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
-    "city": "Bologna",
-    "countryCode": "IN",
-    "lat": 44.50518,
-    "lng": 11.3695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -86269,6 +86016,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1522910373",
+    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
+    "city": "Bologna",
+    "countryCode": "IN",
+    "lat": 44.50518,
+    "lng": 11.3695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86966,17 +86724,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -87142,17 +86889,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "IN",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -87160,6 +86896,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "IN",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87175,17 +86922,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "IN",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -87193,6 +86929,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "IN",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87281,17 +87028,6 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "IN",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88902,17 +88638,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "BR",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349746206",
     "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
@@ -89426,17 +89151,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "BR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90046,6 +89760,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1256304311",
+    "name": "Korenov › East: Jizerka",
+    "city": "Korenov",
+    "countryCode": "BR",
+    "lat": 50.8194,
+    "lng": 15.34596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256304311/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1290613023",
     "name": "Amden › South: Restaurant Monte Mio - Arvenbüel - Skigebiet Arvenbüel Amden - Leistchamm - Mürtschenstock",
     "city": "Amden",
@@ -90317,6 +90042,17 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1239271528",
+    "name": "Bregaglia: Maloja webcam",
+    "city": "Bregaglia",
+    "countryCode": "BR",
+    "lat": 46.40533,
+    "lng": 9.69525,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91252,17 +90988,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "BR",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92213,17 +91938,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "BR",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387161",
     "name": "Tondo",
     "city": "Tondo",
@@ -92231,6 +91945,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387161/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "BR",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92682,17 +92407,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "BR",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95095,17 +94809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -95113,6 +94816,17 @@
     "lat": 69.67969,
     "lng": 18.97081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96382,17 +96096,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "BR",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -96400,6 +96103,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "BR",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96455,6 +96169,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249042255",
+    "name": "Bergun: Dorf",
+    "city": "Bergun",
+    "countryCode": "BR",
+    "lat": 46.62867,
+    "lng": 9.7457,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249042255/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97163,17 +96888,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1522910373",
-    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
-    "city": "Bologna",
-    "countryCode": "BR",
-    "lat": 44.50518,
-    "lng": 11.3695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -97181,6 +96895,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1522910373",
+    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
+    "city": "Bologna",
+    "countryCode": "BR",
+    "lat": 44.50518,
+    "lng": 11.3695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97878,17 +97603,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -98054,17 +97768,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "BR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -98072,6 +97775,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "BR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98087,17 +97801,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "BR",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -98105,6 +97808,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "BR",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98193,17 +97907,6 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "BR",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99814,17 +99517,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "AU",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1349746206",
     "name": "Ravenna › North-west: Piazza del Popolo",
     "city": "Ravenna",
@@ -100338,17 +100030,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "AU",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100958,6 +100639,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1256304311",
+    "name": "Korenov › East: Jizerka",
+    "city": "Korenov",
+    "countryCode": "AU",
+    "lat": 50.8194,
+    "lng": 15.34596,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256304311/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1290613023",
     "name": "Amden › South: Restaurant Monte Mio - Arvenbüel - Skigebiet Arvenbüel Amden - Leistchamm - Mürtschenstock",
     "city": "Amden",
@@ -101229,6 +100921,17 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1239271528",
+    "name": "Bregaglia: Maloja webcam",
+    "city": "Bregaglia",
+    "countryCode": "AU",
+    "lat": 46.40533,
+    "lng": 9.69525,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102164,17 +101867,6 @@
     "lat": 50.98513,
     "lng": 12.43324,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1277501450/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1223106729",
-    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
-    "city": "Akaslompolo",
-    "countryCode": "AU",
-    "lat": 67.61373,
-    "lng": 24.15052,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103125,17 +102817,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "AU",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387161",
     "name": "Tondo",
     "city": "Tondo",
@@ -103143,6 +102824,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387161/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "AU",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103594,17 +103286,6 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1547981452",
-    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
-    "city": "Biella",
-    "countryCode": "AU",
-    "lat": 45.62672,
-    "lng": 7.98139,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106007,17 +105688,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324654001",
     "name": "Tromso › North: Tromsø",
     "city": "Tromso",
@@ -106025,6 +105695,17 @@
     "lat": 69.67969,
     "lng": 18.97081,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324654001/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575667527",
+    "name": "Greenland: Freya Gletscher",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 74.38248,
+    "lng": -20.78783,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107294,17 +106975,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207677495",
-    "name": "Thones: Alpes Les Clefs sur",
-    "city": "Thones",
-    "countryCode": "AU",
-    "lat": 45.88262,
-    "lng": 6.32469,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1547680226",
     "name": "Viareggio: Toscana, Italia: Lega Navale di",
     "city": "Viareggio",
@@ -107312,6 +106982,17 @@
     "lat": 43.86405,
     "lng": 10.24336,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207677495",
+    "name": "Thones: Alpes Les Clefs sur",
+    "city": "Thones",
+    "countryCode": "AU",
+    "lat": 45.88262,
+    "lng": 6.32469,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207677495/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107367,6 +107048,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249042255",
+    "name": "Bergun: Dorf",
+    "city": "Bergun",
+    "countryCode": "AU",
+    "lat": 46.62867,
+    "lng": 9.7457,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249042255/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108075,17 +107767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1522910373",
-    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
-    "city": "Bologna",
-    "countryCode": "AU",
-    "lat": 44.50518,
-    "lng": 11.3695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -108093,6 +107774,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1522910373",
+    "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
+    "city": "Bologna",
+    "countryCode": "AU",
+    "lat": 44.50518,
+    "lng": 11.3695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108790,17 +108482,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1301218856",
     "name": "Waitematā: Freemans Bay › South: SH1/SH16 Central Mwy Junction",
     "city": "Waitematā",
@@ -108966,17 +108647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "AU",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -108984,6 +108654,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "AU",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108999,17 +108680,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "AU",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -109017,6 +108687,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "AU",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -109105,17 +108786,6 @@
     "lat": 46.77837,
     "lng": 6.64096,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "AU",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   }

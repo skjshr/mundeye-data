@@ -10,6 +10,16 @@
     "source": "USGS"
   },
   {
+    "id": "us6000st3w",
+    "type": "earthquake",
+    "lat": 34.8322,
+    "lng": 26.1257,
+    "intensity": 4.9,
+    "timestamp": "2026-04-27T07:45:02.318Z",
+    "description": "M 4.9 - 40 km ESE of Ierápetra, Greece",
+    "source": "USGS"
+  },
+  {
     "id": "us6000st3s",
     "type": "earthquake",
     "lat": 37.3466,
