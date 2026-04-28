@@ -1,12 +1,22 @@
 [
   {
+    "id": "us7000sgke",
+    "type": "earthquake",
+    "lat": 41.281,
+    "lng": 83.9523,
+    "intensity": 4.5,
+    "timestamp": "2026-04-27T23:05:01.877Z",
+    "description": "M 4.5 - 98 km ESE of Kuqa, China",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sgk1",
     "type": "earthquake",
-    "lat": -4.5775,
-    "lng": 153.5766,
-    "intensity": 4.8,
-    "timestamp": "2026-04-27T22:25:06.430Z",
-    "description": "M 4.8 - 147 km E of Kokopo, Papua New Guinea",
+    "lat": -4.6088,
+    "lng": 153.5088,
+    "intensity": 4.6,
+    "timestamp": "2026-04-27T22:25:07.564Z",
+    "description": "M 4.6 - 140 km ESE of Kokopo, Papua New Guinea",
     "source": "USGS"
   },
   {
