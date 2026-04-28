@@ -20,6 +20,16 @@
     "source": "USGS"
   },
   {
+    "id": "us7000sgmr",
+    "type": "earthquake",
+    "lat": -32.0894,
+    "lng": -178.8476,
+    "intensity": 4.8,
+    "timestamp": "2026-04-28T10:07:09.901Z",
+    "description": "M 4.8 - south of the Kermadec Islands",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sgm7",
     "type": "earthquake",
     "lat": 40.2442,
