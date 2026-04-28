@@ -1,5 +1,25 @@
 [
   {
+    "id": "us7000sgm7",
+    "type": "earthquake",
+    "lat": 40.2442,
+    "lng": 142.6908,
+    "intensity": 4.9,
+    "timestamp": "2026-04-28T07:24:43.298Z",
+    "description": "M 4.9 - 75 km ENE of Noda, Japan",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sglz",
+    "type": "earthquake",
+    "lat": 51.3448,
+    "lng": 159.2004,
+    "intensity": 4.7,
+    "timestamp": "2026-04-28T06:23:52.879Z",
+    "description": "M 4.7 - 184 km SSE of Vilyuchinsk, Russia",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sglc",
     "type": "earthquake",
     "lat": 9.7939,
@@ -27,36 +47,6 @@
     "intensity": 4.6,
     "timestamp": "2026-04-27T22:25:07.564Z",
     "description": "M 4.6 - 140 km ESE of Kokopo, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000st3z",
-    "type": "earthquake",
-    "lat": -0.1764,
-    "lng": 123.7457,
-    "intensity": 4.6,
-    "timestamp": "2026-04-27T08:17:21.658Z",
-    "description": "M 4.6 - 103 km SW of Modisi, Indonesia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000st3w",
-    "type": "earthquake",
-    "lat": 34.8322,
-    "lng": 26.1257,
-    "intensity": 4.9,
-    "timestamp": "2026-04-27T07:45:02.318Z",
-    "description": "M 4.9 - 40 km ESE of Ierápetra, Greece",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000st3s",
-    "type": "earthquake",
-    "lat": 37.3466,
-    "lng": 71.3121,
-    "intensity": 5.1,
-    "timestamp": "2026-04-27T06:46:08.014Z",
-    "description": "M 5.1 - 26 km SW of Khorugh, Tajikistan",
     "source": "USGS"
   }
 ]
