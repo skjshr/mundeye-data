@@ -1,33 +1,753 @@
 [
   {
-    "id": "NHK国際-0-430/k10015111241000.html",
+    "id": "NHK-4-430/k10015111271000.html",
+    "headline": "NY原油市場 1バレル＝108ドル台に上昇 イラン情勢長期化懸念で",
+    "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260430/k10015111271000.html",
+    "publishedAt": "2026-04-29T20:11:08.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "BBC World-27-dium=RSS&at_campaign=rss",
+    "headline": "Syria trial seen as first step on long road for Assad's victims",
+    "sourceName": "BBC World",
+    "sourceUrl": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-04-29T20:11:04.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "El País-6-ions-league-en-vivo.html",
+    "headline": "Atlético de Madrid - Arsenal, en directo | Gyokeres adelanta al Arsenal de penalti",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/deportes/futbol/2026-04-29/atletico-de-madrid-arsenal-en-directo-la-ida-de-semifinales-de-la-champions-league-en-vivo.html",
+    "publishedAt": "2026-04-29T20:10:50.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-29-memoria-democratica.html",
+    "headline": "Casi 2,5 millones de descendientes de españoles han pedido la nacionalidad al amparo de la Ley de Memoria Democrática",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/espana/2026-04-29/casi-25-millones-de-descendientes-de-espanoles-han-pedido-la-nacionalidad-al-amparo-de-la-ley-de-memoria-democratica.html",
+    "publishedAt": "2026-04-29T20:08:48.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "El País-12-con-el-narcotrafico.html",
+    "headline": "Estados Unidos acusa al gobernador Rubén Rocha Moya y a otros nueve funcionarios de Sinaloa por vínculos con el narcotráfico",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/mexico/2026-04-29/estados-unidos-acusa-al-gobernador-ruben-rocha-moya-y-a-otros-nueve-funcionarios-de-sinaloa-por-vinculos-con-el-narcotrafico.html",
+    "publishedAt": "2026-04-29T20:08:36.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "France 24-0-ure-in-some-us-passports",
+    "headline": "Yes, Donald Trump’s portrait will soon feature in some US passports",
+    "sourceName": "France 24",
+    "sourceUrl": "https://www.france24.com/en/yes-donald-trump-s-portrait-will-soon-feature-in-some-us-passports",
+    "publishedAt": "2026-04-29T20:08:25.000Z",
+    "countryCode": "FR",
+    "lang": "en"
+  },
+  {
+    "id": "El País-1-de-victor-de-aldama.html",
+    "headline": "Toda la munición de Victor de Aldama",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/videos/2026-04-29/toda-la-municion-de-victor-de-aldama.html",
+    "publishedAt": "2026-04-29T20:07:38.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "g1 Globo-0-apos-fortes-chuvas.ghtml",
+    "headline": "Vídeo: Rio ressurge dentro de gruta no interior do Ceará após fortes chuvas",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/ce/ceara/noticia/2026/04/29/video-rio-ressurge-dentro-de-gruta-no-interior-do-ceara-apos-fortes-chuvas.ghtml",
+    "publishedAt": "2026-04-29T20:05:43.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-1-sileiro-veja-fotos.ghtml",
+    "headline": "No Rio, Jeep Avenger mostra novo design antes de chegada ao mercado brasileiro; veja FOTOS",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/carros/noticia/2026/04/29/no-rio-jeep-avenger-mostra-novo-design-antes-de-chegada-ao-mercado-brasileiro-veja-fotos.ghtml",
+    "publishedAt": "2026-04-29T20:04:58.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-2-forma-online-em-mg.ghtml",
+    "headline": "Chopeira furtada em festa em 2024 é encontrada à venda em plataforma online, em MG",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/mg/vales-mg/noticia/2026/04/29/chopeira-furtada-em-festa-em-2024-e-encontrada-a-venda-em-plataforma-online-em-mg.ghtml",
+    "publishedAt": "2026-04-29T20:03:59.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "NHK-0-430/k10015111161000.html",
+    "headline": "【速報中】FRB 利下げ見送り パウエル議長“法的攻撃を懸念”",
+    "sourceName": "NHK",
+    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260430/k10015111161000.html",
+    "publishedAt": "2026-04-29T20:02:29.000Z",
+    "countryCode": "JP",
+    "lang": "ja"
+  },
+  {
+    "id": "g1 Globo-3-o-a-policial-de-mt.ghtml",
+    "headline": "'Desejos com segurança e sigilo': corregedoria investiga perfis em sites de conteúdo adulto atribuído a policial de MT",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/mt/mato-grosso/noticia/2026/04/29/desejos-com-seguranca-e-sigilo-corregedoria-investiga-perfis-em-sites-de-conteudo-adulto-atribuido-a-policial-de-mt.ghtml",
+    "publishedAt": "2026-04-29T20:02:01.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-4-alho-escravo-no-pa.ghtml",
+    "headline": "MPT pede condenação da JBS de R$ 118 milhões por comprar de fazendas na 'lista suja' do trabalho escravo no PA",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/pa/para/noticia/2026/04/29/mpt-pede-condenacao-jbs-r-118-milhoes-fazendas-fornecedoras-na-lista-suja-trabalho-escravo-no-pa.ghtml",
+    "publishedAt": "2026-04-29T20:01:53.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-5--de-sorocaba-meses.ghtml",
+    "headline": "Ambulâncias do Samu estão paradas em base da zona norte de Sorocaba há mais de seis meses",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/04/29/ambulancias-do-samu-estao-paradas-em-base-da-zona-norte-de-sorocaba-meses.ghtml",
+    "publishedAt": "2026-04-29T20:01:15.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-6-parcial-da-compesa.ghtml",
+    "headline": "Governo assina contrato de concessão parcial da Compesa; entenda mudanças nos serviços de água e esgoto",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/pe/pernambuco/noticia/2026/04/29/governo-assina-contrato-de-concessao-parcial-da-compesa.ghtml",
+    "publishedAt": "2026-04-29T20:01:11.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-7-oubada-no-maranhao.ghtml",
+    "headline": "Polícia recupera carga de 50 toneladas de arroz roubada no Maranhão",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/ma/maranhao/noticia/2026/04/29/policia-recupera-carga-de-50-toneladas-de-arroz-roubada-no-maranhao.ghtml",
+    "publishedAt": "2026-04-29T20:00:17.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-8-a-na-ccj-do-senado.ghtml",
+    "headline": "Alcolumbre avisa a senadores que não receberá Messias no gabinete após sabatina na CCJ do Senado",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/04/29/alcolumbre-avisa-a-senadores-que-nao-recebera-messias-no-gabinete-apos-sabatina-na-ccj-do-senado.ghtml",
+    "publishedAt": "2026-04-29T19:59:25.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-9--no-brasil-entenda.ghtml",
+    "headline": "Produção e venda de foie gras podem passar a ser consideradas maus-tratos a animais no Brasil; entenda",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/29/producao-e-venda-de-foie-gras-podem-passar-a-ser-consideradas-maus-tratos-a-animais-no-brasil-entenda.ghtml",
+    "publishedAt": "2026-04-29T19:57:29.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-10-9-de-abril-de-2026.ghtml",
+    "headline": "VÍDEOS: JL1 de quarta-feira, 29 de abril de 2026",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/pa/para/edicao/2026/04/29/videos-jl1-de-quarta-feira-29-de-abril-de-2026.ghtml",
+    "publishedAt": "2026-04-29T19:57:07.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "ANSA-16-5-b590-6d159b67477a.html",
+    "headline": "FOCUS | A Montevideo i dubbi sull'adozione di Minetti, un'altra famiglia bocciata",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/29/focus-a-montevideo-i-dubbi-sulladozione-di-minetti-unaltra-famiglia-bocciata_9addec3b-fea8-4455-b590-6d159b67477a.html",
+    "publishedAt": "2026-04-29T19:56:21.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "The Hindu-0-dhar/article70922080.ece",
+    "headline": "15 labourers die as van overturns in Madhya Pradesh’s Dhar",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/12-labourers-die-as-van-overturns-in-madhya-pradeshs-dhar/article70922080.ece",
+    "publishedAt": "2026-04-29T19:56:18.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "ANSA-6-4-8edd-c0f11be02d4a.html",
+    "headline": "Garlasco, Andrea Sempio convocato dalla Procura il 6 maggio. \"Ha ucciso Chiara Poggi da solo\"",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/garlasco-andrea-sempio-convocato-dalla-procura-il-6-maggio.-ha-ucciso-chiara-poggi_c45138d6-bbc9-48d4-8edd-c0f11be02d4a.html",
+    "publishedAt": "2026-04-29T19:55:35.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "DW-0-a=en-rss-en-all-1573-rdf",
+    "headline": "US top court mulls scrapping Syrians', Haitians' protection",
+    "sourceName": "DW",
+    "sourceUrl": "https://www.dw.com/en/us-top-court-mulls-scrapping-syrians-haitians-protection/a-76987440?maca=en-rss-en-all-1573-rdf",
+    "publishedAt": "2026-04-29T19:55:00.000Z",
+    "countryCode": "DE",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-11-de-plano-prisional.ghtml",
+    "headline": "Fim de presos em delegacias e viaturas: Justiça do RS impõe regras ao Estado e dá prazo para apresentação de plano prisional",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/29/fim-presos-delegacias-viaturas-justica-do-rs-impoe-regras-ao-estado-e-da-prazo-para-apresentacao-de-plano-prisional.ghtml",
+    "publishedAt": "2026-04-29T19:54:47.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "ANSA-14-5-9092-68eed88bd6b8.html",
+    "headline": "Champions, in campo Atletico-Arsenal DIRETTA",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/29/champions-in-campo-atletico-arsenal-diretta_7f21d631-6799-46b5-9092-68eed88bd6b8.html",
+    "publishedAt": "2026-04-29T19:54:42.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "ANSA-0-c-bbc6-0f0b1ff27c1b.html",
+    "headline": "Sorpresa in Abruzzo, scoperta una specie rara di pipistrello",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/abruzzo/notizie/2026/04/29/sorpresa-in-abruzzo-scoperta-una-colonia-di-pipistrelli-ferro-di-cavallo_a2fd2d0c-f11c-425c-bbc6-0f0b1ff27c1b.html",
+    "publishedAt": "2026-04-29T19:53:37.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "ANSA-12-4-a9f5-b15f73ea27af.html",
+    "headline": "I reali a New York incontrano l'anti-Trump",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/mondo/2026/04/29/i-reali-a-new-york-incontrano-lanti-trump_a3a341d4-256b-4654-a9f5-b15f73ea27af.html",
+    "publishedAt": "2026-04-29T19:53:14.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "g1 Globo-12-how-no-rio-ao-vivo.ghtml",
+    "headline": "Shakira assista show no Rio ao vivo",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/rj/rio-de-janeiro/todo-mundo-no-rio/ao-vivo/shakira-assista-show-no-rio-ao-vivo.ghtml",
+    "publishedAt": "2026-04-29T19:53:13.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-13-e-varzea-grande-mt.ghtml",
+    "headline": "'Religações fantasmas' leva MP a pedir investigação contra DAE e prefeita de Várzea Grande (MT)",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/mt/mato-grosso/noticia/2026/04/29/religacoes-fantasmas-leva-mp-a-pedir-investigacao-contra-dae-e-prefeita-de-varzea-grande-mt.ghtml",
+    "publishedAt": "2026-04-29T19:53:06.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-14-ta-quarta-feira-29.ghtml",
+    "headline": "Agrishow 2026: veja fotos, vídeos e notícias desta quarta-feira, 29",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sp/ribeirao-preto-franca/agrishow/noticia/2026/04/29/agrishow-2026-veja-fotos-videos-e-noticias-desta-quarta-feira-29.ghtml",
+    "publishedAt": "2026-04-29T19:52:48.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-15-esposta-da-cantora.ghtml",
+    "headline": "'Noivo da Shakira' no Rio: fã mostra vídeo de pedido de casamento e resposta da cantora",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/rj/rio-de-janeiro/todo-mundo-no-rio/noticia/2026/04/29/noivo-da-shakira-no-rio-fa-mostra-video-de-pedido-de-casamento-e-resposta-da-cantora.ghtml",
+    "publishedAt": "2026-04-29T19:52:24.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "BBC World-4-dium=RSS&at_campaign=rss",
+    "headline": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
+    "sourceName": "BBC World",
+    "sourceUrl": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-04-29T19:51:55.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "BBC World-2-dium=RSS&at_campaign=rss",
+    "headline": "Hungary's next PM says frozen EU funds will be paid out soon",
+    "sourceName": "BBC World",
+    "sourceUrl": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-04-29T19:51:54.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-16-em-cruzeiro-do-sul.ghtml",
+    "headline": "Rio Juruá sobe pelo 4º dia seguido e aumenta número de desabrigados em Cruzeiro do Sul",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/ac/acre/noticia/2026/04/29/rio-jurua-sobe-pelo-4o-dia-seguido-e-aumenta-numero-de-desabrigados-em-cruzeiro-do-sul.ghtml",
+    "publishedAt": "2026-04-29T19:50:35.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-17-a-de-luz-diz-filha.ghtml",
+    "headline": "Morte da modelo e apresentadora Caroline Bittencourt em Ilhabela completa sete anos: ''Forte, cheia de luz', diz filha",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/04/29/morte-da-modelo-e-apresentadora-caroline-bittencourt-em-ilhabela-completa-sete-anos-forte-cheia-de-luz-diz-filha.ghtml",
+    "publishedAt": "2026-04-29T19:50:31.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-18--preso-no-paraguai.ghtml",
+    "headline": "Suspeito de usar credenciais de policiais do TO para vender dados sigilosos é preso no Paraguai",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/to/tocantins/noticia/2026/04/29/suspeito-de-usar-credenciais-de-policiais-do-to-para-vender-dados-sigilosos-e-preso-no-paraguai.ghtml",
+    "publishedAt": "2026-04-29T19:47:57.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-19-o-vulneravel-bahia.ghtml",
+    "headline": "Homem suspeito de engravidar adolescente de 12 anos é preso na Bahia",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/29/suspeiro-estupro-vulneravel-bahia.ghtml",
+    "publishedAt": "2026-04-29T19:47:46.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "DW-1-a=en-rss-en-all-1573-rdf",
+    "headline": "What are the sticking points for the EU's new budget?",
+    "sourceName": "DW",
+    "sourceUrl": "https://www.dw.com/en/what-are-the-sticking-points-for-the-eu-s-new-budget/a-76987127?maca=en-rss-en-all-1573-rdf",
+    "publishedAt": "2026-04-29T19:47:00.000Z",
+    "countryCode": "DE",
+    "lang": "en"
+  },
+  {
+    "id": "ANSA-24-5-a856-c633ece5b59c.html",
+    "headline": "L'inchiesta sugli arbitri, 'i colleghi sapevano delle scelte di Rocchi'",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/inchiesta-arbitri-dalle-testimonianze-conferme-su-designazioni-pilotate_fb22cc32-483e-4745-a856-c633ece5b59c.html",
+    "publishedAt": "2026-04-29T19:46:51.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "g1 Globo-20-ernados-em-uberaba.ghtml",
+    "headline": "Sete passageiros que sobreviveram ao acidente com ônibus de igreja seguem internados em Uberaba",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/04/29/sete-passageiros-que-sobreviveram-ao-acidente-com-onibus-de-igreja-seguem-internados-em-uberaba.ghtml",
+    "publishedAt": "2026-04-29T19:45:57.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-21-nergia-em-santarem.ghtml",
+    "headline": "Susto e perigo: Carreta derruba postes e deixa cinco bairros sem energia em Santarém",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/04/29/susto-e-perigo-carreta-derruba-postes-e-deixa-cinco-bairros-sem-energia-em-santarem.ghtml",
+    "publishedAt": "2026-04-29T19:45:28.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-22-ue-pagar-o-que-fiz.ghtml",
+    "headline": "Preso, homem que matou amiga da filha por não ser correspondido diz que se arrependeu do crime: 'Tenho que pagar o que fiz'",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/04/29/preso-homem-que-matou-amiga-da-filha-por-nao-ser-correspondido-diz-que-se-arrependeu-do-crime-tenho-que-pagar-o-que-fiz.ghtml",
+    "publishedAt": "2026-04-29T19:43:39.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-23-carcere-em-roraima.ghtml",
+    "headline": "Homem é preso por torturar, extorquir e manter adolescente em cárcere em Roraima",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/rr/roraima/noticia/2026/04/29/homem-e-preso-por-torturar-extorquir-e-manter-adolescente-em-carcere-em-roraima.ghtml",
+    "publishedAt": "2026-04-29T19:43:08.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-24-eito-esta-foragido.ghtml",
+    "headline": "Primas desaparecem no Paraná após serem convidadas para festa por conhecido; suspeito está foragido",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/04/29/primas-desaparecem-no-parana-suspeito-esta-foragido.ghtml",
+    "publishedAt": "2026-04-29T19:42:29.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "El País-10-do-antes-del-ataque.html",
+    "headline": "El acusado por intentar asesinar a Trump se tomó un selfi armado antes del ataque",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/internacional/2026-04-29/el-hombre-que-intento-asesinar-a-trump-se-tomo-un-selfi-armado-antes-del-ataque.html",
+    "publishedAt": "2026-04-29T19:42:00.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "g1 Globo-25-ilaria-em-campinas.ghtml",
+    "headline": "Incêndio atinge funilaria em Campinas",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/04/29/incendio-atinge-funilaria-em-campinas.ghtml",
+    "publishedAt": "2026-04-29T19:41:38.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-26-a-doacao-de-orgaos.ghtml",
+    "headline": "Família da vereadora Luciana Novaes tentará fazer doação de órgãos",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/29/familia-da-vereadora-luciana-novaes-diz-que-fara-doacao-de-orgaos.ghtml",
+    "publishedAt": "2026-04-29T19:41:25.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "The Hindu-1-neer/article70920038.ece",
+    "headline": "Nitesh Rane sentenced to one month in jail for insulting NHA engineer",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/nitesh-rane-sentenced-to-one-month-in-jail-for-insulting-nha-engineer/article70920038.ece",
+    "publishedAt": "2026-04-29T19:40:58.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "ANSA-13-4-88e3-a8ac845244c8.html",
+    "headline": "L'addio di Powell a tassi invariati, 'fiducioso su integrità Fed'",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/economia/2026/04/29/la-fed-lascia-i-tassi-di-interesse-invariati-fra-il-350-e-il-375_1d035425-a707-4854-88e3-a8ac845244c8.html",
+    "publishedAt": "2026-04-29T19:39:49.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "Al Jazeera-0--iran?traffic_source=rss",
+    "headline": "US lawmakers question Pete Hegseth over budget for war on Iran",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/29/us-lawmakers-question-pete-hegseth-over-budget-for-war-on-iran?traffic_source=rss",
+    "publishedAt": "2026-04-29T19:39:22.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-1-aways?traffic_source=rss",
+    "headline": "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss",
+    "publishedAt": "2026-04-29T19:38:54.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-27-ncia-de-servidores.ghtml",
+    "headline": "Prefeitura de Juazeiro do Norte envia à Câmara projeto de lei para aumentar taxa da previdência de servidores",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/04/29/prefeitura-de-juazeiro-do-norte-envia-a-camara-projeto-de-lei-para-aumentar-taxa-da-previdencia-de-servidores.ghtml",
+    "publishedAt": "2026-04-29T19:38:53.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "The Hindu-2-rala/article70922066.ece",
+    "headline": "Bengaluru tragedy cuts short a long-awaited Kudumbashree trip from Kerala",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/kerala/bengaluru-tragedy-cuts-short-a-long-awaited-kudumbashree-trip-from-kerala/article70922066.ece",
+    "publishedAt": "2026-04-29T19:37:58.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "France 24-1-amid-jihadist-insurgence",
+    "headline": "Mali faces 'very high risk' of new coup d'état, analyst says, amid jihadist insurgence",
+    "sourceName": "France 24",
+    "sourceUrl": "https://www.france24.com/en/video/20260429-mali-faces-very-high-risk-of-new-coup-d-%C3%A9tat-analyst-says-amid-jihadist-insurgence",
+    "publishedAt": "2026-04-29T19:37:21.000Z",
+    "countryCode": "FR",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-3-cord/article70921972.ece",
+    "headline": "Tamil Nadu’s growth record",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/opinion/op-ed/tamil-nadus-growth-record/article70921972.ece",
+    "publishedAt": "2026-04-29T19:35:29.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "g1 Globo-28--no-interior-de-sp.ghtml",
+    "headline": "Feriado de Dia do Trabalhador: veja o que abre e o que fecha no 1º de maio no interior de SP",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/04/29/feriado-de-dia-do-trabalho-veja-o-que-abre-e-o-que-fecha-no-1o-de-maio-no-interior-de-sp.ghtml",
+    "publishedAt": "2026-04-29T19:34:39.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "g1 Globo-29-messias-ccj-senado.ghtml",
+    "headline": "Messias responde a Flávio sobre 8/1, tenta evitar pegadinhas da oposição e se diz contra o aborto em sabatina na CCJ; ASSISTA",
+    "sourceName": "g1 Globo",
+    "sourceUrl": "https://g1.globo.com/politica/ao-vivo/sabatina-messias-ccj-senado.ghtml",
+    "publishedAt": "2026-04-29T19:34:31.000Z",
+    "countryCode": "BR",
+    "lang": "pt"
+  },
+  {
+    "id": "ANSA-18-1-b07b-16ae2244c865.html",
+    "headline": "Giuli vuole preservare il Teatro Delle Vittorie: 'Potremmo farci un sinfonico'",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/04/29/giuli-spenderemo-i-pochi-piccioli-del-mic-per-il-teatro-delle-vittorie_afc3a4f6-4ef3-4ea1-b07b-16ae2244c865.html",
+    "publishedAt": "2026-04-29T19:33:54.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "Al Jazeera-2-orist?traffic_source=rss",
+    "headline": "Two Jewish men stabbed in London ‘terrorist attack’",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss",
+    "publishedAt": "2026-04-29T19:32:49.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-4-ment/article70921234.ece",
+    "headline": "Kadambrayar pollution: local bodies told to step up enforcement",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/kerala/kadambrayar-pollution-local-bodies-told-to-step-up-enforcement/article70921234.ece",
+    "publishedAt": "2026-04-29T19:31:27.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-5-luru/article70921823.ece",
+    "headline": "Heavy rain leaves a trail of widespread damage in Bengaluru",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/heavy-rain-leaves-a-trail-of-widespread-damage-in-bengaluru/article70921823.ece",
+    "publishedAt": "2026-04-29T19:30:46.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-6-tion/article70921553.ece",
+    "headline": "Commuters upset over lack of shelter at bus stops in Madhya Kailash junction",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/cities/chennai/commuters-upset-over-lack-of-shelter-at-bus-stops-in-madhya-kailash-junction/article70921553.ece",
+    "publishedAt": "2026-04-29T19:27:14.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-7-home/article70921758.ece",
+    "headline": "Bengaluru rain: Commuters stranded as thousands struggle to find a way back home",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/bengaluru-rain-commuters-stranded-as-thousands-struggle-to-find-a-way-back-home/article70921758.ece",
+    "publishedAt": "2026-04-29T19:26:03.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-8-sion/article70920525.ece",
+    "headline": "Quarry shutdown threat looms despite laterite stone price revision in Kerala",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/kerala/quarry-shutdown-threat-looms-despite-laterite-stone-price-revision/article70920525.ece",
+    "publishedAt": "2026-04-29T19:25:18.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-3-ivist?traffic_source=rss",
+    "headline": "Indonesian soldiers on trial after acid attack on activist",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss",
+    "publishedAt": "2026-04-29T19:24:08.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-4--tour?traffic_source=rss",
+    "headline": "‘Trump’s Justice Department is on a revenge tour’",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/video/quotable/2026/4/29/trumps-justice-department-is-on-a-revenge-tour?traffic_source=rss",
+    "publishedAt": "2026-04-29T19:22:21.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-9-over/article70921760.ece",
+    "headline": "Centre floats RRTS alternative for Hyderabad Metro Phase II amid L&TMRH takeover",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/telangana/centre-floats-rrts-alternative-for-hyderabad-metro-phase-ii-amid-ltmrh-takeover/article70921760.ece",
+    "publishedAt": "2026-04-29T19:14:51.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "The Hindu-10-orms/article70922068.ece",
+    "headline": "Pune police ask 3 U.S. nationals to leave India over violation of tourist visa norms",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/pune-police-ask-3-us-nationals-to-leave-india-over-violation-of-tourist-visa-norms/article70922068.ece",
+    "publishedAt": "2026-04-29T19:11:01.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-5-nians?traffic_source=rss",
+    "headline": "CCTV footage shows moment Israeli strike targets Palestinians",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/29/cctv-footage-shows-moment-israeli-strike-targets-palestinians?traffic_source=rss",
+    "publishedAt": "2026-04-29T19:08:45.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "ANSA-5-4-be65-028ee8718e64.html",
+    "headline": "Putin a Trump: 'Disposto a dichiarare la tregua per il Giorno della Vittoria'",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/29/putin-a-trump-disposto-a-dichiarare-la-tregua-per-il-giorno-della-vittoria_6c92214b-0bcf-4134-be65-028ee8718e64.html",
+    "publishedAt": "2026-04-29T19:08:28.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "El País-3-mpactada-y-contenta.html",
+    "headline": "Camila, una enfermera venezolana, ya tiene permiso de trabajo y residencia provisional: “Estoy impactada y contenta”",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/espana/2026-04-29/camila-una-enfermera-venezolana-ya-tiene-permiso-de-trabajo-y-residencia-provisional-estoy-impactada-y-contenta.html",
+    "publishedAt": "2026-04-29T19:06:54.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "BBC World-0-dium=RSS&at_campaign=rss",
+    "headline": "Oil price soars above $118 after reports of 'extended' Iran blockade",
+    "sourceName": "BBC World",
+    "sourceUrl": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-04-29T19:06:06.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-6-n-new?traffic_source=rss",
+    "headline": "Britain’s King Charles visits 9/11 Memorial in New York",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/4/29/britains-king-charles-visits-9-11-memorial-in-new?traffic_source=rss",
+    "publishedAt": "2026-04-29T19:04:34.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "ANSA-15-f-b60b-15a9650c00f4.html",
+    "headline": "Chemio con il cane accanto, al via il piano per umanizzare le cure a Treviso",
+    "sourceName": "ANSA",
+    "sourceUrl": "https://www.ansa.it/sito/videogallery/italia/2026/04/29/chemio-con-il-cane-accanto-al-via-il-piano-per-umanizzare-le-cure-a-treviso_8bd54320-7e7f-47bf-b60b-15a9650c00f4.html",
+    "publishedAt": "2026-04-29T19:03:16.000Z",
+    "countryCode": "IT",
+    "lang": "it"
+  },
+  {
+    "id": "DW-2-a=en-rss-en-all-1573-rdf",
+    "headline": "USA: Ex-FBI chief Comey appears in court over Trump threat",
+    "sourceName": "DW",
+    "sourceUrl": "https://www.dw.com/en/usa-ex-fbi-chief-comey-appears-in-court-over-trump-threat/a-76987435?maca=en-rss-en-all-1573-rdf",
+    "publishedAt": "2026-04-29T19:02:00.000Z",
+    "countryCode": "DE",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-7-ction?traffic_source=rss",
+    "headline": "Trump vows to maintain Iran blockade, Tehran threaten ‘practical’ action",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/4/29/trump-vows-to-maintain-iran-blockade-tehran-threaten-practical-action?traffic_source=rss",
+    "publishedAt": "2026-04-29T19:00:03.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "France 24-2--infrastructure-projects",
+    "headline": "Armenia's foreign minister signals new era: Peace, EU ambitions, trade, 'huge' infrastructure plans",
+    "sourceName": "France 24",
+    "sourceUrl": "https://www.france24.com/en/tv-shows/spotlight/20260429-armenia-s-fm-hails-peace-embraces-future-eu-elections-trade-huge-infrastructure-projects",
+    "publishedAt": "2026-04-29T18:57:32.000Z",
+    "countryCode": "FR",
+    "lang": "en"
+  },
+  {
+    "id": "France 24-3-rtainment-and-propaganda",
+    "headline": "Viral LEGO-style AI videos blur line between entertainment and propaganda",
+    "sourceName": "France 24",
+    "sourceUrl": "https://www.france24.com/en/viral-lego-style-ai-videos-blur-line-between-entertainment-and-propaganda",
+    "publishedAt": "2026-04-29T18:57:06.000Z",
+    "countryCode": "FR",
+    "lang": "en"
+  },
+  {
+    "id": "El País-5-queo-largo-de-ormuz.html",
+    "headline": "Estados Unidos se prepara para un bloqueo largo de Ormuz",
+    "sourceName": "El País",
+    "sourceUrl": "https://elpais.com/internacional/2026-04-29/estados-unidos-se-prepara-para-un-bloqueo-largo-de-ormuz.html",
+    "publishedAt": "2026-04-29T18:52:44.000Z",
+    "countryCode": "ES",
+    "lang": "es"
+  },
+  {
+    "id": "The Hindu-11-ayor/article70919352.ece",
+    "headline": "India, U.K. need to simplify their regulatory mechanisms: London’s Lady Mayor",
+    "sourceName": "The Hindu",
+    "sourceUrl": "https://www.thehindu.com/news/national/india-uk-need-to-simplify-their-regulatory-mechanisms-londons-lady-mayor/article70919352.ece",
+    "publishedAt": "2026-04-29T18:51:24.000Z",
+    "countryCode": "IN",
+    "lang": "en"
+  },
+  {
+    "id": "Al Jazeera-8-warns?traffic_source=rss",
+    "headline": "UK’s ‘terrorism’ laws risk overreach, watchdog warns",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/4/29/uks-terrorism-laws-risk-overreach-watchdog-warns?traffic_source=rss",
+    "publishedAt": "2026-04-29T18:51:01.000Z",
+    "countryCode": "QA",
+    "lang": "en"
+  },
+  {
+    "id": "The Guardian-5-urt-haitians-syrians-tps",
+    "headline": "US supreme court conservatives seem to favor ending TPS for Haitians and Syrians",
+    "sourceName": "The Guardian",
+    "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/29/us-supreme-court-haitians-syrians-tps",
+    "publishedAt": "2026-04-29T18:49:12.000Z",
+    "countryCode": "GB",
+    "lang": "en"
+  },
+  {
+    "id": "NHK-1-430/k10015111241000.html",
     "headline": "米ロ首脳が電話会談 イラン・ウクライナ情勢を協議",
-    "sourceName": "NHK国際",
+    "sourceName": "NHK",
     "sourceUrl": "http://www3.nhk.or.jp/news/html/20260430/k10015111241000.html",
     "publishedAt": "2026-04-29T18:48:59.000Z",
     "countryCode": "JP",
     "lang": "ja"
   },
   {
-    "id": "NHK-0-430/k10015111161000.html",
-    "headline": "FRB 3会合連続利下げ見送り 「中東情勢 不確実性高めている」",
-    "sourceName": "NHK",
-    "sourceUrl": "http://www3.nhk.or.jp/news/html/20260430/k10015111161000.html",
-    "publishedAt": "2026-04-29T18:48:07.000Z",
-    "countryCode": "JP",
-    "lang": "ja"
-  },
-  {
-    "id": "France 24-0--infrastructure-projects",
-    "headline": "Armenia's FM hails peace, embraces future: EU, elections, neighbours, 'huge' infrastructure projects",
-    "sourceName": "France 24",
-    "sourceUrl": "https://www.france24.com/en/armenia-s-fm-hails-peace-embraces-future-eu-elections-neighbours-huge-infrastructure-projects",
-    "publishedAt": "2026-04-29T18:47:11.000Z",
-    "countryCode": "FR",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-0-rity/article70921527.ece",
+    "id": "The Hindu-12-rity/article70921527.ece",
     "headline": "Kargil voices concern over Ladakh’s 7 new districts, ‘only 2 Muslim-majority’",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/ladakh/kargil-voices-concern-over-ladakhs-7-new-districts-only-2-muslim-majority/article70921527.ece",
@@ -36,70 +756,7 @@
     "lang": "en"
   },
   {
-    "id": "g1 Globo-0--suspeita-de-abuso.ghtml",
-    "headline": "Confederação brasileira e federação internacional de jiu-jitsu banem Melqui Galvão após prisão por suspeita de abuso",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/am/amazonas/noticia/2026/04/29/confederacao-brasileira-e-federacao-internacional-de-jiu-jitsu-banem-melqui-galvao-apos-prisao-por-suspeita-de-abuso.ghtml",
-    "publishedAt": "2026-04-29T18:43:23.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-1-bes-unidos-da-opep.ghtml",
-    "headline": "Trump comemora saída dos Emirados Árabes Unidos da Opep",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/economia/noticia/2026/04/29/trump-comemora-saida-dos-emirados-arabes-unidos-da-opep.ghtml",
-    "publishedAt": "2026-04-29T18:43:08.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-2--presta-depoimento.ghtml",
-    "headline": "Funcionário que acionou elevador onde serralheiro morreu na montagem do palco de Shakira presta depoimento",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/rio-de-janeiro/todo-mundo-no-rio/noticia/2026/04/29/funcionario-elevador-serralheiro-morreu-na-montagem-do-palco-de-shakira-presta-depoimento.ghtml",
-    "publishedAt": "2026-04-29T18:42:58.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-3-ameaca-lo-de-morte.ghtml",
-    "headline": "Número '86': Trump afirma que ex-diretor do FBI usou termo da máfia para ameaçá-lo de morte",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mundo/noticia/2026/04/29/numero-86-trump-afirma-que-ex-diretor-do-fbi-usou-termo-da-mafia-para-ameaca-lo-de-morte.ghtml",
-    "publishedAt": "2026-04-29T18:42:13.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "ANSA-9-4-88e3-a8ac845244c8.html",
-    "headline": "La Fed lascia i tassi di interesse invariati fra il 3,50% e il 3,75%",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/economia/2026/04/29/la-fed-lascia-i-tassi-di-interesse-invariati-fra-il-350-e-il-375_1d035425-a707-4854-88e3-a8ac845244c8.html",
-    "publishedAt": "2026-04-29T18:41:47.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "g1 Globo-4-gocios-diz-justica.ghtml",
-    "headline": "Delegado preso e afastado transformou delegacia de Roraima em 'balcão de negócios', diz Justiça",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rr/roraima/noticia/2026/04/29/delegado-preso-e-afastado-transformou-delegacia-de-roraima-em-balcao-de-negocios-diz-justica.ghtml",
-    "publishedAt": "2026-04-29T18:41:06.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-5-igital-na-amazonia.ghtml",
-    "headline": "Governo federal leva conectividade a escolas de Santarém e amplia inclusão digital na Amazônia",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/04/29/governo-federal-leva-conectividade-a-escolas-de-santarem-e-amplia-inclusao-digital-na-amazonia.ghtml",
-    "publishedAt": "2026-04-29T18:41:06.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "ANSA-8-9-a538-d50fe1cef2b3.html",
+    "id": "ANSA-9-9-a538-d50fe1cef2b3.html",
     "headline": "Sinner ancora troppo forte per Jodar, è semifinale a Madrid",
     "sourceName": "ANSA",
     "sourceUrl": "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/29/tennis-madrid-sinner-supera-jodar-e-va-in-semifinale_4cb9c391-cb57-4359-a538-d50fe1cef2b3.html",
@@ -117,112 +774,22 @@
     "lang": "en"
   },
   {
-    "id": "g1 Globo-6-cape-e-morre-em-mg.ghtml",
-    "headline": "VÍDEO: Menina que andava de bicicleta elétrica é atropelada por picape e morre em MG",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/04/29/video-menina-que-andava-de-bicicleta-eletrica-e-atropelada-por-picape-e-morre-em-mg.ghtml",
-    "publishedAt": "2026-04-29T18:40:36.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
+    "id": "Al Jazeera-9-fence?traffic_source=rss",
+    "headline": "South Africa to deport Robert Mugabe’s son over firearm offence",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/4/29/south-africa-to-deport-robert-mugabes-son-over-firearm-offence?traffic_source=rss",
+    "publishedAt": "2026-04-29T18:38:54.000Z",
+    "countryCode": "QA",
+    "lang": "en"
   },
   {
-    "id": "g1 Globo-7-inhao-br-470-video.ghtml",
-    "headline": "Duas pessoas morrem em acidente entre carro e caminhão na BR-470; VÍDEO",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/sc/santa-catarina/noticia/2026/04/29/duas-pessoas-morrem-em-acidente-carro-caminhao-br-470-video.ghtml",
-    "publishedAt": "2026-04-29T18:40:34.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "El País-12-do-antes-del-ataque.html",
-    "headline": "El hombre que intentó asesinar a Trump se tomó un selfi armado antes del ataque",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/internacional/2026-04-29/el-hombre-que-intento-asesinar-a-trump-se-tomo-un-selfi-armado-antes-del-ataque.html",
-    "publishedAt": "2026-04-29T18:40:23.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "g1 Globo-8-nos-estados-unidos.ghtml",
-    "headline": "Caso Anna Laura: condenado recebe pena de 25 anos nos Estados Unidos",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/04/29/caso-anna-laura-condenado-recebe-pena-de-25-anos-nos-estados-unidos.ghtml",
-    "publishedAt": "2026-04-29T18:40:13.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-9-oes-nao-levou-nada.ghtml",
-    "headline": "Grupo que apostou mais de R$ 230 mil para tentar ganhar R$ 115 milhões não levou nada",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/go/goias/noticia/2026/04/29/grupo-que-apostou-mais-de-r-230-mil-para-tentar-ganhar-r-115-milhoes-nao-levou-nada.ghtml",
-    "publishedAt": "2026-04-29T18:39:11.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-10-celebridades-em-sp.ghtml",
-    "headline": "GloboPop ganha festa de lançamento com creators e celebridades em SP",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/pop-arte/noticia/2026/04/29/globopop-ganha-festa-de-lancamento-com-creators-e-celebridades-em-sp.ghtml",
-    "publishedAt": "2026-04-29T18:38:28.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-11-nhao-em-imperatriz.ghtml",
-    "headline": "Motorista é encontrado morto dentro de cabine de caminhão em Imperatriz",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/ma/maranhao/noticia/2026/04/29/motorista-e-encontrado-morto-dentro-de-cabine-de-caminhao-em-imperatriz.ghtml",
-    "publishedAt": "2026-04-29T18:38:22.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-12-rtavel-em-miracema.ghtml",
-    "headline": "Jovem é presa com cocaína escondida em fralda descartável em Miracema",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/04/29/jovem-e-presa-com-cocaina-escondida-em-fralda-descartavel-em-miracema.ghtml",
-    "publishedAt": "2026-04-29T18:37:45.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "ANSA-5-4-be65-028ee8718e64.html",
-    "headline": "Putin a Trump: 'Disposto a dichiarare la tregua per il Giorno della Vittoria'",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/29/putin-a-trump-disposto-a-dichiarare-la-tregua-per-il-giorno-della-vittoria_6c92214b-0bcf-4134-be65-028ee8718e64.html",
-    "publishedAt": "2026-04-29T18:37:19.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "El País-6-tra-iran-en-directo.html",
-    "headline": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El secretario de Defensa de Estados Unidos relativiza la duración de la guerra en Irán: “Llevamos apenas dos meses de lucha existencial”",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/internacional/2026-04-29/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "publishedAt": "2026-04-29T18:37:09.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "The Hindu-1-ay-1/article70921260.ece",
+    "id": "The Hindu-13-ay-1/article70921260.ece",
     "headline": "Train timings revised, Basava Express to reach Mysuru early from May 1",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/karnataka/train-timings-revised-basava-express-to-reach-mysuru-earlier-from-may-1/article70921260.ece",
     "publishedAt": "2026-04-29T18:34:47.000Z",
     "countryCode": "IN",
     "lang": "en"
-  },
-  {
-    "id": "g1 Globo-13-rcado-de-itaperuna.ghtml",
-    "headline": "Homem é preso após furtar picanha em supermercado de Itaperuna",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/04/29/homem-e-preso-apos-furtar-picanha-em-supermercado-de-itaperuna.ghtml",
-    "publishedAt": "2026-04-29T18:34:19.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
   },
   {
     "id": "El País-0-en-el-escalafon-uno.html",
@@ -234,7 +801,7 @@
     "lang": "es"
   },
   {
-    "id": "El País-15-ar-el-uso-del-burka.html",
+    "id": "El País-19-ar-el-uso-del-burka.html",
     "headline": "El Congreso crea una subcomisión para estudiar el uso del burka",
     "sourceName": "El País",
     "sourceUrl": "https://elpais.com/espana/2026-04-29/el-congreso-crea-una-subcomision-para-estudiar-el-uso-del-burka.html",
@@ -243,7 +810,7 @@
     "lang": "es"
   },
   {
-    "id": "France 24-1-eas-on-iran-kremlin-says",
+    "id": "France 24-4-eas-on-iran-kremlin-says",
     "headline": "Putin, in call with Trump, put forward ideas on Iran, Kremlin says",
     "sourceName": "France 24",
     "sourceUrl": "https://www.france24.com/en/putin-in-call-with-trump-put-forward-ideas-on-iran-kremlin-says",
@@ -252,16 +819,7 @@
     "lang": "en"
   },
   {
-    "id": "El País-7-ions-league-en-vivo.html",
-    "headline": "Atlético de Madrid - Arsenal, en directo, la ida de semifinales de la Champions League, en vivo",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/deportes/futbol/2026-04-29/atletico-de-madrid-arsenal-en-directo-la-ida-de-semifinales-de-la-champions-league-en-vivo.html",
-    "publishedAt": "2026-04-29T18:30:01.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "DW-0-a=en-rss-en-all-1573-rdf",
+    "id": "DW-3-a=en-rss-en-all-1573-rdf",
     "headline": "Mali: France urges citizens to leave amid Tuareg advance",
     "sourceName": "DW",
     "sourceUrl": "https://www.dw.com/en/mali-france-urges-citizens-to-leave-amid-tuareg-advance/a-76986837?maca=en-rss-en-all-1573-rdf",
@@ -270,7 +828,7 @@
     "lang": "en"
   },
   {
-    "id": "ANSA-15-c-9b90-f23ddbdbdb8f.html",
+    "id": "ANSA-8-c-9b90-f23ddbdbdb8f.html",
     "headline": "Il caso della grazia a Nicole Minetti, verifiche su adozioni e procedimento penale",
     "sourceName": "ANSA",
     "sourceUrl": "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/sulladozione-di-nicole-minetti-il-tribunale-di-venezia-dichiaro-minore-in-stato-di-abbandono_aa34a221-a0a9-461c-9b90-f23ddbdbdb8f.html",
@@ -279,7 +837,7 @@
     "lang": "it"
   },
   {
-    "id": "The Hindu-2-stem/article70920167.ece",
+    "id": "The Hindu-14-stem/article70920167.ece",
     "headline": "Mysuru MP meets Goyal, seeks reform of tobacco auction system",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/karnataka/mysuru-mp-meets-goyal-seeks-reform-of-tobacco-auction-system/article70920167.ece",
@@ -288,7 +846,7 @@
     "lang": "en"
   },
   {
-    "id": "The Hindu-3-ight/article70920362.ece",
+    "id": "The Hindu-15-ight/article70920362.ece",
     "headline": "Heatwave conditions to continue in Mysuru district for a few more days",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/news/national/karnataka/mysuru-braces-for-prolonged-heatwave-no-immediate-rain-relief-in-sight/article70920362.ece",
@@ -297,34 +855,25 @@
     "lang": "en"
   },
   {
-    "id": "g1 Globo-14-assassinato-presos.ghtml",
-    "headline": "Suspeitos de matar homem a tiros em rua de Teresina são presos; arma apreendida",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/pi/piaui/noticia/2026/04/29/suspeitos-envolvimento-assassinato-presos.ghtml",
-    "publishedAt": "2026-04-29T18:26:05.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
+    "id": "Al Jazeera-10-lives?traffic_source=rss",
+    "headline": "Is the US forcing Zambia to trade minerals for lives?",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/video/2026/4/29/is-the-us-forcing-zambia-to-trade-minerals-for-lives?traffic_source=rss",
+    "publishedAt": "2026-04-29T18:28:10.000Z",
+    "countryCode": "QA",
+    "lang": "en"
   },
   {
-    "id": "g1 Globo-15-rta-feira-29042026.ghtml",
-    "headline": "VÍDEOS: Jornal Anhanguera 1ª Edição Regiões desta quarta-feira, 29/04/2026",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/go/goias/edicao/2026/04/29/videos-jornal-anhanguera-1-edicao-regioes-desta-quarta-feira-29042026.ghtml",
-    "publishedAt": "2026-04-29T18:26:03.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
+    "id": "Al Jazeera-11-chair?traffic_source=rss",
+    "headline": "US Fed holds rates steady, Powell to remain on its board",
+    "sourceName": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/economy/2026/4/29/us-fed-holds-rates-steady-in-powells-final-meeting-as-fed-chair?traffic_source=rss",
+    "publishedAt": "2026-04-29T18:22:29.000Z",
+    "countryCode": "QA",
+    "lang": "en"
   },
   {
-    "id": "g1 Globo-16-que-sera-rejeitado.ghtml",
-    "headline": "Tesouro diz que faltam dados para União garantir crédito para o BRB, mas indica que pedido será rejeitado",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/29/tesouro-nacional-diz-que-faltam-informacoes-para-operacao-de-credito-do-gdf-ao-brb-mas-indica-que-sera-rejeitado.ghtml",
-    "publishedAt": "2026-04-29T18:23:58.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "ANSA-12-c-92ac-6ccb8eee67b3.html",
+    "id": "ANSA-11-c-92ac-6ccb8eee67b3.html",
     "headline": "Arrestato a Roma il comico Massimo Bagnato per stalking alla ex",
     "sourceName": "ANSA",
     "sourceUrl": "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/arrestato-a-roma-il-comico-massimo-bagnato-per-stalking-alla-ex_e88aeb8d-8c09-4c1c-92ac-6ccb8eee67b3.html",
@@ -333,16 +882,7 @@
     "lang": "it"
   },
   {
-    "id": "g1 Globo-17-omando-da-pm-de-sp.ghtml",
-    "headline": "'Enfrentamento à violência doméstica será prioridade', diz coronel Glauce, 1ª mulher a assumir comando da PM de SP",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/29/enfrentamento-a-violencia-domestica-sera-prioridade-diz-coronel-glauce-1a-mulher-a-assumir-comando-da-pm-de-sp.ghtml",
-    "publishedAt": "2026-04-29T18:19:49.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "The Hindu-4-ence/article70921042.ece",
+    "id": "The Hindu-16-ence/article70921042.ece",
     "headline": "Record 92.6% turnout in West Bengal’s phase two poll; total State turnout highest since Independence",
     "sourceName": "The Hindu",
     "sourceUrl": "https://www.thehindu.com/elections/west-bengal-assembly/record-91-turnout-in-west-bengals-phase-two-poll-total-state-turnout-highest-since-independence/article70921042.ece",
@@ -351,552 +891,12 @@
     "lang": "en"
   },
   {
-    "id": "g1 Globo-18-pendurado-teresina.ghtml",
-    "headline": "Trabalhador fica pendurado a 50 metros de altura em prédio após falha em cabo de plataforma em Teresina",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/pi/piaui/noticia/2026/04/29/trabalhador-pendurado-teresina.ghtml",
-    "publishedAt": "2026-04-29T18:17:39.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-19-oeste-de-sao-paulo.ghtml",
-    "headline": "VÍDEO: pedestre é assaltado por motociclista armado em Pinheiros, na Zona Oeste de São Paulo",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/29/video-pedestre-e-assaltado-por-motociclista-armado-em-pinheiros-na-zona-oeste-de-sao-paulo.ghtml",
-    "publishedAt": "2026-04-29T18:17:30.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "France 24-2-ian-forces-to-leave-mali",
+    "id": "France 24-5-ian-forces-to-leave-mali",
     "headline": "Tuareg rebels urge Russian forces to leave Mali",
     "sourceName": "France 24",
     "sourceUrl": "https://www.france24.com/en/tuareg-rebels-urge-russian-forces-to-leave-mali",
     "publishedAt": "2026-04-29T18:15:59.000Z",
     "countryCode": "FR",
     "lang": "en"
-  },
-  {
-    "id": "El País-5-eas-estaba-retirado.html",
-    "headline": "Barbacid siguió recaudando fondos de donantes durante mes y medio aunque sabía que su estudio del cáncer de páncreas estaba retirado",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/ciencia/2026-04-29/barbacid-siguio-recaudando-fondos-de-donantes-durante-mes-y-medio-a-pesar-de-saber-que-su-estudio-del-cancer-de-pancreas-estaba-retirado.html",
-    "publishedAt": "2026-04-29T18:15:02.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "g1 Globo-20-as-em-juiz-de-fora.ghtml",
-    "headline": "São José Operário é celebrado com missas e programações festivas em Juiz de Fora",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/04/29/sao-jose-operario-e-celebrado-com-missas-e-programacoes-festivas-em-juiz-de-fora.ghtml",
-    "publishedAt": "2026-04-29T18:12:52.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-21-rogas-em-tres-rios.ghtml",
-    "headline": "Mulher é presa por suspeita de participação em homicídio e tráfico de drogas, em Três Rios",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/04/29/mulher-e-presa-por-suspeita-de-participacao-em-homicidio-e-trafico-de-drogas-em-tres-rios.ghtml",
-    "publishedAt": "2026-04-29T18:12:41.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "ANSA-11-1-b07b-16ae2244c865.html",
-    "headline": "Giuli vuole preservare il Teatro Delle Vittorie: 'Potremmo farci un sinfonico'",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/04/29/giuli-spenderemo-i-pochi-piccioli-del-mic-per-il-teatro-delle-vittorie_afc3a4f6-4ef3-4ea1-b07b-16ae2244c865.html",
-    "publishedAt": "2026-04-29T18:12:30.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "g1 Globo-22-rocutado-em-olinda.ghtml",
-    "headline": "Comerciante morre eletrocutado após encostar em máquina de assar galetos",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/pe/pernambuco/noticia/2026/04/29/comerciante-morre-eletrocutado-em-olinda.ghtml",
-    "publishedAt": "2026-04-29T18:12:22.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "France 24-3-ks-from-us-iran-mediator",
-    "headline": "Pakistan in the middle: What benefits and risks from US-Iran mediator?",
-    "sourceName": "France 24",
-    "sourceUrl": "https://www.france24.com/en/tv-shows/the-debate/20260429-pakistan-in-the-middle-what-benefits-and-risks-from-us-iran-mediator",
-    "publishedAt": "2026-04-29T18:11:48.000Z",
-    "countryCode": "FR",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-23-choeiras-de-macacu.ghtml",
-    "headline": "Projeto social “Lona na Lua” inaugura terceira unidade em Cachoeiras de Macacu",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/04/29/projeto-social-lona-na-lua-inaugura-terceira-unidade-em-cachoeiras-de-macacu.ghtml",
-    "publishedAt": "2026-04-29T18:11:37.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-24-cessos-e-polemicas.ghtml",
-    "headline": "Edson Gomes: ícone do reggae brasileiro envolvido em confusão com Daniela Mercury tem carreira marcada por sucessos e polêmicas",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/ba/bahia/noticia/2026/04/29/edson-gomes-tem-mais-de-50-anos-de-carreira-e-coleciona-sucessos-e-polemicas.ghtml",
-    "publishedAt": "2026-04-29T18:11:09.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "ANSA-7-d-ac8b-30406cd74880.html",
-    "headline": "Spari sul 25 aprile: fermato Eithan Bondì, 21 anni, per tentato omicidio",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/colpi-di-pistola-ad-aria-compressa-a-roma-contro-due-iscritti-allanpi-ferita_6eb8bb86-2406-4b3d-ac8b-30406cd74880.html",
-    "publishedAt": "2026-04-29T18:10:54.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "DW-1-a=en-rss-en-all-1573-rdf",
-    "headline": "Teenage bullying increases in Ukrainian schools",
-    "sourceName": "DW",
-    "sourceUrl": "https://www.dw.com/en/teenage-bullying-increases-in-ukrainian-schools/a-76982830?maca=en-rss-en-all-1573-rdf",
-    "publishedAt": "2026-04-29T18:09:00.000Z",
-    "countryCode": "DE",
-    "lang": "en"
-  },
-  {
-    "id": "g1 Globo-25--sabores-pipa-chef.ghtml",
-    "headline": "Festival Sabores da Pipa começa na quinta (30) e tem participação de chef eleita melhor do mundo",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/04/29/festival-sabores-pipa-chef.ghtml",
-    "publishedAt": "2026-04-29T18:06:17.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-26-nergia-em-itaipava.ghtml",
-    "headline": "Pousada spa é flagrada com ligação irregular de energia em Itaipava",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/04/29/pousada-spa-e-flagrada-com-ligacao-irregular-de-energia-em-itaipava.ghtml",
-    "publishedAt": "2026-04-29T18:06:15.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-27-heco-em-uberlandia.ghtml",
-    "headline": "Vídeo mostra momento em que motorista se distrai e atropela policiais na Rondon Pacheco, em Uberlândia",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/04/29/video-mostra-momento-em-que-motorista-se-distrai-e-atropela-policiais-na-rondon-pacheco-em-uberlandia.ghtml",
-    "publishedAt": "2026-04-29T18:06:09.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-28--no-interior-de-sp.ghtml",
-    "headline": "VÍDEO: homem é preso com remédios para emagrecimento escondidos nas partes íntimas e em meias no interior de SP",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/04/29/video-homem-e-preso-com-remedios-para-emagrecimento-escondidos-nas-partes-intimas-e-em-meias-no-interior-de-sp.ghtml",
-    "publishedAt": "2026-04-29T18:04:40.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "g1 Globo-29-pb-sao-prorrogadas.ghtml",
-    "headline": "Inscrições do concurso da UEPB com salários de até R$ 4,7 mil são prorrogadas",
-    "sourceName": "g1 Globo",
-    "sourceUrl": "https://g1.globo.com/pb/paraiba/noticia/2026/04/29/inscricoes-do-concurso-da-uepb-sao-prorrogadas.ghtml",
-    "publishedAt": "2026-04-29T18:04:23.000Z",
-    "countryCode": "BR",
-    "lang": "pt"
-  },
-  {
-    "id": "The Hindu-5-view/article70921393.ece",
-    "headline": "Courts cannot reform faith, says SC in Sabarimala review",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/courts-cannot-reform-faith-says-sc-in-sabarimala-review/article70921393.ece",
-    "publishedAt": "2026-04-29T18:02:13.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-6-pses/article70920864.ece",
-    "headline": "9 killed as rain batters Bengaluru",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/bengaluru-rains-seven-dead-as-compound-wall-of-bowring-hospital-collapses/article70920864.ece",
-    "publishedAt": "2026-04-29T18:01:53.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "El País-11-interes-una-vez-mas.html",
-    "headline": "Powell deja la presidencia de la Fed sin tocar tipos pero se quedará en el consejo en un desafío a Trump",
-    "sourceName": "El País",
-    "sourceUrl": "https://elpais.com/economia/2026-04-29/powell-se-despide-de-la-reserva-federal-y-de-trump-sujetando-los-tipos-de-interes-una-vez-mas.html",
-    "publishedAt": "2026-04-29T18:00:16.000Z",
-    "countryCode": "ES",
-    "lang": "es"
-  },
-  {
-    "id": "The Hindu-7-8-mm/article70921592.ece",
-    "headline": "Rain and hailstorm pound Bengaluru’s Central Business District as city records 111 mm, new record for April",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/rain-and-hailstorm-pound-bengalurus-central-business-district-as-city-records-78-mm/article70921592.ece",
-    "publishedAt": "2026-04-29T18:00:01.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "ANSA-27-7-bc15-b7c3a4b1223a.html",
-    "headline": "Precompilata al via, il modello 730 disponibile sul sito delle Entrate da giovedì. Quello che c'è da sapere",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/economia/2026/04/29/precompilata-al-via-il-modello-730-disponibile-sul-sito-delle-entrate-da-giovedi._22ba1ec0-46c4-47b7-bc15-b7c3a4b1223a.html",
-    "publishedAt": "2026-04-29T17:57:29.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "The Hindu-8-logy/article70920597.ece",
-    "headline": "SRM-AP launches AI-integrated PG programmes in Economics, Psychology",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/srm-ap-launches-ai-integrated-pg-programmes-in-economics-psychology/article70920597.ece",
-    "publishedAt": "2026-04-29T17:56:32.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "ANSA-16-0-8bd5-a94c219a8512.html",
-    "headline": "La morte del Dj Godzi, 'fu torturato, è un altro caso Cucchi'",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/depositata-una-perizia-della-famiglia-del-dj-godzi-un-altro-caso-cucchi_84ef42c8-32c8-4640-8bd5-a94c219a8512.html",
-    "publishedAt": "2026-04-29T17:56:27.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "The Hindu-9-isha/article70920528.ece",
-    "headline": "Epic Group’s $100 million-garment manufacturing unit inaugurated in Odisha",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/odisha/epic-groups-100-million-garment-manufacturing-unit-inaugurated-in-odisha/article70920528.ece",
-    "publishedAt": "2026-04-29T17:56:21.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "ANSA-21-1-9398-30569c53e968.html",
-    "headline": "Gli ispettori alla Biennale, l'Ue appoggia la linea dura di Giuli",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/cultura/2026/04/29/il-ministero-della-cultura-manda-gli-ispettori-alla-biennale-di-venezia_37622700-bb89-40d1-9398-30569c53e968.html",
-    "publishedAt": "2026-04-29T17:55:38.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "ANSA-23-2-a5cd-cefda2da668f.html",
-    "headline": "Scontro Ue-Meta sul controllo dell'età su Facebook e Instagram",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/04/29/lue-i-sistemi-di-controllo-per-leta-di-facebook-e-instagram-inefficaci.-meta-le-verifiche_7e770b69-b78e-4ae2-a5cd-cefda2da668f.html",
-    "publishedAt": "2026-04-29T17:53:48.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "ANSA-24-c-b147-d6927407727e.html",
-    "headline": "Domani sciopero in Piazza Affari, 'è in gioco il futuro'",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/economia/2026/04/29/domani-sciopero-in-piazza-affari-presidio-fino-alle-15_1311e504-7a85-403c-b147-d6927407727e.html",
-    "publishedAt": "2026-04-29T17:51:49.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "BBC World-0-dium=RSS&at_campaign=rss",
-    "headline": "Oil price soars above $118 after reports of 'extended' Iran blockade",
-    "sourceName": "BBC World",
-    "sourceUrl": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-04-29T17:49:07.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-10-onth/article70922012.ece",
-    "headline": "Two lakh kg of Nandini ghee to be supplied to Tirupati every month",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/karnataka/two-lakh-kg-of-nandini-ghee-to-be-supplied-to-tirupati-every-month/article70922012.ece",
-    "publishedAt": "2026-04-29T17:48:54.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "Al Jazeera-0-eyond?traffic_source=rss",
-    "headline": "UAE quits OPEC: What that means for the Gulf, energy markets and beyond",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/4/29/uae-quits-opec-what-that-means-for-the-gulf-energy-markets-and-beyond?traffic_source=rss",
-    "publishedAt": "2026-04-29T17:47:57.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-11-odia/article70919986.ece",
-    "headline": "Delhi Excise policy case: HC adjourns to May 4 CBI plea against Kejriwal’s discharge",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-excise-policy-case-delhi-high-court-cbi-plea-against-arvind-kejriwal-manish-sisodia/article70919986.ece",
-    "publishedAt": "2026-04-29T17:46:54.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Guardian-20-g-grain-stolen-by-russia",
-    "headline": "Ukraine asks Israel to seize vessel it claims is carrying grain stolen by Russia",
-    "sourceName": "The Guardian",
-    "sourceUrl": "https://www.theguardian.com/world/2026/apr/29/ukraine-asks-israel-to-seize-vessel-it-claims-is-carrying-grain-stolen-by-russia",
-    "publishedAt": "2026-04-29T17:46:40.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "Al Jazeera-1-fight?traffic_source=rss",
-    "headline": "US top court voids Louisiana voting map amid national redistricting fight",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/4/29/us-top-court-voids-louisiana-voting-map-amid-national-redistricting-fight?traffic_source=rss",
-    "publishedAt": "2026-04-29T17:45:00.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "Al Jazeera-2-cerns?traffic_source=rss",
-    "headline": "Trump admin probe into ABC amid Kimmel row sparks US free speech concerns",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/4/29/trump-admin-probe-into-abc-amid-kimmel-row-sparks-us-free-speech-concerns?traffic_source=rss",
-    "publishedAt": "2026-04-29T17:44:15.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "ANSA-6-4-8edd-c0f11be02d4a.html",
-    "headline": "Garlasco, Andrea Sempio convocato dalla Procura il 6 maggio. \"Ha ucciso Chiara Poggi da solo\"",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/garlasco-andrea-sempio-convocato-dalla-procura-il-6-maggio.-ha-ucciso-chiara-poggi_c45138d6-bbc9-48d4-8edd-c0f11be02d4a.html",
-    "publishedAt": "2026-04-29T17:43:39.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "ANSA-25-f-b18f-a531ea56b292.html",
-    "headline": "Vendetta shock di Trump, mandato per l'ex capo Fbi. Comey si costituisce",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/mondo/2026/04/29/mandato-darresto-per-lex-capo-dellfbi-comey-la-vendetta-di-trump_4f324e9d-0c1b-4f8f-b18f-a531ea56b292.html",
-    "publishedAt": "2026-04-29T17:36:54.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "The Hindu-12-a-mp/article70921367.ece",
-    "headline": "IIFT construction nears completion, likely to be ready by June: Kakinada MP",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/iift-construction-nears-completion-likely-to-be-ready-by-june-kakinada-mp/article70921367.ece",
-    "publishedAt": "2026-04-29T17:33:58.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "Al Jazeera-3-oting?traffic_source=rss",
-    "headline": "Families sue OpenAI, alleging chatbot aided in Canadian school shooting",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/economy/2026/4/29/families-sue-openai-alleging-chatbot-aided-in-canadian-school-shooting?traffic_source=rss",
-    "publishedAt": "2026-04-29T17:33:51.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "ANSA-10-2-917b-1b726195e2d4.html",
-    "headline": "Roma parte civile su Crans-Montana, 'autorità locali responsabili'",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/palazzo-chigi-litalia-si-costituisce-parte-civile-nel-processo-su-crans-montana_d306982f-c620-4792-917b-1b726195e2d4.html",
-    "publishedAt": "2026-04-29T17:30:53.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "The Hindu-13-eges/article70920899.ece",
-    "headline": "NMC deletes seat ceiling for MBBS medical colleges",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/education/nmc-deletes-seat-ceiling-for-mbbs-medical-colleges/article70920899.ece",
-    "publishedAt": "2026-04-29T17:29:28.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-14-hchi/article70921780.ece",
-    "headline": "Days after logjam in BRICS envoys meeting, Jaishankar speaks with Araghchi",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/days-after-logjam-in-brics-envoys-meeting-jaishankar-speaks-with-araghchi/article70921780.ece",
-    "publishedAt": "2026-04-29T17:25:04.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-15-ates/article70921812.ece",
-    "headline": "Exit polls predict close contest in West Bengal, DMK+ lead in Tamil Nadu, UDF ahead in Kerala, NDA victory in Assam and Puducherry",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/elections/exit-polls-2026-results-west-bengal-tamil-nadu-assam-kerala-puducherry-updates/article70921812.ece",
-    "publishedAt": "2026-04-29T17:25:03.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "ANSA-13-e-9228-59ed553be9f9.html",
-    "headline": "Squalo intrappolato tra gli scogli nell'Ascolano, l'intervento della guardia costiera",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/sito/videogallery/italia/2026/04/29/squalo-intrappolato-tra-gli-scogli-nellascolano-lintervento-della-guardia-costiera_fc2fb369-2c98-421e-9228-59ed553be9f9.html",
-    "publishedAt": "2026-04-29T17:22:49.000Z",
-    "countryCode": "IT",
-    "lang": "it"
-  },
-  {
-    "id": "The Hindu-16-ssam/article70920319.ece",
-    "headline": "Exit polls 2026 highlights: Higher voter turnout in favour of Trinamool Congress, says Saugata Roy",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/elections/assembly-election-2026-exit-polls-live-updates-tamil-nadu-kerala-puducherry-west-bengal-assam/article70920319.ece",
-    "publishedAt": "2026-04-29T17:22:12.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "Al Jazeera-4-e-yet?traffic_source=rss",
-    "headline": "A 48-team World Cup is Panini sticker collectors’ biggest challenge yet",
-    "sourceName": "Al Jazeera",
-    "sourceUrl": "https://www.aljazeera.com/sports/2026/4/29/a-48-team-world-cup-is-panini-sticker-collectors-biggest-challenge-yet?traffic_source=rss",
-    "publishedAt": "2026-04-29T17:21:46.000Z",
-    "countryCode": "QA",
-    "lang": "en"
-  },
-  {
-    "id": "The Guardian-25--attack-narges-mohammadi",
-    "headline": "Family of ailing Iranian Nobel laureate say keeping her in jail is a death sentence",
-    "sourceName": "The Guardian",
-    "sourceUrl": "https://www.theguardian.com/global-development/2026/apr/29/family-jailed-iranian-nobel-laureate-suspected-heart-attack-narges-mohammadi",
-    "publishedAt": "2026-04-29T17:21:34.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-17--row/article70921276.ece",
-    "headline": "Judiciary chapter ‘scrutinised at the highest level, including NCERT director,’ expert states in textbook row",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/judiciary-chapter-scrutinised-at-the-highest-level-including-ncert-director-expert-states-in-textbook-row/article70921276.ece",
-    "publishedAt": "2026-04-29T17:20:53.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-18-rsts/article70921304.ece",
-    "headline": "From record turnout to unprecedented security, this West Bengal election marked by many firsts",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/elections/west-bengal-assembly/from-record-turnout-to-unprecedented-security-this-west-bengal-election-marked-by-many-firsts/article70921304.ece",
-    "publishedAt": "2026-04-29T17:18:04.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Guardian-21-r-official-game-in-spain",
-    "headline": "Veteran goalkeeper, 70, to return to pitch for official game in Spain",
-    "sourceName": "The Guardian",
-    "sourceUrl": "https://www.theguardian.com/world/2026/apr/29/veteran-goalkeeper-70-to-return-to-pitch-for-official-game-in-spain",
-    "publishedAt": "2026-04-29T17:17:42.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-19-dies/article70921588.ece",
-    "headline": "Nursing student rescued from Periyar valley canal dies",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/kerala/nursing-student-rescued-from-periyar-valley-canal-dies/article70921588.ece",
-    "publishedAt": "2026-04-29T17:15:59.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-20-isor/article70921746.ece",
-    "headline": "DGP Shivadhar Reddy to be made Telangana State Security Advisor",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/telangana/dgp-shivadhar-reddy-to-be-made-ts-state-security-advisor/article70921746.ece",
-    "publishedAt": "2026-04-29T17:13:48.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-21-ment/article70921234.ece",
-    "headline": "Kadambrayar pollution: local bodies told to step up enforcement",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/kerala/kadambrayar-pollution-local-bodies-told-to-step-up-enforcement/article70921234.ece",
-    "publishedAt": "2026-04-29T17:12:18.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-22-case/article70921452.ece",
-    "headline": "Court rejects autorickshaw permit plea of man acquitted in 26/11 terror case",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/court-rejects-autorickshaw-permit-plea-of-man-acquitted-in-2611-terror-case/article70921452.ece",
-    "publishedAt": "2026-04-29T17:11:17.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-23-cuit/article70921402.ece",
-    "headline": "Extended Srinagar-Jammu Vande Bharat will allow ‘unbroken journey’ on pilgrim circuit",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/extended-srinagar-jammu-vande-bharat-will-allow-unbroken-journey-on-pilgrim-circuit/article70921402.ece",
-    "publishedAt": "2026-04-29T17:10:29.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-24-case/article70921476.ece",
-    "headline": "Bombay High Court grants bail to Sharad Kalaskar in Narendra Dabholkar murder case",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-grants-bail-to-sharad-kalaskar-in-narendra-dabholkar-murder-case/article70921476.ece",
-    "publishedAt": "2026-04-29T17:08:59.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-25-edia/article70920508.ece",
-    "headline": "Police zero in on suspects behind morphed images of  women on social media",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/kerala/police-zero-in-on-suspects-behind-morphed-images-of-women-on-social-media/article70920508.ece",
-    "publishedAt": "2026-04-29T17:07:11.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "The Hindu-26-tion/article70919300.ece",
-    "headline": "U.S. returns 657 stolen artefacts to India in $14 million restitution",
-    "sourceName": "The Hindu",
-    "sourceUrl": "https://www.thehindu.com/news/national/us-returns-657-stolen-artefacts-to-india-in-14-million-restitution/article70919300.ece",
-    "publishedAt": "2026-04-29T17:07:06.000Z",
-    "countryCode": "IN",
-    "lang": "en"
-  },
-  {
-    "id": "BBC World-6-dium=RSS&at_campaign=rss",
-    "headline": "Stranded whale ferried out of German waters in barge",
-    "sourceName": "BBC World",
-    "sourceUrl": "https://www.bbc.com/news/articles/clyp559l06no?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-04-29T17:06:23.000Z",
-    "countryCode": "GB",
-    "lang": "en"
-  },
-  {
-    "id": "ANSA-0-c-bbc6-0f0b1ff27c1b.html",
-    "headline": "Sorpresa in Abruzzo, scoperta una colonia di pipistrelli 'ferro di cavallo'",
-    "sourceName": "ANSA",
-    "sourceUrl": "https://www.ansa.it/abruzzo/notizie/2026/04/29/sorpresa-in-abruzzo-scoperta-una-colonia-di-pipistrelli-ferro-di-cavallo_a2fd2d0c-f11c-425c-bbc6-0f0b1ff27c1b.html",
-    "publishedAt": "2026-04-29T17:06:00.000Z",
-    "countryCode": "IT",
-    "lang": "it"
   }
 ]

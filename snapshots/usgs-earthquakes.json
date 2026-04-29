@@ -128,25 +128,5 @@
     "timestamp": "2026-04-28T22:58:22.124Z",
     "description": "M 4.9 - 11 km NE of Arteche, Philippines",
     "source": "USGS"
-  },
-  {
-    "id": "us7000sgrs",
-    "type": "earthquake",
-    "lat": 41.215,
-    "lng": 83.9918,
-    "intensity": 4.6,
-    "timestamp": "2026-04-28T19:16:05.298Z",
-    "description": "M 4.6 - 104 km ESE of Kuqa, China",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgrr",
-    "type": "earthquake",
-    "lat": -18.3551,
-    "lng": -175.1875,
-    "intensity": 4.5,
-    "timestamp": "2026-04-28T19:13:15.642Z",
-    "description": "M 4.5 - 131 km WNW of Neiafu, Tonga",
-    "source": "USGS"
   }
 ]
