@@ -484,6 +484,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793898633",
+    "name": "Puerto Aventuras › South: Bahia Akumal - Caribe Mexicano",
+    "city": "Puerto Aventuras",
+    "countryCode": "JP",
+    "lat": 20.39616,
+    "lng": -87.3141,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898633/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1112092231",
     "name": "Carouge › North: Geneva 2",
     "city": "Carouge",
@@ -1155,17 +1166,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -1580,17 +1580,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "JP",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2581,17 +2570,6 @@
     "lat": 61.56519,
     "lng": 7.99719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1290508930/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "JP",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3872,17 +3850,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296249135",
-    "name": "District of Topoľčany: Velke Dvorany: Topolcany Centrum",
-    "city": "District of Topoľčany",
-    "countryCode": "JP",
-    "lat": 48.55894,
-    "lng": 18.17444,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296249135/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1277501450",
     "name": "Altenburg › North-east: St. Bartholomäi - Schloss Altenburg",
     "city": "Altenburg",
@@ -4114,17 +4081,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1225880502",
-    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
-    "city": "Belp",
-    "countryCode": "JP",
-    "lat": 46.90595,
-    "lng": 7.4983,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -4132,6 +4088,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1225880502",
+    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
+    "city": "Belp",
+    "countryCode": "JP",
+    "lat": 46.90595,
+    "lng": 7.4983,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4983,17 +4950,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "JP",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1389696018",
     "name": "Jerusalem: Jesuralem",
     "city": "Jerusalem",
@@ -5001,6 +4957,17 @@
     "lat": 31.77101,
     "lng": 35.20195,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1389696018/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "JP",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5584,17 +5551,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6490,17 +6446,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1524588473",
-    "name": "Myrtle Beach: South Carolina, United States",
-    "city": "Myrtle Beach",
-    "countryCode": "JP",
-    "lat": 33.68906,
-    "lng": -78.88669,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524588473/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -6970,17 +6915,6 @@
     "lat": 31.58528,
     "lng": 130.54483,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1529057478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1349204841",
-    "name": "Hunnebostrand: Hunnebostrands Hamn",
-    "city": "Hunnebostrand",
-    "countryCode": "JP",
-    "lat": 58.43956,
-    "lng": 11.29377,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349204841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8206,17 +8140,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1376382103",
-    "name": "Lignano Sabbiadoro: spiaggia VIP",
-    "city": "Lignano Sabbiadoro",
-    "countryCode": "JP",
-    "lat": 45.68891,
-    "lng": 13.1471,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185345994",
     "name": "Porvoo: central square - City",
     "city": "Porvoo",
@@ -8224,6 +8147,17 @@
     "lat": 60.39237,
     "lng": 25.66375,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185345994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1376382103",
+    "name": "Lignano Sabbiadoro: spiaggia VIP",
+    "city": "Lignano Sabbiadoro",
+    "countryCode": "JP",
+    "lat": 45.68891,
+    "lng": 13.1471,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8415,17 +8349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1354996226",
-    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
-    "city": "Ulrichen",
-    "countryCode": "JP",
-    "lat": 46.50641,
-    "lng": 8.30475,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -8433,6 +8356,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1354996226",
+    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
+    "city": "Ulrichen",
+    "countryCode": "JP",
+    "lat": 46.50641,
+    "lng": 8.30475,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8602,17 +8536,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "JP",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1305537569",
     "name": "Bardolino: Centro Nautico",
     "city": "Bardolino",
@@ -8679,17 +8602,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1569928748",
-    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
-    "city": "District of Nové Mesto nad Váhom",
-    "countryCode": "JP",
-    "lat": 48.8576,
-    "lng": 17.68229,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368147781",
     "name": "Chivilcoy: Ciudad de",
     "city": "Chivilcoy",
@@ -8697,6 +8609,17 @@
     "lat": -34.90307,
     "lng": -60.00211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368147781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1569928748",
+    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
+    "city": "District of Nové Mesto nad Váhom",
+    "countryCode": "JP",
+    "lat": 48.8576,
+    "lng": 17.68229,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9273,17 +9196,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "JP",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -9291,6 +9203,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "JP",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10307,17 +10230,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "JP",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -10325,6 +10237,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "JP",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11396,6 +11319,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793898633",
+    "name": "Puerto Aventuras › South: Bahia Akumal - Caribe Mexicano",
+    "city": "Puerto Aventuras",
+    "countryCode": "US",
+    "lat": 20.39616,
+    "lng": -87.3141,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898633/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1112092231",
     "name": "Carouge › North: Geneva 2",
     "city": "Carouge",
@@ -12067,17 +12001,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -12492,17 +12415,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "US",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13493,17 +13405,6 @@
     "lat": 61.56519,
     "lng": 7.99719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1290508930/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "US",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14784,17 +14685,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296249135",
-    "name": "District of Topoľčany: Velke Dvorany: Topolcany Centrum",
-    "city": "District of Topoľčany",
-    "countryCode": "US",
-    "lat": 48.55894,
-    "lng": 18.17444,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296249135/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1277501450",
     "name": "Altenburg › North-east: St. Bartholomäi - Schloss Altenburg",
     "city": "Altenburg",
@@ -15026,17 +14916,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1225880502",
-    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
-    "city": "Belp",
-    "countryCode": "US",
-    "lat": 46.90595,
-    "lng": 7.4983,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -15044,6 +14923,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1225880502",
+    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
+    "city": "Belp",
+    "countryCode": "US",
+    "lat": 46.90595,
+    "lng": 7.4983,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15895,17 +15785,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "US",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1389696018",
     "name": "Jerusalem: Jesuralem",
     "city": "Jerusalem",
@@ -15913,6 +15792,17 @@
     "lat": 31.77101,
     "lng": 35.20195,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1389696018/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "US",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16496,17 +16386,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17402,17 +17281,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1524588473",
-    "name": "Myrtle Beach: South Carolina, United States",
-    "city": "Myrtle Beach",
-    "countryCode": "US",
-    "lat": 33.68906,
-    "lng": -78.88669,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524588473/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -17882,17 +17750,6 @@
     "lat": 31.58528,
     "lng": 130.54483,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1529057478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1349204841",
-    "name": "Hunnebostrand: Hunnebostrands Hamn",
-    "city": "Hunnebostrand",
-    "countryCode": "US",
-    "lat": 58.43956,
-    "lng": 11.29377,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349204841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19118,17 +18975,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1376382103",
-    "name": "Lignano Sabbiadoro: spiaggia VIP",
-    "city": "Lignano Sabbiadoro",
-    "countryCode": "US",
-    "lat": 45.68891,
-    "lng": 13.1471,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185345994",
     "name": "Porvoo: central square - City",
     "city": "Porvoo",
@@ -19136,6 +18982,17 @@
     "lat": 60.39237,
     "lng": 25.66375,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185345994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1376382103",
+    "name": "Lignano Sabbiadoro: spiaggia VIP",
+    "city": "Lignano Sabbiadoro",
+    "countryCode": "US",
+    "lat": 45.68891,
+    "lng": 13.1471,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19327,17 +19184,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1354996226",
-    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
-    "city": "Ulrichen",
-    "countryCode": "US",
-    "lat": 46.50641,
-    "lng": 8.30475,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -19345,6 +19191,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1354996226",
+    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
+    "city": "Ulrichen",
+    "countryCode": "US",
+    "lat": 46.50641,
+    "lng": 8.30475,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19514,17 +19371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "US",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1305537569",
     "name": "Bardolino: Centro Nautico",
     "city": "Bardolino",
@@ -19591,17 +19437,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1569928748",
-    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
-    "city": "District of Nové Mesto nad Váhom",
-    "countryCode": "US",
-    "lat": 48.8576,
-    "lng": 17.68229,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368147781",
     "name": "Chivilcoy: Ciudad de",
     "city": "Chivilcoy",
@@ -19609,6 +19444,17 @@
     "lat": -34.90307,
     "lng": -60.00211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368147781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1569928748",
+    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
+    "city": "District of Nové Mesto nad Váhom",
+    "countryCode": "US",
+    "lat": 48.8576,
+    "lng": 17.68229,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20185,17 +20031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "US",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -20203,6 +20038,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "US",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21219,17 +21065,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "US",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -21237,6 +21072,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "US",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22308,6 +22154,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793898633",
+    "name": "Puerto Aventuras › South: Bahia Akumal - Caribe Mexicano",
+    "city": "Puerto Aventuras",
+    "countryCode": "GB",
+    "lat": 20.39616,
+    "lng": -87.3141,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898633/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1112092231",
     "name": "Carouge › North: Geneva 2",
     "city": "Carouge",
@@ -22979,17 +22836,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -23404,17 +23250,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "GB",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24405,17 +24240,6 @@
     "lat": 61.56519,
     "lng": 7.99719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1290508930/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "GB",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25696,17 +25520,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296249135",
-    "name": "District of Topoľčany: Velke Dvorany: Topolcany Centrum",
-    "city": "District of Topoľčany",
-    "countryCode": "GB",
-    "lat": 48.55894,
-    "lng": 18.17444,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296249135/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1277501450",
     "name": "Altenburg › North-east: St. Bartholomäi - Schloss Altenburg",
     "city": "Altenburg",
@@ -25938,17 +25751,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1225880502",
-    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
-    "city": "Belp",
-    "countryCode": "GB",
-    "lat": 46.90595,
-    "lng": 7.4983,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -25956,6 +25758,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1225880502",
+    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
+    "city": "Belp",
+    "countryCode": "GB",
+    "lat": 46.90595,
+    "lng": 7.4983,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26807,17 +26620,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "GB",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1389696018",
     "name": "Jerusalem: Jesuralem",
     "city": "Jerusalem",
@@ -26825,6 +26627,17 @@
     "lat": 31.77101,
     "lng": 35.20195,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1389696018/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "GB",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27408,17 +27221,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28314,17 +28116,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1524588473",
-    "name": "Myrtle Beach: South Carolina, United States",
-    "city": "Myrtle Beach",
-    "countryCode": "GB",
-    "lat": 33.68906,
-    "lng": -78.88669,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524588473/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -28794,17 +28585,6 @@
     "lat": 31.58528,
     "lng": 130.54483,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1529057478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1349204841",
-    "name": "Hunnebostrand: Hunnebostrands Hamn",
-    "city": "Hunnebostrand",
-    "countryCode": "GB",
-    "lat": 58.43956,
-    "lng": 11.29377,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349204841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30030,17 +29810,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1376382103",
-    "name": "Lignano Sabbiadoro: spiaggia VIP",
-    "city": "Lignano Sabbiadoro",
-    "countryCode": "GB",
-    "lat": 45.68891,
-    "lng": 13.1471,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185345994",
     "name": "Porvoo: central square - City",
     "city": "Porvoo",
@@ -30048,6 +29817,17 @@
     "lat": 60.39237,
     "lng": 25.66375,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185345994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1376382103",
+    "name": "Lignano Sabbiadoro: spiaggia VIP",
+    "city": "Lignano Sabbiadoro",
+    "countryCode": "GB",
+    "lat": 45.68891,
+    "lng": 13.1471,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30239,17 +30019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1354996226",
-    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
-    "city": "Ulrichen",
-    "countryCode": "GB",
-    "lat": 46.50641,
-    "lng": 8.30475,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -30257,6 +30026,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1354996226",
+    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
+    "city": "Ulrichen",
+    "countryCode": "GB",
+    "lat": 46.50641,
+    "lng": 8.30475,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30426,17 +30206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "GB",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1305537569",
     "name": "Bardolino: Centro Nautico",
     "city": "Bardolino",
@@ -30503,17 +30272,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1569928748",
-    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
-    "city": "District of Nové Mesto nad Váhom",
-    "countryCode": "GB",
-    "lat": 48.8576,
-    "lng": 17.68229,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368147781",
     "name": "Chivilcoy: Ciudad de",
     "city": "Chivilcoy",
@@ -30521,6 +30279,17 @@
     "lat": -34.90307,
     "lng": -60.00211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368147781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1569928748",
+    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
+    "city": "District of Nové Mesto nad Váhom",
+    "countryCode": "GB",
+    "lat": 48.8576,
+    "lng": 17.68229,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31097,17 +30866,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "GB",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -31115,6 +30873,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "GB",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32131,17 +31900,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "GB",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -32149,6 +31907,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "GB",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33220,6 +32989,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793898633",
+    "name": "Puerto Aventuras › South: Bahia Akumal - Caribe Mexicano",
+    "city": "Puerto Aventuras",
+    "countryCode": "DE",
+    "lat": 20.39616,
+    "lng": -87.3141,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898633/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1112092231",
     "name": "Carouge › North: Geneva 2",
     "city": "Carouge",
@@ -33891,17 +33671,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -34316,17 +34085,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "DE",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35317,17 +35075,6 @@
     "lat": 61.56519,
     "lng": 7.99719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1290508930/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "DE",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36608,17 +36355,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296249135",
-    "name": "District of Topoľčany: Velke Dvorany: Topolcany Centrum",
-    "city": "District of Topoľčany",
-    "countryCode": "DE",
-    "lat": 48.55894,
-    "lng": 18.17444,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296249135/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1277501450",
     "name": "Altenburg › North-east: St. Bartholomäi - Schloss Altenburg",
     "city": "Altenburg",
@@ -36850,17 +36586,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1225880502",
-    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
-    "city": "Belp",
-    "countryCode": "DE",
-    "lat": 46.90595,
-    "lng": 7.4983,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -36868,6 +36593,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1225880502",
+    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
+    "city": "Belp",
+    "countryCode": "DE",
+    "lat": 46.90595,
+    "lng": 7.4983,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37719,17 +37455,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "DE",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1389696018",
     "name": "Jerusalem: Jesuralem",
     "city": "Jerusalem",
@@ -37737,6 +37462,17 @@
     "lat": 31.77101,
     "lng": 35.20195,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1389696018/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "DE",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38320,17 +38056,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39226,17 +38951,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1524588473",
-    "name": "Myrtle Beach: South Carolina, United States",
-    "city": "Myrtle Beach",
-    "countryCode": "DE",
-    "lat": 33.68906,
-    "lng": -78.88669,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524588473/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -39706,17 +39420,6 @@
     "lat": 31.58528,
     "lng": 130.54483,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1529057478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1349204841",
-    "name": "Hunnebostrand: Hunnebostrands Hamn",
-    "city": "Hunnebostrand",
-    "countryCode": "DE",
-    "lat": 58.43956,
-    "lng": 11.29377,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349204841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40942,17 +40645,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1376382103",
-    "name": "Lignano Sabbiadoro: spiaggia VIP",
-    "city": "Lignano Sabbiadoro",
-    "countryCode": "DE",
-    "lat": 45.68891,
-    "lng": 13.1471,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185345994",
     "name": "Porvoo: central square - City",
     "city": "Porvoo",
@@ -40960,6 +40652,17 @@
     "lat": 60.39237,
     "lng": 25.66375,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185345994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1376382103",
+    "name": "Lignano Sabbiadoro: spiaggia VIP",
+    "city": "Lignano Sabbiadoro",
+    "countryCode": "DE",
+    "lat": 45.68891,
+    "lng": 13.1471,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41151,17 +40854,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1354996226",
-    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
-    "city": "Ulrichen",
-    "countryCode": "DE",
-    "lat": 46.50641,
-    "lng": 8.30475,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -41169,6 +40861,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1354996226",
+    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
+    "city": "Ulrichen",
+    "countryCode": "DE",
+    "lat": 46.50641,
+    "lng": 8.30475,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41338,17 +41041,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "DE",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1305537569",
     "name": "Bardolino: Centro Nautico",
     "city": "Bardolino",
@@ -41415,17 +41107,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1569928748",
-    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
-    "city": "District of Nové Mesto nad Váhom",
-    "countryCode": "DE",
-    "lat": 48.8576,
-    "lng": 17.68229,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368147781",
     "name": "Chivilcoy: Ciudad de",
     "city": "Chivilcoy",
@@ -41433,6 +41114,17 @@
     "lat": -34.90307,
     "lng": -60.00211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368147781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1569928748",
+    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
+    "city": "District of Nové Mesto nad Váhom",
+    "countryCode": "DE",
+    "lat": 48.8576,
+    "lng": 17.68229,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42009,17 +41701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "DE",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -42027,6 +41708,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "DE",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43043,17 +42735,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "DE",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -43061,6 +42742,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "DE",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44132,6 +43824,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793898633",
+    "name": "Puerto Aventuras › South: Bahia Akumal - Caribe Mexicano",
+    "city": "Puerto Aventuras",
+    "countryCode": "FR",
+    "lat": 20.39616,
+    "lng": -87.3141,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898633/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1112092231",
     "name": "Carouge › North: Geneva 2",
     "city": "Carouge",
@@ -44803,17 +44506,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -45228,17 +44920,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "FR",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46229,17 +45910,6 @@
     "lat": 61.56519,
     "lng": 7.99719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1290508930/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "FR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47520,17 +47190,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296249135",
-    "name": "District of Topoľčany: Velke Dvorany: Topolcany Centrum",
-    "city": "District of Topoľčany",
-    "countryCode": "FR",
-    "lat": 48.55894,
-    "lng": 18.17444,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296249135/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1277501450",
     "name": "Altenburg › North-east: St. Bartholomäi - Schloss Altenburg",
     "city": "Altenburg",
@@ -47762,17 +47421,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1225880502",
-    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
-    "city": "Belp",
-    "countryCode": "FR",
-    "lat": 46.90595,
-    "lng": 7.4983,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -47780,6 +47428,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1225880502",
+    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
+    "city": "Belp",
+    "countryCode": "FR",
+    "lat": 46.90595,
+    "lng": 7.4983,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48631,17 +48290,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "FR",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1389696018",
     "name": "Jerusalem: Jesuralem",
     "city": "Jerusalem",
@@ -48649,6 +48297,17 @@
     "lat": 31.77101,
     "lng": 35.20195,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1389696018/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "FR",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49232,17 +48891,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50138,17 +49786,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1524588473",
-    "name": "Myrtle Beach: South Carolina, United States",
-    "city": "Myrtle Beach",
-    "countryCode": "FR",
-    "lat": 33.68906,
-    "lng": -78.88669,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524588473/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -50618,17 +50255,6 @@
     "lat": 31.58528,
     "lng": 130.54483,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1529057478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1349204841",
-    "name": "Hunnebostrand: Hunnebostrands Hamn",
-    "city": "Hunnebostrand",
-    "countryCode": "FR",
-    "lat": 58.43956,
-    "lng": 11.29377,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349204841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51854,17 +51480,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1376382103",
-    "name": "Lignano Sabbiadoro: spiaggia VIP",
-    "city": "Lignano Sabbiadoro",
-    "countryCode": "FR",
-    "lat": 45.68891,
-    "lng": 13.1471,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185345994",
     "name": "Porvoo: central square - City",
     "city": "Porvoo",
@@ -51872,6 +51487,17 @@
     "lat": 60.39237,
     "lng": 25.66375,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185345994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1376382103",
+    "name": "Lignano Sabbiadoro: spiaggia VIP",
+    "city": "Lignano Sabbiadoro",
+    "countryCode": "FR",
+    "lat": 45.68891,
+    "lng": 13.1471,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52063,17 +51689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1354996226",
-    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
-    "city": "Ulrichen",
-    "countryCode": "FR",
-    "lat": 46.50641,
-    "lng": 8.30475,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -52081,6 +51696,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1354996226",
+    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
+    "city": "Ulrichen",
+    "countryCode": "FR",
+    "lat": 46.50641,
+    "lng": 8.30475,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52250,17 +51876,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "FR",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1305537569",
     "name": "Bardolino: Centro Nautico",
     "city": "Bardolino",
@@ -52327,17 +51942,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1569928748",
-    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
-    "city": "District of Nové Mesto nad Váhom",
-    "countryCode": "FR",
-    "lat": 48.8576,
-    "lng": 17.68229,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368147781",
     "name": "Chivilcoy: Ciudad de",
     "city": "Chivilcoy",
@@ -52345,6 +51949,17 @@
     "lat": -34.90307,
     "lng": -60.00211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368147781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1569928748",
+    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
+    "city": "District of Nové Mesto nad Váhom",
+    "countryCode": "FR",
+    "lat": 48.8576,
+    "lng": 17.68229,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52921,17 +52536,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "FR",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -52939,6 +52543,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "FR",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53955,17 +53570,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "FR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -53973,6 +53577,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "FR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55044,6 +54659,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793898633",
+    "name": "Puerto Aventuras › South: Bahia Akumal - Caribe Mexicano",
+    "city": "Puerto Aventuras",
+    "countryCode": "CN",
+    "lat": 20.39616,
+    "lng": -87.3141,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898633/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1112092231",
     "name": "Carouge › North: Geneva 2",
     "city": "Carouge",
@@ -55715,17 +55341,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -56140,17 +55755,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "CN",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57141,17 +56745,6 @@
     "lat": 61.56519,
     "lng": 7.99719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1290508930/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "CN",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58432,17 +58025,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296249135",
-    "name": "District of Topoľčany: Velke Dvorany: Topolcany Centrum",
-    "city": "District of Topoľčany",
-    "countryCode": "CN",
-    "lat": 48.55894,
-    "lng": 18.17444,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296249135/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1277501450",
     "name": "Altenburg › North-east: St. Bartholomäi - Schloss Altenburg",
     "city": "Altenburg",
@@ -58674,17 +58256,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1225880502",
-    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
-    "city": "Belp",
-    "countryCode": "CN",
-    "lat": 46.90595,
-    "lng": 7.4983,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -58692,6 +58263,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1225880502",
+    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
+    "city": "Belp",
+    "countryCode": "CN",
+    "lat": 46.90595,
+    "lng": 7.4983,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59543,17 +59125,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "CN",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1389696018",
     "name": "Jerusalem: Jesuralem",
     "city": "Jerusalem",
@@ -59561,6 +59132,17 @@
     "lat": 31.77101,
     "lng": 35.20195,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1389696018/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "CN",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60144,17 +59726,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61050,17 +60621,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1524588473",
-    "name": "Myrtle Beach: South Carolina, United States",
-    "city": "Myrtle Beach",
-    "countryCode": "CN",
-    "lat": 33.68906,
-    "lng": -78.88669,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524588473/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -61530,17 +61090,6 @@
     "lat": 31.58528,
     "lng": 130.54483,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1529057478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1349204841",
-    "name": "Hunnebostrand: Hunnebostrands Hamn",
-    "city": "Hunnebostrand",
-    "countryCode": "CN",
-    "lat": 58.43956,
-    "lng": 11.29377,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349204841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62766,17 +62315,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1376382103",
-    "name": "Lignano Sabbiadoro: spiaggia VIP",
-    "city": "Lignano Sabbiadoro",
-    "countryCode": "CN",
-    "lat": 45.68891,
-    "lng": 13.1471,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185345994",
     "name": "Porvoo: central square - City",
     "city": "Porvoo",
@@ -62784,6 +62322,17 @@
     "lat": 60.39237,
     "lng": 25.66375,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185345994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1376382103",
+    "name": "Lignano Sabbiadoro: spiaggia VIP",
+    "city": "Lignano Sabbiadoro",
+    "countryCode": "CN",
+    "lat": 45.68891,
+    "lng": 13.1471,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62975,17 +62524,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1354996226",
-    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
-    "city": "Ulrichen",
-    "countryCode": "CN",
-    "lat": 46.50641,
-    "lng": 8.30475,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -62993,6 +62531,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1354996226",
+    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
+    "city": "Ulrichen",
+    "countryCode": "CN",
+    "lat": 46.50641,
+    "lng": 8.30475,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63162,17 +62711,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "CN",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1305537569",
     "name": "Bardolino: Centro Nautico",
     "city": "Bardolino",
@@ -63239,17 +62777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1569928748",
-    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
-    "city": "District of Nové Mesto nad Váhom",
-    "countryCode": "CN",
-    "lat": 48.8576,
-    "lng": 17.68229,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368147781",
     "name": "Chivilcoy: Ciudad de",
     "city": "Chivilcoy",
@@ -63257,6 +62784,17 @@
     "lat": -34.90307,
     "lng": -60.00211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368147781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1569928748",
+    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
+    "city": "District of Nové Mesto nad Váhom",
+    "countryCode": "CN",
+    "lat": 48.8576,
+    "lng": 17.68229,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63833,17 +63371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "CN",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -63851,6 +63378,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "CN",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64867,17 +64405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "CN",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -64885,6 +64412,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "CN",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65956,6 +65494,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793898633",
+    "name": "Puerto Aventuras › South: Bahia Akumal - Caribe Mexicano",
+    "city": "Puerto Aventuras",
+    "countryCode": "KR",
+    "lat": 20.39616,
+    "lng": -87.3141,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898633/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1112092231",
     "name": "Carouge › North: Geneva 2",
     "city": "Carouge",
@@ -66627,17 +66176,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -67052,17 +66590,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "KR",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68053,17 +67580,6 @@
     "lat": 61.56519,
     "lng": 7.99719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1290508930/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "KR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69344,17 +68860,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296249135",
-    "name": "District of Topoľčany: Velke Dvorany: Topolcany Centrum",
-    "city": "District of Topoľčany",
-    "countryCode": "KR",
-    "lat": 48.55894,
-    "lng": 18.17444,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296249135/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1277501450",
     "name": "Altenburg › North-east: St. Bartholomäi - Schloss Altenburg",
     "city": "Altenburg",
@@ -69586,17 +69091,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1225880502",
-    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
-    "city": "Belp",
-    "countryCode": "KR",
-    "lat": 46.90595,
-    "lng": 7.4983,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -69604,6 +69098,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1225880502",
+    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
+    "city": "Belp",
+    "countryCode": "KR",
+    "lat": 46.90595,
+    "lng": 7.4983,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70455,17 +69960,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "KR",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1389696018",
     "name": "Jerusalem: Jesuralem",
     "city": "Jerusalem",
@@ -70473,6 +69967,17 @@
     "lat": 31.77101,
     "lng": 35.20195,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1389696018/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "KR",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71056,17 +70561,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71962,17 +71456,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1524588473",
-    "name": "Myrtle Beach: South Carolina, United States",
-    "city": "Myrtle Beach",
-    "countryCode": "KR",
-    "lat": 33.68906,
-    "lng": -78.88669,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524588473/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -72442,17 +71925,6 @@
     "lat": 31.58528,
     "lng": 130.54483,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1529057478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1349204841",
-    "name": "Hunnebostrand: Hunnebostrands Hamn",
-    "city": "Hunnebostrand",
-    "countryCode": "KR",
-    "lat": 58.43956,
-    "lng": 11.29377,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349204841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73678,17 +73150,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1376382103",
-    "name": "Lignano Sabbiadoro: spiaggia VIP",
-    "city": "Lignano Sabbiadoro",
-    "countryCode": "KR",
-    "lat": 45.68891,
-    "lng": 13.1471,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185345994",
     "name": "Porvoo: central square - City",
     "city": "Porvoo",
@@ -73696,6 +73157,17 @@
     "lat": 60.39237,
     "lng": 25.66375,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185345994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1376382103",
+    "name": "Lignano Sabbiadoro: spiaggia VIP",
+    "city": "Lignano Sabbiadoro",
+    "countryCode": "KR",
+    "lat": 45.68891,
+    "lng": 13.1471,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73887,17 +73359,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1354996226",
-    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
-    "city": "Ulrichen",
-    "countryCode": "KR",
-    "lat": 46.50641,
-    "lng": 8.30475,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -73905,6 +73366,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1354996226",
+    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
+    "city": "Ulrichen",
+    "countryCode": "KR",
+    "lat": 46.50641,
+    "lng": 8.30475,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74074,17 +73546,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "KR",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1305537569",
     "name": "Bardolino: Centro Nautico",
     "city": "Bardolino",
@@ -74151,17 +73612,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1569928748",
-    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
-    "city": "District of Nové Mesto nad Váhom",
-    "countryCode": "KR",
-    "lat": 48.8576,
-    "lng": 17.68229,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368147781",
     "name": "Chivilcoy: Ciudad de",
     "city": "Chivilcoy",
@@ -74169,6 +73619,17 @@
     "lat": -34.90307,
     "lng": -60.00211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368147781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1569928748",
+    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
+    "city": "District of Nové Mesto nad Váhom",
+    "countryCode": "KR",
+    "lat": 48.8576,
+    "lng": 17.68229,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74745,17 +74206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "KR",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -74763,6 +74213,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "KR",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75779,17 +75240,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "KR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -75797,6 +75247,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "KR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76868,6 +76329,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793898633",
+    "name": "Puerto Aventuras › South: Bahia Akumal - Caribe Mexicano",
+    "city": "Puerto Aventuras",
+    "countryCode": "IN",
+    "lat": 20.39616,
+    "lng": -87.3141,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898633/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1112092231",
     "name": "Carouge › North: Geneva 2",
     "city": "Carouge",
@@ -77539,17 +77011,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -77964,17 +77425,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "IN",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78965,17 +78415,6 @@
     "lat": 61.56519,
     "lng": 7.99719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1290508930/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "IN",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80256,17 +79695,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296249135",
-    "name": "District of Topoľčany: Velke Dvorany: Topolcany Centrum",
-    "city": "District of Topoľčany",
-    "countryCode": "IN",
-    "lat": 48.55894,
-    "lng": 18.17444,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296249135/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1277501450",
     "name": "Altenburg › North-east: St. Bartholomäi - Schloss Altenburg",
     "city": "Altenburg",
@@ -80498,17 +79926,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1225880502",
-    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
-    "city": "Belp",
-    "countryCode": "IN",
-    "lat": 46.90595,
-    "lng": 7.4983,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -80516,6 +79933,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1225880502",
+    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
+    "city": "Belp",
+    "countryCode": "IN",
+    "lat": 46.90595,
+    "lng": 7.4983,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81367,17 +80795,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "IN",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1389696018",
     "name": "Jerusalem: Jesuralem",
     "city": "Jerusalem",
@@ -81385,6 +80802,17 @@
     "lat": 31.77101,
     "lng": 35.20195,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1389696018/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "IN",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81968,17 +81396,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82874,17 +82291,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1524588473",
-    "name": "Myrtle Beach: South Carolina, United States",
-    "city": "Myrtle Beach",
-    "countryCode": "IN",
-    "lat": 33.68906,
-    "lng": -78.88669,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524588473/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -83354,17 +82760,6 @@
     "lat": 31.58528,
     "lng": 130.54483,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1529057478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1349204841",
-    "name": "Hunnebostrand: Hunnebostrands Hamn",
-    "city": "Hunnebostrand",
-    "countryCode": "IN",
-    "lat": 58.43956,
-    "lng": 11.29377,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349204841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84590,17 +83985,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1376382103",
-    "name": "Lignano Sabbiadoro: spiaggia VIP",
-    "city": "Lignano Sabbiadoro",
-    "countryCode": "IN",
-    "lat": 45.68891,
-    "lng": 13.1471,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185345994",
     "name": "Porvoo: central square - City",
     "city": "Porvoo",
@@ -84608,6 +83992,17 @@
     "lat": 60.39237,
     "lng": 25.66375,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185345994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1376382103",
+    "name": "Lignano Sabbiadoro: spiaggia VIP",
+    "city": "Lignano Sabbiadoro",
+    "countryCode": "IN",
+    "lat": 45.68891,
+    "lng": 13.1471,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84799,17 +84194,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1354996226",
-    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
-    "city": "Ulrichen",
-    "countryCode": "IN",
-    "lat": 46.50641,
-    "lng": 8.30475,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -84817,6 +84201,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1354996226",
+    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
+    "city": "Ulrichen",
+    "countryCode": "IN",
+    "lat": 46.50641,
+    "lng": 8.30475,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84986,17 +84381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "IN",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1305537569",
     "name": "Bardolino: Centro Nautico",
     "city": "Bardolino",
@@ -85063,17 +84447,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1569928748",
-    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
-    "city": "District of Nové Mesto nad Váhom",
-    "countryCode": "IN",
-    "lat": 48.8576,
-    "lng": 17.68229,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368147781",
     "name": "Chivilcoy: Ciudad de",
     "city": "Chivilcoy",
@@ -85081,6 +84454,17 @@
     "lat": -34.90307,
     "lng": -60.00211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368147781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1569928748",
+    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
+    "city": "District of Nové Mesto nad Váhom",
+    "countryCode": "IN",
+    "lat": 48.8576,
+    "lng": 17.68229,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85657,17 +85041,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "IN",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -85675,6 +85048,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "IN",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86691,17 +86075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "IN",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -86709,6 +86082,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "IN",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87780,6 +87164,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793898633",
+    "name": "Puerto Aventuras › South: Bahia Akumal - Caribe Mexicano",
+    "city": "Puerto Aventuras",
+    "countryCode": "BR",
+    "lat": 20.39616,
+    "lng": -87.3141,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898633/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1112092231",
     "name": "Carouge › North: Geneva 2",
     "city": "Carouge",
@@ -88451,17 +87846,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -88876,17 +88260,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "BR",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89877,17 +89250,6 @@
     "lat": 61.56519,
     "lng": 7.99719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1290508930/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "BR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91168,17 +90530,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296249135",
-    "name": "District of Topoľčany: Velke Dvorany: Topolcany Centrum",
-    "city": "District of Topoľčany",
-    "countryCode": "BR",
-    "lat": 48.55894,
-    "lng": 18.17444,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296249135/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1277501450",
     "name": "Altenburg › North-east: St. Bartholomäi - Schloss Altenburg",
     "city": "Altenburg",
@@ -91410,17 +90761,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1225880502",
-    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
-    "city": "Belp",
-    "countryCode": "BR",
-    "lat": 46.90595,
-    "lng": 7.4983,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -91428,6 +90768,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1225880502",
+    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
+    "city": "Belp",
+    "countryCode": "BR",
+    "lat": 46.90595,
+    "lng": 7.4983,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92279,17 +91630,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "BR",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1389696018",
     "name": "Jerusalem: Jesuralem",
     "city": "Jerusalem",
@@ -92297,6 +91637,17 @@
     "lat": 31.77101,
     "lng": 35.20195,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1389696018/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "BR",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92880,17 +92231,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93786,17 +93126,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1524588473",
-    "name": "Myrtle Beach: South Carolina, United States",
-    "city": "Myrtle Beach",
-    "countryCode": "BR",
-    "lat": 33.68906,
-    "lng": -78.88669,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524588473/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -94266,17 +93595,6 @@
     "lat": 31.58528,
     "lng": 130.54483,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1529057478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1349204841",
-    "name": "Hunnebostrand: Hunnebostrands Hamn",
-    "city": "Hunnebostrand",
-    "countryCode": "BR",
-    "lat": 58.43956,
-    "lng": 11.29377,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349204841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95502,17 +94820,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1376382103",
-    "name": "Lignano Sabbiadoro: spiaggia VIP",
-    "city": "Lignano Sabbiadoro",
-    "countryCode": "BR",
-    "lat": 45.68891,
-    "lng": 13.1471,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185345994",
     "name": "Porvoo: central square - City",
     "city": "Porvoo",
@@ -95520,6 +94827,17 @@
     "lat": 60.39237,
     "lng": 25.66375,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185345994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1376382103",
+    "name": "Lignano Sabbiadoro: spiaggia VIP",
+    "city": "Lignano Sabbiadoro",
+    "countryCode": "BR",
+    "lat": 45.68891,
+    "lng": 13.1471,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95711,17 +95029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1354996226",
-    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
-    "city": "Ulrichen",
-    "countryCode": "BR",
-    "lat": 46.50641,
-    "lng": 8.30475,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -95729,6 +95036,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1354996226",
+    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
+    "city": "Ulrichen",
+    "countryCode": "BR",
+    "lat": 46.50641,
+    "lng": 8.30475,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95898,17 +95216,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "BR",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1305537569",
     "name": "Bardolino: Centro Nautico",
     "city": "Bardolino",
@@ -95975,17 +95282,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1569928748",
-    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
-    "city": "District of Nové Mesto nad Váhom",
-    "countryCode": "BR",
-    "lat": 48.8576,
-    "lng": 17.68229,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368147781",
     "name": "Chivilcoy: Ciudad de",
     "city": "Chivilcoy",
@@ -95993,6 +95289,17 @@
     "lat": -34.90307,
     "lng": -60.00211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368147781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1569928748",
+    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
+    "city": "District of Nové Mesto nad Váhom",
+    "countryCode": "BR",
+    "lat": 48.8576,
+    "lng": 17.68229,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96569,17 +95876,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "BR",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -96587,6 +95883,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "BR",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97603,17 +96910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "BR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -97621,6 +96917,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "BR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98692,6 +97999,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1793898633",
+    "name": "Puerto Aventuras › South: Bahia Akumal - Caribe Mexicano",
+    "city": "Puerto Aventuras",
+    "countryCode": "AU",
+    "lat": 20.39616,
+    "lng": -87.3141,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898633/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1112092231",
     "name": "Carouge › North: Geneva 2",
     "city": "Carouge",
@@ -99363,17 +98681,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -99788,17 +99095,6 @@
     "lat": 51.72549,
     "lng": 10.25102,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197912060/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1292518465",
-    "name": "Fluelen: Windsurfing Center am Urnersee",
-    "city": "Fluelen",
-    "countryCode": "AU",
-    "lat": 46.91504,
-    "lng": 8.62303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518465/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100789,17 +100085,6 @@
     "lat": 61.56519,
     "lng": 7.99719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1290508930/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "AU",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102080,17 +101365,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296249135",
-    "name": "District of Topoľčany: Velke Dvorany: Topolcany Centrum",
-    "city": "District of Topoľčany",
-    "countryCode": "AU",
-    "lat": 48.55894,
-    "lng": 18.17444,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296249135/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1277501450",
     "name": "Altenburg › North-east: St. Bartholomäi - Schloss Altenburg",
     "city": "Altenburg",
@@ -102322,17 +101596,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1225880502",
-    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
-    "city": "Belp",
-    "countryCode": "AU",
-    "lat": 46.90595,
-    "lng": 7.4983,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -102340,6 +101603,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1225880502",
+    "name": "Belp › North-west: Swiss Helicopter AG - Berne",
+    "city": "Belp",
+    "countryCode": "AU",
+    "lat": 46.90595,
+    "lng": 7.4983,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225880502/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103191,17 +102465,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588714542",
-    "name": "Menton",
-    "city": "Menton",
-    "countryCode": "AU",
-    "lat": 43.77717,
-    "lng": 7.5092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1389696018",
     "name": "Jerusalem: Jesuralem",
     "city": "Jerusalem",
@@ -103209,6 +102472,17 @@
     "lat": 31.77101,
     "lng": 35.20195,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1389696018/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588714542",
+    "name": "Menton",
+    "city": "Menton",
+    "countryCode": "AU",
+    "lat": 43.77717,
+    "lng": 7.5092,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588714542/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103792,17 +103066,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104698,17 +103961,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1524588473",
-    "name": "Myrtle Beach: South Carolina, United States",
-    "city": "Myrtle Beach",
-    "countryCode": "AU",
-    "lat": 33.68906,
-    "lng": -78.88669,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1524588473/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1461679210",
     "name": "Budoia › North-west: Friuli Venezia Giulia, Italia: Monte Pietins da Casera Campo",
     "city": "Budoia",
@@ -105178,17 +104430,6 @@
     "lat": 31.58528,
     "lng": 130.54483,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1529057478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1349204841",
-    "name": "Hunnebostrand: Hunnebostrands Hamn",
-    "city": "Hunnebostrand",
-    "countryCode": "AU",
-    "lat": 58.43956,
-    "lng": 11.29377,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349204841/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106414,17 +105655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1376382103",
-    "name": "Lignano Sabbiadoro: spiaggia VIP",
-    "city": "Lignano Sabbiadoro",
-    "countryCode": "AU",
-    "lat": 45.68891,
-    "lng": 13.1471,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185345994",
     "name": "Porvoo: central square - City",
     "city": "Porvoo",
@@ -106432,6 +105662,17 @@
     "lat": 60.39237,
     "lng": 25.66375,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185345994/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1376382103",
+    "name": "Lignano Sabbiadoro: spiaggia VIP",
+    "city": "Lignano Sabbiadoro",
+    "countryCode": "AU",
+    "lat": 45.68891,
+    "lng": 13.1471,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106623,17 +105864,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1354996226",
-    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
-    "city": "Ulrichen",
-    "countryCode": "AU",
-    "lat": 46.50641,
-    "lng": 8.30475,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1243861228",
     "name": "Uherske Hradiste › North: Masarykovo náměstí",
     "city": "Uherske Hradiste",
@@ -106641,6 +105871,17 @@
     "lat": 49.06785,
     "lng": 17.46041,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1243861228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1354996226",
+    "name": "Ulrichen: Hotel Astoria mit Panoramablick über - Obergoms - Goms",
+    "city": "Ulrichen",
+    "countryCode": "AU",
+    "lat": 46.50641,
+    "lng": 8.30475,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1354996226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106810,17 +106051,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234184019",
-    "name": "Calvi: Cesario Hôtel",
-    "city": "Calvi",
-    "countryCode": "AU",
-    "lat": 42.54122,
-    "lng": 8.80107,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1305537569",
     "name": "Bardolino: Centro Nautico",
     "city": "Bardolino",
@@ -106887,17 +106117,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1569928748",
-    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
-    "city": "District of Nové Mesto nad Váhom",
-    "countryCode": "AU",
-    "lat": 48.8576,
-    "lng": 17.68229,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368147781",
     "name": "Chivilcoy: Ciudad de",
     "city": "Chivilcoy",
@@ -106905,6 +106124,17 @@
     "lat": -34.90307,
     "lng": -60.00211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368147781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1569928748",
+    "name": "District of Nové Mesto nad Váhom › East: Holubyho chata",
+    "city": "District of Nové Mesto nad Váhom",
+    "countryCode": "AU",
+    "lat": 48.8576,
+    "lng": 17.68229,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1569928748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107481,17 +106711,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1507155065",
-    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
-    "city": "Vestermarie",
-    "countryCode": "AU",
-    "lat": 55.09908,
-    "lng": 14.69093,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -107499,6 +106718,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1507155065",
+    "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
+    "city": "Vestermarie",
+    "countryCode": "AU",
+    "lat": 55.09908,
+    "lng": 14.69093,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108515,17 +107745,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "AU",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -108533,6 +107752,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "AU",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
