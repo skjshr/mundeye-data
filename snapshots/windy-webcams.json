@@ -605,17 +605,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "JP",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -2552,6 +2541,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "JP",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -3692,17 +3692,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "JP",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5533,17 +5522,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394057593",
-    "name": "Pancharevo",
-    "city": "Pancharevo",
-    "countryCode": "JP",
-    "lat": 42.66208,
-    "lng": 23.46521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394057593/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041142",
     "name": "Zug: Wildspitz - Wildspitzstrasse",
     "city": "Zug",
@@ -6354,28 +6332,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "JP",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697033828",
-    "name": "Vevey",
-    "city": "Vevey",
-    "countryCode": "JP",
-    "lat": 46.45929,
-    "lng": 6.84299,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7326,17 +7282,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "JP",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -8118,17 +8063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "JP",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -8261,17 +8195,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543314",
-    "name": "Sorenberg: Rossweid",
-    "city": "Sorenberg",
-    "countryCode": "JP",
-    "lat": 46.80894,
-    "lng": 8.02719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -8279,6 +8202,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543314",
+    "name": "Sorenberg: Rossweid",
+    "city": "Sorenberg",
+    "countryCode": "JP",
+    "lat": 46.80894,
+    "lng": 8.02719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8690,17 +8624,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "JP",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -8921,17 +8844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
-    "city": "Puerto del Rosario",
-    "countryCode": "JP",
-    "lat": 28.49344,
-    "lng": -13.86612,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -8939,6 +8851,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332198295",
+    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "city": "Puerto del Rosario",
+    "countryCode": "JP",
+    "lat": 28.49344,
+    "lng": -13.86612,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10483,17 +10406,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "JP",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1404748932",
     "name": "Biograd na Moru: King Tomislav square",
     "city": "Biograd na Moru",
@@ -10501,6 +10413,17 @@
     "lat": 43.93632,
     "lng": 15.44343,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "JP",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11396,17 +11319,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "US",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -13343,6 +13255,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "US",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -14483,17 +14406,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "US",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16324,17 +16236,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394057593",
-    "name": "Pancharevo",
-    "city": "Pancharevo",
-    "countryCode": "US",
-    "lat": 42.66208,
-    "lng": 23.46521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394057593/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041142",
     "name": "Zug: Wildspitz - Wildspitzstrasse",
     "city": "Zug",
@@ -17145,28 +17046,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "US",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697033828",
-    "name": "Vevey",
-    "city": "Vevey",
-    "countryCode": "US",
-    "lat": 46.45929,
-    "lng": 6.84299,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18117,17 +17996,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "US",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -18909,17 +18777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "US",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -19052,17 +18909,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543314",
-    "name": "Sorenberg: Rossweid",
-    "city": "Sorenberg",
-    "countryCode": "US",
-    "lat": 46.80894,
-    "lng": 8.02719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -19070,6 +18916,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543314",
+    "name": "Sorenberg: Rossweid",
+    "city": "Sorenberg",
+    "countryCode": "US",
+    "lat": 46.80894,
+    "lng": 8.02719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19481,17 +19338,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "US",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -19712,17 +19558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
-    "city": "Puerto del Rosario",
-    "countryCode": "US",
-    "lat": 28.49344,
-    "lng": -13.86612,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -19730,6 +19565,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332198295",
+    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "city": "Puerto del Rosario",
+    "countryCode": "US",
+    "lat": 28.49344,
+    "lng": -13.86612,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21274,17 +21120,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "US",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1404748932",
     "name": "Biograd na Moru: King Tomislav square",
     "city": "Biograd na Moru",
@@ -21292,6 +21127,17 @@
     "lat": 43.93632,
     "lng": 15.44343,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "US",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22187,17 +22033,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "GB",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -24134,6 +23969,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "GB",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -25274,17 +25120,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "GB",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27115,17 +26950,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394057593",
-    "name": "Pancharevo",
-    "city": "Pancharevo",
-    "countryCode": "GB",
-    "lat": 42.66208,
-    "lng": 23.46521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394057593/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041142",
     "name": "Zug: Wildspitz - Wildspitzstrasse",
     "city": "Zug",
@@ -27936,28 +27760,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "GB",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697033828",
-    "name": "Vevey",
-    "city": "Vevey",
-    "countryCode": "GB",
-    "lat": 46.45929,
-    "lng": 6.84299,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28908,17 +28710,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "GB",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -29700,17 +29491,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "GB",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -29843,17 +29623,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543314",
-    "name": "Sorenberg: Rossweid",
-    "city": "Sorenberg",
-    "countryCode": "GB",
-    "lat": 46.80894,
-    "lng": 8.02719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -29861,6 +29630,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543314",
+    "name": "Sorenberg: Rossweid",
+    "city": "Sorenberg",
+    "countryCode": "GB",
+    "lat": 46.80894,
+    "lng": 8.02719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30272,17 +30052,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "GB",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -30503,17 +30272,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
-    "city": "Puerto del Rosario",
-    "countryCode": "GB",
-    "lat": 28.49344,
-    "lng": -13.86612,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -30521,6 +30279,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332198295",
+    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "city": "Puerto del Rosario",
+    "countryCode": "GB",
+    "lat": 28.49344,
+    "lng": -13.86612,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32065,17 +31834,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "GB",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1404748932",
     "name": "Biograd na Moru: King Tomislav square",
     "city": "Biograd na Moru",
@@ -32083,6 +31841,17 @@
     "lat": 43.93632,
     "lng": 15.44343,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "GB",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32978,17 +32747,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "DE",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -34925,6 +34683,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "DE",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -36065,17 +35834,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "DE",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37906,17 +37664,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394057593",
-    "name": "Pancharevo",
-    "city": "Pancharevo",
-    "countryCode": "DE",
-    "lat": 42.66208,
-    "lng": 23.46521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394057593/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041142",
     "name": "Zug: Wildspitz - Wildspitzstrasse",
     "city": "Zug",
@@ -38727,28 +38474,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "DE",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697033828",
-    "name": "Vevey",
-    "city": "Vevey",
-    "countryCode": "DE",
-    "lat": 46.45929,
-    "lng": 6.84299,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39699,17 +39424,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "DE",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -40491,17 +40205,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "DE",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -40634,17 +40337,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543314",
-    "name": "Sorenberg: Rossweid",
-    "city": "Sorenberg",
-    "countryCode": "DE",
-    "lat": 46.80894,
-    "lng": 8.02719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -40652,6 +40344,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543314",
+    "name": "Sorenberg: Rossweid",
+    "city": "Sorenberg",
+    "countryCode": "DE",
+    "lat": 46.80894,
+    "lng": 8.02719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41063,17 +40766,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "DE",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -41294,17 +40986,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
-    "city": "Puerto del Rosario",
-    "countryCode": "DE",
-    "lat": 28.49344,
-    "lng": -13.86612,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -41312,6 +40993,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332198295",
+    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "city": "Puerto del Rosario",
+    "countryCode": "DE",
+    "lat": 28.49344,
+    "lng": -13.86612,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42856,17 +42548,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "DE",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1404748932",
     "name": "Biograd na Moru: King Tomislav square",
     "city": "Biograd na Moru",
@@ -42874,6 +42555,17 @@
     "lat": 43.93632,
     "lng": 15.44343,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "DE",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43769,17 +43461,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "FR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -45716,6 +45397,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "FR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -46856,17 +46548,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "FR",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48697,17 +48378,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394057593",
-    "name": "Pancharevo",
-    "city": "Pancharevo",
-    "countryCode": "FR",
-    "lat": 42.66208,
-    "lng": 23.46521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394057593/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041142",
     "name": "Zug: Wildspitz - Wildspitzstrasse",
     "city": "Zug",
@@ -49518,28 +49188,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "FR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697033828",
-    "name": "Vevey",
-    "city": "Vevey",
-    "countryCode": "FR",
-    "lat": 46.45929,
-    "lng": 6.84299,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50490,17 +50138,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "FR",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -51282,17 +50919,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "FR",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -51425,17 +51051,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543314",
-    "name": "Sorenberg: Rossweid",
-    "city": "Sorenberg",
-    "countryCode": "FR",
-    "lat": 46.80894,
-    "lng": 8.02719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -51443,6 +51058,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543314",
+    "name": "Sorenberg: Rossweid",
+    "city": "Sorenberg",
+    "countryCode": "FR",
+    "lat": 46.80894,
+    "lng": 8.02719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51854,17 +51480,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "FR",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -52085,17 +51700,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
-    "city": "Puerto del Rosario",
-    "countryCode": "FR",
-    "lat": 28.49344,
-    "lng": -13.86612,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -52103,6 +51707,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332198295",
+    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "city": "Puerto del Rosario",
+    "countryCode": "FR",
+    "lat": 28.49344,
+    "lng": -13.86612,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53647,17 +53262,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "FR",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1404748932",
     "name": "Biograd na Moru: King Tomislav square",
     "city": "Biograd na Moru",
@@ -53665,6 +53269,17 @@
     "lat": 43.93632,
     "lng": 15.44343,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "FR",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54560,17 +54175,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "CN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -56507,6 +56111,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "CN",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -57647,17 +57262,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "CN",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59488,17 +59092,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394057593",
-    "name": "Pancharevo",
-    "city": "Pancharevo",
-    "countryCode": "CN",
-    "lat": 42.66208,
-    "lng": 23.46521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394057593/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041142",
     "name": "Zug: Wildspitz - Wildspitzstrasse",
     "city": "Zug",
@@ -60309,28 +59902,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "CN",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697033828",
-    "name": "Vevey",
-    "city": "Vevey",
-    "countryCode": "CN",
-    "lat": 46.45929,
-    "lng": 6.84299,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61281,17 +60852,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "CN",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -62073,17 +61633,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "CN",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -62216,17 +61765,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543314",
-    "name": "Sorenberg: Rossweid",
-    "city": "Sorenberg",
-    "countryCode": "CN",
-    "lat": 46.80894,
-    "lng": 8.02719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -62234,6 +61772,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543314",
+    "name": "Sorenberg: Rossweid",
+    "city": "Sorenberg",
+    "countryCode": "CN",
+    "lat": 46.80894,
+    "lng": 8.02719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62645,17 +62194,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "CN",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -62876,17 +62414,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
-    "city": "Puerto del Rosario",
-    "countryCode": "CN",
-    "lat": 28.49344,
-    "lng": -13.86612,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -62894,6 +62421,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332198295",
+    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "city": "Puerto del Rosario",
+    "countryCode": "CN",
+    "lat": 28.49344,
+    "lng": -13.86612,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64438,17 +63976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "CN",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1404748932",
     "name": "Biograd na Moru: King Tomislav square",
     "city": "Biograd na Moru",
@@ -64456,6 +63983,17 @@
     "lat": 43.93632,
     "lng": 15.44343,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "CN",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65351,17 +64889,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "KR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -67298,6 +66825,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "KR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -68438,17 +67976,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "KR",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70279,17 +69806,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394057593",
-    "name": "Pancharevo",
-    "city": "Pancharevo",
-    "countryCode": "KR",
-    "lat": 42.66208,
-    "lng": 23.46521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394057593/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041142",
     "name": "Zug: Wildspitz - Wildspitzstrasse",
     "city": "Zug",
@@ -71100,28 +70616,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "KR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697033828",
-    "name": "Vevey",
-    "city": "Vevey",
-    "countryCode": "KR",
-    "lat": 46.45929,
-    "lng": 6.84299,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72072,17 +71566,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "KR",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -72864,17 +72347,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "KR",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -73007,17 +72479,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543314",
-    "name": "Sorenberg: Rossweid",
-    "city": "Sorenberg",
-    "countryCode": "KR",
-    "lat": 46.80894,
-    "lng": 8.02719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -73025,6 +72486,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543314",
+    "name": "Sorenberg: Rossweid",
+    "city": "Sorenberg",
+    "countryCode": "KR",
+    "lat": 46.80894,
+    "lng": 8.02719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73436,17 +72908,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "KR",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -73667,17 +73128,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
-    "city": "Puerto del Rosario",
-    "countryCode": "KR",
-    "lat": 28.49344,
-    "lng": -13.86612,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -73685,6 +73135,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332198295",
+    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "city": "Puerto del Rosario",
+    "countryCode": "KR",
+    "lat": 28.49344,
+    "lng": -13.86612,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75229,17 +74690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "KR",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1404748932",
     "name": "Biograd na Moru: King Tomislav square",
     "city": "Biograd na Moru",
@@ -75247,6 +74697,17 @@
     "lat": 43.93632,
     "lng": 15.44343,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "KR",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76142,17 +75603,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "IN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -78089,6 +77539,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "IN",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -79229,17 +78690,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "IN",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81070,17 +80520,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394057593",
-    "name": "Pancharevo",
-    "city": "Pancharevo",
-    "countryCode": "IN",
-    "lat": 42.66208,
-    "lng": 23.46521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394057593/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041142",
     "name": "Zug: Wildspitz - Wildspitzstrasse",
     "city": "Zug",
@@ -81891,28 +81330,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "IN",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697033828",
-    "name": "Vevey",
-    "city": "Vevey",
-    "countryCode": "IN",
-    "lat": 46.45929,
-    "lng": 6.84299,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82863,17 +82280,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "IN",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -83655,17 +83061,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "IN",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -83798,17 +83193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543314",
-    "name": "Sorenberg: Rossweid",
-    "city": "Sorenberg",
-    "countryCode": "IN",
-    "lat": 46.80894,
-    "lng": 8.02719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -83816,6 +83200,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543314",
+    "name": "Sorenberg: Rossweid",
+    "city": "Sorenberg",
+    "countryCode": "IN",
+    "lat": 46.80894,
+    "lng": 8.02719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84227,17 +83622,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "IN",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -84458,17 +83842,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
-    "city": "Puerto del Rosario",
-    "countryCode": "IN",
-    "lat": 28.49344,
-    "lng": -13.86612,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -84476,6 +83849,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332198295",
+    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "city": "Puerto del Rosario",
+    "countryCode": "IN",
+    "lat": 28.49344,
+    "lng": -13.86612,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86020,17 +85404,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "IN",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1404748932",
     "name": "Biograd na Moru: King Tomislav square",
     "city": "Biograd na Moru",
@@ -86038,6 +85411,17 @@
     "lat": 43.93632,
     "lng": 15.44343,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "IN",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86933,17 +86317,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "BR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -88880,6 +88253,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "BR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -90020,17 +89404,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "BR",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91861,17 +91234,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394057593",
-    "name": "Pancharevo",
-    "city": "Pancharevo",
-    "countryCode": "BR",
-    "lat": 42.66208,
-    "lng": 23.46521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394057593/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041142",
     "name": "Zug: Wildspitz - Wildspitzstrasse",
     "city": "Zug",
@@ -92682,28 +92044,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "BR",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697033828",
-    "name": "Vevey",
-    "city": "Vevey",
-    "countryCode": "BR",
-    "lat": 46.45929,
-    "lng": 6.84299,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93654,17 +92994,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "BR",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -94446,17 +93775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "BR",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -94589,17 +93907,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543314",
-    "name": "Sorenberg: Rossweid",
-    "city": "Sorenberg",
-    "countryCode": "BR",
-    "lat": 46.80894,
-    "lng": 8.02719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -94607,6 +93914,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543314",
+    "name": "Sorenberg: Rossweid",
+    "city": "Sorenberg",
+    "countryCode": "BR",
+    "lat": 46.80894,
+    "lng": 8.02719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95018,17 +94336,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "BR",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -95249,17 +94556,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
-    "city": "Puerto del Rosario",
-    "countryCode": "BR",
-    "lat": 28.49344,
-    "lng": -13.86612,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -95267,6 +94563,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332198295",
+    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "city": "Puerto del Rosario",
+    "countryCode": "BR",
+    "lat": 28.49344,
+    "lng": -13.86612,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96811,17 +96118,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "BR",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1404748932",
     "name": "Biograd na Moru: King Tomislav square",
     "city": "Biograd na Moru",
@@ -96829,6 +96125,17 @@
     "lat": 43.93632,
     "lng": 15.44343,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "BR",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97724,17 +97031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "AU",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -99671,6 +98967,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "AU",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1531225795",
     "name": "Zakopane: Województwo małopolskie, Rzeczpospolita Polska",
     "city": "Zakopane",
@@ -100811,17 +100118,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "AU",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102652,17 +101948,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394057593",
-    "name": "Pancharevo",
-    "city": "Pancharevo",
-    "countryCode": "AU",
-    "lat": 42.66208,
-    "lng": 23.46521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394057593/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041142",
     "name": "Zug: Wildspitz - Wildspitzstrasse",
     "city": "Zug",
@@ -103473,28 +102758,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217927379",
-    "name": "District of Poprad: Aquacity Poprad",
-    "city": "District of Poprad",
-    "countryCode": "AU",
-    "lat": 49.05995,
-    "lng": 20.30789,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217927379/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697033828",
-    "name": "Vevey",
-    "city": "Vevey",
-    "countryCode": "AU",
-    "lat": 46.45929,
-    "lng": 6.84299,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697033828/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104445,17 +103708,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "AU",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -105237,17 +104489,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "AU",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1592952482",
     "name": "Mackenzie District › North",
     "city": "unknown",
@@ -105380,17 +104621,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543314",
-    "name": "Sorenberg: Rossweid",
-    "city": "Sorenberg",
-    "countryCode": "AU",
-    "lat": 46.80894,
-    "lng": 8.02719,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -105398,6 +104628,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543314",
+    "name": "Sorenberg: Rossweid",
+    "city": "Sorenberg",
+    "countryCode": "AU",
+    "lat": 46.80894,
+    "lng": 8.02719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543314/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105809,17 +105050,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "AU",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -106040,17 +105270,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1332198295",
-    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
-    "city": "Puerto del Rosario",
-    "countryCode": "AU",
-    "lat": 28.49344,
-    "lng": -13.86612,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -106058,6 +105277,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1332198295",
+    "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
+    "city": "Puerto del Rosario",
+    "countryCode": "AU",
+    "lat": 28.49344,
+    "lng": -13.86612,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107602,17 +106832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1191947191",
-    "name": "Garafia › North: Nordic Optical Telescope",
-    "city": "Garafia",
-    "countryCode": "AU",
-    "lat": 28.75662,
-    "lng": -17.88508,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1404748932",
     "name": "Biograd na Moru: King Tomislav square",
     "city": "Biograd na Moru",
@@ -107620,6 +106839,17 @@
     "lat": 43.93632,
     "lng": 15.44343,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1404748932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1191947191",
+    "name": "Garafia › North: Nordic Optical Telescope",
+    "city": "Garafia",
+    "countryCode": "AU",
+    "lat": 28.75662,
+    "lng": -17.88508,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
