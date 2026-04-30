@@ -1,5 +1,25 @@
 [
   {
+    "id": "us7000sh7l",
+    "type": "earthquake",
+    "lat": -18.2522,
+    "lng": -175.1974,
+    "intensity": 5,
+    "timestamp": "2026-04-30T09:07:09.663Z",
+    "description": "M 5.0 - 135 km WNW of Neiafu, Tonga",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000sh7j",
+    "type": "earthquake",
+    "lat": 40.6305,
+    "lng": 142.8855,
+    "intensity": 4.5,
+    "timestamp": "2026-04-30T08:43:19.055Z",
+    "description": "M 4.5 - 106 km ENE of Kuji, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sh70",
     "type": "earthquake",
     "lat": -32.0637,
@@ -87,16 +107,6 @@
     "intensity": 4.7,
     "timestamp": "2026-04-29T12:35:29.925Z",
     "description": "M 4.7 - southeast of Easter Island",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sgwj",
-    "type": "earthquake",
-    "lat": -19.9846,
-    "lng": -71.0682,
-    "intensity": 4.7,
-    "timestamp": "2026-04-29T08:42:21.562Z",
-    "description": "M 4.7 - 98 km WNW of Puerto, Chile",
     "source": "USGS"
   }
 ]
