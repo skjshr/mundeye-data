@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000sh8r",
+    "type": "earthquake",
+    "lat": -3.4749,
+    "lng": 148.8139,
+    "intensity": 5.7,
+    "timestamp": "2026-04-30T13:27:01.741Z",
+    "description": "M 5.7 - 234 km SE of Lorengau, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sh7l",
     "type": "earthquake",
     "lat": -18.2522,
@@ -87,16 +97,6 @@
     "intensity": 5.1,
     "timestamp": "2026-04-29T16:11:26.657Z",
     "description": "M 5.1 - Prince Edward Islands region",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sh0n",
-    "type": "earthquake",
-    "lat": -18.0409,
-    "lng": -178.1369,
-    "intensity": 4.5,
-    "timestamp": "2026-04-29T14:51:27.466Z",
-    "description": "M 4.5 - 269 km E of Levuka, Fiji",
     "source": "USGS"
   }
 ]
