@@ -110,6 +110,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "JP",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -2112,17 +2123,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -2618,17 +2618,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "JP",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -3014,17 +3003,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211014448",
-    "name": "Inari: Tie 92 - Näätämö - Norja",
-    "city": "Inari",
-    "countryCode": "JP",
-    "lat": 69.66367,
-    "lng": 29.10018,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499427214",
     "name": "Tarifa: Andalusia, Spagna: Arte-Vida",
     "city": "Tarifa",
@@ -3032,6 +3010,17 @@
     "lat": 36.05186,
     "lng": -5.64813,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499427214/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211014448",
+    "name": "Inari: Tie 92 - Näätämö - Norja",
+    "city": "Inari",
+    "countryCode": "JP",
+    "lat": 69.66367,
+    "lng": 29.10018,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7073,6 +7062,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "JP",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -7091,17 +7091,6 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "JP",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7377,6 +7366,17 @@
     "lat": 46.83298,
     "lng": 9.80603,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1459382175/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "JP",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8228,17 +8228,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207147407",
-    "name": "Heilbronn",
-    "city": "Heilbronn",
-    "countryCode": "JP",
-    "lat": 49.14226,
-    "lng": 9.21824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -8246,6 +8235,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207147407",
+    "name": "Heilbronn",
+    "city": "Heilbronn",
+    "countryCode": "JP",
+    "lat": 49.14226,
+    "lng": 9.21824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9229,17 +9229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206296974",
-    "name": "Chrudim: Resselovo náměstí",
-    "city": "Chrudim",
-    "countryCode": "JP",
-    "lat": 49.95136,
-    "lng": 15.79507,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -9247,6 +9236,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206296974",
+    "name": "Chrudim: Resselovo náměstí",
+    "city": "Chrudim",
+    "countryCode": "JP",
+    "lat": 49.95136,
+    "lng": 15.79507,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10065,17 +10065,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "JP",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391000135",
     "name": "Benidorm: Poniente - Puig Campana",
     "city": "Benidorm",
@@ -10083,6 +10072,17 @@
     "lat": 38.53907,
     "lng": -0.13252,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "JP",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10538,17 +10538,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "JP",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -10556,6 +10545,17 @@
     "lat": 52.03832,
     "lng": -9.49978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1574367301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "JP",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10637,17 +10637,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "JP",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -10655,6 +10644,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "JP",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10923,6 +10923,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "US",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -12925,17 +12936,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -13431,17 +13431,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "US",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -13827,17 +13816,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211014448",
-    "name": "Inari: Tie 92 - Näätämö - Norja",
-    "city": "Inari",
-    "countryCode": "US",
-    "lat": 69.66367,
-    "lng": 29.10018,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499427214",
     "name": "Tarifa: Andalusia, Spagna: Arte-Vida",
     "city": "Tarifa",
@@ -13845,6 +13823,17 @@
     "lat": 36.05186,
     "lng": -5.64813,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499427214/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211014448",
+    "name": "Inari: Tie 92 - Näätämö - Norja",
+    "city": "Inari",
+    "countryCode": "US",
+    "lat": 69.66367,
+    "lng": 29.10018,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17886,6 +17875,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "US",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -17904,17 +17904,6 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "US",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18190,6 +18179,17 @@
     "lat": 46.83298,
     "lng": 9.80603,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1459382175/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "US",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19041,17 +19041,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207147407",
-    "name": "Heilbronn",
-    "city": "Heilbronn",
-    "countryCode": "US",
-    "lat": 49.14226,
-    "lng": 9.21824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -19059,6 +19048,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207147407",
+    "name": "Heilbronn",
+    "city": "Heilbronn",
+    "countryCode": "US",
+    "lat": 49.14226,
+    "lng": 9.21824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20042,17 +20042,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206296974",
-    "name": "Chrudim: Resselovo náměstí",
-    "city": "Chrudim",
-    "countryCode": "US",
-    "lat": 49.95136,
-    "lng": 15.79507,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -20060,6 +20049,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206296974",
+    "name": "Chrudim: Resselovo náměstí",
+    "city": "Chrudim",
+    "countryCode": "US",
+    "lat": 49.95136,
+    "lng": 15.79507,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20878,17 +20878,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "US",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391000135",
     "name": "Benidorm: Poniente - Puig Campana",
     "city": "Benidorm",
@@ -20896,6 +20885,17 @@
     "lat": 38.53907,
     "lng": -0.13252,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "US",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21351,17 +21351,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "US",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -21369,6 +21358,17 @@
     "lat": 52.03832,
     "lng": -9.49978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1574367301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "US",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21450,17 +21450,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "US",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -21468,6 +21457,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "US",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21736,6 +21736,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "GB",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -23738,17 +23749,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -24244,17 +24244,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "GB",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -24640,17 +24629,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211014448",
-    "name": "Inari: Tie 92 - Näätämö - Norja",
-    "city": "Inari",
-    "countryCode": "GB",
-    "lat": 69.66367,
-    "lng": 29.10018,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499427214",
     "name": "Tarifa: Andalusia, Spagna: Arte-Vida",
     "city": "Tarifa",
@@ -24658,6 +24636,17 @@
     "lat": 36.05186,
     "lng": -5.64813,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499427214/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211014448",
+    "name": "Inari: Tie 92 - Näätämö - Norja",
+    "city": "Inari",
+    "countryCode": "GB",
+    "lat": 69.66367,
+    "lng": 29.10018,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28699,6 +28688,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "GB",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -28717,17 +28717,6 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "GB",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29003,6 +28992,17 @@
     "lat": 46.83298,
     "lng": 9.80603,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1459382175/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "GB",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29854,17 +29854,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207147407",
-    "name": "Heilbronn",
-    "city": "Heilbronn",
-    "countryCode": "GB",
-    "lat": 49.14226,
-    "lng": 9.21824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -29872,6 +29861,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207147407",
+    "name": "Heilbronn",
+    "city": "Heilbronn",
+    "countryCode": "GB",
+    "lat": 49.14226,
+    "lng": 9.21824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30855,17 +30855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206296974",
-    "name": "Chrudim: Resselovo náměstí",
-    "city": "Chrudim",
-    "countryCode": "GB",
-    "lat": 49.95136,
-    "lng": 15.79507,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -30873,6 +30862,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206296974",
+    "name": "Chrudim: Resselovo náměstí",
+    "city": "Chrudim",
+    "countryCode": "GB",
+    "lat": 49.95136,
+    "lng": 15.79507,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31691,17 +31691,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "GB",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391000135",
     "name": "Benidorm: Poniente - Puig Campana",
     "city": "Benidorm",
@@ -31709,6 +31698,17 @@
     "lat": 38.53907,
     "lng": -0.13252,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "GB",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32164,17 +32164,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "GB",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -32182,6 +32171,17 @@
     "lat": 52.03832,
     "lng": -9.49978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1574367301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "GB",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32263,17 +32263,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "GB",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -32281,6 +32270,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "GB",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32549,6 +32549,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "DE",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -34551,17 +34562,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -35057,17 +35057,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "DE",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -35453,17 +35442,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211014448",
-    "name": "Inari: Tie 92 - Näätämö - Norja",
-    "city": "Inari",
-    "countryCode": "DE",
-    "lat": 69.66367,
-    "lng": 29.10018,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499427214",
     "name": "Tarifa: Andalusia, Spagna: Arte-Vida",
     "city": "Tarifa",
@@ -35471,6 +35449,17 @@
     "lat": 36.05186,
     "lng": -5.64813,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499427214/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211014448",
+    "name": "Inari: Tie 92 - Näätämö - Norja",
+    "city": "Inari",
+    "countryCode": "DE",
+    "lat": 69.66367,
+    "lng": 29.10018,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39512,6 +39501,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "DE",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -39530,17 +39530,6 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "DE",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39816,6 +39805,17 @@
     "lat": 46.83298,
     "lng": 9.80603,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1459382175/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "DE",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40667,17 +40667,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207147407",
-    "name": "Heilbronn",
-    "city": "Heilbronn",
-    "countryCode": "DE",
-    "lat": 49.14226,
-    "lng": 9.21824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -40685,6 +40674,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207147407",
+    "name": "Heilbronn",
+    "city": "Heilbronn",
+    "countryCode": "DE",
+    "lat": 49.14226,
+    "lng": 9.21824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41668,17 +41668,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206296974",
-    "name": "Chrudim: Resselovo náměstí",
-    "city": "Chrudim",
-    "countryCode": "DE",
-    "lat": 49.95136,
-    "lng": 15.79507,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -41686,6 +41675,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206296974",
+    "name": "Chrudim: Resselovo náměstí",
+    "city": "Chrudim",
+    "countryCode": "DE",
+    "lat": 49.95136,
+    "lng": 15.79507,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42504,17 +42504,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "DE",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391000135",
     "name": "Benidorm: Poniente - Puig Campana",
     "city": "Benidorm",
@@ -42522,6 +42511,17 @@
     "lat": 38.53907,
     "lng": -0.13252,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "DE",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42977,17 +42977,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "DE",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -42995,6 +42984,17 @@
     "lat": 52.03832,
     "lng": -9.49978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1574367301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "DE",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43076,17 +43076,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "DE",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -43094,6 +43083,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "DE",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43362,6 +43362,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "FR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -45364,17 +45375,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -45870,17 +45870,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "FR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -46266,17 +46255,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211014448",
-    "name": "Inari: Tie 92 - Näätämö - Norja",
-    "city": "Inari",
-    "countryCode": "FR",
-    "lat": 69.66367,
-    "lng": 29.10018,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499427214",
     "name": "Tarifa: Andalusia, Spagna: Arte-Vida",
     "city": "Tarifa",
@@ -46284,6 +46262,17 @@
     "lat": 36.05186,
     "lng": -5.64813,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499427214/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211014448",
+    "name": "Inari: Tie 92 - Näätämö - Norja",
+    "city": "Inari",
+    "countryCode": "FR",
+    "lat": 69.66367,
+    "lng": 29.10018,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50325,6 +50314,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "FR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -50343,17 +50343,6 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "FR",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50629,6 +50618,17 @@
     "lat": 46.83298,
     "lng": 9.80603,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1459382175/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "FR",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51480,17 +51480,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207147407",
-    "name": "Heilbronn",
-    "city": "Heilbronn",
-    "countryCode": "FR",
-    "lat": 49.14226,
-    "lng": 9.21824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -51498,6 +51487,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207147407",
+    "name": "Heilbronn",
+    "city": "Heilbronn",
+    "countryCode": "FR",
+    "lat": 49.14226,
+    "lng": 9.21824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52481,17 +52481,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206296974",
-    "name": "Chrudim: Resselovo náměstí",
-    "city": "Chrudim",
-    "countryCode": "FR",
-    "lat": 49.95136,
-    "lng": 15.79507,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -52499,6 +52488,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206296974",
+    "name": "Chrudim: Resselovo náměstí",
+    "city": "Chrudim",
+    "countryCode": "FR",
+    "lat": 49.95136,
+    "lng": 15.79507,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53317,17 +53317,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "FR",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391000135",
     "name": "Benidorm: Poniente - Puig Campana",
     "city": "Benidorm",
@@ -53335,6 +53324,17 @@
     "lat": 38.53907,
     "lng": -0.13252,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "FR",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53790,17 +53790,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "FR",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -53808,6 +53797,17 @@
     "lat": 52.03832,
     "lng": -9.49978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1574367301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "FR",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53889,17 +53889,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "FR",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -53907,6 +53896,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "FR",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54175,6 +54175,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "CN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -56177,17 +56188,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -56683,17 +56683,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "CN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -57079,17 +57068,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211014448",
-    "name": "Inari: Tie 92 - Näätämö - Norja",
-    "city": "Inari",
-    "countryCode": "CN",
-    "lat": 69.66367,
-    "lng": 29.10018,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499427214",
     "name": "Tarifa: Andalusia, Spagna: Arte-Vida",
     "city": "Tarifa",
@@ -57097,6 +57075,17 @@
     "lat": 36.05186,
     "lng": -5.64813,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499427214/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211014448",
+    "name": "Inari: Tie 92 - Näätämö - Norja",
+    "city": "Inari",
+    "countryCode": "CN",
+    "lat": 69.66367,
+    "lng": 29.10018,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61138,6 +61127,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "CN",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -61156,17 +61156,6 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "CN",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61442,6 +61431,17 @@
     "lat": 46.83298,
     "lng": 9.80603,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1459382175/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "CN",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62293,17 +62293,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207147407",
-    "name": "Heilbronn",
-    "city": "Heilbronn",
-    "countryCode": "CN",
-    "lat": 49.14226,
-    "lng": 9.21824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -62311,6 +62300,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207147407",
+    "name": "Heilbronn",
+    "city": "Heilbronn",
+    "countryCode": "CN",
+    "lat": 49.14226,
+    "lng": 9.21824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63294,17 +63294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206296974",
-    "name": "Chrudim: Resselovo náměstí",
-    "city": "Chrudim",
-    "countryCode": "CN",
-    "lat": 49.95136,
-    "lng": 15.79507,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -63312,6 +63301,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206296974",
+    "name": "Chrudim: Resselovo náměstí",
+    "city": "Chrudim",
+    "countryCode": "CN",
+    "lat": 49.95136,
+    "lng": 15.79507,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64130,17 +64130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "CN",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391000135",
     "name": "Benidorm: Poniente - Puig Campana",
     "city": "Benidorm",
@@ -64148,6 +64137,17 @@
     "lat": 38.53907,
     "lng": -0.13252,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "CN",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64603,17 +64603,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "CN",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -64621,6 +64610,17 @@
     "lat": 52.03832,
     "lng": -9.49978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1574367301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "CN",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64702,17 +64702,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "CN",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -64720,6 +64709,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "CN",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64988,6 +64988,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "KR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -66990,17 +67001,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -67496,17 +67496,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "KR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -67892,17 +67881,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211014448",
-    "name": "Inari: Tie 92 - Näätämö - Norja",
-    "city": "Inari",
-    "countryCode": "KR",
-    "lat": 69.66367,
-    "lng": 29.10018,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499427214",
     "name": "Tarifa: Andalusia, Spagna: Arte-Vida",
     "city": "Tarifa",
@@ -67910,6 +67888,17 @@
     "lat": 36.05186,
     "lng": -5.64813,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499427214/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211014448",
+    "name": "Inari: Tie 92 - Näätämö - Norja",
+    "city": "Inari",
+    "countryCode": "KR",
+    "lat": 69.66367,
+    "lng": 29.10018,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71951,6 +71940,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "KR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -71969,17 +71969,6 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "KR",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72255,6 +72244,17 @@
     "lat": 46.83298,
     "lng": 9.80603,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1459382175/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "KR",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73106,17 +73106,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207147407",
-    "name": "Heilbronn",
-    "city": "Heilbronn",
-    "countryCode": "KR",
-    "lat": 49.14226,
-    "lng": 9.21824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -73124,6 +73113,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207147407",
+    "name": "Heilbronn",
+    "city": "Heilbronn",
+    "countryCode": "KR",
+    "lat": 49.14226,
+    "lng": 9.21824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74107,17 +74107,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206296974",
-    "name": "Chrudim: Resselovo náměstí",
-    "city": "Chrudim",
-    "countryCode": "KR",
-    "lat": 49.95136,
-    "lng": 15.79507,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -74125,6 +74114,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206296974",
+    "name": "Chrudim: Resselovo náměstí",
+    "city": "Chrudim",
+    "countryCode": "KR",
+    "lat": 49.95136,
+    "lng": 15.79507,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74943,17 +74943,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "KR",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391000135",
     "name": "Benidorm: Poniente - Puig Campana",
     "city": "Benidorm",
@@ -74961,6 +74950,17 @@
     "lat": 38.53907,
     "lng": -0.13252,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "KR",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75416,17 +75416,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "KR",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -75434,6 +75423,17 @@
     "lat": 52.03832,
     "lng": -9.49978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1574367301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "KR",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75515,17 +75515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "KR",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -75533,6 +75522,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "KR",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75801,6 +75801,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "IN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -77803,17 +77814,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -78309,17 +78309,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "IN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -78705,17 +78694,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211014448",
-    "name": "Inari: Tie 92 - Näätämö - Norja",
-    "city": "Inari",
-    "countryCode": "IN",
-    "lat": 69.66367,
-    "lng": 29.10018,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499427214",
     "name": "Tarifa: Andalusia, Spagna: Arte-Vida",
     "city": "Tarifa",
@@ -78723,6 +78701,17 @@
     "lat": 36.05186,
     "lng": -5.64813,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499427214/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211014448",
+    "name": "Inari: Tie 92 - Näätämö - Norja",
+    "city": "Inari",
+    "countryCode": "IN",
+    "lat": 69.66367,
+    "lng": 29.10018,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82764,6 +82753,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "IN",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -82782,17 +82782,6 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "IN",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83068,6 +83057,17 @@
     "lat": 46.83298,
     "lng": 9.80603,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1459382175/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "IN",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83919,17 +83919,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207147407",
-    "name": "Heilbronn",
-    "city": "Heilbronn",
-    "countryCode": "IN",
-    "lat": 49.14226,
-    "lng": 9.21824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -83937,6 +83926,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207147407",
+    "name": "Heilbronn",
+    "city": "Heilbronn",
+    "countryCode": "IN",
+    "lat": 49.14226,
+    "lng": 9.21824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84920,17 +84920,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206296974",
-    "name": "Chrudim: Resselovo náměstí",
-    "city": "Chrudim",
-    "countryCode": "IN",
-    "lat": 49.95136,
-    "lng": 15.79507,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -84938,6 +84927,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206296974",
+    "name": "Chrudim: Resselovo náměstí",
+    "city": "Chrudim",
+    "countryCode": "IN",
+    "lat": 49.95136,
+    "lng": 15.79507,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85756,17 +85756,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "IN",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391000135",
     "name": "Benidorm: Poniente - Puig Campana",
     "city": "Benidorm",
@@ -85774,6 +85763,17 @@
     "lat": 38.53907,
     "lng": -0.13252,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "IN",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86229,17 +86229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "IN",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -86247,6 +86236,17 @@
     "lat": 52.03832,
     "lng": -9.49978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1574367301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "IN",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86328,17 +86328,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "IN",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -86346,6 +86335,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "IN",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86614,6 +86614,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "BR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -88616,17 +88627,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -89122,17 +89122,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "BR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -89518,17 +89507,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211014448",
-    "name": "Inari: Tie 92 - Näätämö - Norja",
-    "city": "Inari",
-    "countryCode": "BR",
-    "lat": 69.66367,
-    "lng": 29.10018,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499427214",
     "name": "Tarifa: Andalusia, Spagna: Arte-Vida",
     "city": "Tarifa",
@@ -89536,6 +89514,17 @@
     "lat": 36.05186,
     "lng": -5.64813,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499427214/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211014448",
+    "name": "Inari: Tie 92 - Näätämö - Norja",
+    "city": "Inari",
+    "countryCode": "BR",
+    "lat": 69.66367,
+    "lng": 29.10018,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93577,6 +93566,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "BR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -93595,17 +93595,6 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "BR",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93881,6 +93870,17 @@
     "lat": 46.83298,
     "lng": 9.80603,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1459382175/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "BR",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94732,17 +94732,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207147407",
-    "name": "Heilbronn",
-    "city": "Heilbronn",
-    "countryCode": "BR",
-    "lat": 49.14226,
-    "lng": 9.21824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -94750,6 +94739,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207147407",
+    "name": "Heilbronn",
+    "city": "Heilbronn",
+    "countryCode": "BR",
+    "lat": 49.14226,
+    "lng": 9.21824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95733,17 +95733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206296974",
-    "name": "Chrudim: Resselovo náměstí",
-    "city": "Chrudim",
-    "countryCode": "BR",
-    "lat": 49.95136,
-    "lng": 15.79507,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -95751,6 +95740,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206296974",
+    "name": "Chrudim: Resselovo náměstí",
+    "city": "Chrudim",
+    "countryCode": "BR",
+    "lat": 49.95136,
+    "lng": 15.79507,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96569,17 +96569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "BR",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391000135",
     "name": "Benidorm: Poniente - Puig Campana",
     "city": "Benidorm",
@@ -96587,6 +96576,17 @@
     "lat": 38.53907,
     "lng": -0.13252,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "BR",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97042,17 +97042,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "BR",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -97060,6 +97049,17 @@
     "lat": 52.03832,
     "lng": -9.49978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1574367301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "BR",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97141,17 +97141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "BR",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -97159,6 +97148,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "BR",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97427,6 +97427,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "AU",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -99429,17 +99440,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -99935,17 +99935,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "AU",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -100331,17 +100320,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211014448",
-    "name": "Inari: Tie 92 - Näätämö - Norja",
-    "city": "Inari",
-    "countryCode": "AU",
-    "lat": 69.66367,
-    "lng": 29.10018,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1499427214",
     "name": "Tarifa: Andalusia, Spagna: Arte-Vida",
     "city": "Tarifa",
@@ -100349,6 +100327,17 @@
     "lat": 36.05186,
     "lng": -5.64813,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499427214/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211014448",
+    "name": "Inari: Tie 92 - Näätämö - Norja",
+    "city": "Inari",
+    "countryCode": "AU",
+    "lat": 69.66367,
+    "lng": 29.10018,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211014448/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104390,6 +104379,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "AU",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1390661695",
     "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
     "city": "Ljubovija Municipality",
@@ -104408,17 +104408,6 @@
     "lat": 28.68175,
     "lng": -14.00964,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1457905330/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "AU",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104694,6 +104683,17 @@
     "lat": 46.83298,
     "lng": 9.80603,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1459382175/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1632557523",
+    "name": "Rieti › West: Monte Terminillo",
+    "city": "Rieti",
+    "countryCode": "AU",
+    "lat": 42.45409,
+    "lng": 12.98699,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1632557523/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105545,17 +105545,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1207147407",
-    "name": "Heilbronn",
-    "city": "Heilbronn",
-    "countryCode": "AU",
-    "lat": 49.14226,
-    "lng": 9.21824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1248714810",
     "name": "Punta Arenas › East: Presidente Carlos Ibáñez del Campo International Airport - Magallanes, Chile",
     "city": "Punta Arenas",
@@ -105563,6 +105552,17 @@
     "lat": -53.00264,
     "lng": -70.85459,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248714810/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1207147407",
+    "name": "Heilbronn",
+    "city": "Heilbronn",
+    "countryCode": "AU",
+    "lat": 49.14226,
+    "lng": 9.21824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207147407/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106546,17 +106546,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206296974",
-    "name": "Chrudim: Resselovo náměstí",
-    "city": "Chrudim",
-    "countryCode": "AU",
-    "lat": 49.95136,
-    "lng": 15.79507,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -106564,6 +106553,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1206296974",
+    "name": "Chrudim: Resselovo náměstí",
+    "city": "Chrudim",
+    "countryCode": "AU",
+    "lat": 49.95136,
+    "lng": 15.79507,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206296974/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107382,17 +107382,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "AU",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391000135",
     "name": "Benidorm: Poniente - Puig Campana",
     "city": "Benidorm",
@@ -107400,6 +107389,17 @@
     "lat": 38.53907,
     "lng": -0.13252,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391000135/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509983635",
+    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
+    "city": "Pinzolo",
+    "countryCode": "AU",
+    "lat": 46.23221,
+    "lng": 10.82627,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107855,17 +107855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "AU",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -107873,6 +107862,17 @@
     "lat": 52.03832,
     "lng": -9.49978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1574367301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "AU",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107954,17 +107954,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575671482",
-    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
-    "city": "Hamburg",
-    "countryCode": "AU",
-    "lat": 53.54855,
-    "lng": 10.00145,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -107972,6 +107961,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1575671482",
+    "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
+    "city": "Hamburg",
+    "countryCode": "AU",
+    "lat": 53.54855,
+    "lng": 10.00145,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
