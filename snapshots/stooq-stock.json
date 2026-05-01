@@ -4,7 +4,7 @@
     "name": "S&P 500",
     "countryCode": "US",
     "price": 7230.1,
-    "changePct": -0.21,
+    "changePct": 0,
     "currency": "USD",
     "asOf": "2026-05-01T00:00:00.000Z"
   },
@@ -13,7 +13,7 @@
     "name": "Dow Jones",
     "countryCode": "US",
     "price": 49499.3,
-    "changePct": -0.21,
+    "changePct": 0,
     "currency": "USD",
     "asOf": "2026-05-01T00:00:00.000Z"
   },
@@ -22,7 +22,7 @@
     "name": "NASDAQ Composite",
     "countryCode": "US",
     "price": 25114.443,
-    "changePct": -0.16,
+    "changePct": 0,
     "currency": "USD",
     "asOf": "2026-05-01T00:00:00.000Z"
   },
