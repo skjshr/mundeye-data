@@ -1892,17 +1892,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280694868",
-    "name": "Medulin › South: Luka Medulin",
-    "city": "Medulin",
-    "countryCode": "JP",
-    "lat": 44.81706,
-    "lng": 13.9339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1497991857",
     "name": "Arthur's Pass › East: SH73 Arthurs Pass",
     "city": "Arthur's Pass",
@@ -2097,17 +2086,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "JP",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3465,17 +3443,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273493",
-    "name": "Agder › West: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 58.78331,
-    "lng": 7.33303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309685432",
     "name": "Tromso: Weather Live in",
     "city": "Tromso",
@@ -3483,6 +3450,17 @@
     "lat": 69.64294,
     "lng": 18.98536,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273493",
+    "name": "Agder › West: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 58.78331,
+    "lng": 7.33303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4411,17 +4389,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1269345730",
-    "name": "Graz › South-east: Joanneumsviertel",
-    "city": "Graz",
-    "countryCode": "JP",
-    "lat": 47.06887,
-    "lng": 15.43749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1171291800",
     "name": "Erfurt: Cathedral Square",
     "city": "Erfurt",
@@ -4429,6 +4396,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1269345730",
+    "name": "Graz › South-east: Joanneumsviertel",
+    "city": "Graz",
+    "countryCode": "JP",
+    "lat": 47.06887,
+    "lng": 15.43749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5236,17 +5214,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "JP",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -5254,6 +5221,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "JP",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5287,6 +5265,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "JP",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6600,17 +6589,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1618229142",
-    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "JP",
-    "lat": 44.55822,
-    "lng": 9.48603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1642712028",
     "name": "Milo › East: Mount Etna",
     "city": "Milo",
@@ -6618,6 +6596,17 @@
     "lat": 37.75196,
     "lng": 15.09701,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1642712028/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1618229142",
+    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "JP",
+    "lat": 44.55822,
+    "lng": 9.48603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7062,13 +7051,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
     "countryCode": "JP",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7172,17 +7161,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230756192",
-    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
-    "city": "Dietrichsdorf",
-    "countryCode": "JP",
-    "lat": 54.32864,
-    "lng": 10.18209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -7190,6 +7168,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230756192",
+    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
+    "city": "Dietrichsdorf",
+    "countryCode": "JP",
+    "lat": 54.32864,
+    "lng": 10.18209,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7377,6 +7366,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "JP",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9229,17 +9229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "JP",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -9247,6 +9236,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "JP",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9493,17 +9493,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "JP",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -9511,6 +9500,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "JP",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9713,17 +9713,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "JP",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -9731,6 +9720,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "JP",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10208,17 +10208,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "JP",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -10226,6 +10215,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "JP",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10329,17 +10329,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1455731885",
-    "name": "Flagstaff › North: San Francisco Peaks",
-    "city": "Flagstaff",
-    "countryCode": "JP",
-    "lat": 35.18024,
-    "lng": -111.65279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1455731885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -10424,17 +10413,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10538,17 +10516,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "JP",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -10556,6 +10523,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "JP",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10831,6 +10809,39 @@
     "lat": 45.41787,
     "lng": 6.36416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240025112",
+    "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
+    "city": "Talcahuano",
+    "countryCode": "JP",
+    "lat": -36.77707,
+    "lng": -73.06167,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice: nad Otavou, náměstí",
+    "city": "Susice",
+    "countryCode": "JP",
+    "lat": 49.23124,
+    "lng": 13.51994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "JP",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12727,17 +12738,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280694868",
-    "name": "Medulin › South: Luka Medulin",
-    "city": "Medulin",
-    "countryCode": "US",
-    "lat": 44.81706,
-    "lng": 13.9339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1497991857",
     "name": "Arthur's Pass › East: SH73 Arthurs Pass",
     "city": "Arthur's Pass",
@@ -12932,17 +12932,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "US",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14300,17 +14289,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273493",
-    "name": "Agder › West: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 58.78331,
-    "lng": 7.33303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309685432",
     "name": "Tromso: Weather Live in",
     "city": "Tromso",
@@ -14318,6 +14296,17 @@
     "lat": 69.64294,
     "lng": 18.98536,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273493",
+    "name": "Agder › West: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 58.78331,
+    "lng": 7.33303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15246,17 +15235,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1269345730",
-    "name": "Graz › South-east: Joanneumsviertel",
-    "city": "Graz",
-    "countryCode": "US",
-    "lat": 47.06887,
-    "lng": 15.43749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1171291800",
     "name": "Erfurt: Cathedral Square",
     "city": "Erfurt",
@@ -15264,6 +15242,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1269345730",
+    "name": "Graz › South-east: Joanneumsviertel",
+    "city": "Graz",
+    "countryCode": "US",
+    "lat": 47.06887,
+    "lng": 15.43749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16071,17 +16060,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "US",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -16089,6 +16067,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "US",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16122,6 +16111,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "US",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17435,17 +17435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1618229142",
-    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "US",
-    "lat": 44.55822,
-    "lng": 9.48603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1642712028",
     "name": "Milo › East: Mount Etna",
     "city": "Milo",
@@ -17453,6 +17442,17 @@
     "lat": 37.75196,
     "lng": 15.09701,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1642712028/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1618229142",
+    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "US",
+    "lat": 44.55822,
+    "lng": 9.48603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17897,13 +17897,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
     "countryCode": "US",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18007,17 +18007,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230756192",
-    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
-    "city": "Dietrichsdorf",
-    "countryCode": "US",
-    "lat": 54.32864,
-    "lng": 10.18209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -18025,6 +18014,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230756192",
+    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
+    "city": "Dietrichsdorf",
+    "countryCode": "US",
+    "lat": 54.32864,
+    "lng": 10.18209,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18212,6 +18212,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "US",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20064,17 +20075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "US",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -20082,6 +20082,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "US",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20328,17 +20339,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "US",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -20346,6 +20346,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "US",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20548,17 +20559,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "US",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -20566,6 +20566,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "US",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21043,17 +21054,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "US",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -21061,6 +21061,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "US",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21164,17 +21175,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1455731885",
-    "name": "Flagstaff › North: San Francisco Peaks",
-    "city": "Flagstaff",
-    "countryCode": "US",
-    "lat": 35.18024,
-    "lng": -111.65279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1455731885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -21259,17 +21259,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21373,17 +21362,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "US",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -21391,6 +21369,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "US",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21666,6 +21655,39 @@
     "lat": 45.41787,
     "lng": 6.36416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240025112",
+    "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
+    "city": "Talcahuano",
+    "countryCode": "US",
+    "lat": -36.77707,
+    "lng": -73.06167,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice: nad Otavou, náměstí",
+    "city": "Susice",
+    "countryCode": "US",
+    "lat": 49.23124,
+    "lng": 13.51994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "US",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23562,17 +23584,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280694868",
-    "name": "Medulin › South: Luka Medulin",
-    "city": "Medulin",
-    "countryCode": "GB",
-    "lat": 44.81706,
-    "lng": 13.9339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1497991857",
     "name": "Arthur's Pass › East: SH73 Arthurs Pass",
     "city": "Arthur's Pass",
@@ -23767,17 +23778,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "GB",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25135,17 +25135,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273493",
-    "name": "Agder › West: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 58.78331,
-    "lng": 7.33303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309685432",
     "name": "Tromso: Weather Live in",
     "city": "Tromso",
@@ -25153,6 +25142,17 @@
     "lat": 69.64294,
     "lng": 18.98536,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273493",
+    "name": "Agder › West: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 58.78331,
+    "lng": 7.33303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26081,17 +26081,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1269345730",
-    "name": "Graz › South-east: Joanneumsviertel",
-    "city": "Graz",
-    "countryCode": "GB",
-    "lat": 47.06887,
-    "lng": 15.43749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1171291800",
     "name": "Erfurt: Cathedral Square",
     "city": "Erfurt",
@@ -26099,6 +26088,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1269345730",
+    "name": "Graz › South-east: Joanneumsviertel",
+    "city": "Graz",
+    "countryCode": "GB",
+    "lat": 47.06887,
+    "lng": 15.43749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26906,17 +26906,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "GB",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -26924,6 +26913,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "GB",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26957,6 +26957,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "GB",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28270,17 +28281,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1618229142",
-    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "GB",
-    "lat": 44.55822,
-    "lng": 9.48603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1642712028",
     "name": "Milo › East: Mount Etna",
     "city": "Milo",
@@ -28288,6 +28288,17 @@
     "lat": 37.75196,
     "lng": 15.09701,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1642712028/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1618229142",
+    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "GB",
+    "lat": 44.55822,
+    "lng": 9.48603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28732,13 +28743,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
     "countryCode": "GB",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28842,17 +28853,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230756192",
-    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
-    "city": "Dietrichsdorf",
-    "countryCode": "GB",
-    "lat": 54.32864,
-    "lng": 10.18209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -28860,6 +28860,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230756192",
+    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
+    "city": "Dietrichsdorf",
+    "countryCode": "GB",
+    "lat": 54.32864,
+    "lng": 10.18209,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29047,6 +29058,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "GB",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30899,17 +30921,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "GB",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -30917,6 +30928,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "GB",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31163,17 +31185,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "GB",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -31181,6 +31192,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "GB",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31383,17 +31405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "GB",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -31401,6 +31412,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "GB",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31878,17 +31900,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "GB",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -31896,6 +31907,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "GB",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31999,17 +32021,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1455731885",
-    "name": "Flagstaff › North: San Francisco Peaks",
-    "city": "Flagstaff",
-    "countryCode": "GB",
-    "lat": 35.18024,
-    "lng": -111.65279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1455731885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -32094,17 +32105,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32208,17 +32208,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "GB",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -32226,6 +32215,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "GB",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32501,6 +32501,39 @@
     "lat": 45.41787,
     "lng": 6.36416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240025112",
+    "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
+    "city": "Talcahuano",
+    "countryCode": "GB",
+    "lat": -36.77707,
+    "lng": -73.06167,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice: nad Otavou, náměstí",
+    "city": "Susice",
+    "countryCode": "GB",
+    "lat": 49.23124,
+    "lng": 13.51994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "GB",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34397,17 +34430,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280694868",
-    "name": "Medulin › South: Luka Medulin",
-    "city": "Medulin",
-    "countryCode": "DE",
-    "lat": 44.81706,
-    "lng": 13.9339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1497991857",
     "name": "Arthur's Pass › East: SH73 Arthurs Pass",
     "city": "Arthur's Pass",
@@ -34602,17 +34624,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "DE",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35970,17 +35981,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273493",
-    "name": "Agder › West: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 58.78331,
-    "lng": 7.33303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309685432",
     "name": "Tromso: Weather Live in",
     "city": "Tromso",
@@ -35988,6 +35988,17 @@
     "lat": 69.64294,
     "lng": 18.98536,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273493",
+    "name": "Agder › West: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 58.78331,
+    "lng": 7.33303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36916,17 +36927,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1269345730",
-    "name": "Graz › South-east: Joanneumsviertel",
-    "city": "Graz",
-    "countryCode": "DE",
-    "lat": 47.06887,
-    "lng": 15.43749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1171291800",
     "name": "Erfurt: Cathedral Square",
     "city": "Erfurt",
@@ -36934,6 +36934,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1269345730",
+    "name": "Graz › South-east: Joanneumsviertel",
+    "city": "Graz",
+    "countryCode": "DE",
+    "lat": 47.06887,
+    "lng": 15.43749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37741,17 +37752,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "DE",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -37759,6 +37759,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "DE",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37792,6 +37803,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "DE",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39105,17 +39127,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1618229142",
-    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "DE",
-    "lat": 44.55822,
-    "lng": 9.48603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1642712028",
     "name": "Milo › East: Mount Etna",
     "city": "Milo",
@@ -39123,6 +39134,17 @@
     "lat": 37.75196,
     "lng": 15.09701,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1642712028/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1618229142",
+    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "DE",
+    "lat": 44.55822,
+    "lng": 9.48603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39567,13 +39589,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
     "countryCode": "DE",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39677,17 +39699,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230756192",
-    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
-    "city": "Dietrichsdorf",
-    "countryCode": "DE",
-    "lat": 54.32864,
-    "lng": 10.18209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -39695,6 +39706,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230756192",
+    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
+    "city": "Dietrichsdorf",
+    "countryCode": "DE",
+    "lat": 54.32864,
+    "lng": 10.18209,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39882,6 +39904,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "DE",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41734,17 +41767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "DE",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -41752,6 +41774,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "DE",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41998,17 +42031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "DE",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -42016,6 +42038,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "DE",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42218,17 +42251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "DE",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -42236,6 +42258,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "DE",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42713,17 +42746,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "DE",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -42731,6 +42753,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "DE",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42834,17 +42867,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1455731885",
-    "name": "Flagstaff › North: San Francisco Peaks",
-    "city": "Flagstaff",
-    "countryCode": "DE",
-    "lat": 35.18024,
-    "lng": -111.65279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1455731885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -42929,17 +42951,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43043,17 +43054,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "DE",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -43061,6 +43061,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "DE",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43336,6 +43347,39 @@
     "lat": 45.41787,
     "lng": 6.36416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240025112",
+    "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
+    "city": "Talcahuano",
+    "countryCode": "DE",
+    "lat": -36.77707,
+    "lng": -73.06167,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice: nad Otavou, náměstí",
+    "city": "Susice",
+    "countryCode": "DE",
+    "lat": 49.23124,
+    "lng": 13.51994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "DE",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45232,17 +45276,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280694868",
-    "name": "Medulin › South: Luka Medulin",
-    "city": "Medulin",
-    "countryCode": "FR",
-    "lat": 44.81706,
-    "lng": 13.9339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1497991857",
     "name": "Arthur's Pass › East: SH73 Arthurs Pass",
     "city": "Arthur's Pass",
@@ -45437,17 +45470,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "FR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46805,17 +46827,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273493",
-    "name": "Agder › West: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 58.78331,
-    "lng": 7.33303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309685432",
     "name": "Tromso: Weather Live in",
     "city": "Tromso",
@@ -46823,6 +46834,17 @@
     "lat": 69.64294,
     "lng": 18.98536,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273493",
+    "name": "Agder › West: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 58.78331,
+    "lng": 7.33303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47751,17 +47773,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1269345730",
-    "name": "Graz › South-east: Joanneumsviertel",
-    "city": "Graz",
-    "countryCode": "FR",
-    "lat": 47.06887,
-    "lng": 15.43749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1171291800",
     "name": "Erfurt: Cathedral Square",
     "city": "Erfurt",
@@ -47769,6 +47780,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1269345730",
+    "name": "Graz › South-east: Joanneumsviertel",
+    "city": "Graz",
+    "countryCode": "FR",
+    "lat": 47.06887,
+    "lng": 15.43749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48576,17 +48598,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "FR",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -48594,6 +48605,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "FR",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48627,6 +48649,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "FR",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49940,17 +49973,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1618229142",
-    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "FR",
-    "lat": 44.55822,
-    "lng": 9.48603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1642712028",
     "name": "Milo › East: Mount Etna",
     "city": "Milo",
@@ -49958,6 +49980,17 @@
     "lat": 37.75196,
     "lng": 15.09701,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1642712028/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1618229142",
+    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "FR",
+    "lat": 44.55822,
+    "lng": 9.48603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50402,13 +50435,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
     "countryCode": "FR",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50512,17 +50545,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230756192",
-    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
-    "city": "Dietrichsdorf",
-    "countryCode": "FR",
-    "lat": 54.32864,
-    "lng": 10.18209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -50530,6 +50552,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230756192",
+    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
+    "city": "Dietrichsdorf",
+    "countryCode": "FR",
+    "lat": 54.32864,
+    "lng": 10.18209,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50717,6 +50750,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "FR",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52569,17 +52613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "FR",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -52587,6 +52620,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "FR",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52833,17 +52877,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "FR",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -52851,6 +52884,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "FR",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53053,17 +53097,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "FR",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -53071,6 +53104,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "FR",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53548,17 +53592,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "FR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -53566,6 +53599,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "FR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53669,17 +53713,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1455731885",
-    "name": "Flagstaff › North: San Francisco Peaks",
-    "city": "Flagstaff",
-    "countryCode": "FR",
-    "lat": 35.18024,
-    "lng": -111.65279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1455731885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -53764,17 +53797,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53878,17 +53900,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "FR",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -53896,6 +53907,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "FR",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54171,6 +54193,39 @@
     "lat": 45.41787,
     "lng": 6.36416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240025112",
+    "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
+    "city": "Talcahuano",
+    "countryCode": "FR",
+    "lat": -36.77707,
+    "lng": -73.06167,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice: nad Otavou, náměstí",
+    "city": "Susice",
+    "countryCode": "FR",
+    "lat": 49.23124,
+    "lng": 13.51994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "FR",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56067,17 +56122,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280694868",
-    "name": "Medulin › South: Luka Medulin",
-    "city": "Medulin",
-    "countryCode": "CN",
-    "lat": 44.81706,
-    "lng": 13.9339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1497991857",
     "name": "Arthur's Pass › East: SH73 Arthurs Pass",
     "city": "Arthur's Pass",
@@ -56272,17 +56316,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "CN",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57640,17 +57673,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273493",
-    "name": "Agder › West: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 58.78331,
-    "lng": 7.33303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309685432",
     "name": "Tromso: Weather Live in",
     "city": "Tromso",
@@ -57658,6 +57680,17 @@
     "lat": 69.64294,
     "lng": 18.98536,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273493",
+    "name": "Agder › West: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 58.78331,
+    "lng": 7.33303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58586,17 +58619,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1269345730",
-    "name": "Graz › South-east: Joanneumsviertel",
-    "city": "Graz",
-    "countryCode": "CN",
-    "lat": 47.06887,
-    "lng": 15.43749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1171291800",
     "name": "Erfurt: Cathedral Square",
     "city": "Erfurt",
@@ -58604,6 +58626,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1269345730",
+    "name": "Graz › South-east: Joanneumsviertel",
+    "city": "Graz",
+    "countryCode": "CN",
+    "lat": 47.06887,
+    "lng": 15.43749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59411,17 +59444,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "CN",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -59429,6 +59451,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "CN",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59462,6 +59495,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "CN",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60775,17 +60819,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1618229142",
-    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "CN",
-    "lat": 44.55822,
-    "lng": 9.48603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1642712028",
     "name": "Milo › East: Mount Etna",
     "city": "Milo",
@@ -60793,6 +60826,17 @@
     "lat": 37.75196,
     "lng": 15.09701,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1642712028/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1618229142",
+    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "CN",
+    "lat": 44.55822,
+    "lng": 9.48603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61237,13 +61281,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
     "countryCode": "CN",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61347,17 +61391,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230756192",
-    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
-    "city": "Dietrichsdorf",
-    "countryCode": "CN",
-    "lat": 54.32864,
-    "lng": 10.18209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -61365,6 +61398,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230756192",
+    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
+    "city": "Dietrichsdorf",
+    "countryCode": "CN",
+    "lat": 54.32864,
+    "lng": 10.18209,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61552,6 +61596,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "CN",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63404,17 +63459,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "CN",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -63422,6 +63466,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "CN",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63668,17 +63723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "CN",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -63686,6 +63730,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "CN",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63888,17 +63943,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "CN",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -63906,6 +63950,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "CN",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64383,17 +64438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "CN",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -64401,6 +64445,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "CN",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64504,17 +64559,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1455731885",
-    "name": "Flagstaff › North: San Francisco Peaks",
-    "city": "Flagstaff",
-    "countryCode": "CN",
-    "lat": 35.18024,
-    "lng": -111.65279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1455731885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -64599,17 +64643,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64713,17 +64746,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "CN",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -64731,6 +64753,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "CN",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65006,6 +65039,39 @@
     "lat": 45.41787,
     "lng": 6.36416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240025112",
+    "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
+    "city": "Talcahuano",
+    "countryCode": "CN",
+    "lat": -36.77707,
+    "lng": -73.06167,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice: nad Otavou, náměstí",
+    "city": "Susice",
+    "countryCode": "CN",
+    "lat": 49.23124,
+    "lng": 13.51994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "CN",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66902,17 +66968,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280694868",
-    "name": "Medulin › South: Luka Medulin",
-    "city": "Medulin",
-    "countryCode": "KR",
-    "lat": 44.81706,
-    "lng": 13.9339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1497991857",
     "name": "Arthur's Pass › East: SH73 Arthurs Pass",
     "city": "Arthur's Pass",
@@ -67107,17 +67162,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "KR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68475,17 +68519,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273493",
-    "name": "Agder › West: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 58.78331,
-    "lng": 7.33303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309685432",
     "name": "Tromso: Weather Live in",
     "city": "Tromso",
@@ -68493,6 +68526,17 @@
     "lat": 69.64294,
     "lng": 18.98536,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273493",
+    "name": "Agder › West: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 58.78331,
+    "lng": 7.33303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69421,17 +69465,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1269345730",
-    "name": "Graz › South-east: Joanneumsviertel",
-    "city": "Graz",
-    "countryCode": "KR",
-    "lat": 47.06887,
-    "lng": 15.43749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1171291800",
     "name": "Erfurt: Cathedral Square",
     "city": "Erfurt",
@@ -69439,6 +69472,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1269345730",
+    "name": "Graz › South-east: Joanneumsviertel",
+    "city": "Graz",
+    "countryCode": "KR",
+    "lat": 47.06887,
+    "lng": 15.43749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70246,17 +70290,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "KR",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -70264,6 +70297,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "KR",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70297,6 +70341,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "KR",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71610,17 +71665,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1618229142",
-    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "KR",
-    "lat": 44.55822,
-    "lng": 9.48603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1642712028",
     "name": "Milo › East: Mount Etna",
     "city": "Milo",
@@ -71628,6 +71672,17 @@
     "lat": 37.75196,
     "lng": 15.09701,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1642712028/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1618229142",
+    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "KR",
+    "lat": 44.55822,
+    "lng": 9.48603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72072,13 +72127,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
     "countryCode": "KR",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72182,17 +72237,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230756192",
-    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
-    "city": "Dietrichsdorf",
-    "countryCode": "KR",
-    "lat": 54.32864,
-    "lng": 10.18209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -72200,6 +72244,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230756192",
+    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
+    "city": "Dietrichsdorf",
+    "countryCode": "KR",
+    "lat": 54.32864,
+    "lng": 10.18209,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72387,6 +72442,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "KR",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74239,17 +74305,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "KR",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -74257,6 +74312,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "KR",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74503,17 +74569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "KR",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -74521,6 +74576,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "KR",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74723,17 +74789,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "KR",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -74741,6 +74796,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "KR",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75218,17 +75284,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "KR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -75236,6 +75291,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "KR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75339,17 +75405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1455731885",
-    "name": "Flagstaff › North: San Francisco Peaks",
-    "city": "Flagstaff",
-    "countryCode": "KR",
-    "lat": 35.18024,
-    "lng": -111.65279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1455731885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -75434,17 +75489,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75548,17 +75592,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "KR",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -75566,6 +75599,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "KR",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75841,6 +75885,39 @@
     "lat": 45.41787,
     "lng": 6.36416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240025112",
+    "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
+    "city": "Talcahuano",
+    "countryCode": "KR",
+    "lat": -36.77707,
+    "lng": -73.06167,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice: nad Otavou, náměstí",
+    "city": "Susice",
+    "countryCode": "KR",
+    "lat": 49.23124,
+    "lng": 13.51994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "KR",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77737,17 +77814,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280694868",
-    "name": "Medulin › South: Luka Medulin",
-    "city": "Medulin",
-    "countryCode": "IN",
-    "lat": 44.81706,
-    "lng": 13.9339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1497991857",
     "name": "Arthur's Pass › East: SH73 Arthurs Pass",
     "city": "Arthur's Pass",
@@ -77942,17 +78008,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "IN",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79310,17 +79365,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273493",
-    "name": "Agder › West: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 58.78331,
-    "lng": 7.33303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309685432",
     "name": "Tromso: Weather Live in",
     "city": "Tromso",
@@ -79328,6 +79372,17 @@
     "lat": 69.64294,
     "lng": 18.98536,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273493",
+    "name": "Agder › West: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 58.78331,
+    "lng": 7.33303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80256,17 +80311,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1269345730",
-    "name": "Graz › South-east: Joanneumsviertel",
-    "city": "Graz",
-    "countryCode": "IN",
-    "lat": 47.06887,
-    "lng": 15.43749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1171291800",
     "name": "Erfurt: Cathedral Square",
     "city": "Erfurt",
@@ -80274,6 +80318,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1269345730",
+    "name": "Graz › South-east: Joanneumsviertel",
+    "city": "Graz",
+    "countryCode": "IN",
+    "lat": 47.06887,
+    "lng": 15.43749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81081,17 +81136,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "IN",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -81099,6 +81143,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "IN",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81132,6 +81187,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "IN",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82445,17 +82511,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1618229142",
-    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "IN",
-    "lat": 44.55822,
-    "lng": 9.48603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1642712028",
     "name": "Milo › East: Mount Etna",
     "city": "Milo",
@@ -82463,6 +82518,17 @@
     "lat": 37.75196,
     "lng": 15.09701,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1642712028/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1618229142",
+    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "IN",
+    "lat": 44.55822,
+    "lng": 9.48603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82907,13 +82973,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
     "countryCode": "IN",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83017,17 +83083,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230756192",
-    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
-    "city": "Dietrichsdorf",
-    "countryCode": "IN",
-    "lat": 54.32864,
-    "lng": 10.18209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -83035,6 +83090,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230756192",
+    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
+    "city": "Dietrichsdorf",
+    "countryCode": "IN",
+    "lat": 54.32864,
+    "lng": 10.18209,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83222,6 +83288,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "IN",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85074,17 +85151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "IN",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -85092,6 +85158,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "IN",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85338,17 +85415,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "IN",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -85356,6 +85422,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "IN",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85558,17 +85635,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "IN",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -85576,6 +85642,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "IN",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86053,17 +86130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "IN",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -86071,6 +86137,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "IN",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86174,17 +86251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1455731885",
-    "name": "Flagstaff › North: San Francisco Peaks",
-    "city": "Flagstaff",
-    "countryCode": "IN",
-    "lat": 35.18024,
-    "lng": -111.65279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1455731885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -86269,17 +86335,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86383,17 +86438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "IN",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -86401,6 +86445,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "IN",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86676,6 +86731,39 @@
     "lat": 45.41787,
     "lng": 6.36416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240025112",
+    "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
+    "city": "Talcahuano",
+    "countryCode": "IN",
+    "lat": -36.77707,
+    "lng": -73.06167,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice: nad Otavou, náměstí",
+    "city": "Susice",
+    "countryCode": "IN",
+    "lat": 49.23124,
+    "lng": 13.51994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "IN",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88572,17 +88660,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280694868",
-    "name": "Medulin › South: Luka Medulin",
-    "city": "Medulin",
-    "countryCode": "BR",
-    "lat": 44.81706,
-    "lng": 13.9339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1497991857",
     "name": "Arthur's Pass › East: SH73 Arthurs Pass",
     "city": "Arthur's Pass",
@@ -88777,17 +88854,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "BR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90145,17 +90211,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273493",
-    "name": "Agder › West: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 58.78331,
-    "lng": 7.33303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309685432",
     "name": "Tromso: Weather Live in",
     "city": "Tromso",
@@ -90163,6 +90218,17 @@
     "lat": 69.64294,
     "lng": 18.98536,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273493",
+    "name": "Agder › West: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 58.78331,
+    "lng": 7.33303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91091,17 +91157,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1269345730",
-    "name": "Graz › South-east: Joanneumsviertel",
-    "city": "Graz",
-    "countryCode": "BR",
-    "lat": 47.06887,
-    "lng": 15.43749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1171291800",
     "name": "Erfurt: Cathedral Square",
     "city": "Erfurt",
@@ -91109,6 +91164,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1269345730",
+    "name": "Graz › South-east: Joanneumsviertel",
+    "city": "Graz",
+    "countryCode": "BR",
+    "lat": 47.06887,
+    "lng": 15.43749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91916,17 +91982,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "BR",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -91934,6 +91989,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "BR",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91967,6 +92033,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "BR",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93280,17 +93357,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1618229142",
-    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "BR",
-    "lat": 44.55822,
-    "lng": 9.48603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1642712028",
     "name": "Milo › East: Mount Etna",
     "city": "Milo",
@@ -93298,6 +93364,17 @@
     "lat": 37.75196,
     "lng": 15.09701,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1642712028/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1618229142",
+    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "BR",
+    "lat": 44.55822,
+    "lng": 9.48603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93742,13 +93819,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
     "countryCode": "BR",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93852,17 +93929,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230756192",
-    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
-    "city": "Dietrichsdorf",
-    "countryCode": "BR",
-    "lat": 54.32864,
-    "lng": 10.18209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -93870,6 +93936,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230756192",
+    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
+    "city": "Dietrichsdorf",
+    "countryCode": "BR",
+    "lat": 54.32864,
+    "lng": 10.18209,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94057,6 +94134,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "BR",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95909,17 +95997,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "BR",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -95927,6 +96004,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "BR",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96173,17 +96261,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "BR",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -96191,6 +96268,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "BR",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96393,17 +96481,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "BR",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -96411,6 +96488,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "BR",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96888,17 +96976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "BR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -96906,6 +96983,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "BR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97009,17 +97097,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1455731885",
-    "name": "Flagstaff › North: San Francisco Peaks",
-    "city": "Flagstaff",
-    "countryCode": "BR",
-    "lat": 35.18024,
-    "lng": -111.65279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1455731885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -97104,17 +97181,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97218,17 +97284,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "BR",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -97236,6 +97291,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "BR",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97511,6 +97577,39 @@
     "lat": 45.41787,
     "lng": 6.36416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240025112",
+    "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
+    "city": "Talcahuano",
+    "countryCode": "BR",
+    "lat": -36.77707,
+    "lng": -73.06167,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice: nad Otavou, náměstí",
+    "city": "Susice",
+    "countryCode": "BR",
+    "lat": 49.23124,
+    "lng": 13.51994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "BR",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99407,17 +99506,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280694868",
-    "name": "Medulin › South: Luka Medulin",
-    "city": "Medulin",
-    "countryCode": "AU",
-    "lat": 44.81706,
-    "lng": 13.9339,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280694868/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1497991857",
     "name": "Arthur's Pass › East: SH73 Arthurs Pass",
     "city": "Arthur's Pass",
@@ -99612,17 +99700,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "AU",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100980,17 +101057,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1588273493",
-    "name": "Agder › West: Ljosland Skisenter A/S",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 58.78331,
-    "lng": 7.33303,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309685432",
     "name": "Tromso: Weather Live in",
     "city": "Tromso",
@@ -100998,6 +101064,17 @@
     "lat": 69.64294,
     "lng": 18.98536,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1588273493",
+    "name": "Agder › West: Ljosland Skisenter A/S",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 58.78331,
+    "lng": 7.33303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1588273493/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101926,17 +102003,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1269345730",
-    "name": "Graz › South-east: Joanneumsviertel",
-    "city": "Graz",
-    "countryCode": "AU",
-    "lat": 47.06887,
-    "lng": 15.43749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1171291800",
     "name": "Erfurt: Cathedral Square",
     "city": "Erfurt",
@@ -101944,6 +102010,17 @@
     "lat": 50.97718,
     "lng": 11.02386,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171291800/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1269345730",
+    "name": "Graz › South-east: Joanneumsviertel",
+    "city": "Graz",
+    "countryCode": "AU",
+    "lat": 47.06887,
+    "lng": 15.43749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1269345730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102751,17 +102828,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "AU",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -102769,6 +102835,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
+    "countryCode": "AU",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102802,6 +102879,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "AU",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104115,17 +104203,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1618229142",
-    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "AU",
-    "lat": 44.55822,
-    "lng": 9.48603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1642712028",
     "name": "Milo › East: Mount Etna",
     "city": "Milo",
@@ -104133,6 +104210,17 @@
     "lat": 37.75196,
     "lng": 15.09701,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1642712028/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1618229142",
+    "name": "Santo Stefano d'Aveto: Seggiovia Prato Cipolla - Monte Bue",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "AU",
+    "lat": 44.55822,
+    "lng": 9.48603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1618229142/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104577,13 +104665,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1523278076",
-    "name": "Malcesine: Monte Baldo - Veneto, Italy",
-    "city": "Malcesine",
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
     "countryCode": "AU",
-    "lat": 45.77215,
-    "lng": 10.86502,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1523278076/original.jpg",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104687,17 +104775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230756192",
-    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
-    "city": "Dietrichsdorf",
-    "countryCode": "AU",
-    "lat": 54.32864,
-    "lng": 10.18209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1666966383",
     "name": "Berlin",
     "city": "Berlin",
@@ -104705,6 +104782,17 @@
     "lat": 52.51606,
     "lng": 13.37978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1666966383/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230756192",
+    "name": "Dietrichsdorf: Schmerzklinik Kiel - GEOMAR Helmholtz Centre for Ocean Research Kiel - Kiel",
+    "city": "Dietrichsdorf",
+    "countryCode": "AU",
+    "lat": 54.32864,
+    "lng": 10.18209,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230756192/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104892,6 +104980,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1156158815",
+    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
+    "city": "Langnau im Emmental",
+    "countryCode": "AU",
+    "lat": 46.94525,
+    "lng": 7.78081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106744,17 +106843,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "AU",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -106762,6 +106850,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "AU",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107008,17 +107107,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "AU",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -107026,6 +107114,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326740058",
+    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
+    "city": "Castagneto Carducci",
+    "countryCode": "AU",
+    "lat": 43.18326,
+    "lng": 10.53824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107228,17 +107327,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "AU",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522910373",
     "name": "Bologna › West: Fiera Bologna Ingresso Nord Pubblico - Bologna Center Town",
     "city": "Bologna",
@@ -107246,6 +107334,17 @@
     "lat": 44.50518,
     "lng": 11.3695,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522910373/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "AU",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107723,17 +107822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "AU",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -107741,6 +107829,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "AU",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107844,17 +107943,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1455731885",
-    "name": "Flagstaff › North: San Francisco Peaks",
-    "city": "Flagstaff",
-    "countryCode": "AU",
-    "lat": 35.18024,
-    "lng": -111.65279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1455731885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -107939,17 +108027,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108053,17 +108130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "AU",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233032228",
     "name": "Cajetina Municipality: Zlatibor",
     "city": "Cajetina Municipality",
@@ -108071,6 +108137,17 @@
     "lat": 43.72552,
     "lng": 19.6978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "AU",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108346,6 +108423,39 @@
     "lat": 45.41787,
     "lng": 6.36416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240025112",
+    "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
+    "city": "Talcahuano",
+    "countryCode": "AU",
+    "lat": -36.77707,
+    "lng": -73.06167,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1385571616",
+    "name": "Susice: nad Otavou, náměstí",
+    "city": "Susice",
+    "countryCode": "AU",
+    "lat": 49.23124,
+    "lng": 13.51994,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "AU",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
