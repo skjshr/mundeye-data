@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shj5",
+    "type": "earthquake",
+    "lat": -57.7679,
+    "lng": -25.3328,
+    "intensity": 5.1,
+    "timestamp": "2026-05-01T11:04:39.548Z",
+    "description": "M 5.1 - South Sandwich Islands region",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shiq",
     "type": "earthquake",
     "lat": -1.5344,

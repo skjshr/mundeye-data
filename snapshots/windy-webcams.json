@@ -2475,17 +2475,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1364438257",
-    "name": "Anadyr: Анадырь",
-    "city": "Anadyr",
-    "countryCode": "JP",
-    "lat": 64.73153,
-    "lng": 177.48721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1224319690",
     "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
     "city": "unknown",
@@ -2878,17 +2867,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "JP",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7205,17 +7183,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "JP",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -8510,6 +8477,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "JP",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10556,17 +10534,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "JP",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13321,17 +13288,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1364438257",
-    "name": "Anadyr: Анадырь",
-    "city": "Anadyr",
-    "countryCode": "US",
-    "lat": 64.73153,
-    "lng": 177.48721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1224319690",
     "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
     "city": "unknown",
@@ -13724,17 +13680,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "US",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18051,17 +17996,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "US",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -19356,6 +19290,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "US",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21402,17 +21347,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "US",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24167,17 +24101,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1364438257",
-    "name": "Anadyr: Анадырь",
-    "city": "Anadyr",
-    "countryCode": "GB",
-    "lat": 64.73153,
-    "lng": 177.48721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1224319690",
     "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
     "city": "unknown",
@@ -24570,17 +24493,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "GB",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28897,17 +28809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "GB",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -30202,6 +30103,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "GB",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32248,17 +32160,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "GB",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35013,17 +34914,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1364438257",
-    "name": "Anadyr: Анадырь",
-    "city": "Anadyr",
-    "countryCode": "DE",
-    "lat": 64.73153,
-    "lng": 177.48721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1224319690",
     "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
     "city": "unknown",
@@ -35416,17 +35306,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "DE",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39743,17 +39622,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "DE",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -41048,6 +40916,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "DE",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43094,17 +42973,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "DE",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45859,17 +45727,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1364438257",
-    "name": "Anadyr: Анадырь",
-    "city": "Anadyr",
-    "countryCode": "FR",
-    "lat": 64.73153,
-    "lng": 177.48721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1224319690",
     "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
     "city": "unknown",
@@ -46262,17 +46119,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "FR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50589,17 +50435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "FR",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -51894,6 +51729,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "FR",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53940,17 +53786,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "FR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56705,17 +56540,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1364438257",
-    "name": "Anadyr: Анадырь",
-    "city": "Anadyr",
-    "countryCode": "CN",
-    "lat": 64.73153,
-    "lng": 177.48721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1224319690",
     "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
     "city": "unknown",
@@ -57108,17 +56932,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "CN",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61435,17 +61248,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "CN",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -62740,6 +62542,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "CN",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64786,17 +64599,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "CN",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67551,17 +67353,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1364438257",
-    "name": "Anadyr: Анадырь",
-    "city": "Anadyr",
-    "countryCode": "KR",
-    "lat": 64.73153,
-    "lng": 177.48721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1224319690",
     "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
     "city": "unknown",
@@ -67954,17 +67745,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "KR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72281,17 +72061,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "KR",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -73586,6 +73355,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "KR",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75632,17 +75412,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "KR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78397,17 +78166,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1364438257",
-    "name": "Anadyr: Анадырь",
-    "city": "Anadyr",
-    "countryCode": "IN",
-    "lat": 64.73153,
-    "lng": 177.48721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1224319690",
     "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
     "city": "unknown",
@@ -78800,17 +78558,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "IN",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83127,17 +82874,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "IN",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -84432,6 +84168,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "IN",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86478,17 +86225,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "IN",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89243,17 +88979,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1364438257",
-    "name": "Anadyr: Анадырь",
-    "city": "Anadyr",
-    "countryCode": "BR",
-    "lat": 64.73153,
-    "lng": 177.48721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1224319690",
     "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
     "city": "unknown",
@@ -89646,17 +89371,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "BR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93973,17 +93687,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "BR",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -95278,6 +94981,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "BR",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97324,17 +97038,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "BR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100089,17 +99792,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1364438257",
-    "name": "Anadyr: Анадырь",
-    "city": "Anadyr",
-    "countryCode": "AU",
-    "lat": 64.73153,
-    "lng": 177.48721,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1364438257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1224319690",
     "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
     "city": "unknown",
@@ -100492,17 +100184,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "AU",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104819,17 +104500,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534297",
-    "name": "Mutzenich: Monschau - WetterCam 2",
-    "city": "Mutzenich",
-    "countryCode": "AU",
-    "lat": 50.56396,
-    "lng": 6.21147,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1185042521",
     "name": "College Station: Fairbanks",
     "city": "College Station",
@@ -106124,6 +105794,17 @@
     "lat": 54.94575,
     "lng": 20.1472,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793869097/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234184019",
+    "name": "Calvi: Cesario Hôtel",
+    "city": "Calvi",
+    "countryCode": "AU",
+    "lat": 42.54122,
+    "lng": 8.80107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234184019/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108170,17 +107851,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "AU",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
