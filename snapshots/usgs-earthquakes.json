@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shti",
+    "type": "earthquake",
+    "lat": -4.2751,
+    "lng": 152.7606,
+    "intensity": 4.6,
+    "timestamp": "2026-05-02T14:15:34.556Z",
+    "description": "M 4.6 - 55 km E of Kokopo, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shsr",
     "type": "earthquake",
     "lat": -18.2088,
