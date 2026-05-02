@@ -110,6 +110,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "JP",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -194,6 +205,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "JP",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1624,17 +1646,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "JP",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5126,17 +5137,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513980669",
-    "name": "Marathias › North-east: Marathonisi View",
-    "city": "Marathias",
-    "countryCode": "JP",
-    "lat": 37.67185,
-    "lng": 20.84968,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -5144,6 +5144,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513980669",
+    "name": "Marathias › North-east: Marathonisi View",
+    "city": "Marathias",
+    "countryCode": "JP",
+    "lat": 37.67185,
+    "lng": 20.84968,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5650,6 +5661,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "JP",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6457,17 +6479,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "JP",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1238779369",
     "name": "Maastricht: De Heeg (view southeast)",
     "city": "Maastricht",
@@ -6475,6 +6486,17 @@
     "lat": 50.82764,
     "lng": 5.72586,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238779369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "JP",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6721,17 +6743,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260740169",
-    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
-    "city": "Falkenstein",
-    "countryCode": "JP",
-    "lat": 50.49719,
-    "lng": 12.37848,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -6739,6 +6750,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260740169",
+    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
+    "city": "Falkenstein",
+    "countryCode": "JP",
+    "lat": 50.49719,
+    "lng": 12.37848,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7179,17 +7201,6 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1476170462",
-    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
-    "city": "Modena",
-    "countryCode": "JP",
-    "lat": 44.64818,
-    "lng": 10.92992,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8811,17 +8822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "JP",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -8829,6 +8829,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "JP",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9592,17 +9603,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "JP",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -9610,6 +9610,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "JP",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10351,6 +10362,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1609419104",
     "name": "Kyjov › East: Masarykovo náměstí",
     "city": "Kyjov",
@@ -10670,17 +10692,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "JP",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -10688,6 +10699,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "JP",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10780,17 +10802,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "JP",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631456236",
     "name": "Cheonghak-dong",
     "city": "Cheonghak-dong",
@@ -10802,13 +10813,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
+    "id": "windy-1256292851",
+    "name": "Grimmialp: Diemtigtal",
+    "city": "Grimmialp",
     "countryCode": "JP",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "lat": 46.56793,
+    "lng": 7.48364,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10923,6 +10934,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "US",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -11007,6 +11029,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "US",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12437,17 +12470,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "US",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15939,17 +15961,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513980669",
-    "name": "Marathias › North-east: Marathonisi View",
-    "city": "Marathias",
-    "countryCode": "US",
-    "lat": 37.67185,
-    "lng": 20.84968,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -15957,6 +15968,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513980669",
+    "name": "Marathias › North-east: Marathonisi View",
+    "city": "Marathias",
+    "countryCode": "US",
+    "lat": 37.67185,
+    "lng": 20.84968,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16463,6 +16485,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "US",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17270,17 +17303,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "US",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1238779369",
     "name": "Maastricht: De Heeg (view southeast)",
     "city": "Maastricht",
@@ -17288,6 +17310,17 @@
     "lat": 50.82764,
     "lng": 5.72586,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238779369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "US",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17534,17 +17567,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260740169",
-    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
-    "city": "Falkenstein",
-    "countryCode": "US",
-    "lat": 50.49719,
-    "lng": 12.37848,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -17552,6 +17574,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260740169",
+    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
+    "city": "Falkenstein",
+    "countryCode": "US",
+    "lat": 50.49719,
+    "lng": 12.37848,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17992,17 +18025,6 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1476170462",
-    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
-    "city": "Modena",
-    "countryCode": "US",
-    "lat": 44.64818,
-    "lng": 10.92992,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19624,17 +19646,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "US",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -19642,6 +19653,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "US",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20405,17 +20427,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "US",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -20423,6 +20434,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "US",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21164,6 +21186,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1609419104",
     "name": "Kyjov › East: Masarykovo náměstí",
     "city": "Kyjov",
@@ -21483,17 +21516,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "US",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -21501,6 +21523,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "US",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21593,17 +21626,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "US",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631456236",
     "name": "Cheonghak-dong",
     "city": "Cheonghak-dong",
@@ -21615,13 +21637,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
+    "id": "windy-1256292851",
+    "name": "Grimmialp: Diemtigtal",
+    "city": "Grimmialp",
     "countryCode": "US",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "lat": 46.56793,
+    "lng": 7.48364,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21736,6 +21758,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "GB",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -21820,6 +21853,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "GB",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23250,17 +23294,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "GB",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26752,17 +26785,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513980669",
-    "name": "Marathias › North-east: Marathonisi View",
-    "city": "Marathias",
-    "countryCode": "GB",
-    "lat": 37.67185,
-    "lng": 20.84968,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -26770,6 +26792,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513980669",
+    "name": "Marathias › North-east: Marathonisi View",
+    "city": "Marathias",
+    "countryCode": "GB",
+    "lat": 37.67185,
+    "lng": 20.84968,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27276,6 +27309,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "GB",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28083,17 +28127,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "GB",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1238779369",
     "name": "Maastricht: De Heeg (view southeast)",
     "city": "Maastricht",
@@ -28101,6 +28134,17 @@
     "lat": 50.82764,
     "lng": 5.72586,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238779369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "GB",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28347,17 +28391,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260740169",
-    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
-    "city": "Falkenstein",
-    "countryCode": "GB",
-    "lat": 50.49719,
-    "lng": 12.37848,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -28365,6 +28398,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260740169",
+    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
+    "city": "Falkenstein",
+    "countryCode": "GB",
+    "lat": 50.49719,
+    "lng": 12.37848,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28805,17 +28849,6 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1476170462",
-    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
-    "city": "Modena",
-    "countryCode": "GB",
-    "lat": 44.64818,
-    "lng": 10.92992,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30437,17 +30470,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "GB",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -30455,6 +30477,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "GB",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31218,17 +31251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "GB",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -31236,6 +31258,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "GB",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31977,6 +32010,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1609419104",
     "name": "Kyjov › East: Masarykovo náměstí",
     "city": "Kyjov",
@@ -32296,17 +32340,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "GB",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -32314,6 +32347,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "GB",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32406,17 +32450,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "GB",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631456236",
     "name": "Cheonghak-dong",
     "city": "Cheonghak-dong",
@@ -32428,13 +32461,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
+    "id": "windy-1256292851",
+    "name": "Grimmialp: Diemtigtal",
+    "city": "Grimmialp",
     "countryCode": "GB",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "lat": 46.56793,
+    "lng": 7.48364,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32549,6 +32582,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "DE",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -32633,6 +32677,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "DE",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34063,17 +34118,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "DE",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37565,17 +37609,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513980669",
-    "name": "Marathias › North-east: Marathonisi View",
-    "city": "Marathias",
-    "countryCode": "DE",
-    "lat": 37.67185,
-    "lng": 20.84968,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -37583,6 +37616,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513980669",
+    "name": "Marathias › North-east: Marathonisi View",
+    "city": "Marathias",
+    "countryCode": "DE",
+    "lat": 37.67185,
+    "lng": 20.84968,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38089,6 +38133,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "DE",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38896,17 +38951,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "DE",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1238779369",
     "name": "Maastricht: De Heeg (view southeast)",
     "city": "Maastricht",
@@ -38914,6 +38958,17 @@
     "lat": 50.82764,
     "lng": 5.72586,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238779369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "DE",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39160,17 +39215,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260740169",
-    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
-    "city": "Falkenstein",
-    "countryCode": "DE",
-    "lat": 50.49719,
-    "lng": 12.37848,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -39178,6 +39222,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260740169",
+    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
+    "city": "Falkenstein",
+    "countryCode": "DE",
+    "lat": 50.49719,
+    "lng": 12.37848,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39618,17 +39673,6 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1476170462",
-    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
-    "city": "Modena",
-    "countryCode": "DE",
-    "lat": 44.64818,
-    "lng": 10.92992,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41250,17 +41294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "DE",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -41268,6 +41301,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "DE",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42031,17 +42075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "DE",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -42049,6 +42082,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "DE",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42790,6 +42834,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1609419104",
     "name": "Kyjov › East: Masarykovo náměstí",
     "city": "Kyjov",
@@ -43109,17 +43164,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "DE",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -43127,6 +43171,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "DE",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43219,17 +43274,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "DE",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631456236",
     "name": "Cheonghak-dong",
     "city": "Cheonghak-dong",
@@ -43241,13 +43285,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
+    "id": "windy-1256292851",
+    "name": "Grimmialp: Diemtigtal",
+    "city": "Grimmialp",
     "countryCode": "DE",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "lat": 46.56793,
+    "lng": 7.48364,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43362,6 +43406,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "FR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -43446,6 +43501,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "FR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44876,17 +44942,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "FR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48378,17 +48433,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513980669",
-    "name": "Marathias › North-east: Marathonisi View",
-    "city": "Marathias",
-    "countryCode": "FR",
-    "lat": 37.67185,
-    "lng": 20.84968,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -48396,6 +48440,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513980669",
+    "name": "Marathias › North-east: Marathonisi View",
+    "city": "Marathias",
+    "countryCode": "FR",
+    "lat": 37.67185,
+    "lng": 20.84968,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48902,6 +48957,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "FR",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49709,17 +49775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "FR",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1238779369",
     "name": "Maastricht: De Heeg (view southeast)",
     "city": "Maastricht",
@@ -49727,6 +49782,17 @@
     "lat": 50.82764,
     "lng": 5.72586,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238779369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "FR",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49973,17 +50039,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260740169",
-    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
-    "city": "Falkenstein",
-    "countryCode": "FR",
-    "lat": 50.49719,
-    "lng": 12.37848,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -49991,6 +50046,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260740169",
+    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
+    "city": "Falkenstein",
+    "countryCode": "FR",
+    "lat": 50.49719,
+    "lng": 12.37848,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50431,17 +50497,6 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1476170462",
-    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
-    "city": "Modena",
-    "countryCode": "FR",
-    "lat": 44.64818,
-    "lng": 10.92992,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52063,17 +52118,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "FR",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -52081,6 +52125,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "FR",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52844,17 +52899,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "FR",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -52862,6 +52906,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "FR",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53603,6 +53658,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1609419104",
     "name": "Kyjov › East: Masarykovo náměstí",
     "city": "Kyjov",
@@ -53922,17 +53988,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "FR",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -53940,6 +53995,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "FR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54032,17 +54098,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "FR",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631456236",
     "name": "Cheonghak-dong",
     "city": "Cheonghak-dong",
@@ -54054,13 +54109,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
+    "id": "windy-1256292851",
+    "name": "Grimmialp: Diemtigtal",
+    "city": "Grimmialp",
     "countryCode": "FR",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "lat": 46.56793,
+    "lng": 7.48364,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54175,6 +54230,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "CN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -54259,6 +54325,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "CN",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55689,17 +55766,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "CN",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59191,17 +59257,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513980669",
-    "name": "Marathias › North-east: Marathonisi View",
-    "city": "Marathias",
-    "countryCode": "CN",
-    "lat": 37.67185,
-    "lng": 20.84968,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -59209,6 +59264,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513980669",
+    "name": "Marathias › North-east: Marathonisi View",
+    "city": "Marathias",
+    "countryCode": "CN",
+    "lat": 37.67185,
+    "lng": 20.84968,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59715,6 +59781,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "CN",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60522,17 +60599,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "CN",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1238779369",
     "name": "Maastricht: De Heeg (view southeast)",
     "city": "Maastricht",
@@ -60540,6 +60606,17 @@
     "lat": 50.82764,
     "lng": 5.72586,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238779369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "CN",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60786,17 +60863,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260740169",
-    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
-    "city": "Falkenstein",
-    "countryCode": "CN",
-    "lat": 50.49719,
-    "lng": 12.37848,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -60804,6 +60870,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260740169",
+    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
+    "city": "Falkenstein",
+    "countryCode": "CN",
+    "lat": 50.49719,
+    "lng": 12.37848,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61244,17 +61321,6 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1476170462",
-    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
-    "city": "Modena",
-    "countryCode": "CN",
-    "lat": 44.64818,
-    "lng": 10.92992,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62876,17 +62942,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "CN",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -62894,6 +62949,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "CN",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63657,17 +63723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "CN",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -63675,6 +63730,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "CN",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64416,6 +64482,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1609419104",
     "name": "Kyjov › East: Masarykovo náměstí",
     "city": "Kyjov",
@@ -64735,17 +64812,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "CN",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -64753,6 +64819,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "CN",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64845,17 +64922,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "CN",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631456236",
     "name": "Cheonghak-dong",
     "city": "Cheonghak-dong",
@@ -64867,13 +64933,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
+    "id": "windy-1256292851",
+    "name": "Grimmialp: Diemtigtal",
+    "city": "Grimmialp",
     "countryCode": "CN",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "lat": 46.56793,
+    "lng": 7.48364,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64988,6 +65054,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "KR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -65072,6 +65149,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "KR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66502,17 +66590,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "KR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70004,17 +70081,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513980669",
-    "name": "Marathias › North-east: Marathonisi View",
-    "city": "Marathias",
-    "countryCode": "KR",
-    "lat": 37.67185,
-    "lng": 20.84968,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -70022,6 +70088,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513980669",
+    "name": "Marathias › North-east: Marathonisi View",
+    "city": "Marathias",
+    "countryCode": "KR",
+    "lat": 37.67185,
+    "lng": 20.84968,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70528,6 +70605,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "KR",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71335,17 +71423,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "KR",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1238779369",
     "name": "Maastricht: De Heeg (view southeast)",
     "city": "Maastricht",
@@ -71353,6 +71430,17 @@
     "lat": 50.82764,
     "lng": 5.72586,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238779369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "KR",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71599,17 +71687,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260740169",
-    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
-    "city": "Falkenstein",
-    "countryCode": "KR",
-    "lat": 50.49719,
-    "lng": 12.37848,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -71617,6 +71694,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260740169",
+    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
+    "city": "Falkenstein",
+    "countryCode": "KR",
+    "lat": 50.49719,
+    "lng": 12.37848,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72057,17 +72145,6 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1476170462",
-    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
-    "city": "Modena",
-    "countryCode": "KR",
-    "lat": 44.64818,
-    "lng": 10.92992,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73689,17 +73766,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "KR",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -73707,6 +73773,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "KR",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74470,17 +74547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "KR",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -74488,6 +74554,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "KR",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75229,6 +75306,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1609419104",
     "name": "Kyjov › East: Masarykovo náměstí",
     "city": "Kyjov",
@@ -75548,17 +75636,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "KR",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -75566,6 +75643,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "KR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75658,17 +75746,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "KR",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631456236",
     "name": "Cheonghak-dong",
     "city": "Cheonghak-dong",
@@ -75680,13 +75757,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
+    "id": "windy-1256292851",
+    "name": "Grimmialp: Diemtigtal",
+    "city": "Grimmialp",
     "countryCode": "KR",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "lat": 46.56793,
+    "lng": 7.48364,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75801,6 +75878,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "IN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -75885,6 +75973,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "IN",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77315,17 +77414,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "IN",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80817,17 +80905,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513980669",
-    "name": "Marathias › North-east: Marathonisi View",
-    "city": "Marathias",
-    "countryCode": "IN",
-    "lat": 37.67185,
-    "lng": 20.84968,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -80835,6 +80912,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513980669",
+    "name": "Marathias › North-east: Marathonisi View",
+    "city": "Marathias",
+    "countryCode": "IN",
+    "lat": 37.67185,
+    "lng": 20.84968,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81341,6 +81429,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "IN",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82148,17 +82247,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "IN",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1238779369",
     "name": "Maastricht: De Heeg (view southeast)",
     "city": "Maastricht",
@@ -82166,6 +82254,17 @@
     "lat": 50.82764,
     "lng": 5.72586,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238779369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "IN",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82412,17 +82511,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260740169",
-    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
-    "city": "Falkenstein",
-    "countryCode": "IN",
-    "lat": 50.49719,
-    "lng": 12.37848,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -82430,6 +82518,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260740169",
+    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
+    "city": "Falkenstein",
+    "countryCode": "IN",
+    "lat": 50.49719,
+    "lng": 12.37848,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82870,17 +82969,6 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1476170462",
-    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
-    "city": "Modena",
-    "countryCode": "IN",
-    "lat": 44.64818,
-    "lng": 10.92992,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84502,17 +84590,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "IN",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -84520,6 +84597,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "IN",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85283,17 +85371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "IN",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -85301,6 +85378,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "IN",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86042,6 +86130,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1609419104",
     "name": "Kyjov › East: Masarykovo náměstí",
     "city": "Kyjov",
@@ -86361,17 +86460,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "IN",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -86379,6 +86467,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "IN",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86471,17 +86570,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "IN",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631456236",
     "name": "Cheonghak-dong",
     "city": "Cheonghak-dong",
@@ -86493,13 +86581,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
+    "id": "windy-1256292851",
+    "name": "Grimmialp: Diemtigtal",
+    "city": "Grimmialp",
     "countryCode": "IN",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "lat": 46.56793,
+    "lng": 7.48364,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86614,6 +86702,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "BR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -86698,6 +86797,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "BR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88128,17 +88238,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "BR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91630,17 +91729,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513980669",
-    "name": "Marathias › North-east: Marathonisi View",
-    "city": "Marathias",
-    "countryCode": "BR",
-    "lat": 37.67185,
-    "lng": 20.84968,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -91648,6 +91736,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513980669",
+    "name": "Marathias › North-east: Marathonisi View",
+    "city": "Marathias",
+    "countryCode": "BR",
+    "lat": 37.67185,
+    "lng": 20.84968,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92154,6 +92253,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "BR",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92961,17 +93071,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "BR",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1238779369",
     "name": "Maastricht: De Heeg (view southeast)",
     "city": "Maastricht",
@@ -92979,6 +93078,17 @@
     "lat": 50.82764,
     "lng": 5.72586,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238779369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "BR",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93225,17 +93335,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260740169",
-    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
-    "city": "Falkenstein",
-    "countryCode": "BR",
-    "lat": 50.49719,
-    "lng": 12.37848,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -93243,6 +93342,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260740169",
+    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
+    "city": "Falkenstein",
+    "countryCode": "BR",
+    "lat": 50.49719,
+    "lng": 12.37848,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93683,17 +93793,6 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1476170462",
-    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
-    "city": "Modena",
-    "countryCode": "BR",
-    "lat": 44.64818,
-    "lng": 10.92992,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95315,17 +95414,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "BR",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -95333,6 +95421,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "BR",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96096,17 +96195,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "BR",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -96114,6 +96202,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "BR",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96855,6 +96954,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1609419104",
     "name": "Kyjov › East: Masarykovo náměstí",
     "city": "Kyjov",
@@ -97174,17 +97284,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "BR",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -97192,6 +97291,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "BR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97284,17 +97394,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "BR",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631456236",
     "name": "Cheonghak-dong",
     "city": "Cheonghak-dong",
@@ -97306,13 +97405,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
+    "id": "windy-1256292851",
+    "name": "Grimmialp: Diemtigtal",
+    "city": "Grimmialp",
     "countryCode": "BR",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "lat": 46.56793,
+    "lng": 7.48364,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97427,6 +97526,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "AU",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -97511,6 +97621,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "AU",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98941,17 +99062,6 @@
     "lat": 47.36554,
     "lng": 8.54735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697114855/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "AU",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102443,17 +102553,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513980669",
-    "name": "Marathias › North-east: Marathonisi View",
-    "city": "Marathias",
-    "countryCode": "AU",
-    "lat": 37.67185,
-    "lng": 20.84968,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -102461,6 +102560,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513980669",
+    "name": "Marathias › North-east: Marathonisi View",
+    "city": "Marathias",
+    "countryCode": "AU",
+    "lat": 37.67185,
+    "lng": 20.84968,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513980669/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102967,6 +103077,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1200418497",
+    "name": "Varigotti: Mare",
+    "city": "Varigotti",
+    "countryCode": "AU",
+    "lat": 44.18131,
+    "lng": 8.38824,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200418497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103774,17 +103895,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1185185017",
-    "name": "Feldberg: Seebuck-Talstation",
-    "city": "Feldberg",
-    "countryCode": "AU",
-    "lat": 47.86236,
-    "lng": 8.03622,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1238779369",
     "name": "Maastricht: De Heeg (view southeast)",
     "city": "Maastricht",
@@ -103792,6 +103902,17 @@
     "lat": 50.82764,
     "lng": 5.72586,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238779369/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1185185017",
+    "name": "Feldberg: Seebuck-Talstation",
+    "city": "Feldberg",
+    "countryCode": "AU",
+    "lat": 47.86236,
+    "lng": 8.03622,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1185185017/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104038,17 +104159,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260740169",
-    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
-    "city": "Falkenstein",
-    "countryCode": "AU",
-    "lat": 50.49719,
-    "lng": 12.37848,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1182187060",
     "name": "Kortrijk › West: Grote Markt Kortrijk",
     "city": "Kortrijk",
@@ -104056,6 +104166,17 @@
     "lat": 50.82754,
     "lng": 3.26778,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1182187060/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260740169",
+    "name": "Falkenstein: Flugplatz Auerbach/V. (EDOA) - NW",
+    "city": "Falkenstein",
+    "countryCode": "AU",
+    "lat": 50.49719,
+    "lng": 12.37848,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260740169/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104496,17 +104617,6 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1476170462",
-    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
-    "city": "Modena",
-    "countryCode": "AU",
-    "lat": 44.64818,
-    "lng": 10.92992,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106128,17 +106238,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1253685675",
-    "name": "Swakopmund",
-    "city": "Swakopmund",
-    "countryCode": "AU",
-    "lat": -22.68076,
-    "lng": 14.52043,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -106146,6 +106245,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1253685675",
+    "name": "Swakopmund",
+    "city": "Swakopmund",
+    "countryCode": "AU",
+    "lat": -22.68076,
+    "lng": 14.52043,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106909,17 +107019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1054917524",
-    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
-    "city": "Feldberg",
-    "countryCode": "AU",
-    "lat": 47.8643,
-    "lng": 8.02228,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658331508",
     "name": "Toulouse › South: Chaussée du Bazacle - Les Abattoirs - Raymond VI Garden",
     "city": "Toulouse",
@@ -106927,6 +107026,17 @@
     "lat": 43.60383,
     "lng": 1.43216,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658331508/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1054917524",
+    "name": "Feldberg: Seebuck Gipfel I - Baden-W",
+    "city": "Feldberg",
+    "countryCode": "AU",
+    "lat": 47.8643,
+    "lng": 8.02228,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1054917524/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107668,6 +107778,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1609419104",
     "name": "Kyjov › East: Masarykovo náměstí",
     "city": "Kyjov",
@@ -107987,17 +108108,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "AU",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1495818660",
     "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
     "city": "Mogan",
@@ -108005,6 +108115,17 @@
     "lat": 27.77219,
     "lng": -15.69782,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "AU",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108097,17 +108218,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "AU",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631456236",
     "name": "Cheonghak-dong",
     "city": "Cheonghak-dong",
@@ -108119,13 +108229,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
+    "id": "windy-1256292851",
+    "name": "Grimmialp: Diemtigtal",
+    "city": "Grimmialp",
     "countryCode": "AU",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "lat": 46.56793,
+    "lng": 7.48364,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   }

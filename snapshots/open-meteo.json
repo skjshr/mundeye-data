@@ -1,34 +1,82 @@
 {
+  "JP": {
+    "countryCode": "JP",
+    "cityName": "東京",
+    "tempC": 14.7,
+    "humidity": 68,
+    "weatherCode": 0,
+    "asOf": "2026-05-03T00:00"
+  },
+  "US": {
+    "countryCode": "US",
+    "cityName": "ワシントンD.C.",
+    "tempC": 13,
+    "humidity": 49,
+    "weatherCode": 3,
+    "asOf": "2026-05-02T11:00"
+  },
+  "GB": {
+    "countryCode": "GB",
+    "cityName": "ロンドン",
+    "tempC": 22.2,
+    "humidity": 39,
+    "weatherCode": 3,
+    "asOf": "2026-05-02T16:00"
+  },
+  "DE": {
+    "countryCode": "DE",
+    "cityName": "ベルリン",
+    "tempC": 26.1,
+    "humidity": 21,
+    "weatherCode": 0,
+    "asOf": "2026-05-02T17:00"
+  },
+  "FR": {
+    "countryCode": "FR",
+    "cityName": "パリ",
+    "tempC": 25.6,
+    "humidity": 29,
+    "weatherCode": 80,
+    "asOf": "2026-05-02T17:00"
+  },
+  "CN": {
+    "countryCode": "CN",
+    "cityName": "北京",
+    "tempC": 12.9,
+    "humidity": 61,
+    "weatherCode": 1,
+    "asOf": "2026-05-02T23:00"
+  },
   "KR": {
     "countryCode": "KR",
     "cityName": "ソウル",
-    "tempC": 13.3,
-    "humidity": 91,
-    "weatherCode": 53,
-    "asOf": "2026-05-02T23:00"
+    "tempC": 12.9,
+    "humidity": 94,
+    "weatherCode": 2,
+    "asOf": "2026-05-03T00:00"
   },
   "IN": {
     "countryCode": "IN",
     "cityName": "ニューデリー",
-    "tempC": 32.3,
-    "humidity": 40,
+    "tempC": 31.5,
+    "humidity": 43,
     "weatherCode": 0,
-    "asOf": "2026-05-02T19:30"
+    "asOf": "2026-05-02T20:30"
   },
   "BR": {
     "countryCode": "BR",
     "cityName": "ブラジリア",
-    "tempC": 25.1,
-    "humidity": 59,
-    "weatherCode": 0,
-    "asOf": "2026-05-02T11:00"
+    "tempC": 26.1,
+    "humidity": 53,
+    "weatherCode": 1,
+    "asOf": "2026-05-02T12:00"
   },
   "AU": {
     "countryCode": "AU",
     "cityName": "キャンベラ",
-    "tempC": 13.8,
+    "tempC": 14.1,
     "humidity": 94,
     "weatherCode": 3,
-    "asOf": "2026-05-03T00:00"
+    "asOf": "2026-05-03T01:00"
   }
 }
