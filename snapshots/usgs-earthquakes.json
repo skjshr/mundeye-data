@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shtq",
+    "type": "earthquake",
+    "lat": -9.7023,
+    "lng": 107.9939,
+    "intensity": 4.6,
+    "timestamp": "2026-05-02T15:00:32.178Z",
+    "description": "M 4.6 - 245 km SSW of Cilacap, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shti",
     "type": "earthquake",
     "lat": -4.2751,

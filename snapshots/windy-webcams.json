@@ -1837,6 +1837,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "JP",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -2123,13 +2134,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
+    "id": "windy-1309962155",
+    "name": "Nuuk: Pupik",
+    "city": "Nuuk",
     "countryCode": "JP",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "lat": 64.17266,
+    "lng": -51.67224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2322,11 +2333,11 @@
   },
   {
     "id": "windy-1199812053",
-    "name": "Urtijei - St. Ulrich in Groden - Ortisei: Val Gardena Dolomiti - St.Ulrich Gröden Dolomiten - Dolomites",
+    "name": "Urtijei - St. Ulrich in Groden - Ortisei › West: Bambini della Fontana - Strada Rezia",
     "city": "Urtijei - St. Ulrich in Groden - Ortisei",
     "countryCode": "JP",
-    "lat": 46.57385,
-    "lng": 11.67379,
+    "lat": 46.5738,
+    "lng": 11.67361,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199812053/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -2625,17 +2636,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "JP",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4873,6 +4873,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1344675159",
+    "name": "Ares: Porto de Redes. Caamouco",
+    "city": "Ares",
+    "countryCode": "JP",
+    "lat": 43.42573,
+    "lng": -8.20166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -5401,17 +5412,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249044893",
-    "name": "Naples",
-    "city": "Naples",
-    "countryCode": "JP",
-    "lat": 26.14737,
-    "lng": -81.79548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296555442",
     "name": "Ghent: UGent Volkssterrenwacht",
     "city": "Ghent",
@@ -5419,6 +5419,17 @@
     "lat": 51.04606,
     "lng": 3.72825,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296555442/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249044893",
+    "name": "Naples",
+    "city": "Naples",
+    "countryCode": "JP",
+    "lat": 26.14737,
+    "lng": -81.79548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5500,17 +5511,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "JP",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -5518,6 +5518,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "JP",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6523,17 +6534,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297945350",
-    "name": "Winterthur: Merkurplatz",
-    "city": "Winterthur",
-    "countryCode": "JP",
-    "lat": 47.50072,
-    "lng": 8.72657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -6541,6 +6541,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297945350",
+    "name": "Winterthur: Merkurplatz",
+    "city": "Winterthur",
+    "countryCode": "JP",
+    "lat": 47.50072,
+    "lng": 8.72657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8613,17 +8624,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428402721",
-    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
-    "city": "Stresa",
-    "countryCode": "JP",
-    "lat": 45.88518,
-    "lng": 8.53607,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -8631,6 +8631,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428402721",
+    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
+    "city": "Stresa",
+    "countryCode": "JP",
+    "lat": 45.88518,
+    "lng": 8.53607,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9324,6 +9335,17 @@
     "lat": 33.31049,
     "lng": -116.85876,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286117145/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1656329114",
+    "name": "Formazza: Riale",
+    "city": "Formazza",
+    "countryCode": "JP",
+    "lat": 46.423,
+    "lng": 8.41657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10076,17 +10098,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183553729",
-    "name": "Downtown Historic District: San Jose 2",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 37.3385,
-    "lng": -121.89537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1578993455",
     "name": "Storhaug: Vågen (Stavanger)",
     "city": "unknown",
@@ -10094,6 +10105,17 @@
     "lat": 58.97046,
     "lng": 5.73055,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1578993455/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183553729",
+    "name": "Downtown Historic District: San Jose 2",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 37.3385,
+    "lng": -121.89537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10439,17 +10461,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "JP",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1320781592",
     "name": "Kjaereng: Tynset torg",
     "city": "Kjaereng",
@@ -10457,6 +10468,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "JP",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10776,39 +10798,6 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "JP",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "JP",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "JP",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12650,6 +12639,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "US",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -12936,13 +12936,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
+    "id": "windy-1309962155",
+    "name": "Nuuk: Pupik",
+    "city": "Nuuk",
     "countryCode": "US",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "lat": 64.17266,
+    "lng": -51.67224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13135,11 +13135,11 @@
   },
   {
     "id": "windy-1199812053",
-    "name": "Urtijei - St. Ulrich in Groden - Ortisei: Val Gardena Dolomiti - St.Ulrich Gröden Dolomiten - Dolomites",
+    "name": "Urtijei - St. Ulrich in Groden - Ortisei › West: Bambini della Fontana - Strada Rezia",
     "city": "Urtijei - St. Ulrich in Groden - Ortisei",
     "countryCode": "US",
-    "lat": 46.57385,
-    "lng": 11.67379,
+    "lat": 46.5738,
+    "lng": 11.67361,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199812053/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -13438,17 +13438,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "US",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15686,6 +15675,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1344675159",
+    "name": "Ares: Porto de Redes. Caamouco",
+    "city": "Ares",
+    "countryCode": "US",
+    "lat": 43.42573,
+    "lng": -8.20166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -16214,17 +16214,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249044893",
-    "name": "Naples",
-    "city": "Naples",
-    "countryCode": "US",
-    "lat": 26.14737,
-    "lng": -81.79548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296555442",
     "name": "Ghent: UGent Volkssterrenwacht",
     "city": "Ghent",
@@ -16232,6 +16221,17 @@
     "lat": 51.04606,
     "lng": 3.72825,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296555442/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249044893",
+    "name": "Naples",
+    "city": "Naples",
+    "countryCode": "US",
+    "lat": 26.14737,
+    "lng": -81.79548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16313,17 +16313,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "US",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -16331,6 +16320,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "US",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17336,17 +17336,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297945350",
-    "name": "Winterthur: Merkurplatz",
-    "city": "Winterthur",
-    "countryCode": "US",
-    "lat": 47.50072,
-    "lng": 8.72657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -17354,6 +17343,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297945350",
+    "name": "Winterthur: Merkurplatz",
+    "city": "Winterthur",
+    "countryCode": "US",
+    "lat": 47.50072,
+    "lng": 8.72657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19426,17 +19426,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428402721",
-    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
-    "city": "Stresa",
-    "countryCode": "US",
-    "lat": 45.88518,
-    "lng": 8.53607,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -19444,6 +19433,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428402721",
+    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
+    "city": "Stresa",
+    "countryCode": "US",
+    "lat": 45.88518,
+    "lng": 8.53607,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20137,6 +20137,17 @@
     "lat": 33.31049,
     "lng": -116.85876,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286117145/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1656329114",
+    "name": "Formazza: Riale",
+    "city": "Formazza",
+    "countryCode": "US",
+    "lat": 46.423,
+    "lng": 8.41657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20889,17 +20900,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183553729",
-    "name": "Downtown Historic District: San Jose 2",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 37.3385,
-    "lng": -121.89537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1578993455",
     "name": "Storhaug: Vågen (Stavanger)",
     "city": "unknown",
@@ -20907,6 +20907,17 @@
     "lat": 58.97046,
     "lng": 5.73055,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1578993455/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183553729",
+    "name": "Downtown Historic District: San Jose 2",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 37.3385,
+    "lng": -121.89537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21252,17 +21263,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "US",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1320781592",
     "name": "Kjaereng: Tynset torg",
     "city": "Kjaereng",
@@ -21270,6 +21270,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "US",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21589,39 +21600,6 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "US",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "US",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "US",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23463,6 +23441,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "GB",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -23749,13 +23738,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
+    "id": "windy-1309962155",
+    "name": "Nuuk: Pupik",
+    "city": "Nuuk",
     "countryCode": "GB",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "lat": 64.17266,
+    "lng": -51.67224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23948,11 +23937,11 @@
   },
   {
     "id": "windy-1199812053",
-    "name": "Urtijei - St. Ulrich in Groden - Ortisei: Val Gardena Dolomiti - St.Ulrich Gröden Dolomiten - Dolomites",
+    "name": "Urtijei - St. Ulrich in Groden - Ortisei › West: Bambini della Fontana - Strada Rezia",
     "city": "Urtijei - St. Ulrich in Groden - Ortisei",
     "countryCode": "GB",
-    "lat": 46.57385,
-    "lng": 11.67379,
+    "lat": 46.5738,
+    "lng": 11.67361,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199812053/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -24251,17 +24240,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "GB",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26499,6 +26477,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1344675159",
+    "name": "Ares: Porto de Redes. Caamouco",
+    "city": "Ares",
+    "countryCode": "GB",
+    "lat": 43.42573,
+    "lng": -8.20166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -27027,17 +27016,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249044893",
-    "name": "Naples",
-    "city": "Naples",
-    "countryCode": "GB",
-    "lat": 26.14737,
-    "lng": -81.79548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296555442",
     "name": "Ghent: UGent Volkssterrenwacht",
     "city": "Ghent",
@@ -27045,6 +27023,17 @@
     "lat": 51.04606,
     "lng": 3.72825,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296555442/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249044893",
+    "name": "Naples",
+    "city": "Naples",
+    "countryCode": "GB",
+    "lat": 26.14737,
+    "lng": -81.79548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27126,17 +27115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "GB",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -27144,6 +27122,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "GB",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28149,17 +28138,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297945350",
-    "name": "Winterthur: Merkurplatz",
-    "city": "Winterthur",
-    "countryCode": "GB",
-    "lat": 47.50072,
-    "lng": 8.72657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -28167,6 +28145,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297945350",
+    "name": "Winterthur: Merkurplatz",
+    "city": "Winterthur",
+    "countryCode": "GB",
+    "lat": 47.50072,
+    "lng": 8.72657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30239,17 +30228,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428402721",
-    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
-    "city": "Stresa",
-    "countryCode": "GB",
-    "lat": 45.88518,
-    "lng": 8.53607,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -30257,6 +30235,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428402721",
+    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
+    "city": "Stresa",
+    "countryCode": "GB",
+    "lat": 45.88518,
+    "lng": 8.53607,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30950,6 +30939,17 @@
     "lat": 33.31049,
     "lng": -116.85876,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286117145/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1656329114",
+    "name": "Formazza: Riale",
+    "city": "Formazza",
+    "countryCode": "GB",
+    "lat": 46.423,
+    "lng": 8.41657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31702,17 +31702,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183553729",
-    "name": "Downtown Historic District: San Jose 2",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 37.3385,
-    "lng": -121.89537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1578993455",
     "name": "Storhaug: Vågen (Stavanger)",
     "city": "unknown",
@@ -31720,6 +31709,17 @@
     "lat": 58.97046,
     "lng": 5.73055,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1578993455/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183553729",
+    "name": "Downtown Historic District: San Jose 2",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 37.3385,
+    "lng": -121.89537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32065,17 +32065,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "GB",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1320781592",
     "name": "Kjaereng: Tynset torg",
     "city": "Kjaereng",
@@ -32083,6 +32072,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "GB",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32402,39 +32402,6 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "GB",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "GB",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "GB",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34276,6 +34243,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "DE",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -34562,13 +34540,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
+    "id": "windy-1309962155",
+    "name": "Nuuk: Pupik",
+    "city": "Nuuk",
     "countryCode": "DE",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "lat": 64.17266,
+    "lng": -51.67224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34761,11 +34739,11 @@
   },
   {
     "id": "windy-1199812053",
-    "name": "Urtijei - St. Ulrich in Groden - Ortisei: Val Gardena Dolomiti - St.Ulrich Gröden Dolomiten - Dolomites",
+    "name": "Urtijei - St. Ulrich in Groden - Ortisei › West: Bambini della Fontana - Strada Rezia",
     "city": "Urtijei - St. Ulrich in Groden - Ortisei",
     "countryCode": "DE",
-    "lat": 46.57385,
-    "lng": 11.67379,
+    "lat": 46.5738,
+    "lng": 11.67361,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199812053/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -35064,17 +35042,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "DE",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37312,6 +37279,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1344675159",
+    "name": "Ares: Porto de Redes. Caamouco",
+    "city": "Ares",
+    "countryCode": "DE",
+    "lat": 43.42573,
+    "lng": -8.20166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -37840,17 +37818,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249044893",
-    "name": "Naples",
-    "city": "Naples",
-    "countryCode": "DE",
-    "lat": 26.14737,
-    "lng": -81.79548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296555442",
     "name": "Ghent: UGent Volkssterrenwacht",
     "city": "Ghent",
@@ -37858,6 +37825,17 @@
     "lat": 51.04606,
     "lng": 3.72825,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296555442/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249044893",
+    "name": "Naples",
+    "city": "Naples",
+    "countryCode": "DE",
+    "lat": 26.14737,
+    "lng": -81.79548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37939,17 +37917,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "DE",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -37957,6 +37924,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "DE",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38962,17 +38940,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297945350",
-    "name": "Winterthur: Merkurplatz",
-    "city": "Winterthur",
-    "countryCode": "DE",
-    "lat": 47.50072,
-    "lng": 8.72657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -38980,6 +38947,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297945350",
+    "name": "Winterthur: Merkurplatz",
+    "city": "Winterthur",
+    "countryCode": "DE",
+    "lat": 47.50072,
+    "lng": 8.72657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41052,17 +41030,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428402721",
-    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
-    "city": "Stresa",
-    "countryCode": "DE",
-    "lat": 45.88518,
-    "lng": 8.53607,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -41070,6 +41037,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428402721",
+    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
+    "city": "Stresa",
+    "countryCode": "DE",
+    "lat": 45.88518,
+    "lng": 8.53607,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41763,6 +41741,17 @@
     "lat": 33.31049,
     "lng": -116.85876,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286117145/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1656329114",
+    "name": "Formazza: Riale",
+    "city": "Formazza",
+    "countryCode": "DE",
+    "lat": 46.423,
+    "lng": 8.41657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42515,17 +42504,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183553729",
-    "name": "Downtown Historic District: San Jose 2",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 37.3385,
-    "lng": -121.89537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1578993455",
     "name": "Storhaug: Vågen (Stavanger)",
     "city": "unknown",
@@ -42533,6 +42511,17 @@
     "lat": 58.97046,
     "lng": 5.73055,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1578993455/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183553729",
+    "name": "Downtown Historic District: San Jose 2",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 37.3385,
+    "lng": -121.89537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42878,17 +42867,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "DE",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1320781592",
     "name": "Kjaereng: Tynset torg",
     "city": "Kjaereng",
@@ -42896,6 +42874,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "DE",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43215,39 +43204,6 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "DE",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "DE",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "DE",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45089,6 +45045,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "FR",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -45375,13 +45342,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
+    "id": "windy-1309962155",
+    "name": "Nuuk: Pupik",
+    "city": "Nuuk",
     "countryCode": "FR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "lat": 64.17266,
+    "lng": -51.67224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45574,11 +45541,11 @@
   },
   {
     "id": "windy-1199812053",
-    "name": "Urtijei - St. Ulrich in Groden - Ortisei: Val Gardena Dolomiti - St.Ulrich Gröden Dolomiten - Dolomites",
+    "name": "Urtijei - St. Ulrich in Groden - Ortisei › West: Bambini della Fontana - Strada Rezia",
     "city": "Urtijei - St. Ulrich in Groden - Ortisei",
     "countryCode": "FR",
-    "lat": 46.57385,
-    "lng": 11.67379,
+    "lat": 46.5738,
+    "lng": 11.67361,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199812053/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -45877,17 +45844,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "FR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48125,6 +48081,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1344675159",
+    "name": "Ares: Porto de Redes. Caamouco",
+    "city": "Ares",
+    "countryCode": "FR",
+    "lat": 43.42573,
+    "lng": -8.20166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -48653,17 +48620,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249044893",
-    "name": "Naples",
-    "city": "Naples",
-    "countryCode": "FR",
-    "lat": 26.14737,
-    "lng": -81.79548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296555442",
     "name": "Ghent: UGent Volkssterrenwacht",
     "city": "Ghent",
@@ -48671,6 +48627,17 @@
     "lat": 51.04606,
     "lng": 3.72825,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296555442/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249044893",
+    "name": "Naples",
+    "city": "Naples",
+    "countryCode": "FR",
+    "lat": 26.14737,
+    "lng": -81.79548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48752,17 +48719,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "FR",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -48770,6 +48726,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "FR",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49775,17 +49742,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297945350",
-    "name": "Winterthur: Merkurplatz",
-    "city": "Winterthur",
-    "countryCode": "FR",
-    "lat": 47.50072,
-    "lng": 8.72657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -49793,6 +49749,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297945350",
+    "name": "Winterthur: Merkurplatz",
+    "city": "Winterthur",
+    "countryCode": "FR",
+    "lat": 47.50072,
+    "lng": 8.72657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51865,17 +51832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428402721",
-    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
-    "city": "Stresa",
-    "countryCode": "FR",
-    "lat": 45.88518,
-    "lng": 8.53607,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -51883,6 +51839,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428402721",
+    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
+    "city": "Stresa",
+    "countryCode": "FR",
+    "lat": 45.88518,
+    "lng": 8.53607,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52576,6 +52543,17 @@
     "lat": 33.31049,
     "lng": -116.85876,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286117145/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1656329114",
+    "name": "Formazza: Riale",
+    "city": "Formazza",
+    "countryCode": "FR",
+    "lat": 46.423,
+    "lng": 8.41657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53328,17 +53306,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183553729",
-    "name": "Downtown Historic District: San Jose 2",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 37.3385,
-    "lng": -121.89537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1578993455",
     "name": "Storhaug: Vågen (Stavanger)",
     "city": "unknown",
@@ -53346,6 +53313,17 @@
     "lat": 58.97046,
     "lng": 5.73055,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1578993455/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183553729",
+    "name": "Downtown Historic District: San Jose 2",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 37.3385,
+    "lng": -121.89537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53691,17 +53669,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "FR",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1320781592",
     "name": "Kjaereng: Tynset torg",
     "city": "Kjaereng",
@@ -53709,6 +53676,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "FR",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54028,39 +54006,6 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "FR",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "FR",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "FR",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55902,6 +55847,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "CN",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -56188,13 +56144,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
+    "id": "windy-1309962155",
+    "name": "Nuuk: Pupik",
+    "city": "Nuuk",
     "countryCode": "CN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "lat": 64.17266,
+    "lng": -51.67224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56387,11 +56343,11 @@
   },
   {
     "id": "windy-1199812053",
-    "name": "Urtijei - St. Ulrich in Groden - Ortisei: Val Gardena Dolomiti - St.Ulrich Gröden Dolomiten - Dolomites",
+    "name": "Urtijei - St. Ulrich in Groden - Ortisei › West: Bambini della Fontana - Strada Rezia",
     "city": "Urtijei - St. Ulrich in Groden - Ortisei",
     "countryCode": "CN",
-    "lat": 46.57385,
-    "lng": 11.67379,
+    "lat": 46.5738,
+    "lng": 11.67361,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199812053/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -56690,17 +56646,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "CN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58938,6 +58883,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1344675159",
+    "name": "Ares: Porto de Redes. Caamouco",
+    "city": "Ares",
+    "countryCode": "CN",
+    "lat": 43.42573,
+    "lng": -8.20166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -59466,17 +59422,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249044893",
-    "name": "Naples",
-    "city": "Naples",
-    "countryCode": "CN",
-    "lat": 26.14737,
-    "lng": -81.79548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296555442",
     "name": "Ghent: UGent Volkssterrenwacht",
     "city": "Ghent",
@@ -59484,6 +59429,17 @@
     "lat": 51.04606,
     "lng": 3.72825,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296555442/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249044893",
+    "name": "Naples",
+    "city": "Naples",
+    "countryCode": "CN",
+    "lat": 26.14737,
+    "lng": -81.79548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59565,17 +59521,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "CN",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -59583,6 +59528,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "CN",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60588,17 +60544,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297945350",
-    "name": "Winterthur: Merkurplatz",
-    "city": "Winterthur",
-    "countryCode": "CN",
-    "lat": 47.50072,
-    "lng": 8.72657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -60606,6 +60551,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297945350",
+    "name": "Winterthur: Merkurplatz",
+    "city": "Winterthur",
+    "countryCode": "CN",
+    "lat": 47.50072,
+    "lng": 8.72657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62678,17 +62634,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428402721",
-    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
-    "city": "Stresa",
-    "countryCode": "CN",
-    "lat": 45.88518,
-    "lng": 8.53607,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -62696,6 +62641,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428402721",
+    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
+    "city": "Stresa",
+    "countryCode": "CN",
+    "lat": 45.88518,
+    "lng": 8.53607,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63389,6 +63345,17 @@
     "lat": 33.31049,
     "lng": -116.85876,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286117145/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1656329114",
+    "name": "Formazza: Riale",
+    "city": "Formazza",
+    "countryCode": "CN",
+    "lat": 46.423,
+    "lng": 8.41657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64141,17 +64108,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183553729",
-    "name": "Downtown Historic District: San Jose 2",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 37.3385,
-    "lng": -121.89537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1578993455",
     "name": "Storhaug: Vågen (Stavanger)",
     "city": "unknown",
@@ -64159,6 +64115,17 @@
     "lat": 58.97046,
     "lng": 5.73055,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1578993455/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183553729",
+    "name": "Downtown Historic District: San Jose 2",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 37.3385,
+    "lng": -121.89537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64504,17 +64471,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "CN",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1320781592",
     "name": "Kjaereng: Tynset torg",
     "city": "Kjaereng",
@@ -64522,6 +64478,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "CN",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64841,39 +64808,6 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "CN",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "CN",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "CN",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66715,6 +66649,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "KR",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -67001,13 +66946,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
+    "id": "windy-1309962155",
+    "name": "Nuuk: Pupik",
+    "city": "Nuuk",
     "countryCode": "KR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "lat": 64.17266,
+    "lng": -51.67224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67200,11 +67145,11 @@
   },
   {
     "id": "windy-1199812053",
-    "name": "Urtijei - St. Ulrich in Groden - Ortisei: Val Gardena Dolomiti - St.Ulrich Gröden Dolomiten - Dolomites",
+    "name": "Urtijei - St. Ulrich in Groden - Ortisei › West: Bambini della Fontana - Strada Rezia",
     "city": "Urtijei - St. Ulrich in Groden - Ortisei",
     "countryCode": "KR",
-    "lat": 46.57385,
-    "lng": 11.67379,
+    "lat": 46.5738,
+    "lng": 11.67361,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199812053/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -67503,17 +67448,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "KR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69751,6 +69685,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1344675159",
+    "name": "Ares: Porto de Redes. Caamouco",
+    "city": "Ares",
+    "countryCode": "KR",
+    "lat": 43.42573,
+    "lng": -8.20166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -70279,17 +70224,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249044893",
-    "name": "Naples",
-    "city": "Naples",
-    "countryCode": "KR",
-    "lat": 26.14737,
-    "lng": -81.79548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296555442",
     "name": "Ghent: UGent Volkssterrenwacht",
     "city": "Ghent",
@@ -70297,6 +70231,17 @@
     "lat": 51.04606,
     "lng": 3.72825,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296555442/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249044893",
+    "name": "Naples",
+    "city": "Naples",
+    "countryCode": "KR",
+    "lat": 26.14737,
+    "lng": -81.79548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70378,17 +70323,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "KR",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -70396,6 +70330,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "KR",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71401,17 +71346,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297945350",
-    "name": "Winterthur: Merkurplatz",
-    "city": "Winterthur",
-    "countryCode": "KR",
-    "lat": 47.50072,
-    "lng": 8.72657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -71419,6 +71353,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297945350",
+    "name": "Winterthur: Merkurplatz",
+    "city": "Winterthur",
+    "countryCode": "KR",
+    "lat": 47.50072,
+    "lng": 8.72657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73491,17 +73436,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428402721",
-    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
-    "city": "Stresa",
-    "countryCode": "KR",
-    "lat": 45.88518,
-    "lng": 8.53607,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -73509,6 +73443,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428402721",
+    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
+    "city": "Stresa",
+    "countryCode": "KR",
+    "lat": 45.88518,
+    "lng": 8.53607,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74202,6 +74147,17 @@
     "lat": 33.31049,
     "lng": -116.85876,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286117145/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1656329114",
+    "name": "Formazza: Riale",
+    "city": "Formazza",
+    "countryCode": "KR",
+    "lat": 46.423,
+    "lng": 8.41657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74954,17 +74910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183553729",
-    "name": "Downtown Historic District: San Jose 2",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 37.3385,
-    "lng": -121.89537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1578993455",
     "name": "Storhaug: Vågen (Stavanger)",
     "city": "unknown",
@@ -74972,6 +74917,17 @@
     "lat": 58.97046,
     "lng": 5.73055,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1578993455/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183553729",
+    "name": "Downtown Historic District: San Jose 2",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 37.3385,
+    "lng": -121.89537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75317,17 +75273,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "KR",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1320781592",
     "name": "Kjaereng: Tynset torg",
     "city": "Kjaereng",
@@ -75335,6 +75280,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "KR",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75654,39 +75610,6 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "KR",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "KR",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "KR",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77528,6 +77451,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "IN",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -77814,13 +77748,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
+    "id": "windy-1309962155",
+    "name": "Nuuk: Pupik",
+    "city": "Nuuk",
     "countryCode": "IN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "lat": 64.17266,
+    "lng": -51.67224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78013,11 +77947,11 @@
   },
   {
     "id": "windy-1199812053",
-    "name": "Urtijei - St. Ulrich in Groden - Ortisei: Val Gardena Dolomiti - St.Ulrich Gröden Dolomiten - Dolomites",
+    "name": "Urtijei - St. Ulrich in Groden - Ortisei › West: Bambini della Fontana - Strada Rezia",
     "city": "Urtijei - St. Ulrich in Groden - Ortisei",
     "countryCode": "IN",
-    "lat": 46.57385,
-    "lng": 11.67379,
+    "lat": 46.5738,
+    "lng": 11.67361,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199812053/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -78316,17 +78250,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "IN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80564,6 +80487,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1344675159",
+    "name": "Ares: Porto de Redes. Caamouco",
+    "city": "Ares",
+    "countryCode": "IN",
+    "lat": 43.42573,
+    "lng": -8.20166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -81092,17 +81026,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249044893",
-    "name": "Naples",
-    "city": "Naples",
-    "countryCode": "IN",
-    "lat": 26.14737,
-    "lng": -81.79548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296555442",
     "name": "Ghent: UGent Volkssterrenwacht",
     "city": "Ghent",
@@ -81110,6 +81033,17 @@
     "lat": 51.04606,
     "lng": 3.72825,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296555442/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249044893",
+    "name": "Naples",
+    "city": "Naples",
+    "countryCode": "IN",
+    "lat": 26.14737,
+    "lng": -81.79548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81191,17 +81125,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "IN",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -81209,6 +81132,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "IN",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82214,17 +82148,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297945350",
-    "name": "Winterthur: Merkurplatz",
-    "city": "Winterthur",
-    "countryCode": "IN",
-    "lat": 47.50072,
-    "lng": 8.72657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -82232,6 +82155,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297945350",
+    "name": "Winterthur: Merkurplatz",
+    "city": "Winterthur",
+    "countryCode": "IN",
+    "lat": 47.50072,
+    "lng": 8.72657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84304,17 +84238,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428402721",
-    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
-    "city": "Stresa",
-    "countryCode": "IN",
-    "lat": 45.88518,
-    "lng": 8.53607,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -84322,6 +84245,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428402721",
+    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
+    "city": "Stresa",
+    "countryCode": "IN",
+    "lat": 45.88518,
+    "lng": 8.53607,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85015,6 +84949,17 @@
     "lat": 33.31049,
     "lng": -116.85876,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286117145/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1656329114",
+    "name": "Formazza: Riale",
+    "city": "Formazza",
+    "countryCode": "IN",
+    "lat": 46.423,
+    "lng": 8.41657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85767,17 +85712,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183553729",
-    "name": "Downtown Historic District: San Jose 2",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 37.3385,
-    "lng": -121.89537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1578993455",
     "name": "Storhaug: Vågen (Stavanger)",
     "city": "unknown",
@@ -85785,6 +85719,17 @@
     "lat": 58.97046,
     "lng": 5.73055,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1578993455/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183553729",
+    "name": "Downtown Historic District: San Jose 2",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 37.3385,
+    "lng": -121.89537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86130,17 +86075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "IN",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1320781592",
     "name": "Kjaereng: Tynset torg",
     "city": "Kjaereng",
@@ -86148,6 +86082,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "IN",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86467,39 +86412,6 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "IN",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "IN",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "IN",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88341,6 +88253,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "BR",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -88627,13 +88550,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
+    "id": "windy-1309962155",
+    "name": "Nuuk: Pupik",
+    "city": "Nuuk",
     "countryCode": "BR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "lat": 64.17266,
+    "lng": -51.67224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88826,11 +88749,11 @@
   },
   {
     "id": "windy-1199812053",
-    "name": "Urtijei - St. Ulrich in Groden - Ortisei: Val Gardena Dolomiti - St.Ulrich Gröden Dolomiten - Dolomites",
+    "name": "Urtijei - St. Ulrich in Groden - Ortisei › West: Bambini della Fontana - Strada Rezia",
     "city": "Urtijei - St. Ulrich in Groden - Ortisei",
     "countryCode": "BR",
-    "lat": 46.57385,
-    "lng": 11.67379,
+    "lat": 46.5738,
+    "lng": 11.67361,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199812053/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -89129,17 +89052,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "BR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91377,6 +91289,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1344675159",
+    "name": "Ares: Porto de Redes. Caamouco",
+    "city": "Ares",
+    "countryCode": "BR",
+    "lat": 43.42573,
+    "lng": -8.20166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -91905,17 +91828,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249044893",
-    "name": "Naples",
-    "city": "Naples",
-    "countryCode": "BR",
-    "lat": 26.14737,
-    "lng": -81.79548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296555442",
     "name": "Ghent: UGent Volkssterrenwacht",
     "city": "Ghent",
@@ -91923,6 +91835,17 @@
     "lat": 51.04606,
     "lng": 3.72825,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296555442/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249044893",
+    "name": "Naples",
+    "city": "Naples",
+    "countryCode": "BR",
+    "lat": 26.14737,
+    "lng": -81.79548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92004,17 +91927,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "BR",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -92022,6 +91934,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "BR",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93027,17 +92950,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297945350",
-    "name": "Winterthur: Merkurplatz",
-    "city": "Winterthur",
-    "countryCode": "BR",
-    "lat": 47.50072,
-    "lng": 8.72657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -93045,6 +92957,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297945350",
+    "name": "Winterthur: Merkurplatz",
+    "city": "Winterthur",
+    "countryCode": "BR",
+    "lat": 47.50072,
+    "lng": 8.72657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95117,17 +95040,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428402721",
-    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
-    "city": "Stresa",
-    "countryCode": "BR",
-    "lat": 45.88518,
-    "lng": 8.53607,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -95135,6 +95047,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428402721",
+    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
+    "city": "Stresa",
+    "countryCode": "BR",
+    "lat": 45.88518,
+    "lng": 8.53607,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95828,6 +95751,17 @@
     "lat": 33.31049,
     "lng": -116.85876,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286117145/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1656329114",
+    "name": "Formazza: Riale",
+    "city": "Formazza",
+    "countryCode": "BR",
+    "lat": 46.423,
+    "lng": 8.41657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96580,17 +96514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183553729",
-    "name": "Downtown Historic District: San Jose 2",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 37.3385,
-    "lng": -121.89537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1578993455",
     "name": "Storhaug: Vågen (Stavanger)",
     "city": "unknown",
@@ -96598,6 +96521,17 @@
     "lat": 58.97046,
     "lng": 5.73055,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1578993455/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183553729",
+    "name": "Downtown Historic District: San Jose 2",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 37.3385,
+    "lng": -121.89537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96943,17 +96877,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "BR",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1320781592",
     "name": "Kjaereng: Tynset torg",
     "city": "Kjaereng",
@@ -96961,6 +96884,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "BR",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97280,39 +97214,6 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "BR",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "BR",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "BR",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99154,6 +99055,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "AU",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -99440,13 +99352,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
+    "id": "windy-1309962155",
+    "name": "Nuuk: Pupik",
+    "city": "Nuuk",
     "countryCode": "AU",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "lat": 64.17266,
+    "lng": -51.67224,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99639,11 +99551,11 @@
   },
   {
     "id": "windy-1199812053",
-    "name": "Urtijei - St. Ulrich in Groden - Ortisei: Val Gardena Dolomiti - St.Ulrich Gröden Dolomiten - Dolomites",
+    "name": "Urtijei - St. Ulrich in Groden - Ortisei › West: Bambini della Fontana - Strada Rezia",
     "city": "Urtijei - St. Ulrich in Groden - Ortisei",
     "countryCode": "AU",
-    "lat": 46.57385,
-    "lng": 11.67379,
+    "lat": 46.5738,
+    "lng": 11.67361,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199812053/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -99942,17 +99854,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "AU",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102190,6 +102091,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1344675159",
+    "name": "Ares: Porto de Redes. Caamouco",
+    "city": "Ares",
+    "countryCode": "AU",
+    "lat": 43.42573,
+    "lng": -8.20166,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344675159/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1176801270",
     "name": "Risch-Rotkreuz: Live Webcam Rotkreuz Richtung Süd-Ost",
     "city": "Risch-Rotkreuz",
@@ -102718,17 +102630,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1249044893",
-    "name": "Naples",
-    "city": "Naples",
-    "countryCode": "AU",
-    "lat": 26.14737,
-    "lng": -81.79548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296555442",
     "name": "Ghent: UGent Volkssterrenwacht",
     "city": "Ghent",
@@ -102736,6 +102637,17 @@
     "lat": 51.04606,
     "lng": 3.72825,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296555442/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1249044893",
+    "name": "Naples",
+    "city": "Naples",
+    "countryCode": "AU",
+    "lat": 26.14737,
+    "lng": -81.79548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044893/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102817,17 +102729,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1237464153",
-    "name": "Lugano: Monte San Salvatore",
-    "city": "Lugano",
-    "countryCode": "AU",
-    "lat": 46.01008,
-    "lng": 8.96004,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -102835,6 +102736,17 @@
     "lat": 38.34658,
     "lng": -0.47969,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516351151/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1237464153",
+    "name": "Lugano: Monte San Salvatore",
+    "city": "Lugano",
+    "countryCode": "AU",
+    "lat": 46.01008,
+    "lng": 8.96004,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1237464153/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103840,17 +103752,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1297945350",
-    "name": "Winterthur: Merkurplatz",
-    "city": "Winterthur",
-    "countryCode": "AU",
-    "lat": 47.50072,
-    "lng": 8.72657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544435781",
     "name": "Bá Hiến: Thành Phố Hà Nội - Vietnam",
     "city": "Bá Hiến",
@@ -103858,6 +103759,17 @@
     "lat": 21.32878,
     "lng": 105.72281,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544435781/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1297945350",
+    "name": "Winterthur: Merkurplatz",
+    "city": "Winterthur",
+    "countryCode": "AU",
+    "lat": 47.50072,
+    "lng": 8.72657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1297945350/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105930,17 +105842,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1428402721",
-    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
-    "city": "Stresa",
-    "countryCode": "AU",
-    "lat": 45.88518,
-    "lng": 8.53607,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -105948,6 +105849,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1428402721",
+    "name": "Stresa › North: Parcheggio Piazza Marconi - Via Umberto Primo",
+    "city": "Stresa",
+    "countryCode": "AU",
+    "lat": 45.88518,
+    "lng": 8.53607,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428402721/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106641,6 +106553,17 @@
     "lat": 33.31049,
     "lng": -116.85876,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286117145/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1656329114",
+    "name": "Formazza: Riale",
+    "city": "Formazza",
+    "countryCode": "AU",
+    "lat": 46.423,
+    "lng": 8.41657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1656329114/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107393,17 +107316,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1183553729",
-    "name": "Downtown Historic District: San Jose 2",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 37.3385,
-    "lng": -121.89537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1578993455",
     "name": "Storhaug: Vågen (Stavanger)",
     "city": "unknown",
@@ -107411,6 +107323,17 @@
     "lat": 58.97046,
     "lng": 5.73055,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1578993455/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183553729",
+    "name": "Downtown Historic District: San Jose 2",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 37.3385,
+    "lng": -121.89537,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183553729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107756,17 +107679,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1247858394",
-    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
-    "city": "Lipari",
-    "countryCode": "AU",
-    "lat": 38.46955,
-    "lng": 14.956,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1320781592",
     "name": "Kjaereng: Tynset torg",
     "city": "Kjaereng",
@@ -107774,6 +107686,17 @@
     "lat": 62.27463,
     "lng": 10.77733,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1320781592/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1247858394",
+    "name": "Lipari: Eolnet srl - Porto di - Isole Eolie",
+    "city": "Lipari",
+    "countryCode": "AU",
+    "lat": 38.46955,
+    "lng": 14.956,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247858394/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108093,39 +108016,6 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "AU",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631456236",
-    "name": "Cheonghak-dong",
-    "city": "Cheonghak-dong",
-    "countryCode": "AU",
-    "lat": 35.1055,
-    "lng": 129.06463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1256292851",
-    "name": "Grimmialp: Diemtigtal",
-    "city": "Grimmialp",
-    "countryCode": "AU",
-    "lat": 46.56793,
-    "lng": 7.48364,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
