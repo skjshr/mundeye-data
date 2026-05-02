@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000shut",
+    "type": "earthquake",
+    "lat": -37.5613,
+    "lng": 178.2023,
+    "intensity": 5.1,
+    "timestamp": "2026-05-02T21:19:13.344Z",
+    "description": "M 5.1 - 9 km WNW of Hicks Bay, New Zealand",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shtq",
     "type": "earthquake",
     "lat": -9.7023,
