@@ -980,7 +980,7 @@
   },
   {
     "id": "windy-1419107132",
-    "name": "Split › South-west: Obala Hrvatskog narodnog preporoda - Matejuška",
+    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
     "city": "Split",
     "countryCode": "JP",
     "lat": 43.50754,
@@ -1173,6 +1173,17 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1606,17 +1617,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311326041",
-    "name": "Benalmadena",
-    "city": "Benalmadena",
-    "countryCode": "JP",
-    "lat": 36.60131,
-    "lng": -4.53133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311326041/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -1892,17 +1892,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "JP",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -2130,6 +2119,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2585,17 +2585,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "JP",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -2625,6 +2614,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "JP",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4686,17 +4686,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "JP",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245679824",
     "name": "Zermatt: Findeln",
     "city": "Zermatt",
@@ -4704,6 +4693,17 @@
     "lat": 46.0109,
     "lng": 7.76494,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245679824/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "JP",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8767,17 +8767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "JP",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -8785,6 +8774,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "JP",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8844,17 +8844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547680226",
-    "name": "Viareggio: Toscana, Italia: Lega Navale di",
-    "city": "Viareggio",
-    "countryCode": "JP",
-    "lat": 43.86405,
-    "lng": 10.24336,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -8862,6 +8851,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547680226",
+    "name": "Viareggio: Toscana, Italia: Lega Navale di",
+    "city": "Viareggio",
+    "countryCode": "JP",
+    "lat": 43.86405,
+    "lng": 10.24336,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9196,17 +9196,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "JP",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -9214,6 +9203,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "JP",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9614,17 +9614,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "JP",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -9632,6 +9621,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "JP",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9647,17 +9647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "JP",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -9665,6 +9654,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "JP",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9746,17 +9746,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "JP",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -9764,6 +9753,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "JP",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9900,17 +9900,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418379085",
-    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
-    "city": "Valras-Plage",
-    "countryCode": "JP",
-    "lat": 43.24661,
-    "lng": 3.29656,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -9918,6 +9907,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418379085",
+    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
+    "city": "Valras-Plage",
+    "countryCode": "JP",
+    "lat": 43.24661,
+    "lng": 3.29656,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10560,6 +10560,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580415336",
+    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
+    "city": "Franco da Rocha",
+    "countryCode": "JP",
+    "lat": -23.33225,
+    "lng": -46.70938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -10578,17 +10589,6 @@
     "lat": 56.86902,
     "lng": -4.25611,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1580415336",
-    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
-    "city": "Franco da Rocha",
-    "countryCode": "JP",
-    "lat": -23.33225,
-    "lng": -46.70938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10776,6 +10776,17 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "JP",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11760,7 +11771,7 @@
   },
   {
     "id": "windy-1419107132",
-    "name": "Split › South-west: Obala Hrvatskog narodnog preporoda - Matejuška",
+    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
     "city": "Split",
     "countryCode": "US",
     "lat": 43.50754,
@@ -11953,6 +11964,17 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12386,17 +12408,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311326041",
-    "name": "Benalmadena",
-    "city": "Benalmadena",
-    "countryCode": "US",
-    "lat": 36.60131,
-    "lng": -4.53133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311326041/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -12672,17 +12683,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "US",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -12910,6 +12910,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13365,17 +13376,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "US",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -13405,6 +13405,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "US",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15466,17 +15477,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "US",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245679824",
     "name": "Zermatt: Findeln",
     "city": "Zermatt",
@@ -15484,6 +15484,17 @@
     "lat": 46.0109,
     "lng": 7.76494,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245679824/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "US",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19547,17 +19558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "US",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -19565,6 +19565,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "US",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19624,17 +19635,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547680226",
-    "name": "Viareggio: Toscana, Italia: Lega Navale di",
-    "city": "Viareggio",
-    "countryCode": "US",
-    "lat": 43.86405,
-    "lng": 10.24336,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -19642,6 +19642,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547680226",
+    "name": "Viareggio: Toscana, Italia: Lega Navale di",
+    "city": "Viareggio",
+    "countryCode": "US",
+    "lat": 43.86405,
+    "lng": 10.24336,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19976,17 +19987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "US",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -19994,6 +19994,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "US",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20394,17 +20405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "US",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -20412,6 +20412,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "US",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20427,17 +20438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "US",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -20445,6 +20445,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "US",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20526,17 +20537,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "US",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -20544,6 +20544,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "US",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20680,17 +20691,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418379085",
-    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
-    "city": "Valras-Plage",
-    "countryCode": "US",
-    "lat": 43.24661,
-    "lng": 3.29656,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -20698,6 +20698,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418379085",
+    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
+    "city": "Valras-Plage",
+    "countryCode": "US",
+    "lat": 43.24661,
+    "lng": 3.29656,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21340,6 +21351,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580415336",
+    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
+    "city": "Franco da Rocha",
+    "countryCode": "US",
+    "lat": -23.33225,
+    "lng": -46.70938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -21358,17 +21380,6 @@
     "lat": 56.86902,
     "lng": -4.25611,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1580415336",
-    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
-    "city": "Franco da Rocha",
-    "countryCode": "US",
-    "lat": -23.33225,
-    "lng": -46.70938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21556,6 +21567,17 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "US",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22540,7 +22562,7 @@
   },
   {
     "id": "windy-1419107132",
-    "name": "Split › South-west: Obala Hrvatskog narodnog preporoda - Matejuška",
+    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
     "city": "Split",
     "countryCode": "GB",
     "lat": 43.50754,
@@ -22733,6 +22755,17 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23166,17 +23199,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311326041",
-    "name": "Benalmadena",
-    "city": "Benalmadena",
-    "countryCode": "GB",
-    "lat": 36.60131,
-    "lng": -4.53133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311326041/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -23452,17 +23474,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "GB",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -23690,6 +23701,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24145,17 +24167,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "GB",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -24185,6 +24196,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "GB",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26246,17 +26268,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "GB",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245679824",
     "name": "Zermatt: Findeln",
     "city": "Zermatt",
@@ -26264,6 +26275,17 @@
     "lat": 46.0109,
     "lng": 7.76494,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245679824/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "GB",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30327,17 +30349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "GB",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -30345,6 +30356,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "GB",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30404,17 +30426,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547680226",
-    "name": "Viareggio: Toscana, Italia: Lega Navale di",
-    "city": "Viareggio",
-    "countryCode": "GB",
-    "lat": 43.86405,
-    "lng": 10.24336,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -30422,6 +30433,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547680226",
+    "name": "Viareggio: Toscana, Italia: Lega Navale di",
+    "city": "Viareggio",
+    "countryCode": "GB",
+    "lat": 43.86405,
+    "lng": 10.24336,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30756,17 +30778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "GB",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -30774,6 +30785,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "GB",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31174,17 +31196,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "GB",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -31192,6 +31203,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "GB",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31207,17 +31229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "GB",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -31225,6 +31236,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "GB",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31306,17 +31328,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "GB",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -31324,6 +31335,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "GB",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31460,17 +31482,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418379085",
-    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
-    "city": "Valras-Plage",
-    "countryCode": "GB",
-    "lat": 43.24661,
-    "lng": 3.29656,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -31478,6 +31489,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418379085",
+    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
+    "city": "Valras-Plage",
+    "countryCode": "GB",
+    "lat": 43.24661,
+    "lng": 3.29656,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32120,6 +32142,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580415336",
+    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
+    "city": "Franco da Rocha",
+    "countryCode": "GB",
+    "lat": -23.33225,
+    "lng": -46.70938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -32138,17 +32171,6 @@
     "lat": 56.86902,
     "lng": -4.25611,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1580415336",
-    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
-    "city": "Franco da Rocha",
-    "countryCode": "GB",
-    "lat": -23.33225,
-    "lng": -46.70938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32336,6 +32358,17 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "GB",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33320,7 +33353,7 @@
   },
   {
     "id": "windy-1419107132",
-    "name": "Split › South-west: Obala Hrvatskog narodnog preporoda - Matejuška",
+    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
     "city": "Split",
     "countryCode": "DE",
     "lat": 43.50754,
@@ -33513,6 +33546,17 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33946,17 +33990,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311326041",
-    "name": "Benalmadena",
-    "city": "Benalmadena",
-    "countryCode": "DE",
-    "lat": 36.60131,
-    "lng": -4.53133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311326041/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -34232,17 +34265,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "DE",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -34470,6 +34492,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34925,17 +34958,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "DE",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -34965,6 +34987,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "DE",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37026,17 +37059,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "DE",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245679824",
     "name": "Zermatt: Findeln",
     "city": "Zermatt",
@@ -37044,6 +37066,17 @@
     "lat": 46.0109,
     "lng": 7.76494,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245679824/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "DE",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41107,17 +41140,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "DE",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -41125,6 +41147,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "DE",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41184,17 +41217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547680226",
-    "name": "Viareggio: Toscana, Italia: Lega Navale di",
-    "city": "Viareggio",
-    "countryCode": "DE",
-    "lat": 43.86405,
-    "lng": 10.24336,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -41202,6 +41224,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547680226",
+    "name": "Viareggio: Toscana, Italia: Lega Navale di",
+    "city": "Viareggio",
+    "countryCode": "DE",
+    "lat": 43.86405,
+    "lng": 10.24336,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41536,17 +41569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "DE",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -41554,6 +41576,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "DE",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41954,17 +41987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "DE",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -41972,6 +41994,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "DE",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41987,17 +42020,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "DE",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -42005,6 +42027,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "DE",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42086,17 +42119,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "DE",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -42104,6 +42126,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "DE",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42240,17 +42273,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418379085",
-    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
-    "city": "Valras-Plage",
-    "countryCode": "DE",
-    "lat": 43.24661,
-    "lng": 3.29656,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -42258,6 +42280,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418379085",
+    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
+    "city": "Valras-Plage",
+    "countryCode": "DE",
+    "lat": 43.24661,
+    "lng": 3.29656,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42900,6 +42933,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580415336",
+    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
+    "city": "Franco da Rocha",
+    "countryCode": "DE",
+    "lat": -23.33225,
+    "lng": -46.70938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -42918,17 +42962,6 @@
     "lat": 56.86902,
     "lng": -4.25611,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1580415336",
-    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
-    "city": "Franco da Rocha",
-    "countryCode": "DE",
-    "lat": -23.33225,
-    "lng": -46.70938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43116,6 +43149,17 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "DE",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44100,7 +44144,7 @@
   },
   {
     "id": "windy-1419107132",
-    "name": "Split › South-west: Obala Hrvatskog narodnog preporoda - Matejuška",
+    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
     "city": "Split",
     "countryCode": "FR",
     "lat": 43.50754,
@@ -44293,6 +44337,17 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44726,17 +44781,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311326041",
-    "name": "Benalmadena",
-    "city": "Benalmadena",
-    "countryCode": "FR",
-    "lat": 36.60131,
-    "lng": -4.53133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311326041/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -45012,17 +45056,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "FR",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -45250,6 +45283,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45705,17 +45749,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "FR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -45745,6 +45778,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "FR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47806,17 +47850,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "FR",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245679824",
     "name": "Zermatt: Findeln",
     "city": "Zermatt",
@@ -47824,6 +47857,17 @@
     "lat": 46.0109,
     "lng": 7.76494,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245679824/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "FR",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51887,17 +51931,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "FR",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -51905,6 +51938,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "FR",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51964,17 +52008,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547680226",
-    "name": "Viareggio: Toscana, Italia: Lega Navale di",
-    "city": "Viareggio",
-    "countryCode": "FR",
-    "lat": 43.86405,
-    "lng": 10.24336,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -51982,6 +52015,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547680226",
+    "name": "Viareggio: Toscana, Italia: Lega Navale di",
+    "city": "Viareggio",
+    "countryCode": "FR",
+    "lat": 43.86405,
+    "lng": 10.24336,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52316,17 +52360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "FR",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -52334,6 +52367,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "FR",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52734,17 +52778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "FR",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -52752,6 +52785,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "FR",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52767,17 +52811,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "FR",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -52785,6 +52818,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "FR",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52866,17 +52910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "FR",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -52884,6 +52917,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "FR",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53020,17 +53064,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418379085",
-    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
-    "city": "Valras-Plage",
-    "countryCode": "FR",
-    "lat": 43.24661,
-    "lng": 3.29656,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -53038,6 +53071,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418379085",
+    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
+    "city": "Valras-Plage",
+    "countryCode": "FR",
+    "lat": 43.24661,
+    "lng": 3.29656,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53680,6 +53724,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580415336",
+    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
+    "city": "Franco da Rocha",
+    "countryCode": "FR",
+    "lat": -23.33225,
+    "lng": -46.70938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -53698,17 +53753,6 @@
     "lat": 56.86902,
     "lng": -4.25611,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1580415336",
-    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
-    "city": "Franco da Rocha",
-    "countryCode": "FR",
-    "lat": -23.33225,
-    "lng": -46.70938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53896,6 +53940,17 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "FR",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54880,7 +54935,7 @@
   },
   {
     "id": "windy-1419107132",
-    "name": "Split › South-west: Obala Hrvatskog narodnog preporoda - Matejuška",
+    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
     "city": "Split",
     "countryCode": "CN",
     "lat": 43.50754,
@@ -55073,6 +55128,17 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55506,17 +55572,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311326041",
-    "name": "Benalmadena",
-    "city": "Benalmadena",
-    "countryCode": "CN",
-    "lat": 36.60131,
-    "lng": -4.53133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311326041/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -55792,17 +55847,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "CN",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -56030,6 +56074,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56485,17 +56540,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "CN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -56525,6 +56569,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "CN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58586,17 +58641,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "CN",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245679824",
     "name": "Zermatt: Findeln",
     "city": "Zermatt",
@@ -58604,6 +58648,17 @@
     "lat": 46.0109,
     "lng": 7.76494,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245679824/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "CN",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62667,17 +62722,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "CN",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -62685,6 +62729,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "CN",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62744,17 +62799,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547680226",
-    "name": "Viareggio: Toscana, Italia: Lega Navale di",
-    "city": "Viareggio",
-    "countryCode": "CN",
-    "lat": 43.86405,
-    "lng": 10.24336,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -62762,6 +62806,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547680226",
+    "name": "Viareggio: Toscana, Italia: Lega Navale di",
+    "city": "Viareggio",
+    "countryCode": "CN",
+    "lat": 43.86405,
+    "lng": 10.24336,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63096,17 +63151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "CN",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -63114,6 +63158,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "CN",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63514,17 +63569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "CN",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -63532,6 +63576,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "CN",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63547,17 +63602,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "CN",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -63565,6 +63609,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "CN",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63646,17 +63701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "CN",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -63664,6 +63708,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "CN",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63800,17 +63855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418379085",
-    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
-    "city": "Valras-Plage",
-    "countryCode": "CN",
-    "lat": 43.24661,
-    "lng": 3.29656,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -63818,6 +63862,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418379085",
+    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
+    "city": "Valras-Plage",
+    "countryCode": "CN",
+    "lat": 43.24661,
+    "lng": 3.29656,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64460,6 +64515,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580415336",
+    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
+    "city": "Franco da Rocha",
+    "countryCode": "CN",
+    "lat": -23.33225,
+    "lng": -46.70938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -64478,17 +64544,6 @@
     "lat": 56.86902,
     "lng": -4.25611,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1580415336",
-    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
-    "city": "Franco da Rocha",
-    "countryCode": "CN",
-    "lat": -23.33225,
-    "lng": -46.70938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64676,6 +64731,17 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "CN",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65660,7 +65726,7 @@
   },
   {
     "id": "windy-1419107132",
-    "name": "Split › South-west: Obala Hrvatskog narodnog preporoda - Matejuška",
+    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
     "city": "Split",
     "countryCode": "KR",
     "lat": 43.50754,
@@ -65853,6 +65919,17 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66286,17 +66363,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311326041",
-    "name": "Benalmadena",
-    "city": "Benalmadena",
-    "countryCode": "KR",
-    "lat": 36.60131,
-    "lng": -4.53133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311326041/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -66572,17 +66638,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "KR",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -66810,6 +66865,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67265,17 +67331,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "KR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -67305,6 +67360,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "KR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69366,17 +69432,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "KR",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245679824",
     "name": "Zermatt: Findeln",
     "city": "Zermatt",
@@ -69384,6 +69439,17 @@
     "lat": 46.0109,
     "lng": 7.76494,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245679824/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "KR",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73447,17 +73513,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "KR",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -73465,6 +73520,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "KR",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73524,17 +73590,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547680226",
-    "name": "Viareggio: Toscana, Italia: Lega Navale di",
-    "city": "Viareggio",
-    "countryCode": "KR",
-    "lat": 43.86405,
-    "lng": 10.24336,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -73542,6 +73597,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547680226",
+    "name": "Viareggio: Toscana, Italia: Lega Navale di",
+    "city": "Viareggio",
+    "countryCode": "KR",
+    "lat": 43.86405,
+    "lng": 10.24336,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73876,17 +73942,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "KR",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -73894,6 +73949,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "KR",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74294,17 +74360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "KR",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -74312,6 +74367,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "KR",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74327,17 +74393,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "KR",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -74345,6 +74400,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "KR",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74426,17 +74492,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "KR",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -74444,6 +74499,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "KR",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74580,17 +74646,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418379085",
-    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
-    "city": "Valras-Plage",
-    "countryCode": "KR",
-    "lat": 43.24661,
-    "lng": 3.29656,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -74598,6 +74653,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418379085",
+    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
+    "city": "Valras-Plage",
+    "countryCode": "KR",
+    "lat": 43.24661,
+    "lng": 3.29656,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75240,6 +75306,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580415336",
+    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
+    "city": "Franco da Rocha",
+    "countryCode": "KR",
+    "lat": -23.33225,
+    "lng": -46.70938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -75258,17 +75335,6 @@
     "lat": 56.86902,
     "lng": -4.25611,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1580415336",
-    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
-    "city": "Franco da Rocha",
-    "countryCode": "KR",
-    "lat": -23.33225,
-    "lng": -46.70938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75456,6 +75522,17 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "KR",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76440,7 +76517,7 @@
   },
   {
     "id": "windy-1419107132",
-    "name": "Split › South-west: Obala Hrvatskog narodnog preporoda - Matejuška",
+    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
     "city": "Split",
     "countryCode": "IN",
     "lat": 43.50754,
@@ -76633,6 +76710,17 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77066,17 +77154,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311326041",
-    "name": "Benalmadena",
-    "city": "Benalmadena",
-    "countryCode": "IN",
-    "lat": 36.60131,
-    "lng": -4.53133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311326041/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -77352,17 +77429,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "IN",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -77590,6 +77656,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78045,17 +78122,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "IN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -78085,6 +78151,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "IN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80146,17 +80223,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "IN",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245679824",
     "name": "Zermatt: Findeln",
     "city": "Zermatt",
@@ -80164,6 +80230,17 @@
     "lat": 46.0109,
     "lng": 7.76494,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245679824/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "IN",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84227,17 +84304,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "IN",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -84245,6 +84311,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "IN",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84304,17 +84381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547680226",
-    "name": "Viareggio: Toscana, Italia: Lega Navale di",
-    "city": "Viareggio",
-    "countryCode": "IN",
-    "lat": 43.86405,
-    "lng": 10.24336,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -84322,6 +84388,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547680226",
+    "name": "Viareggio: Toscana, Italia: Lega Navale di",
+    "city": "Viareggio",
+    "countryCode": "IN",
+    "lat": 43.86405,
+    "lng": 10.24336,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84656,17 +84733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "IN",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -84674,6 +84740,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "IN",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85074,17 +85151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "IN",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -85092,6 +85158,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "IN",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85107,17 +85184,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "IN",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -85125,6 +85191,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "IN",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85206,17 +85283,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "IN",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -85224,6 +85290,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "IN",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85360,17 +85437,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418379085",
-    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
-    "city": "Valras-Plage",
-    "countryCode": "IN",
-    "lat": 43.24661,
-    "lng": 3.29656,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -85378,6 +85444,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418379085",
+    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
+    "city": "Valras-Plage",
+    "countryCode": "IN",
+    "lat": 43.24661,
+    "lng": 3.29656,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86020,6 +86097,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580415336",
+    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
+    "city": "Franco da Rocha",
+    "countryCode": "IN",
+    "lat": -23.33225,
+    "lng": -46.70938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -86038,17 +86126,6 @@
     "lat": 56.86902,
     "lng": -4.25611,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1580415336",
-    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
-    "city": "Franco da Rocha",
-    "countryCode": "IN",
-    "lat": -23.33225,
-    "lng": -46.70938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86236,6 +86313,17 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "IN",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87220,7 +87308,7 @@
   },
   {
     "id": "windy-1419107132",
-    "name": "Split › South-west: Obala Hrvatskog narodnog preporoda - Matejuška",
+    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
     "city": "Split",
     "countryCode": "BR",
     "lat": 43.50754,
@@ -87413,6 +87501,17 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87846,17 +87945,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311326041",
-    "name": "Benalmadena",
-    "city": "Benalmadena",
-    "countryCode": "BR",
-    "lat": 36.60131,
-    "lng": -4.53133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311326041/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -88132,17 +88220,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "BR",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -88370,6 +88447,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88825,17 +88913,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "BR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -88865,6 +88942,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "BR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90926,17 +91014,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "BR",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245679824",
     "name": "Zermatt: Findeln",
     "city": "Zermatt",
@@ -90944,6 +91021,17 @@
     "lat": 46.0109,
     "lng": 7.76494,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245679824/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "BR",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95007,17 +95095,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "BR",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -95025,6 +95102,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "BR",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95084,17 +95172,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547680226",
-    "name": "Viareggio: Toscana, Italia: Lega Navale di",
-    "city": "Viareggio",
-    "countryCode": "BR",
-    "lat": 43.86405,
-    "lng": 10.24336,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -95102,6 +95179,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547680226",
+    "name": "Viareggio: Toscana, Italia: Lega Navale di",
+    "city": "Viareggio",
+    "countryCode": "BR",
+    "lat": 43.86405,
+    "lng": 10.24336,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95436,17 +95524,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "BR",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -95454,6 +95531,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "BR",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95854,17 +95942,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "BR",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -95872,6 +95949,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "BR",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95887,17 +95975,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "BR",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -95905,6 +95982,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "BR",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95986,17 +96074,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "BR",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -96004,6 +96081,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "BR",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96140,17 +96228,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418379085",
-    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
-    "city": "Valras-Plage",
-    "countryCode": "BR",
-    "lat": 43.24661,
-    "lng": 3.29656,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -96158,6 +96235,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418379085",
+    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
+    "city": "Valras-Plage",
+    "countryCode": "BR",
+    "lat": 43.24661,
+    "lng": 3.29656,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96800,6 +96888,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580415336",
+    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
+    "city": "Franco da Rocha",
+    "countryCode": "BR",
+    "lat": -23.33225,
+    "lng": -46.70938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -96818,17 +96917,6 @@
     "lat": 56.86902,
     "lng": -4.25611,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1580415336",
-    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
-    "city": "Franco da Rocha",
-    "countryCode": "BR",
-    "lat": -23.33225,
-    "lng": -46.70938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97016,6 +97104,17 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "BR",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98000,7 +98099,7 @@
   },
   {
     "id": "windy-1419107132",
-    "name": "Split › South-west: Obala Hrvatskog narodnog preporoda - Matejuška",
+    "name": "Split › West: Obala Hrvatskog narodnog preporoda - Matejuška",
     "city": "Split",
     "countryCode": "AU",
     "lat": 43.50754,
@@ -98193,6 +98292,17 @@
     "lat": 41.05775,
     "lng": 29.01729,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1361788337/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98626,17 +98736,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311326041",
-    "name": "Benalmadena",
-    "city": "Benalmadena",
-    "countryCode": "AU",
-    "lat": 36.60131,
-    "lng": -4.53133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311326041/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1665493001",
     "name": "North Cape",
     "city": "North Cape",
@@ -98912,17 +99011,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1342347666",
-    "name": "Polnicka › North: Velké Dářko",
-    "city": "Polnicka",
-    "countryCode": "AU",
-    "lat": 49.63177,
-    "lng": 15.90751,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -99150,6 +99238,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99605,17 +99704,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "AU",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -99645,6 +99733,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "AU",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101706,17 +101805,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "AU",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245679824",
     "name": "Zermatt: Findeln",
     "city": "Zermatt",
@@ -101724,6 +101812,17 @@
     "lat": 46.0109,
     "lng": 7.76494,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245679824/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "AU",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105787,17 +105886,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388837203",
-    "name": "Altdorf: Landshut",
-    "city": "Altdorf",
-    "countryCode": "AU",
-    "lat": 48.5714,
-    "lng": 12.11189,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -105805,6 +105893,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1388837203",
+    "name": "Altdorf: Landshut",
+    "city": "Altdorf",
+    "countryCode": "AU",
+    "lat": 48.5714,
+    "lng": 12.11189,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388837203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105864,17 +105963,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547680226",
-    "name": "Viareggio: Toscana, Italia: Lega Navale di",
-    "city": "Viareggio",
-    "countryCode": "AU",
-    "lat": 43.86405,
-    "lng": 10.24336,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1589096871",
     "name": "Klaipėda: Centras: Melnrages Molas",
     "city": "Klaipėda",
@@ -105882,6 +105970,17 @@
     "lat": 55.72965,
     "lng": 21.08479,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1589096871/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547680226",
+    "name": "Viareggio: Toscana, Italia: Lega Navale di",
+    "city": "Viareggio",
+    "countryCode": "AU",
+    "lat": 43.86405,
+    "lng": 10.24336,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547680226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106216,17 +106315,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520465861",
-    "name": "Malaga: Nueva Málaga",
-    "city": "Malaga",
-    "countryCode": "AU",
-    "lat": 36.72599,
-    "lng": -4.44411,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1658397367",
     "name": "Malaga",
     "city": "Malaga",
@@ -106234,6 +106322,17 @@
     "lat": 36.72253,
     "lng": -4.3966,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1658397367/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520465861",
+    "name": "Malaga: Nueva Málaga",
+    "city": "Malaga",
+    "countryCode": "AU",
+    "lat": 36.72599,
+    "lng": -4.44411,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520465861/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106634,17 +106733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "AU",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -106652,6 +106740,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "AU",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106667,17 +106766,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1400275972",
-    "name": "Svennevik: Lussevika mot Båly",
-    "city": "Svennevik",
-    "countryCode": "AU",
-    "lat": 58.04112,
-    "lng": 7.2063,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -106685,6 +106773,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1400275972",
+    "name": "Svennevik: Lussevika mot Båly",
+    "city": "Svennevik",
+    "countryCode": "AU",
+    "lat": 58.04112,
+    "lng": 7.2063,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1400275972/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106766,17 +106865,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1303147730",
-    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
-    "city": "Costa Paradiso",
-    "countryCode": "AU",
-    "lat": 41.06613,
-    "lng": 8.97124,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -106784,6 +106872,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1303147730",
+    "name": "Costa Paradiso › North-east: Cala sarraina - Spiaggia di Cala Faa",
+    "city": "Costa Paradiso",
+    "countryCode": "AU",
+    "lat": 41.06613,
+    "lng": 8.97124,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1303147730/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106920,17 +107019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1418379085",
-    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
-    "city": "Valras-Plage",
-    "countryCode": "AU",
-    "lat": 43.24661,
-    "lng": 3.29656,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1406280858",
     "name": "Plakias › South: Beach",
     "city": "Plakias",
@@ -106938,6 +107026,17 @@
     "lat": 35.18686,
     "lng": 24.39815,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1406280858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1418379085",
+    "name": "Valras-Plage: Région Languedoc-Roussillon, France",
+    "city": "Valras-Plage",
+    "countryCode": "AU",
+    "lat": 43.24661,
+    "lng": 3.29656,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418379085/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107580,6 +107679,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1580415336",
+    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
+    "city": "Franco da Rocha",
+    "countryCode": "AU",
+    "lat": -23.33225,
+    "lng": -46.70938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -107598,17 +107708,6 @@
     "lat": 56.86902,
     "lng": -4.25611,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343921413/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1580415336",
-    "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
-    "city": "Franco da Rocha",
-    "countryCode": "AU",
-    "lat": -23.33225,
-    "lng": -46.70938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107796,6 +107895,17 @@
     "lat": 49.23124,
     "lng": 13.51994,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "AU",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
