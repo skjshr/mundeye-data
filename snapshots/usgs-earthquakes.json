@@ -1,5 +1,25 @@
 [
   {
+    "id": "us7000shsi",
+    "type": "earthquake",
+    "lat": -59.3027,
+    "lng": -25.0767,
+    "intensity": 5,
+    "timestamp": "2026-05-02T10:31:40.811Z",
+    "description": "M 5.0 - South Sandwich Islands region",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000shsh",
+    "type": "earthquake",
+    "lat": -5.9589,
+    "lng": 130.8204,
+    "intensity": 5.2,
+    "timestamp": "2026-05-02T10:27:07.609Z",
+    "description": "M 5.2 - 217 km W of Tual, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shs2",
     "type": "earthquake",
     "lat": 34.107,
@@ -97,16 +117,6 @@
     "intensity": 5.8,
     "timestamp": "2026-05-01T12:39:55.578Z",
     "description": "M 5.8 - 29 km ENE of Yilan, Taiwan",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000shj5",
-    "type": "earthquake",
-    "lat": -57.7679,
-    "lng": -25.3328,
-    "intensity": 5.1,
-    "timestamp": "2026-05-01T11:04:39.548Z",
-    "description": "M 5.1 - South Sandwich Islands region",
     "source": "USGS"
   }
 ]
