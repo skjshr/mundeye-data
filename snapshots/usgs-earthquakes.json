@@ -108,25 +108,5 @@
     "timestamp": "2026-05-01T17:19:24.791Z",
     "description": "M 4.8 - 47 km S of Nemuro, Japan",
     "source": "USGS"
-  },
-  {
-    "id": "us7000shjt",
-    "type": "earthquake",
-    "lat": 35.9238,
-    "lng": 141.636,
-    "intensity": 4.9,
-    "timestamp": "2026-05-01T13:00:41.206Z",
-    "description": "M 4.9 - 75 km ENE of Hasaki, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000shjp",
-    "type": "earthquake",
-    "lat": 24.8748,
-    "lng": 122.02,
-    "intensity": 5.8,
-    "timestamp": "2026-05-01T12:39:55.578Z",
-    "description": "M 5.8 - 29 km ENE of Yilan, Taiwan",
-    "source": "USGS"
   }
 ]

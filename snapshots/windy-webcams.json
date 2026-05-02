@@ -110,17 +110,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "JP",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -205,17 +194,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "JP",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -612,17 +590,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "JP",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1397,17 +1364,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "JP",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1017402670",
     "name": "Sankt Moritz: St. Moritz - Corviglia",
     "city": "Sankt Moritz",
@@ -1486,11 +1442,11 @@
   },
   {
     "id": "windy-1288116500",
-    "name": "Turin: vista verso sud",
+    "name": "Turin › South-east: vista verso sud",
     "city": "Turin",
     "countryCode": "JP",
-    "lat": 45.08067,
-    "lng": 7.69494,
+    "lat": 45.08078,
+    "lng": 7.69478,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -1921,6 +1877,17 @@
     "lat": 48.80443,
     "lng": 2.22743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "JP",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2662,6 +2629,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "JP",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -2867,6 +2845,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "JP",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4664,17 +4653,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
-    "city": "Heidbuhl",
-    "countryCode": "JP",
-    "lat": 46.89002,
-    "lng": 7.82101,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503915",
     "name": "Nai Yang: Phuket Lotus Lodge",
     "city": "unknown",
@@ -4682,6 +4660,17 @@
     "lat": 8.07656,
     "lng": 98.30139,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503915/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1244354077",
+    "name": "Heidbuhl: Blapbach Trubschachen",
+    "city": "Heidbuhl",
+    "countryCode": "JP",
+    "lat": 46.89002,
+    "lng": 7.82101,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7294,11 +7283,11 @@
   },
   {
     "id": "windy-1225124398",
-    "name": "Triest: Città, Radio Punto Zero Tre Venezie",
+    "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
     "countryCode": "JP",
-    "lat": 45.64225,
-    "lng": 13.75334,
+    "lat": 45.64854,
+    "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -8846,7 +8835,7 @@
   {
     "id": "windy-1481920062",
     "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "unknown",
+    "city": "Rovinj",
     "countryCode": "JP",
     "lat": 45.08211,
     "lng": 13.63443,
@@ -9768,17 +9757,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "JP",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -9786,6 +9764,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "JP",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10934,17 +10923,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "US",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -11029,17 +11007,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "US",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11436,17 +11403,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "US",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12221,17 +12177,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "US",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1017402670",
     "name": "Sankt Moritz: St. Moritz - Corviglia",
     "city": "Sankt Moritz",
@@ -12310,11 +12255,11 @@
   },
   {
     "id": "windy-1288116500",
-    "name": "Turin: vista verso sud",
+    "name": "Turin › South-east: vista verso sud",
     "city": "Turin",
     "countryCode": "US",
-    "lat": 45.08067,
-    "lng": 7.69494,
+    "lat": 45.08078,
+    "lng": 7.69478,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -12745,6 +12690,17 @@
     "lat": 48.80443,
     "lng": 2.22743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "US",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13486,6 +13442,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "US",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -13691,6 +13658,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "US",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15488,17 +15466,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
-    "city": "Heidbuhl",
-    "countryCode": "US",
-    "lat": 46.89002,
-    "lng": 7.82101,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503915",
     "name": "Nai Yang: Phuket Lotus Lodge",
     "city": "unknown",
@@ -15506,6 +15473,17 @@
     "lat": 8.07656,
     "lng": 98.30139,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503915/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1244354077",
+    "name": "Heidbuhl: Blapbach Trubschachen",
+    "city": "Heidbuhl",
+    "countryCode": "US",
+    "lat": 46.89002,
+    "lng": 7.82101,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18118,11 +18096,11 @@
   },
   {
     "id": "windy-1225124398",
-    "name": "Triest: Città, Radio Punto Zero Tre Venezie",
+    "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
     "countryCode": "US",
-    "lat": 45.64225,
-    "lng": 13.75334,
+    "lat": 45.64854,
+    "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -19670,7 +19648,7 @@
   {
     "id": "windy-1481920062",
     "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "unknown",
+    "city": "Rovinj",
     "countryCode": "US",
     "lat": 45.08211,
     "lng": 13.63443,
@@ -20592,17 +20570,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "US",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -20610,6 +20577,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "US",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21758,17 +21736,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "GB",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -21853,17 +21820,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "GB",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22260,17 +22216,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "GB",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23045,17 +22990,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "GB",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1017402670",
     "name": "Sankt Moritz: St. Moritz - Corviglia",
     "city": "Sankt Moritz",
@@ -23134,11 +23068,11 @@
   },
   {
     "id": "windy-1288116500",
-    "name": "Turin: vista verso sud",
+    "name": "Turin › South-east: vista verso sud",
     "city": "Turin",
     "countryCode": "GB",
-    "lat": 45.08067,
-    "lng": 7.69494,
+    "lat": 45.08078,
+    "lng": 7.69478,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -23569,6 +23503,17 @@
     "lat": 48.80443,
     "lng": 2.22743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "GB",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24310,6 +24255,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "GB",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -24515,6 +24471,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "GB",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26312,17 +26279,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
-    "city": "Heidbuhl",
-    "countryCode": "GB",
-    "lat": 46.89002,
-    "lng": 7.82101,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503915",
     "name": "Nai Yang: Phuket Lotus Lodge",
     "city": "unknown",
@@ -26330,6 +26286,17 @@
     "lat": 8.07656,
     "lng": 98.30139,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503915/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1244354077",
+    "name": "Heidbuhl: Blapbach Trubschachen",
+    "city": "Heidbuhl",
+    "countryCode": "GB",
+    "lat": 46.89002,
+    "lng": 7.82101,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28942,11 +28909,11 @@
   },
   {
     "id": "windy-1225124398",
-    "name": "Triest: Città, Radio Punto Zero Tre Venezie",
+    "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
     "countryCode": "GB",
-    "lat": 45.64225,
-    "lng": 13.75334,
+    "lat": 45.64854,
+    "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -30494,7 +30461,7 @@
   {
     "id": "windy-1481920062",
     "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "unknown",
+    "city": "Rovinj",
     "countryCode": "GB",
     "lat": 45.08211,
     "lng": 13.63443,
@@ -31416,17 +31383,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "GB",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -31434,6 +31390,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "GB",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32582,17 +32549,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "DE",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -32677,17 +32633,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "DE",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33084,17 +33029,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "DE",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33869,17 +33803,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "DE",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1017402670",
     "name": "Sankt Moritz: St. Moritz - Corviglia",
     "city": "Sankt Moritz",
@@ -33958,11 +33881,11 @@
   },
   {
     "id": "windy-1288116500",
-    "name": "Turin: vista verso sud",
+    "name": "Turin › South-east: vista verso sud",
     "city": "Turin",
     "countryCode": "DE",
-    "lat": 45.08067,
-    "lng": 7.69494,
+    "lat": 45.08078,
+    "lng": 7.69478,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -34393,6 +34316,17 @@
     "lat": 48.80443,
     "lng": 2.22743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "DE",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35134,6 +35068,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "DE",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -35339,6 +35284,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "DE",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37136,17 +37092,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
-    "city": "Heidbuhl",
-    "countryCode": "DE",
-    "lat": 46.89002,
-    "lng": 7.82101,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503915",
     "name": "Nai Yang: Phuket Lotus Lodge",
     "city": "unknown",
@@ -37154,6 +37099,17 @@
     "lat": 8.07656,
     "lng": 98.30139,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503915/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1244354077",
+    "name": "Heidbuhl: Blapbach Trubschachen",
+    "city": "Heidbuhl",
+    "countryCode": "DE",
+    "lat": 46.89002,
+    "lng": 7.82101,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39766,11 +39722,11 @@
   },
   {
     "id": "windy-1225124398",
-    "name": "Triest: Città, Radio Punto Zero Tre Venezie",
+    "name": "Triest › North-west: Gulf of Trieste",
     "city": "Triest",
     "countryCode": "DE",
-    "lat": 45.64225,
-    "lng": 13.75334,
+    "lat": 45.64854,
+    "lng": 13.7728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -41318,7 +41274,7 @@
   {
     "id": "windy-1481920062",
     "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "unknown",
+    "city": "Rovinj",
     "countryCode": "DE",
     "lat": 45.08211,
     "lng": 13.63443,
@@ -42240,17 +42196,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "DE",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -42258,6 +42203,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "DE",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43406,17 +43362,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "FR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -43501,17 +43446,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "FR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43908,17 +43842,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "FR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44693,17 +44616,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "FR",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1017402670",
     "name": "Sankt Moritz: St. Moritz - Corviglia",
     "city": "Sankt Moritz",
@@ -44782,11 +44694,11 @@
   },
   {
     "id": "windy-1288116500",
-    "name": "Turin: vista verso sud",
+    "name": "Turin › South-east: vista verso sud",
     "city": "Turin",
     "countryCode": "FR",
-    "lat": 45.08067,
-    "lng": 7.69494,
+    "lat": 45.08078,
+    "lng": 7.69478,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -45217,6 +45129,17 @@
     "lat": 48.80443,
     "lng": 2.22743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "FR",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45958,6 +45881,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "FR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -46163,6 +46097,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "FR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47960,17 +47905,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
-    "city": "Heidbuhl",
-    "countryCode": "FR",
-    "lat": 46.89002,
-    "lng": 7.82101,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503915",
     "name": "Nai Yang: Phuket Lotus Lodge",
     "city": "unknown",
@@ -47978,6 +47912,17 @@
     "lat": 8.07656,
     "lng": 98.30139,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503915/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1244354077",
+    "name": "Heidbuhl: Blapbach Trubschachen",
+    "city": "Heidbuhl",
+    "countryCode": "FR",
+    "lat": 46.89002,
+    "lng": 7.82101,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52142,7 +52087,7 @@
   {
     "id": "windy-1481920062",
     "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "unknown",
+    "city": "Rovinj",
     "countryCode": "FR",
     "lat": 45.08211,
     "lng": 13.63443,
@@ -53064,17 +53009,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "FR",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -53082,6 +53016,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "FR",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54230,17 +54175,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "CN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -54325,17 +54259,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "CN",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54732,17 +54655,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "CN",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55517,17 +55429,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "CN",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1017402670",
     "name": "Sankt Moritz: St. Moritz - Corviglia",
     "city": "Sankt Moritz",
@@ -55606,11 +55507,11 @@
   },
   {
     "id": "windy-1288116500",
-    "name": "Turin: vista verso sud",
+    "name": "Turin › South-east: vista verso sud",
     "city": "Turin",
     "countryCode": "CN",
-    "lat": 45.08067,
-    "lng": 7.69494,
+    "lat": 45.08078,
+    "lng": 7.69478,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -56041,6 +55942,17 @@
     "lat": 48.80443,
     "lng": 2.22743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "CN",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56782,6 +56694,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "CN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -56987,6 +56910,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "CN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58784,17 +58718,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
-    "city": "Heidbuhl",
-    "countryCode": "CN",
-    "lat": 46.89002,
-    "lng": 7.82101,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503915",
     "name": "Nai Yang: Phuket Lotus Lodge",
     "city": "unknown",
@@ -58802,6 +58725,17 @@
     "lat": 8.07656,
     "lng": 98.30139,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503915/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1244354077",
+    "name": "Heidbuhl: Blapbach Trubschachen",
+    "city": "Heidbuhl",
+    "countryCode": "CN",
+    "lat": 46.89002,
+    "lng": 7.82101,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62966,7 +62900,7 @@
   {
     "id": "windy-1481920062",
     "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "unknown",
+    "city": "Rovinj",
     "countryCode": "CN",
     "lat": 45.08211,
     "lng": 13.63443,
@@ -63888,17 +63822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "CN",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -63906,6 +63829,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "CN",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65054,17 +64988,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "KR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -65149,17 +65072,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "KR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65556,17 +65468,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "KR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66341,17 +66242,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "KR",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1017402670",
     "name": "Sankt Moritz: St. Moritz - Corviglia",
     "city": "Sankt Moritz",
@@ -66430,11 +66320,11 @@
   },
   {
     "id": "windy-1288116500",
-    "name": "Turin: vista verso sud",
+    "name": "Turin › South-east: vista verso sud",
     "city": "Turin",
     "countryCode": "KR",
-    "lat": 45.08067,
-    "lng": 7.69494,
+    "lat": 45.08078,
+    "lng": 7.69478,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1288116500/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -67617,6 +67507,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "KR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -67822,6 +67723,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "KR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69619,17 +69531,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
-    "city": "Heidbuhl",
-    "countryCode": "KR",
-    "lat": 46.89002,
-    "lng": 7.82101,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503915",
     "name": "Nai Yang: Phuket Lotus Lodge",
     "city": "unknown",
@@ -69637,6 +69538,17 @@
     "lat": 8.07656,
     "lng": 98.30139,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503915/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1244354077",
+    "name": "Heidbuhl: Blapbach Trubschachen",
+    "city": "Heidbuhl",
+    "countryCode": "KR",
+    "lat": 46.89002,
+    "lng": 7.82101,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73801,7 +73713,7 @@
   {
     "id": "windy-1481920062",
     "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "unknown",
+    "city": "Rovinj",
     "countryCode": "KR",
     "lat": 45.08211,
     "lng": 13.63443,
@@ -74723,17 +74635,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "KR",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -74741,6 +74642,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "KR",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75889,17 +75801,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "IN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -75984,17 +75885,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "IN",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76391,17 +76281,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "IN",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77172,17 +77051,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "IN",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78452,6 +78320,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "IN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -78657,6 +78536,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "IN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80454,17 +80344,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
-    "city": "Heidbuhl",
-    "countryCode": "IN",
-    "lat": 46.89002,
-    "lng": 7.82101,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503915",
     "name": "Nai Yang: Phuket Lotus Lodge",
     "city": "unknown",
@@ -80472,6 +80351,17 @@
     "lat": 8.07656,
     "lng": 98.30139,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503915/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1244354077",
+    "name": "Heidbuhl: Blapbach Trubschachen",
+    "city": "Heidbuhl",
+    "countryCode": "IN",
+    "lat": 46.89002,
+    "lng": 7.82101,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85558,17 +85448,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "IN",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -85576,6 +85455,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "IN",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86724,17 +86614,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "BR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -87215,17 +87094,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "BR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87996,17 +87864,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "BR",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89276,6 +89133,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "BR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -89481,6 +89349,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "BR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91278,17 +91157,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
-    "city": "Heidbuhl",
-    "countryCode": "BR",
-    "lat": 46.89002,
-    "lng": 7.82101,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503915",
     "name": "Nai Yang: Phuket Lotus Lodge",
     "city": "unknown",
@@ -91296,6 +91164,17 @@
     "lat": 8.07656,
     "lng": 98.30139,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503915/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1244354077",
+    "name": "Heidbuhl: Blapbach Trubschachen",
+    "city": "Heidbuhl",
+    "countryCode": "BR",
+    "lat": 46.89002,
+    "lng": 7.82101,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96382,17 +96261,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "BR",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -96400,6 +96268,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "BR",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97548,17 +97427,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "AU",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1235134756",
     "name": "Finse",
     "city": "Finse",
@@ -98039,17 +97907,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "AU",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98820,17 +98677,6 @@
     "lat": 46.51969,
     "lng": 7.38511,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1614683737/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1206538953",
-    "name": "Oulu › South-east: Oulun kauppatori (Torinranta)",
-    "city": "Oulu",
-    "countryCode": "AU",
-    "lat": 65.01433,
-    "lng": 25.46279,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1206538953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100100,6 +99946,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "AU",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -100305,6 +100162,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "AU",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102102,17 +101970,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1244354077",
-    "name": "Heidbuhl: Blapbach Trubschachen",
-    "city": "Heidbuhl",
-    "countryCode": "AU",
-    "lat": 46.89002,
-    "lng": 7.82101,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1212503915",
     "name": "Nai Yang: Phuket Lotus Lodge",
     "city": "unknown",
@@ -102120,6 +101977,17 @@
     "lat": 8.07656,
     "lng": 98.30139,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1212503915/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1244354077",
+    "name": "Heidbuhl: Blapbach Trubschachen",
+    "city": "Heidbuhl",
+    "countryCode": "AU",
+    "lat": 46.89002,
+    "lng": 7.82101,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1244354077/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107206,17 +107074,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1413205256",
-    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
-    "city": "Aeschi bei Spiez",
-    "countryCode": "AU",
-    "lat": 46.64477,
-    "lng": 7.72501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1503755698",
     "name": "Grimbergen › West: Grimbergen Airfield",
     "city": "Grimbergen",
@@ -107224,6 +107081,17 @@
     "lat": 50.94861,
     "lng": 4.39501,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1503755698/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1413205256",
+    "name": "Aeschi bei Spiez: Aeschiried: Langlauf Aeschi bei Spiez Loipen Bern",
+    "city": "Aeschi bei Spiez",
+    "countryCode": "AU",
+    "lat": 46.64477,
+    "lng": 7.72501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1413205256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
