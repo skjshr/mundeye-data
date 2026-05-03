@@ -2838,17 +2838,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "JP",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -3995,7 +3984,7 @@
   {
     "id": "windy-1192024953",
     "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "unknown",
+    "city": "Varazdin",
     "countryCode": "JP",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -7449,7 +7438,7 @@
   {
     "id": "windy-1432931105",
     "name": "Makarska › South-east: Port de Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "JP",
     "lat": 43.29488,
     "lng": 17.01607,
@@ -7603,7 +7592,7 @@
   {
     "id": "windy-1387182179",
     "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "JP",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -7641,17 +7630,6 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1602018625",
-    "name": "Puerto Morelos: Casa Toucan",
-    "city": "Puerto Morelos",
-    "countryCode": "JP",
-    "lat": 20.8482,
-    "lng": -86.875,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8493,7 +8471,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar › South: Bridge",
+    "name": "Zadar › South: Gradski Bridge Night View - Obala kneza Branimira",
     "city": "Zadar",
     "countryCode": "JP",
     "lat": 44.11676,
@@ -13662,17 +13640,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "US",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -14819,7 +14786,7 @@
   {
     "id": "windy-1192024953",
     "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "unknown",
+    "city": "Varazdin",
     "countryCode": "US",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -18273,7 +18240,7 @@
   {
     "id": "windy-1432931105",
     "name": "Makarska › South-east: Port de Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "US",
     "lat": 43.29488,
     "lng": 17.01607,
@@ -18427,7 +18394,7 @@
   {
     "id": "windy-1387182179",
     "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "US",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -18465,17 +18432,6 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1602018625",
-    "name": "Puerto Morelos: Casa Toucan",
-    "city": "Puerto Morelos",
-    "countryCode": "US",
-    "lat": 20.8482,
-    "lng": -86.875,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19317,7 +19273,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar › South: Bridge",
+    "name": "Zadar › South: Gradski Bridge Night View - Obala kneza Branimira",
     "city": "Zadar",
     "countryCode": "US",
     "lat": 44.11676,
@@ -24486,17 +24442,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "GB",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -25643,7 +25588,7 @@
   {
     "id": "windy-1192024953",
     "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "unknown",
+    "city": "Varazdin",
     "countryCode": "GB",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -29097,7 +29042,7 @@
   {
     "id": "windy-1432931105",
     "name": "Makarska › South-east: Port de Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "GB",
     "lat": 43.29488,
     "lng": 17.01607,
@@ -29251,7 +29196,7 @@
   {
     "id": "windy-1387182179",
     "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "GB",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -29289,17 +29234,6 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1602018625",
-    "name": "Puerto Morelos: Casa Toucan",
-    "city": "Puerto Morelos",
-    "countryCode": "GB",
-    "lat": 20.8482,
-    "lng": -86.875,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30141,7 +30075,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar › South: Bridge",
+    "name": "Zadar › South: Gradski Bridge Night View - Obala kneza Branimira",
     "city": "Zadar",
     "countryCode": "GB",
     "lat": 44.11676,
@@ -35310,17 +35244,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "DE",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -36467,7 +36390,7 @@
   {
     "id": "windy-1192024953",
     "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "unknown",
+    "city": "Varazdin",
     "countryCode": "DE",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -39921,7 +39844,7 @@
   {
     "id": "windy-1432931105",
     "name": "Makarska › South-east: Port de Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "DE",
     "lat": 43.29488,
     "lng": 17.01607,
@@ -40075,7 +39998,7 @@
   {
     "id": "windy-1387182179",
     "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "DE",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -40113,17 +40036,6 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1602018625",
-    "name": "Puerto Morelos: Casa Toucan",
-    "city": "Puerto Morelos",
-    "countryCode": "DE",
-    "lat": 20.8482,
-    "lng": -86.875,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40965,7 +40877,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar › South: Bridge",
+    "name": "Zadar › South: Gradski Bridge Night View - Obala kneza Branimira",
     "city": "Zadar",
     "countryCode": "DE",
     "lat": 44.11676,
@@ -46134,17 +46046,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "FR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -47291,7 +47192,7 @@
   {
     "id": "windy-1192024953",
     "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "unknown",
+    "city": "Varazdin",
     "countryCode": "FR",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -50745,7 +50646,7 @@
   {
     "id": "windy-1432931105",
     "name": "Makarska › South-east: Port de Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "FR",
     "lat": 43.29488,
     "lng": 17.01607,
@@ -50899,7 +50800,7 @@
   {
     "id": "windy-1387182179",
     "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "FR",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -50937,17 +50838,6 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1602018625",
-    "name": "Puerto Morelos: Casa Toucan",
-    "city": "Puerto Morelos",
-    "countryCode": "FR",
-    "lat": 20.8482,
-    "lng": -86.875,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51789,7 +51679,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar › South: Bridge",
+    "name": "Zadar › South: Gradski Bridge Night View - Obala kneza Branimira",
     "city": "Zadar",
     "countryCode": "FR",
     "lat": 44.11676,
@@ -56958,17 +56848,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "CN",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -58115,7 +57994,7 @@
   {
     "id": "windy-1192024953",
     "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "unknown",
+    "city": "Varazdin",
     "countryCode": "CN",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -61569,7 +61448,7 @@
   {
     "id": "windy-1432931105",
     "name": "Makarska › South-east: Port de Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "CN",
     "lat": 43.29488,
     "lng": 17.01607,
@@ -61723,7 +61602,7 @@
   {
     "id": "windy-1387182179",
     "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "CN",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -61761,17 +61640,6 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1602018625",
-    "name": "Puerto Morelos: Casa Toucan",
-    "city": "Puerto Morelos",
-    "countryCode": "CN",
-    "lat": 20.8482,
-    "lng": -86.875,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62613,7 +62481,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar › South: Bridge",
+    "name": "Zadar › South: Gradski Bridge Night View - Obala kneza Branimira",
     "city": "Zadar",
     "countryCode": "CN",
     "lat": 44.11676,
@@ -67782,17 +67650,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "KR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -68939,7 +68796,7 @@
   {
     "id": "windy-1192024953",
     "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "unknown",
+    "city": "Varazdin",
     "countryCode": "KR",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -72393,7 +72250,7 @@
   {
     "id": "windy-1432931105",
     "name": "Makarska › South-east: Port de Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "KR",
     "lat": 43.29488,
     "lng": 17.01607,
@@ -72547,7 +72404,7 @@
   {
     "id": "windy-1387182179",
     "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "KR",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -72585,17 +72442,6 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1602018625",
-    "name": "Puerto Morelos: Casa Toucan",
-    "city": "Puerto Morelos",
-    "countryCode": "KR",
-    "lat": 20.8482,
-    "lng": -86.875,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73437,7 +73283,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar › South: Bridge",
+    "name": "Zadar › South: Gradski Bridge Night View - Obala kneza Branimira",
     "city": "Zadar",
     "countryCode": "KR",
     "lat": 44.11676,
@@ -78606,17 +78452,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "IN",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -79763,7 +79598,7 @@
   {
     "id": "windy-1192024953",
     "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "unknown",
+    "city": "Varazdin",
     "countryCode": "IN",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -83217,7 +83052,7 @@
   {
     "id": "windy-1432931105",
     "name": "Makarska › South-east: Port de Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "IN",
     "lat": 43.29488,
     "lng": 17.01607,
@@ -83371,7 +83206,7 @@
   {
     "id": "windy-1387182179",
     "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "IN",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -83409,17 +83244,6 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1602018625",
-    "name": "Puerto Morelos: Casa Toucan",
-    "city": "Puerto Morelos",
-    "countryCode": "IN",
-    "lat": 20.8482,
-    "lng": -86.875,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84261,7 +84085,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar › South: Bridge",
+    "name": "Zadar › South: Gradski Bridge Night View - Obala kneza Branimira",
     "city": "Zadar",
     "countryCode": "IN",
     "lat": 44.11676,
@@ -89430,17 +89254,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "BR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -90587,7 +90400,7 @@
   {
     "id": "windy-1192024953",
     "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "unknown",
+    "city": "Varazdin",
     "countryCode": "BR",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -94041,7 +93854,7 @@
   {
     "id": "windy-1432931105",
     "name": "Makarska › South-east: Port de Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "BR",
     "lat": 43.29488,
     "lng": 17.01607,
@@ -94195,7 +94008,7 @@
   {
     "id": "windy-1387182179",
     "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "BR",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -94233,17 +94046,6 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1602018625",
-    "name": "Puerto Morelos: Casa Toucan",
-    "city": "Puerto Morelos",
-    "countryCode": "BR",
-    "lat": 20.8482,
-    "lng": -86.875,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95085,7 +94887,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar › South: Bridge",
+    "name": "Zadar › South: Gradski Bridge Night View - Obala kneza Branimira",
     "city": "Zadar",
     "countryCode": "BR",
     "lat": 44.11676,
@@ -100254,17 +100056,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "AU",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -101411,7 +101202,7 @@
   {
     "id": "windy-1192024953",
     "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "unknown",
+    "city": "Varazdin",
     "countryCode": "AU",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -104865,7 +104656,7 @@
   {
     "id": "windy-1432931105",
     "name": "Makarska › South-east: Port de Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "AU",
     "lat": 43.29488,
     "lng": 17.01607,
@@ -105019,7 +104810,7 @@
   {
     "id": "windy-1387182179",
     "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
-    "city": "unknown",
+    "city": "Makarska",
     "countryCode": "AU",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -105057,17 +104848,6 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1602018625",
-    "name": "Puerto Morelos: Casa Toucan",
-    "city": "Puerto Morelos",
-    "countryCode": "AU",
-    "lat": 20.8482,
-    "lng": -86.875,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105909,7 +105689,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar › South: Bridge",
+    "name": "Zadar › South: Gradski Bridge Night View - Obala kneza Branimira",
     "city": "Zadar",
     "countryCode": "AU",
     "lat": 44.11676,
