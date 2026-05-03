@@ -2871,6 +2871,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "JP",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697037056",
     "name": "Delemont: Gare",
     "city": "Delemont",
@@ -3983,8 +3994,8 @@
   },
   {
     "id": "windy-1192024953",
-    "name": "Varazdin Breg: Zagreb - Varazdin - Place",
-    "city": "Varazdin Breg",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "unknown",
     "countryCode": "JP",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -5038,6 +5049,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "JP",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1202907488",
     "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
     "city": "Flasch",
@@ -5056,17 +5078,6 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "JP",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5177,6 +5188,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "JP",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7426,11 +7448,11 @@
   },
   {
     "id": "windy-1432931105",
-    "name": "Veliko Brdo: Makarska - Riva king Tomislav",
-    "city": "Veliko Brdo",
+    "name": "Makarska › South-east: Port de Makarska",
+    "city": "unknown",
     "countryCode": "JP",
-    "lat": 43.2944,
-    "lng": 17.01626,
+    "lat": 43.29488,
+    "lng": 17.01607,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1432931105/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -7580,8 +7602,8 @@
   },
   {
     "id": "windy-1387182179",
-    "name": "Veliko Brdo: Webcam Makarska ‘s seaside promenade",
-    "city": "Veliko Brdo",
+    "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
+    "city": "unknown",
     "countryCode": "JP",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -7755,17 +7777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "JP",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252916501",
     "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
     "city": "Rimini",
@@ -7773,6 +7784,17 @@
     "lat": 44.0383,
     "lng": 12.56537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "JP",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8070,6 +8092,17 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040475",
+    "name": "Sydney › East: William Street",
+    "city": "Sydney",
+    "countryCode": "JP",
+    "lat": -33.87376,
+    "lng": 151.21303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8426,17 +8459,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793886368",
-    "name": "Diemtigen › South",
-    "city": "Diemtigen",
-    "countryCode": "JP",
-    "lat": 46.55733,
-    "lng": 7.48695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1599472540",
     "name": "Pavlov: Pavlov u Dolnich Vestonic: CHKO Pálava - Kite Beach Pavlov",
     "city": "Pavlov",
@@ -8444,6 +8466,17 @@
     "lat": 48.88016,
     "lng": 16.67806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1599472540/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793886368",
+    "name": "Diemtigen › South",
+    "city": "Diemtigen",
+    "countryCode": "JP",
+    "lat": 46.55733,
+    "lng": 7.48695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8460,7 +8493,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar: Bridge",
+    "name": "Zadar › South: Bridge",
     "city": "Zadar",
     "countryCode": "JP",
     "lat": 44.11676,
@@ -8536,17 +8569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545397013",
-    "name": "Turin: Piemonte, Italia: Regio Parco",
-    "city": "Turin",
-    "countryCode": "JP",
-    "lat": 45.09764,
-    "lng": 7.70991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -8554,6 +8576,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545397013",
+    "name": "Turin: Piemonte, Italia: Regio Parco",
+    "city": "Turin",
+    "countryCode": "JP",
+    "lat": 45.09764,
+    "lng": 7.70991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8712,6 +8745,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1520060308",
+    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
+    "city": "Petropavlovsk-Kamchatsky",
+    "countryCode": "JP",
+    "lat": 53.05324,
+    "lng": 158.64491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -8745,17 +8789,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520060308",
-    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
-    "city": "Petropavlovsk-Kamchatsky",
-    "countryCode": "JP",
-    "lat": 53.05324,
-    "lng": 158.64491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -8774,17 +8807,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1481920062",
-    "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "Rovinj",
-    "countryCode": "JP",
-    "lat": 45.08211,
-    "lng": 13.63443,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1481920062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9933,17 +9955,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1587052631",
-    "name": "Mount Shasta",
-    "city": "Mount Shasta",
-    "countryCode": "JP",
-    "lat": 41.30651,
-    "lng": -122.31098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184307577",
     "name": "Langeoog: Haus Jonathan",
     "city": "Langeoog",
@@ -9951,6 +9962,17 @@
     "lat": 53.74459,
     "lng": 7.48439,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184307577/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "JP",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10292,17 +10314,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10798,6 +10809,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "JP",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13673,6 +13695,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "US",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697037056",
     "name": "Delemont: Gare",
     "city": "Delemont",
@@ -14785,8 +14818,8 @@
   },
   {
     "id": "windy-1192024953",
-    "name": "Varazdin Breg: Zagreb - Varazdin - Place",
-    "city": "Varazdin Breg",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "unknown",
     "countryCode": "US",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -15840,6 +15873,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "US",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1202907488",
     "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
     "city": "Flasch",
@@ -15858,17 +15902,6 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "US",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15979,6 +16012,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "US",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18228,11 +18272,11 @@
   },
   {
     "id": "windy-1432931105",
-    "name": "Veliko Brdo: Makarska - Riva king Tomislav",
-    "city": "Veliko Brdo",
+    "name": "Makarska › South-east: Port de Makarska",
+    "city": "unknown",
     "countryCode": "US",
-    "lat": 43.2944,
-    "lng": 17.01626,
+    "lat": 43.29488,
+    "lng": 17.01607,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1432931105/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -18382,8 +18426,8 @@
   },
   {
     "id": "windy-1387182179",
-    "name": "Veliko Brdo: Webcam Makarska ‘s seaside promenade",
-    "city": "Veliko Brdo",
+    "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
+    "city": "unknown",
     "countryCode": "US",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -18557,17 +18601,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "US",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252916501",
     "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
     "city": "Rimini",
@@ -18575,6 +18608,17 @@
     "lat": 44.0383,
     "lng": 12.56537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "US",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18872,6 +18916,17 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040475",
+    "name": "Sydney › East: William Street",
+    "city": "Sydney",
+    "countryCode": "US",
+    "lat": -33.87376,
+    "lng": 151.21303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19228,17 +19283,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793886368",
-    "name": "Diemtigen › South",
-    "city": "Diemtigen",
-    "countryCode": "US",
-    "lat": 46.55733,
-    "lng": 7.48695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1599472540",
     "name": "Pavlov: Pavlov u Dolnich Vestonic: CHKO Pálava - Kite Beach Pavlov",
     "city": "Pavlov",
@@ -19246,6 +19290,17 @@
     "lat": 48.88016,
     "lng": 16.67806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1599472540/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793886368",
+    "name": "Diemtigen › South",
+    "city": "Diemtigen",
+    "countryCode": "US",
+    "lat": 46.55733,
+    "lng": 7.48695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19262,7 +19317,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar: Bridge",
+    "name": "Zadar › South: Bridge",
     "city": "Zadar",
     "countryCode": "US",
     "lat": 44.11676,
@@ -19338,17 +19393,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545397013",
-    "name": "Turin: Piemonte, Italia: Regio Parco",
-    "city": "Turin",
-    "countryCode": "US",
-    "lat": 45.09764,
-    "lng": 7.70991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -19356,6 +19400,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545397013",
+    "name": "Turin: Piemonte, Italia: Regio Parco",
+    "city": "Turin",
+    "countryCode": "US",
+    "lat": 45.09764,
+    "lng": 7.70991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19514,6 +19569,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1520060308",
+    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
+    "city": "Petropavlovsk-Kamchatsky",
+    "countryCode": "US",
+    "lat": 53.05324,
+    "lng": 158.64491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -19547,17 +19613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520060308",
-    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
-    "city": "Petropavlovsk-Kamchatsky",
-    "countryCode": "US",
-    "lat": 53.05324,
-    "lng": 158.64491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -19576,17 +19631,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1481920062",
-    "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "Rovinj",
-    "countryCode": "US",
-    "lat": 45.08211,
-    "lng": 13.63443,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1481920062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20735,17 +20779,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1587052631",
-    "name": "Mount Shasta",
-    "city": "Mount Shasta",
-    "countryCode": "US",
-    "lat": 41.30651,
-    "lng": -122.31098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184307577",
     "name": "Langeoog: Haus Jonathan",
     "city": "Langeoog",
@@ -20753,6 +20786,17 @@
     "lat": 53.74459,
     "lng": 7.48439,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184307577/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "US",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21094,17 +21138,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21600,6 +21633,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "US",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24475,6 +24519,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "GB",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697037056",
     "name": "Delemont: Gare",
     "city": "Delemont",
@@ -25587,8 +25642,8 @@
   },
   {
     "id": "windy-1192024953",
-    "name": "Varazdin Breg: Zagreb - Varazdin - Place",
-    "city": "Varazdin Breg",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "unknown",
     "countryCode": "GB",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -26642,6 +26697,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "GB",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1202907488",
     "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
     "city": "Flasch",
@@ -26660,17 +26726,6 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "GB",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26781,6 +26836,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "GB",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29030,11 +29096,11 @@
   },
   {
     "id": "windy-1432931105",
-    "name": "Veliko Brdo: Makarska - Riva king Tomislav",
-    "city": "Veliko Brdo",
+    "name": "Makarska › South-east: Port de Makarska",
+    "city": "unknown",
     "countryCode": "GB",
-    "lat": 43.2944,
-    "lng": 17.01626,
+    "lat": 43.29488,
+    "lng": 17.01607,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1432931105/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -29184,8 +29250,8 @@
   },
   {
     "id": "windy-1387182179",
-    "name": "Veliko Brdo: Webcam Makarska ‘s seaside promenade",
-    "city": "Veliko Brdo",
+    "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
+    "city": "unknown",
     "countryCode": "GB",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -29359,17 +29425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "GB",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252916501",
     "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
     "city": "Rimini",
@@ -29377,6 +29432,17 @@
     "lat": 44.0383,
     "lng": 12.56537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "GB",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29674,6 +29740,17 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040475",
+    "name": "Sydney › East: William Street",
+    "city": "Sydney",
+    "countryCode": "GB",
+    "lat": -33.87376,
+    "lng": 151.21303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30030,17 +30107,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793886368",
-    "name": "Diemtigen › South",
-    "city": "Diemtigen",
-    "countryCode": "GB",
-    "lat": 46.55733,
-    "lng": 7.48695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1599472540",
     "name": "Pavlov: Pavlov u Dolnich Vestonic: CHKO Pálava - Kite Beach Pavlov",
     "city": "Pavlov",
@@ -30048,6 +30114,17 @@
     "lat": 48.88016,
     "lng": 16.67806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1599472540/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793886368",
+    "name": "Diemtigen › South",
+    "city": "Diemtigen",
+    "countryCode": "GB",
+    "lat": 46.55733,
+    "lng": 7.48695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30064,7 +30141,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar: Bridge",
+    "name": "Zadar › South: Bridge",
     "city": "Zadar",
     "countryCode": "GB",
     "lat": 44.11676,
@@ -30140,17 +30217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545397013",
-    "name": "Turin: Piemonte, Italia: Regio Parco",
-    "city": "Turin",
-    "countryCode": "GB",
-    "lat": 45.09764,
-    "lng": 7.70991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -30158,6 +30224,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545397013",
+    "name": "Turin: Piemonte, Italia: Regio Parco",
+    "city": "Turin",
+    "countryCode": "GB",
+    "lat": 45.09764,
+    "lng": 7.70991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30316,6 +30393,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1520060308",
+    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
+    "city": "Petropavlovsk-Kamchatsky",
+    "countryCode": "GB",
+    "lat": 53.05324,
+    "lng": 158.64491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -30349,17 +30437,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520060308",
-    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
-    "city": "Petropavlovsk-Kamchatsky",
-    "countryCode": "GB",
-    "lat": 53.05324,
-    "lng": 158.64491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -30378,17 +30455,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1481920062",
-    "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "Rovinj",
-    "countryCode": "GB",
-    "lat": 45.08211,
-    "lng": 13.63443,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1481920062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31537,17 +31603,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1587052631",
-    "name": "Mount Shasta",
-    "city": "Mount Shasta",
-    "countryCode": "GB",
-    "lat": 41.30651,
-    "lng": -122.31098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184307577",
     "name": "Langeoog: Haus Jonathan",
     "city": "Langeoog",
@@ -31555,6 +31610,17 @@
     "lat": 53.74459,
     "lng": 7.48439,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184307577/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "GB",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31896,17 +31962,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32402,6 +32457,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "GB",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35277,6 +35343,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "DE",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697037056",
     "name": "Delemont: Gare",
     "city": "Delemont",
@@ -36389,8 +36466,8 @@
   },
   {
     "id": "windy-1192024953",
-    "name": "Varazdin Breg: Zagreb - Varazdin - Place",
-    "city": "Varazdin Breg",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "unknown",
     "countryCode": "DE",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -37444,6 +37521,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "DE",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1202907488",
     "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
     "city": "Flasch",
@@ -37462,17 +37550,6 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "DE",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37583,6 +37660,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "DE",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39832,11 +39920,11 @@
   },
   {
     "id": "windy-1432931105",
-    "name": "Veliko Brdo: Makarska - Riva king Tomislav",
-    "city": "Veliko Brdo",
+    "name": "Makarska › South-east: Port de Makarska",
+    "city": "unknown",
     "countryCode": "DE",
-    "lat": 43.2944,
-    "lng": 17.01626,
+    "lat": 43.29488,
+    "lng": 17.01607,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1432931105/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -39986,8 +40074,8 @@
   },
   {
     "id": "windy-1387182179",
-    "name": "Veliko Brdo: Webcam Makarska ‘s seaside promenade",
-    "city": "Veliko Brdo",
+    "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
+    "city": "unknown",
     "countryCode": "DE",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -40161,17 +40249,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "DE",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252916501",
     "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
     "city": "Rimini",
@@ -40179,6 +40256,17 @@
     "lat": 44.0383,
     "lng": 12.56537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "DE",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40476,6 +40564,17 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040475",
+    "name": "Sydney › East: William Street",
+    "city": "Sydney",
+    "countryCode": "DE",
+    "lat": -33.87376,
+    "lng": 151.21303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40832,17 +40931,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793886368",
-    "name": "Diemtigen › South",
-    "city": "Diemtigen",
-    "countryCode": "DE",
-    "lat": 46.55733,
-    "lng": 7.48695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1599472540",
     "name": "Pavlov: Pavlov u Dolnich Vestonic: CHKO Pálava - Kite Beach Pavlov",
     "city": "Pavlov",
@@ -40850,6 +40938,17 @@
     "lat": 48.88016,
     "lng": 16.67806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1599472540/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793886368",
+    "name": "Diemtigen › South",
+    "city": "Diemtigen",
+    "countryCode": "DE",
+    "lat": 46.55733,
+    "lng": 7.48695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40866,7 +40965,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar: Bridge",
+    "name": "Zadar › South: Bridge",
     "city": "Zadar",
     "countryCode": "DE",
     "lat": 44.11676,
@@ -40942,17 +41041,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545397013",
-    "name": "Turin: Piemonte, Italia: Regio Parco",
-    "city": "Turin",
-    "countryCode": "DE",
-    "lat": 45.09764,
-    "lng": 7.70991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -40960,6 +41048,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545397013",
+    "name": "Turin: Piemonte, Italia: Regio Parco",
+    "city": "Turin",
+    "countryCode": "DE",
+    "lat": 45.09764,
+    "lng": 7.70991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41118,6 +41217,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1520060308",
+    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
+    "city": "Petropavlovsk-Kamchatsky",
+    "countryCode": "DE",
+    "lat": 53.05324,
+    "lng": 158.64491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -41151,17 +41261,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520060308",
-    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
-    "city": "Petropavlovsk-Kamchatsky",
-    "countryCode": "DE",
-    "lat": 53.05324,
-    "lng": 158.64491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -41180,17 +41279,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1481920062",
-    "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "Rovinj",
-    "countryCode": "DE",
-    "lat": 45.08211,
-    "lng": 13.63443,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1481920062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42339,17 +42427,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1587052631",
-    "name": "Mount Shasta",
-    "city": "Mount Shasta",
-    "countryCode": "DE",
-    "lat": 41.30651,
-    "lng": -122.31098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184307577",
     "name": "Langeoog: Haus Jonathan",
     "city": "Langeoog",
@@ -42357,6 +42434,17 @@
     "lat": 53.74459,
     "lng": 7.48439,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184307577/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "DE",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42698,17 +42786,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43204,6 +43281,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "DE",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46079,6 +46167,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "FR",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697037056",
     "name": "Delemont: Gare",
     "city": "Delemont",
@@ -47191,8 +47290,8 @@
   },
   {
     "id": "windy-1192024953",
-    "name": "Varazdin Breg: Zagreb - Varazdin - Place",
-    "city": "Varazdin Breg",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "unknown",
     "countryCode": "FR",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -48246,6 +48345,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "FR",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1202907488",
     "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
     "city": "Flasch",
@@ -48264,17 +48374,6 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "FR",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48385,6 +48484,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "FR",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50634,11 +50744,11 @@
   },
   {
     "id": "windy-1432931105",
-    "name": "Veliko Brdo: Makarska - Riva king Tomislav",
-    "city": "Veliko Brdo",
+    "name": "Makarska › South-east: Port de Makarska",
+    "city": "unknown",
     "countryCode": "FR",
-    "lat": 43.2944,
-    "lng": 17.01626,
+    "lat": 43.29488,
+    "lng": 17.01607,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1432931105/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -50788,8 +50898,8 @@
   },
   {
     "id": "windy-1387182179",
-    "name": "Veliko Brdo: Webcam Makarska ‘s seaside promenade",
-    "city": "Veliko Brdo",
+    "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
+    "city": "unknown",
     "countryCode": "FR",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -50963,17 +51073,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "FR",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252916501",
     "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
     "city": "Rimini",
@@ -50981,6 +51080,17 @@
     "lat": 44.0383,
     "lng": 12.56537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "FR",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51278,6 +51388,17 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040475",
+    "name": "Sydney › East: William Street",
+    "city": "Sydney",
+    "countryCode": "FR",
+    "lat": -33.87376,
+    "lng": 151.21303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51634,17 +51755,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793886368",
-    "name": "Diemtigen › South",
-    "city": "Diemtigen",
-    "countryCode": "FR",
-    "lat": 46.55733,
-    "lng": 7.48695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1599472540",
     "name": "Pavlov: Pavlov u Dolnich Vestonic: CHKO Pálava - Kite Beach Pavlov",
     "city": "Pavlov",
@@ -51652,6 +51762,17 @@
     "lat": 48.88016,
     "lng": 16.67806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1599472540/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793886368",
+    "name": "Diemtigen › South",
+    "city": "Diemtigen",
+    "countryCode": "FR",
+    "lat": 46.55733,
+    "lng": 7.48695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51668,7 +51789,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar: Bridge",
+    "name": "Zadar › South: Bridge",
     "city": "Zadar",
     "countryCode": "FR",
     "lat": 44.11676,
@@ -51744,17 +51865,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545397013",
-    "name": "Turin: Piemonte, Italia: Regio Parco",
-    "city": "Turin",
-    "countryCode": "FR",
-    "lat": 45.09764,
-    "lng": 7.70991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -51762,6 +51872,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545397013",
+    "name": "Turin: Piemonte, Italia: Regio Parco",
+    "city": "Turin",
+    "countryCode": "FR",
+    "lat": 45.09764,
+    "lng": 7.70991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51920,6 +52041,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1520060308",
+    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
+    "city": "Petropavlovsk-Kamchatsky",
+    "countryCode": "FR",
+    "lat": 53.05324,
+    "lng": 158.64491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -51953,17 +52085,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520060308",
-    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
-    "city": "Petropavlovsk-Kamchatsky",
-    "countryCode": "FR",
-    "lat": 53.05324,
-    "lng": 158.64491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -51982,17 +52103,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1481920062",
-    "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "Rovinj",
-    "countryCode": "FR",
-    "lat": 45.08211,
-    "lng": 13.63443,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1481920062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53141,17 +53251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1587052631",
-    "name": "Mount Shasta",
-    "city": "Mount Shasta",
-    "countryCode": "FR",
-    "lat": 41.30651,
-    "lng": -122.31098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184307577",
     "name": "Langeoog: Haus Jonathan",
     "city": "Langeoog",
@@ -53159,6 +53258,17 @@
     "lat": 53.74459,
     "lng": 7.48439,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184307577/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "FR",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53500,17 +53610,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54006,6 +54105,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "FR",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56881,6 +56991,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "CN",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697037056",
     "name": "Delemont: Gare",
     "city": "Delemont",
@@ -57993,8 +58114,8 @@
   },
   {
     "id": "windy-1192024953",
-    "name": "Varazdin Breg: Zagreb - Varazdin - Place",
-    "city": "Varazdin Breg",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "unknown",
     "countryCode": "CN",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -59048,6 +59169,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "CN",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1202907488",
     "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
     "city": "Flasch",
@@ -59066,17 +59198,6 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "CN",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59187,6 +59308,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "CN",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61436,11 +61568,11 @@
   },
   {
     "id": "windy-1432931105",
-    "name": "Veliko Brdo: Makarska - Riva king Tomislav",
-    "city": "Veliko Brdo",
+    "name": "Makarska › South-east: Port de Makarska",
+    "city": "unknown",
     "countryCode": "CN",
-    "lat": 43.2944,
-    "lng": 17.01626,
+    "lat": 43.29488,
+    "lng": 17.01607,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1432931105/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -61590,8 +61722,8 @@
   },
   {
     "id": "windy-1387182179",
-    "name": "Veliko Brdo: Webcam Makarska ‘s seaside promenade",
-    "city": "Veliko Brdo",
+    "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
+    "city": "unknown",
     "countryCode": "CN",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -61765,17 +61897,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "CN",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252916501",
     "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
     "city": "Rimini",
@@ -61783,6 +61904,17 @@
     "lat": 44.0383,
     "lng": 12.56537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "CN",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62080,6 +62212,17 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040475",
+    "name": "Sydney › East: William Street",
+    "city": "Sydney",
+    "countryCode": "CN",
+    "lat": -33.87376,
+    "lng": 151.21303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62436,17 +62579,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793886368",
-    "name": "Diemtigen › South",
-    "city": "Diemtigen",
-    "countryCode": "CN",
-    "lat": 46.55733,
-    "lng": 7.48695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1599472540",
     "name": "Pavlov: Pavlov u Dolnich Vestonic: CHKO Pálava - Kite Beach Pavlov",
     "city": "Pavlov",
@@ -62454,6 +62586,17 @@
     "lat": 48.88016,
     "lng": 16.67806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1599472540/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793886368",
+    "name": "Diemtigen › South",
+    "city": "Diemtigen",
+    "countryCode": "CN",
+    "lat": 46.55733,
+    "lng": 7.48695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62470,7 +62613,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar: Bridge",
+    "name": "Zadar › South: Bridge",
     "city": "Zadar",
     "countryCode": "CN",
     "lat": 44.11676,
@@ -62546,17 +62689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545397013",
-    "name": "Turin: Piemonte, Italia: Regio Parco",
-    "city": "Turin",
-    "countryCode": "CN",
-    "lat": 45.09764,
-    "lng": 7.70991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -62564,6 +62696,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545397013",
+    "name": "Turin: Piemonte, Italia: Regio Parco",
+    "city": "Turin",
+    "countryCode": "CN",
+    "lat": 45.09764,
+    "lng": 7.70991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62722,6 +62865,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1520060308",
+    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
+    "city": "Petropavlovsk-Kamchatsky",
+    "countryCode": "CN",
+    "lat": 53.05324,
+    "lng": 158.64491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -62755,17 +62909,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520060308",
-    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
-    "city": "Petropavlovsk-Kamchatsky",
-    "countryCode": "CN",
-    "lat": 53.05324,
-    "lng": 158.64491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -62784,17 +62927,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1481920062",
-    "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "Rovinj",
-    "countryCode": "CN",
-    "lat": 45.08211,
-    "lng": 13.63443,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1481920062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63943,17 +64075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1587052631",
-    "name": "Mount Shasta",
-    "city": "Mount Shasta",
-    "countryCode": "CN",
-    "lat": 41.30651,
-    "lng": -122.31098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184307577",
     "name": "Langeoog: Haus Jonathan",
     "city": "Langeoog",
@@ -63961,6 +64082,17 @@
     "lat": 53.74459,
     "lng": 7.48439,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184307577/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "CN",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64302,17 +64434,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64808,6 +64929,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "CN",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67683,6 +67815,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "KR",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697037056",
     "name": "Delemont: Gare",
     "city": "Delemont",
@@ -68795,8 +68938,8 @@
   },
   {
     "id": "windy-1192024953",
-    "name": "Varazdin Breg: Zagreb - Varazdin - Place",
-    "city": "Varazdin Breg",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "unknown",
     "countryCode": "KR",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -69850,6 +69993,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "KR",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1202907488",
     "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
     "city": "Flasch",
@@ -69868,17 +70022,6 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "KR",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69989,6 +70132,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "KR",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72238,11 +72392,11 @@
   },
   {
     "id": "windy-1432931105",
-    "name": "Veliko Brdo: Makarska - Riva king Tomislav",
-    "city": "Veliko Brdo",
+    "name": "Makarska › South-east: Port de Makarska",
+    "city": "unknown",
     "countryCode": "KR",
-    "lat": 43.2944,
-    "lng": 17.01626,
+    "lat": 43.29488,
+    "lng": 17.01607,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1432931105/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -72392,8 +72546,8 @@
   },
   {
     "id": "windy-1387182179",
-    "name": "Veliko Brdo: Webcam Makarska ‘s seaside promenade",
-    "city": "Veliko Brdo",
+    "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
+    "city": "unknown",
     "countryCode": "KR",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -72567,17 +72721,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "KR",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252916501",
     "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
     "city": "Rimini",
@@ -72585,6 +72728,17 @@
     "lat": 44.0383,
     "lng": 12.56537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "KR",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72882,6 +73036,17 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040475",
+    "name": "Sydney › East: William Street",
+    "city": "Sydney",
+    "countryCode": "KR",
+    "lat": -33.87376,
+    "lng": 151.21303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73238,17 +73403,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793886368",
-    "name": "Diemtigen › South",
-    "city": "Diemtigen",
-    "countryCode": "KR",
-    "lat": 46.55733,
-    "lng": 7.48695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1599472540",
     "name": "Pavlov: Pavlov u Dolnich Vestonic: CHKO Pálava - Kite Beach Pavlov",
     "city": "Pavlov",
@@ -73256,6 +73410,17 @@
     "lat": 48.88016,
     "lng": 16.67806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1599472540/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793886368",
+    "name": "Diemtigen › South",
+    "city": "Diemtigen",
+    "countryCode": "KR",
+    "lat": 46.55733,
+    "lng": 7.48695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73272,7 +73437,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar: Bridge",
+    "name": "Zadar › South: Bridge",
     "city": "Zadar",
     "countryCode": "KR",
     "lat": 44.11676,
@@ -73348,17 +73513,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545397013",
-    "name": "Turin: Piemonte, Italia: Regio Parco",
-    "city": "Turin",
-    "countryCode": "KR",
-    "lat": 45.09764,
-    "lng": 7.70991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -73366,6 +73520,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545397013",
+    "name": "Turin: Piemonte, Italia: Regio Parco",
+    "city": "Turin",
+    "countryCode": "KR",
+    "lat": 45.09764,
+    "lng": 7.70991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73524,6 +73689,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1520060308",
+    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
+    "city": "Petropavlovsk-Kamchatsky",
+    "countryCode": "KR",
+    "lat": 53.05324,
+    "lng": 158.64491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -73557,17 +73733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520060308",
-    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
-    "city": "Petropavlovsk-Kamchatsky",
-    "countryCode": "KR",
-    "lat": 53.05324,
-    "lng": 158.64491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -73586,17 +73751,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1481920062",
-    "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "Rovinj",
-    "countryCode": "KR",
-    "lat": 45.08211,
-    "lng": 13.63443,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1481920062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74745,17 +74899,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1587052631",
-    "name": "Mount Shasta",
-    "city": "Mount Shasta",
-    "countryCode": "KR",
-    "lat": 41.30651,
-    "lng": -122.31098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184307577",
     "name": "Langeoog: Haus Jonathan",
     "city": "Langeoog",
@@ -74763,6 +74906,17 @@
     "lat": 53.74459,
     "lng": 7.48439,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184307577/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "KR",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75104,17 +75258,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75610,6 +75753,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "KR",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78485,6 +78639,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "IN",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697037056",
     "name": "Delemont: Gare",
     "city": "Delemont",
@@ -79597,8 +79762,8 @@
   },
   {
     "id": "windy-1192024953",
-    "name": "Varazdin Breg: Zagreb - Varazdin - Place",
-    "city": "Varazdin Breg",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "unknown",
     "countryCode": "IN",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -80652,6 +80817,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "IN",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1202907488",
     "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
     "city": "Flasch",
@@ -80670,17 +80846,6 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "IN",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80791,6 +80956,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "IN",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83040,11 +83216,11 @@
   },
   {
     "id": "windy-1432931105",
-    "name": "Veliko Brdo: Makarska - Riva king Tomislav",
-    "city": "Veliko Brdo",
+    "name": "Makarska › South-east: Port de Makarska",
+    "city": "unknown",
     "countryCode": "IN",
-    "lat": 43.2944,
-    "lng": 17.01626,
+    "lat": 43.29488,
+    "lng": 17.01607,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1432931105/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -83194,8 +83370,8 @@
   },
   {
     "id": "windy-1387182179",
-    "name": "Veliko Brdo: Webcam Makarska ‘s seaside promenade",
-    "city": "Veliko Brdo",
+    "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
+    "city": "unknown",
     "countryCode": "IN",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -83369,17 +83545,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "IN",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252916501",
     "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
     "city": "Rimini",
@@ -83387,6 +83552,17 @@
     "lat": 44.0383,
     "lng": 12.56537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "IN",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83684,6 +83860,17 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040475",
+    "name": "Sydney › East: William Street",
+    "city": "Sydney",
+    "countryCode": "IN",
+    "lat": -33.87376,
+    "lng": 151.21303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84040,17 +84227,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793886368",
-    "name": "Diemtigen › South",
-    "city": "Diemtigen",
-    "countryCode": "IN",
-    "lat": 46.55733,
-    "lng": 7.48695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1599472540",
     "name": "Pavlov: Pavlov u Dolnich Vestonic: CHKO Pálava - Kite Beach Pavlov",
     "city": "Pavlov",
@@ -84058,6 +84234,17 @@
     "lat": 48.88016,
     "lng": 16.67806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1599472540/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793886368",
+    "name": "Diemtigen › South",
+    "city": "Diemtigen",
+    "countryCode": "IN",
+    "lat": 46.55733,
+    "lng": 7.48695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84074,7 +84261,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar: Bridge",
+    "name": "Zadar › South: Bridge",
     "city": "Zadar",
     "countryCode": "IN",
     "lat": 44.11676,
@@ -84150,17 +84337,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545397013",
-    "name": "Turin: Piemonte, Italia: Regio Parco",
-    "city": "Turin",
-    "countryCode": "IN",
-    "lat": 45.09764,
-    "lng": 7.70991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -84168,6 +84344,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545397013",
+    "name": "Turin: Piemonte, Italia: Regio Parco",
+    "city": "Turin",
+    "countryCode": "IN",
+    "lat": 45.09764,
+    "lng": 7.70991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84326,6 +84513,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1520060308",
+    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
+    "city": "Petropavlovsk-Kamchatsky",
+    "countryCode": "IN",
+    "lat": 53.05324,
+    "lng": 158.64491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -84359,17 +84557,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520060308",
-    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
-    "city": "Petropavlovsk-Kamchatsky",
-    "countryCode": "IN",
-    "lat": 53.05324,
-    "lng": 158.64491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -84388,17 +84575,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1481920062",
-    "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "Rovinj",
-    "countryCode": "IN",
-    "lat": 45.08211,
-    "lng": 13.63443,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1481920062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85547,17 +85723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1587052631",
-    "name": "Mount Shasta",
-    "city": "Mount Shasta",
-    "countryCode": "IN",
-    "lat": 41.30651,
-    "lng": -122.31098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184307577",
     "name": "Langeoog: Haus Jonathan",
     "city": "Langeoog",
@@ -85565,6 +85730,17 @@
     "lat": 53.74459,
     "lng": 7.48439,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184307577/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "IN",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85906,17 +86082,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86412,6 +86577,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "IN",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89287,6 +89463,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "BR",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697037056",
     "name": "Delemont: Gare",
     "city": "Delemont",
@@ -90399,8 +90586,8 @@
   },
   {
     "id": "windy-1192024953",
-    "name": "Varazdin Breg: Zagreb - Varazdin - Place",
-    "city": "Varazdin Breg",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "unknown",
     "countryCode": "BR",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -91454,6 +91641,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "BR",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1202907488",
     "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
     "city": "Flasch",
@@ -91472,17 +91670,6 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "BR",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91593,6 +91780,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "BR",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93842,11 +94040,11 @@
   },
   {
     "id": "windy-1432931105",
-    "name": "Veliko Brdo: Makarska - Riva king Tomislav",
-    "city": "Veliko Brdo",
+    "name": "Makarska › South-east: Port de Makarska",
+    "city": "unknown",
     "countryCode": "BR",
-    "lat": 43.2944,
-    "lng": 17.01626,
+    "lat": 43.29488,
+    "lng": 17.01607,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1432931105/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -93996,8 +94194,8 @@
   },
   {
     "id": "windy-1387182179",
-    "name": "Veliko Brdo: Webcam Makarska ‘s seaside promenade",
-    "city": "Veliko Brdo",
+    "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
+    "city": "unknown",
     "countryCode": "BR",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -94171,17 +94369,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "BR",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252916501",
     "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
     "city": "Rimini",
@@ -94189,6 +94376,17 @@
     "lat": 44.0383,
     "lng": 12.56537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "BR",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94486,6 +94684,17 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040475",
+    "name": "Sydney › East: William Street",
+    "city": "Sydney",
+    "countryCode": "BR",
+    "lat": -33.87376,
+    "lng": 151.21303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94842,17 +95051,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793886368",
-    "name": "Diemtigen › South",
-    "city": "Diemtigen",
-    "countryCode": "BR",
-    "lat": 46.55733,
-    "lng": 7.48695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1599472540",
     "name": "Pavlov: Pavlov u Dolnich Vestonic: CHKO Pálava - Kite Beach Pavlov",
     "city": "Pavlov",
@@ -94860,6 +95058,17 @@
     "lat": 48.88016,
     "lng": 16.67806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1599472540/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793886368",
+    "name": "Diemtigen › South",
+    "city": "Diemtigen",
+    "countryCode": "BR",
+    "lat": 46.55733,
+    "lng": 7.48695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94876,7 +95085,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar: Bridge",
+    "name": "Zadar › South: Bridge",
     "city": "Zadar",
     "countryCode": "BR",
     "lat": 44.11676,
@@ -94952,17 +95161,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545397013",
-    "name": "Turin: Piemonte, Italia: Regio Parco",
-    "city": "Turin",
-    "countryCode": "BR",
-    "lat": 45.09764,
-    "lng": 7.70991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -94970,6 +95168,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545397013",
+    "name": "Turin: Piemonte, Italia: Regio Parco",
+    "city": "Turin",
+    "countryCode": "BR",
+    "lat": 45.09764,
+    "lng": 7.70991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95128,6 +95337,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1520060308",
+    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
+    "city": "Petropavlovsk-Kamchatsky",
+    "countryCode": "BR",
+    "lat": 53.05324,
+    "lng": 158.64491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -95161,17 +95381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520060308",
-    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
-    "city": "Petropavlovsk-Kamchatsky",
-    "countryCode": "BR",
-    "lat": 53.05324,
-    "lng": 158.64491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -95190,17 +95399,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1481920062",
-    "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "Rovinj",
-    "countryCode": "BR",
-    "lat": 45.08211,
-    "lng": 13.63443,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1481920062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96349,17 +96547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1587052631",
-    "name": "Mount Shasta",
-    "city": "Mount Shasta",
-    "countryCode": "BR",
-    "lat": 41.30651,
-    "lng": -122.31098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184307577",
     "name": "Langeoog: Haus Jonathan",
     "city": "Langeoog",
@@ -96367,6 +96554,17 @@
     "lat": 53.74459,
     "lng": 7.48439,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184307577/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "BR",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96708,17 +96906,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97214,6 +97401,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "BR",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100089,6 +100287,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "AU",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697037056",
     "name": "Delemont: Gare",
     "city": "Delemont",
@@ -101201,8 +101410,8 @@
   },
   {
     "id": "windy-1192024953",
-    "name": "Varazdin Breg: Zagreb - Varazdin - Place",
-    "city": "Varazdin Breg",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "unknown",
     "countryCode": "AU",
     "lat": 46.30783,
     "lng": 16.33794,
@@ -102256,6 +102465,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1638604776",
+    "name": "Tapaz",
+    "city": "Tapaz",
+    "countryCode": "AU",
+    "lat": 13.6755,
+    "lng": 124.30548,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1202907488",
     "name": "Flasch › North-west: Fläscherberg - Sargans - Gonzen",
     "city": "Flasch",
@@ -102274,17 +102494,6 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1638604776",
-    "name": "Tapaz",
-    "city": "Tapaz",
-    "countryCode": "AU",
-    "lat": 13.6755,
-    "lng": 124.30548,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1638604776/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102395,6 +102604,17 @@
     "lat": 5.97758,
     "lng": 116.07608,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602865598/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "AU",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104644,11 +104864,11 @@
   },
   {
     "id": "windy-1432931105",
-    "name": "Veliko Brdo: Makarska - Riva king Tomislav",
-    "city": "Veliko Brdo",
+    "name": "Makarska › South-east: Port de Makarska",
+    "city": "unknown",
     "countryCode": "AU",
-    "lat": 43.2944,
-    "lng": 17.01626,
+    "lat": 43.29488,
+    "lng": 17.01607,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1432931105/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -104798,8 +105018,8 @@
   },
   {
     "id": "windy-1387182179",
-    "name": "Veliko Brdo: Webcam Makarska ‘s seaside promenade",
-    "city": "Veliko Brdo",
+    "name": "Makarska › North-west: Makarska breakwater - Luka Makarska",
+    "city": "unknown",
     "countryCode": "AU",
     "lat": 43.29095,
     "lng": 17.01974,
@@ -104973,17 +105193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1396331188",
-    "name": "Olsztyn: Lotnisko Dajtki",
-    "city": "Olsztyn",
-    "countryCode": "AU",
-    "lat": 53.77488,
-    "lng": 20.41623,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252916501",
     "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
     "city": "Rimini",
@@ -104991,6 +105200,17 @@
     "lat": 44.0383,
     "lng": 12.56537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1396331188",
+    "name": "Olsztyn: Lotnisko Dajtki",
+    "city": "Olsztyn",
+    "countryCode": "AU",
+    "lat": 53.77488,
+    "lng": 20.41623,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105288,6 +105508,17 @@
     "lat": 49.13963,
     "lng": 20.22952,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230040475",
+    "name": "Sydney › East: William Street",
+    "city": "Sydney",
+    "countryCode": "AU",
+    "lat": -33.87376,
+    "lng": 151.21303,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040475/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105644,17 +105875,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793886368",
-    "name": "Diemtigen › South",
-    "city": "Diemtigen",
-    "countryCode": "AU",
-    "lat": 46.55733,
-    "lng": 7.48695,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1599472540",
     "name": "Pavlov: Pavlov u Dolnich Vestonic: CHKO Pálava - Kite Beach Pavlov",
     "city": "Pavlov",
@@ -105662,6 +105882,17 @@
     "lat": 48.88016,
     "lng": 16.67806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1599472540/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793886368",
+    "name": "Diemtigen › South",
+    "city": "Diemtigen",
+    "countryCode": "AU",
+    "lat": 46.55733,
+    "lng": 7.48695,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793886368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105678,7 +105909,7 @@
   },
   {
     "id": "windy-1434054305",
-    "name": "Zadar: Bridge",
+    "name": "Zadar › South: Bridge",
     "city": "Zadar",
     "countryCode": "AU",
     "lat": 44.11676,
@@ -105754,17 +105985,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545397013",
-    "name": "Turin: Piemonte, Italia: Regio Parco",
-    "city": "Turin",
-    "countryCode": "AU",
-    "lat": 45.09764,
-    "lng": 7.70991,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -105772,6 +105992,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545397013",
+    "name": "Turin: Piemonte, Italia: Regio Parco",
+    "city": "Turin",
+    "countryCode": "AU",
+    "lat": 45.09764,
+    "lng": 7.70991,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545397013/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105930,6 +106161,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1520060308",
+    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
+    "city": "Petropavlovsk-Kamchatsky",
+    "countryCode": "AU",
+    "lat": 53.05324,
+    "lng": 158.64491,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -105963,17 +106205,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520060308",
-    "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
-    "city": "Petropavlovsk-Kamchatsky",
-    "countryCode": "AU",
-    "lat": 53.05324,
-    "lng": 158.64491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -105992,17 +106223,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1481920062",
-    "name": "Rovinj › South-east: Trg Maršala Tita - Port of Rovinj",
-    "city": "Rovinj",
-    "countryCode": "AU",
-    "lat": 45.08211,
-    "lng": 13.63443,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1481920062/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107151,17 +107371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1587052631",
-    "name": "Mount Shasta",
-    "city": "Mount Shasta",
-    "countryCode": "AU",
-    "lat": 41.30651,
-    "lng": -122.31098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1184307577",
     "name": "Langeoog: Haus Jonathan",
     "city": "Langeoog",
@@ -107169,6 +107378,17 @@
     "lat": 53.74459,
     "lng": 7.48439,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184307577/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1587052631",
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "countryCode": "AU",
+    "lat": 41.30651,
+    "lng": -122.31098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1587052631/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107510,17 +107730,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108016,6 +108225,17 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1619856885",
+    "name": "Levanto",
+    "city": "Levanto",
+    "countryCode": "AU",
+    "lat": 44.16623,
+    "lng": 9.61015,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
