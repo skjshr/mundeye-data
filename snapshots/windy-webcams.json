@@ -792,17 +792,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1228154082",
-    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
-    "city": "San Bartolome de Tirajana",
-    "countryCode": "JP",
-    "lat": 27.73698,
-    "lng": -15.59462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229687591",
     "name": "Barcelona: Plaça de Catalunya",
     "city": "Barcelona",
@@ -810,6 +799,17 @@
     "lat": 41.38565,
     "lng": 2.17014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1228154082",
+    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
+    "city": "San Bartolome de Tirajana",
+    "countryCode": "JP",
+    "lat": 27.73698,
+    "lng": -15.59462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1793,17 +1793,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "JP",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -2086,6 +2075,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2541,17 +2541,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "JP",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -2581,6 +2570,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "JP",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4224,6 +4224,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "JP",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1141651608",
     "name": "Arolla: Mont-Collon",
     "city": "Arolla",
@@ -5060,17 +5071,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "JP",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -5078,6 +5078,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "JP",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6941,6 +6952,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "JP",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292515318",
     "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
     "city": "Urnasch",
@@ -6959,17 +6981,6 @@
     "lat": 42.27081,
     "lng": 27.75725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "JP",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8261,17 +8272,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240162472",
-    "name": "Villingen-Schwenningen › East: Rietstraße",
-    "city": "Villingen-Schwenningen",
-    "countryCode": "JP",
-    "lat": 48.05974,
-    "lng": 8.45652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1379691005",
     "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
     "city": "Sopot",
@@ -8279,6 +8279,17 @@
     "lat": 54.4449,
     "lng": 18.56821,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240162472",
+    "name": "Villingen-Schwenningen › East: Rietstraße",
+    "city": "Villingen-Schwenningen",
+    "countryCode": "JP",
+    "lat": 48.05974,
+    "lng": 8.45652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8503,17 +8514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260543690",
-    "name": "Saldes",
-    "city": "Saldes",
-    "countryCode": "JP",
-    "lat": 42.23052,
-    "lng": 1.7353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1583623843",
     "name": "Ubatuba › East: Ilha do Pontal - Praia da Lagoinha",
     "city": "Ubatuba",
@@ -8521,6 +8521,17 @@
     "lat": -23.53188,
     "lng": -45.22415,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583623843/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260543690",
+    "name": "Saldes",
+    "city": "Saldes",
+    "countryCode": "JP",
+    "lat": 42.23052,
+    "lng": 1.7353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8950,17 +8961,6 @@
     "lat": 48.39302,
     "lng": 7.26978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "JP",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10725,17 +10725,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "JP",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462381714",
     "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
     "city": "San Sebastián",
@@ -10743,6 +10732,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "JP",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10842,6 +10842,28 @@
     "lat": 46.61146,
     "lng": 7.29212,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246601261",
+    "name": "Landshut › South-west: Landshuter Altstadt 2",
+    "city": "Landshut",
+    "countryCode": "JP",
+    "lat": 48.53645,
+    "lng": 12.15196,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343916615",
+    "name": "Swampscott: Boston, Southwest View",
+    "city": "Swampscott",
+    "countryCode": "JP",
+    "lat": 42.4687,
+    "lng": -70.90877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11638,17 +11660,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1228154082",
-    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
-    "city": "San Bartolome de Tirajana",
-    "countryCode": "US",
-    "lat": 27.73698,
-    "lng": -15.59462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229687591",
     "name": "Barcelona: Plaça de Catalunya",
     "city": "Barcelona",
@@ -11656,6 +11667,17 @@
     "lat": 41.38565,
     "lng": 2.17014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1228154082",
+    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
+    "city": "San Bartolome de Tirajana",
+    "countryCode": "US",
+    "lat": 27.73698,
+    "lng": -15.59462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12639,17 +12661,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "US",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -12932,6 +12943,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13387,17 +13409,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "US",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -13427,6 +13438,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "US",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15070,6 +15092,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "US",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1141651608",
     "name": "Arolla: Mont-Collon",
     "city": "Arolla",
@@ -15906,17 +15939,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "US",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -15924,6 +15946,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "US",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17787,6 +17820,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "US",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292515318",
     "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
     "city": "Urnasch",
@@ -17805,17 +17849,6 @@
     "lat": 42.27081,
     "lng": 27.75725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "US",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19107,17 +19140,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240162472",
-    "name": "Villingen-Schwenningen › East: Rietstraße",
-    "city": "Villingen-Schwenningen",
-    "countryCode": "US",
-    "lat": 48.05974,
-    "lng": 8.45652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1379691005",
     "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
     "city": "Sopot",
@@ -19125,6 +19147,17 @@
     "lat": 54.4449,
     "lng": 18.56821,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240162472",
+    "name": "Villingen-Schwenningen › East: Rietstraße",
+    "city": "Villingen-Schwenningen",
+    "countryCode": "US",
+    "lat": 48.05974,
+    "lng": 8.45652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19349,17 +19382,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260543690",
-    "name": "Saldes",
-    "city": "Saldes",
-    "countryCode": "US",
-    "lat": 42.23052,
-    "lng": 1.7353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1583623843",
     "name": "Ubatuba › East: Ilha do Pontal - Praia da Lagoinha",
     "city": "Ubatuba",
@@ -19367,6 +19389,17 @@
     "lat": -23.53188,
     "lng": -45.22415,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583623843/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260543690",
+    "name": "Saldes",
+    "city": "Saldes",
+    "countryCode": "US",
+    "lat": 42.23052,
+    "lng": 1.7353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19796,17 +19829,6 @@
     "lat": 48.39302,
     "lng": 7.26978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "US",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21571,17 +21593,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "US",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462381714",
     "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
     "city": "San Sebastián",
@@ -21589,6 +21600,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "US",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21688,6 +21710,28 @@
     "lat": 46.61146,
     "lng": 7.29212,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246601261",
+    "name": "Landshut › South-west: Landshuter Altstadt 2",
+    "city": "Landshut",
+    "countryCode": "US",
+    "lat": 48.53645,
+    "lng": 12.15196,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343916615",
+    "name": "Swampscott: Boston, Southwest View",
+    "city": "Swampscott",
+    "countryCode": "US",
+    "lat": 42.4687,
+    "lng": -70.90877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22484,17 +22528,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1228154082",
-    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
-    "city": "San Bartolome de Tirajana",
-    "countryCode": "GB",
-    "lat": 27.73698,
-    "lng": -15.59462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229687591",
     "name": "Barcelona: Plaça de Catalunya",
     "city": "Barcelona",
@@ -22502,6 +22535,17 @@
     "lat": 41.38565,
     "lng": 2.17014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1228154082",
+    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
+    "city": "San Bartolome de Tirajana",
+    "countryCode": "GB",
+    "lat": 27.73698,
+    "lng": -15.59462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23485,17 +23529,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "GB",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -23778,6 +23811,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24233,17 +24277,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "GB",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -24273,6 +24306,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "GB",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25916,6 +25960,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "GB",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1141651608",
     "name": "Arolla: Mont-Collon",
     "city": "Arolla",
@@ -26752,17 +26807,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "GB",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -26770,6 +26814,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "GB",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28633,6 +28688,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "GB",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292515318",
     "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
     "city": "Urnasch",
@@ -28651,17 +28717,6 @@
     "lat": 42.27081,
     "lng": 27.75725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "GB",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29953,17 +30008,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240162472",
-    "name": "Villingen-Schwenningen › East: Rietstraße",
-    "city": "Villingen-Schwenningen",
-    "countryCode": "GB",
-    "lat": 48.05974,
-    "lng": 8.45652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1379691005",
     "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
     "city": "Sopot",
@@ -29971,6 +30015,17 @@
     "lat": 54.4449,
     "lng": 18.56821,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240162472",
+    "name": "Villingen-Schwenningen › East: Rietstraße",
+    "city": "Villingen-Schwenningen",
+    "countryCode": "GB",
+    "lat": 48.05974,
+    "lng": 8.45652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30195,17 +30250,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260543690",
-    "name": "Saldes",
-    "city": "Saldes",
-    "countryCode": "GB",
-    "lat": 42.23052,
-    "lng": 1.7353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1583623843",
     "name": "Ubatuba › East: Ilha do Pontal - Praia da Lagoinha",
     "city": "Ubatuba",
@@ -30213,6 +30257,17 @@
     "lat": -23.53188,
     "lng": -45.22415,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583623843/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260543690",
+    "name": "Saldes",
+    "city": "Saldes",
+    "countryCode": "GB",
+    "lat": 42.23052,
+    "lng": 1.7353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30642,17 +30697,6 @@
     "lat": 48.39302,
     "lng": 7.26978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "GB",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32417,17 +32461,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "GB",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462381714",
     "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
     "city": "San Sebastián",
@@ -32435,6 +32468,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "GB",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32534,6 +32578,28 @@
     "lat": 46.61146,
     "lng": 7.29212,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246601261",
+    "name": "Landshut › South-west: Landshuter Altstadt 2",
+    "city": "Landshut",
+    "countryCode": "GB",
+    "lat": 48.53645,
+    "lng": 12.15196,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343916615",
+    "name": "Swampscott: Boston, Southwest View",
+    "city": "Swampscott",
+    "countryCode": "GB",
+    "lat": 42.4687,
+    "lng": -70.90877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33330,17 +33396,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1228154082",
-    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
-    "city": "San Bartolome de Tirajana",
-    "countryCode": "DE",
-    "lat": 27.73698,
-    "lng": -15.59462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229687591",
     "name": "Barcelona: Plaça de Catalunya",
     "city": "Barcelona",
@@ -33348,6 +33403,17 @@
     "lat": 41.38565,
     "lng": 2.17014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1228154082",
+    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
+    "city": "San Bartolome de Tirajana",
+    "countryCode": "DE",
+    "lat": 27.73698,
+    "lng": -15.59462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34331,17 +34397,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "DE",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -34624,6 +34679,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35079,17 +35145,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "DE",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -35119,6 +35174,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "DE",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36762,6 +36828,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "DE",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1141651608",
     "name": "Arolla: Mont-Collon",
     "city": "Arolla",
@@ -37598,17 +37675,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "DE",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -37616,6 +37682,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "DE",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39479,6 +39556,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "DE",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292515318",
     "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
     "city": "Urnasch",
@@ -39497,17 +39585,6 @@
     "lat": 42.27081,
     "lng": 27.75725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "DE",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40799,17 +40876,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240162472",
-    "name": "Villingen-Schwenningen › East: Rietstraße",
-    "city": "Villingen-Schwenningen",
-    "countryCode": "DE",
-    "lat": 48.05974,
-    "lng": 8.45652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1379691005",
     "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
     "city": "Sopot",
@@ -40817,6 +40883,17 @@
     "lat": 54.4449,
     "lng": 18.56821,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240162472",
+    "name": "Villingen-Schwenningen › East: Rietstraße",
+    "city": "Villingen-Schwenningen",
+    "countryCode": "DE",
+    "lat": 48.05974,
+    "lng": 8.45652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41041,17 +41118,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260543690",
-    "name": "Saldes",
-    "city": "Saldes",
-    "countryCode": "DE",
-    "lat": 42.23052,
-    "lng": 1.7353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1583623843",
     "name": "Ubatuba › East: Ilha do Pontal - Praia da Lagoinha",
     "city": "Ubatuba",
@@ -41059,6 +41125,17 @@
     "lat": -23.53188,
     "lng": -45.22415,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583623843/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260543690",
+    "name": "Saldes",
+    "city": "Saldes",
+    "countryCode": "DE",
+    "lat": 42.23052,
+    "lng": 1.7353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41488,17 +41565,6 @@
     "lat": 48.39302,
     "lng": 7.26978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "DE",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43263,17 +43329,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "DE",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462381714",
     "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
     "city": "San Sebastián",
@@ -43281,6 +43336,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "DE",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43380,6 +43446,28 @@
     "lat": 46.61146,
     "lng": 7.29212,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246601261",
+    "name": "Landshut › South-west: Landshuter Altstadt 2",
+    "city": "Landshut",
+    "countryCode": "DE",
+    "lat": 48.53645,
+    "lng": 12.15196,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343916615",
+    "name": "Swampscott: Boston, Southwest View",
+    "city": "Swampscott",
+    "countryCode": "DE",
+    "lat": 42.4687,
+    "lng": -70.90877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44176,17 +44264,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1228154082",
-    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
-    "city": "San Bartolome de Tirajana",
-    "countryCode": "FR",
-    "lat": 27.73698,
-    "lng": -15.59462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229687591",
     "name": "Barcelona: Plaça de Catalunya",
     "city": "Barcelona",
@@ -44194,6 +44271,17 @@
     "lat": 41.38565,
     "lng": 2.17014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1228154082",
+    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
+    "city": "San Bartolome de Tirajana",
+    "countryCode": "FR",
+    "lat": 27.73698,
+    "lng": -15.59462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45177,17 +45265,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "FR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -45470,6 +45547,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45925,17 +46013,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "FR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -45965,6 +46042,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "FR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47608,6 +47696,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "FR",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1141651608",
     "name": "Arolla: Mont-Collon",
     "city": "Arolla",
@@ -48444,17 +48543,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "FR",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -48462,6 +48550,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "FR",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50325,6 +50424,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "FR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292515318",
     "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
     "city": "Urnasch",
@@ -50343,17 +50453,6 @@
     "lat": 42.27081,
     "lng": 27.75725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "FR",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51645,17 +51744,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240162472",
-    "name": "Villingen-Schwenningen › East: Rietstraße",
-    "city": "Villingen-Schwenningen",
-    "countryCode": "FR",
-    "lat": 48.05974,
-    "lng": 8.45652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1379691005",
     "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
     "city": "Sopot",
@@ -51663,6 +51751,17 @@
     "lat": 54.4449,
     "lng": 18.56821,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240162472",
+    "name": "Villingen-Schwenningen › East: Rietstraße",
+    "city": "Villingen-Schwenningen",
+    "countryCode": "FR",
+    "lat": 48.05974,
+    "lng": 8.45652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51887,17 +51986,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260543690",
-    "name": "Saldes",
-    "city": "Saldes",
-    "countryCode": "FR",
-    "lat": 42.23052,
-    "lng": 1.7353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1583623843",
     "name": "Ubatuba › East: Ilha do Pontal - Praia da Lagoinha",
     "city": "Ubatuba",
@@ -51905,6 +51993,17 @@
     "lat": -23.53188,
     "lng": -45.22415,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583623843/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260543690",
+    "name": "Saldes",
+    "city": "Saldes",
+    "countryCode": "FR",
+    "lat": 42.23052,
+    "lng": 1.7353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52334,17 +52433,6 @@
     "lat": 48.39302,
     "lng": 7.26978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "FR",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54109,17 +54197,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "FR",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462381714",
     "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
     "city": "San Sebastián",
@@ -54127,6 +54204,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "FR",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54226,6 +54314,28 @@
     "lat": 46.61146,
     "lng": 7.29212,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246601261",
+    "name": "Landshut › South-west: Landshuter Altstadt 2",
+    "city": "Landshut",
+    "countryCode": "FR",
+    "lat": 48.53645,
+    "lng": 12.15196,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343916615",
+    "name": "Swampscott: Boston, Southwest View",
+    "city": "Swampscott",
+    "countryCode": "FR",
+    "lat": 42.4687,
+    "lng": -70.90877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55022,17 +55132,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1228154082",
-    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
-    "city": "San Bartolome de Tirajana",
-    "countryCode": "CN",
-    "lat": 27.73698,
-    "lng": -15.59462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229687591",
     "name": "Barcelona: Plaça de Catalunya",
     "city": "Barcelona",
@@ -55040,6 +55139,17 @@
     "lat": 41.38565,
     "lng": 2.17014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1228154082",
+    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
+    "city": "San Bartolome de Tirajana",
+    "countryCode": "CN",
+    "lat": 27.73698,
+    "lng": -15.59462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56023,17 +56133,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "CN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -56316,6 +56415,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56771,17 +56881,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "CN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -56811,6 +56910,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "CN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58454,6 +58564,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "CN",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1141651608",
     "name": "Arolla: Mont-Collon",
     "city": "Arolla",
@@ -59290,17 +59411,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "CN",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -59308,6 +59418,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "CN",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61171,6 +61292,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "CN",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292515318",
     "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
     "city": "Urnasch",
@@ -61189,17 +61321,6 @@
     "lat": 42.27081,
     "lng": 27.75725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "CN",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62491,17 +62612,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240162472",
-    "name": "Villingen-Schwenningen › East: Rietstraße",
-    "city": "Villingen-Schwenningen",
-    "countryCode": "CN",
-    "lat": 48.05974,
-    "lng": 8.45652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1379691005",
     "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
     "city": "Sopot",
@@ -62509,6 +62619,17 @@
     "lat": 54.4449,
     "lng": 18.56821,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240162472",
+    "name": "Villingen-Schwenningen › East: Rietstraße",
+    "city": "Villingen-Schwenningen",
+    "countryCode": "CN",
+    "lat": 48.05974,
+    "lng": 8.45652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62733,17 +62854,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260543690",
-    "name": "Saldes",
-    "city": "Saldes",
-    "countryCode": "CN",
-    "lat": 42.23052,
-    "lng": 1.7353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1583623843",
     "name": "Ubatuba › East: Ilha do Pontal - Praia da Lagoinha",
     "city": "Ubatuba",
@@ -62751,6 +62861,17 @@
     "lat": -23.53188,
     "lng": -45.22415,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583623843/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260543690",
+    "name": "Saldes",
+    "city": "Saldes",
+    "countryCode": "CN",
+    "lat": 42.23052,
+    "lng": 1.7353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63180,17 +63301,6 @@
     "lat": 48.39302,
     "lng": 7.26978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "CN",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64955,17 +65065,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "CN",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462381714",
     "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
     "city": "San Sebastián",
@@ -64973,6 +65072,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "CN",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65072,6 +65182,28 @@
     "lat": 46.61146,
     "lng": 7.29212,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246601261",
+    "name": "Landshut › South-west: Landshuter Altstadt 2",
+    "city": "Landshut",
+    "countryCode": "CN",
+    "lat": 48.53645,
+    "lng": 12.15196,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343916615",
+    "name": "Swampscott: Boston, Southwest View",
+    "city": "Swampscott",
+    "countryCode": "CN",
+    "lat": 42.4687,
+    "lng": -70.90877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65868,17 +66000,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1228154082",
-    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
-    "city": "San Bartolome de Tirajana",
-    "countryCode": "KR",
-    "lat": 27.73698,
-    "lng": -15.59462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229687591",
     "name": "Barcelona: Plaça de Catalunya",
     "city": "Barcelona",
@@ -65886,6 +66007,17 @@
     "lat": 41.38565,
     "lng": 2.17014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1228154082",
+    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
+    "city": "San Bartolome de Tirajana",
+    "countryCode": "KR",
+    "lat": 27.73698,
+    "lng": -15.59462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66869,17 +67001,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "KR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -67162,6 +67283,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67617,17 +67749,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "KR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -67657,6 +67778,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "KR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69300,6 +69432,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "KR",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1141651608",
     "name": "Arolla: Mont-Collon",
     "city": "Arolla",
@@ -70136,17 +70279,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "KR",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -70154,6 +70286,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "KR",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72017,6 +72160,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "KR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292515318",
     "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
     "city": "Urnasch",
@@ -72035,17 +72189,6 @@
     "lat": 42.27081,
     "lng": 27.75725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "KR",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73337,17 +73480,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240162472",
-    "name": "Villingen-Schwenningen › East: Rietstraße",
-    "city": "Villingen-Schwenningen",
-    "countryCode": "KR",
-    "lat": 48.05974,
-    "lng": 8.45652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1379691005",
     "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
     "city": "Sopot",
@@ -73355,6 +73487,17 @@
     "lat": 54.4449,
     "lng": 18.56821,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240162472",
+    "name": "Villingen-Schwenningen › East: Rietstraße",
+    "city": "Villingen-Schwenningen",
+    "countryCode": "KR",
+    "lat": 48.05974,
+    "lng": 8.45652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73579,17 +73722,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260543690",
-    "name": "Saldes",
-    "city": "Saldes",
-    "countryCode": "KR",
-    "lat": 42.23052,
-    "lng": 1.7353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1583623843",
     "name": "Ubatuba › East: Ilha do Pontal - Praia da Lagoinha",
     "city": "Ubatuba",
@@ -73597,6 +73729,17 @@
     "lat": -23.53188,
     "lng": -45.22415,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583623843/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260543690",
+    "name": "Saldes",
+    "city": "Saldes",
+    "countryCode": "KR",
+    "lat": 42.23052,
+    "lng": 1.7353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74026,17 +74169,6 @@
     "lat": 48.39302,
     "lng": 7.26978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "KR",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75801,17 +75933,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "KR",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462381714",
     "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
     "city": "San Sebastián",
@@ -75819,6 +75940,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "KR",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75918,6 +76050,28 @@
     "lat": 46.61146,
     "lng": 7.29212,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246601261",
+    "name": "Landshut › South-west: Landshuter Altstadt 2",
+    "city": "Landshut",
+    "countryCode": "KR",
+    "lat": 48.53645,
+    "lng": 12.15196,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343916615",
+    "name": "Swampscott: Boston, Southwest View",
+    "city": "Swampscott",
+    "countryCode": "KR",
+    "lat": 42.4687,
+    "lng": -70.90877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76714,17 +76868,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1228154082",
-    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
-    "city": "San Bartolome de Tirajana",
-    "countryCode": "IN",
-    "lat": 27.73698,
-    "lng": -15.59462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229687591",
     "name": "Barcelona: Plaça de Catalunya",
     "city": "Barcelona",
@@ -76732,6 +76875,17 @@
     "lat": 41.38565,
     "lng": 2.17014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1228154082",
+    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
+    "city": "San Bartolome de Tirajana",
+    "countryCode": "IN",
+    "lat": 27.73698,
+    "lng": -15.59462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77715,17 +77869,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "IN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -78008,6 +78151,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78463,17 +78617,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "IN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -78503,6 +78646,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "IN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80146,6 +80300,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "IN",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1141651608",
     "name": "Arolla: Mont-Collon",
     "city": "Arolla",
@@ -80982,17 +81147,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "IN",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -81000,6 +81154,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "IN",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82863,6 +83028,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "IN",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292515318",
     "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
     "city": "Urnasch",
@@ -82881,17 +83057,6 @@
     "lat": 42.27081,
     "lng": 27.75725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "IN",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84183,17 +84348,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240162472",
-    "name": "Villingen-Schwenningen › East: Rietstraße",
-    "city": "Villingen-Schwenningen",
-    "countryCode": "IN",
-    "lat": 48.05974,
-    "lng": 8.45652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1379691005",
     "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
     "city": "Sopot",
@@ -84201,6 +84355,17 @@
     "lat": 54.4449,
     "lng": 18.56821,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240162472",
+    "name": "Villingen-Schwenningen › East: Rietstraße",
+    "city": "Villingen-Schwenningen",
+    "countryCode": "IN",
+    "lat": 48.05974,
+    "lng": 8.45652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84425,17 +84590,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260543690",
-    "name": "Saldes",
-    "city": "Saldes",
-    "countryCode": "IN",
-    "lat": 42.23052,
-    "lng": 1.7353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1583623843",
     "name": "Ubatuba › East: Ilha do Pontal - Praia da Lagoinha",
     "city": "Ubatuba",
@@ -84443,6 +84597,17 @@
     "lat": -23.53188,
     "lng": -45.22415,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583623843/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260543690",
+    "name": "Saldes",
+    "city": "Saldes",
+    "countryCode": "IN",
+    "lat": 42.23052,
+    "lng": 1.7353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84872,17 +85037,6 @@
     "lat": 48.39302,
     "lng": 7.26978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "IN",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86647,17 +86801,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "IN",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462381714",
     "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
     "city": "San Sebastián",
@@ -86665,6 +86808,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "IN",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86764,6 +86918,28 @@
     "lat": 46.61146,
     "lng": 7.29212,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246601261",
+    "name": "Landshut › South-west: Landshuter Altstadt 2",
+    "city": "Landshut",
+    "countryCode": "IN",
+    "lat": 48.53645,
+    "lng": 12.15196,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343916615",
+    "name": "Swampscott: Boston, Southwest View",
+    "city": "Swampscott",
+    "countryCode": "IN",
+    "lat": 42.4687,
+    "lng": -70.90877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87560,17 +87736,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1228154082",
-    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
-    "city": "San Bartolome de Tirajana",
-    "countryCode": "BR",
-    "lat": 27.73698,
-    "lng": -15.59462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229687591",
     "name": "Barcelona: Plaça de Catalunya",
     "city": "Barcelona",
@@ -87578,6 +87743,17 @@
     "lat": 41.38565,
     "lng": 2.17014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1228154082",
+    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
+    "city": "San Bartolome de Tirajana",
+    "countryCode": "BR",
+    "lat": 27.73698,
+    "lng": -15.59462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88561,17 +88737,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "BR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -88854,6 +89019,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89309,17 +89485,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "BR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -89349,6 +89514,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "BR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90992,6 +91168,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "BR",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1141651608",
     "name": "Arolla: Mont-Collon",
     "city": "Arolla",
@@ -91828,17 +92015,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "BR",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -91846,6 +92022,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "BR",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93709,6 +93896,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "BR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292515318",
     "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
     "city": "Urnasch",
@@ -93727,17 +93925,6 @@
     "lat": 42.27081,
     "lng": 27.75725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "BR",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95029,17 +95216,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240162472",
-    "name": "Villingen-Schwenningen › East: Rietstraße",
-    "city": "Villingen-Schwenningen",
-    "countryCode": "BR",
-    "lat": 48.05974,
-    "lng": 8.45652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1379691005",
     "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
     "city": "Sopot",
@@ -95047,6 +95223,17 @@
     "lat": 54.4449,
     "lng": 18.56821,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240162472",
+    "name": "Villingen-Schwenningen › East: Rietstraße",
+    "city": "Villingen-Schwenningen",
+    "countryCode": "BR",
+    "lat": 48.05974,
+    "lng": 8.45652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95271,17 +95458,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260543690",
-    "name": "Saldes",
-    "city": "Saldes",
-    "countryCode": "BR",
-    "lat": 42.23052,
-    "lng": 1.7353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1583623843",
     "name": "Ubatuba › East: Ilha do Pontal - Praia da Lagoinha",
     "city": "Ubatuba",
@@ -95289,6 +95465,17 @@
     "lat": -23.53188,
     "lng": -45.22415,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583623843/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260543690",
+    "name": "Saldes",
+    "city": "Saldes",
+    "countryCode": "BR",
+    "lat": 42.23052,
+    "lng": 1.7353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95718,17 +95905,6 @@
     "lat": 48.39302,
     "lng": 7.26978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "BR",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97493,17 +97669,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "BR",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462381714",
     "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
     "city": "San Sebastián",
@@ -97511,6 +97676,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "BR",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97610,6 +97786,28 @@
     "lat": 46.61146,
     "lng": 7.29212,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246601261",
+    "name": "Landshut › South-west: Landshuter Altstadt 2",
+    "city": "Landshut",
+    "countryCode": "BR",
+    "lat": 48.53645,
+    "lng": 12.15196,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343916615",
+    "name": "Swampscott: Boston, Southwest View",
+    "city": "Swampscott",
+    "countryCode": "BR",
+    "lat": 42.4687,
+    "lng": -70.90877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98406,17 +98604,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1228154082",
-    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
-    "city": "San Bartolome de Tirajana",
-    "countryCode": "AU",
-    "lat": 27.73698,
-    "lng": -15.59462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229687591",
     "name": "Barcelona: Plaça de Catalunya",
     "city": "Barcelona",
@@ -98424,6 +98611,17 @@
     "lat": 41.38565,
     "lng": 2.17014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229687591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1228154082",
+    "name": "San Bartolome de Tirajana: Maspalomas Beach \" La Charca",
+    "city": "San Bartolome de Tirajana",
+    "countryCode": "AU",
+    "lat": 27.73698,
+    "lng": -15.59462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1228154082/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99407,17 +99605,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "AU",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -99700,6 +99887,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100155,17 +100353,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "AU",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -100195,6 +100382,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "AU",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101838,6 +102036,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1253577230",
+    "name": "Arachova: Αράχοβα",
+    "city": "Arachova",
+    "countryCode": "AU",
+    "lat": 38.48034,
+    "lng": 22.58288,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253577230/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1141651608",
     "name": "Arolla: Mont-Collon",
     "city": "Arolla",
@@ -102674,17 +102883,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1076244529",
-    "name": "Brunni: Alpthal",
-    "city": "Brunni",
-    "countryCode": "AU",
-    "lat": 47.04236,
-    "lng": 8.7039,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -102692,6 +102890,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1076244529",
+    "name": "Brunni: Alpthal",
+    "city": "Brunni",
+    "countryCode": "AU",
+    "lat": 47.04236,
+    "lng": 8.7039,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1076244529/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104555,6 +104764,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "AU",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292515318",
     "name": "Urnasch: Schweiz, Appenzell Ausserrhoden: Alpstein, Appenzellerland",
     "city": "Urnasch",
@@ -104573,17 +104793,6 @@
     "lat": 42.27081,
     "lng": 27.75725,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1456735558/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "AU",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105875,17 +106084,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1240162472",
-    "name": "Villingen-Schwenningen › East: Rietstraße",
-    "city": "Villingen-Schwenningen",
-    "countryCode": "AU",
-    "lat": 48.05974,
-    "lng": 8.45652,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1379691005",
     "name": "Sopot › North-east: Square of Friends of Sopot - Bohaterów Monte Cassino",
     "city": "Sopot",
@@ -105893,6 +106091,17 @@
     "lat": 54.4449,
     "lng": 18.56821,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1379691005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1240162472",
+    "name": "Villingen-Schwenningen › East: Rietstraße",
+    "city": "Villingen-Schwenningen",
+    "countryCode": "AU",
+    "lat": 48.05974,
+    "lng": 8.45652,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240162472/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106117,17 +106326,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1260543690",
-    "name": "Saldes",
-    "city": "Saldes",
-    "countryCode": "AU",
-    "lat": 42.23052,
-    "lng": 1.7353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1583623843",
     "name": "Ubatuba › East: Ilha do Pontal - Praia da Lagoinha",
     "city": "Ubatuba",
@@ -106135,6 +106333,17 @@
     "lat": -23.53188,
     "lng": -45.22415,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583623843/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1260543690",
+    "name": "Saldes",
+    "city": "Saldes",
+    "countryCode": "AU",
+    "lat": 42.23052,
+    "lng": 1.7353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1260543690/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106564,17 +106773,6 @@
     "lat": 48.39302,
     "lng": 7.26978,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1286464894",
-    "name": "Alba: Colle della Maddalena - Argentera",
-    "city": "Alba",
-    "countryCode": "AU",
-    "lat": 44.40248,
-    "lng": 6.92572,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108339,17 +108537,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1371735012",
-    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
-    "city": "Fieschertal",
-    "countryCode": "AU",
-    "lat": 46.50027,
-    "lng": 8.05344,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1462381714",
     "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
     "city": "San Sebastián",
@@ -108357,6 +108544,17 @@
     "lat": 43.3178,
     "lng": -1.98518,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1371735012",
+    "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
+    "city": "Fieschertal",
+    "countryCode": "AU",
+    "lat": 46.50027,
+    "lng": 8.05344,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108456,6 +108654,28 @@
     "lat": 46.61146,
     "lng": 7.29212,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1246601261",
+    "name": "Landshut › South-west: Landshuter Altstadt 2",
+    "city": "Landshut",
+    "countryCode": "AU",
+    "lat": 48.53645,
+    "lng": 12.15196,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1343916615",
+    "name": "Swampscott: Boston, Southwest View",
+    "city": "Swampscott",
+    "countryCode": "AU",
+    "lat": 42.4687,
+    "lng": -70.90877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
