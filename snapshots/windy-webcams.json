@@ -1870,6 +1870,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1207755799",
+    "name": "Meudon: Observatoire de",
+    "city": "Meudon",
+    "countryCode": "JP",
+    "lat": 48.80443,
+    "lng": 2.22743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -2823,6 +2834,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "JP",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5139,7 +5161,7 @@
   {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "unknown",
+    "city": "Ayia Thekla",
     "countryCode": "JP",
     "lat": 34.97899,
     "lng": 33.94839,
@@ -7619,6 +7641,17 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1602018625",
+    "name": "Puerto Morelos: Casa Toucan",
+    "city": "Puerto Morelos",
+    "countryCode": "JP",
+    "lat": 20.8482,
+    "lng": -86.875,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10413,17 +10446,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "JP",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12683,6 +12705,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1207755799",
+    "name": "Meudon: Observatoire de",
+    "city": "Meudon",
+    "countryCode": "US",
+    "lat": 48.80443,
+    "lng": 2.22743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -13636,6 +13669,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "US",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15952,7 +15996,7 @@
   {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "unknown",
+    "city": "Ayia Thekla",
     "countryCode": "US",
     "lat": 34.97899,
     "lng": 33.94839,
@@ -18432,6 +18476,17 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1602018625",
+    "name": "Puerto Morelos: Casa Toucan",
+    "city": "Puerto Morelos",
+    "countryCode": "US",
+    "lat": 20.8482,
+    "lng": -86.875,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21226,17 +21281,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "US",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23496,6 +23540,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1207755799",
+    "name": "Meudon: Observatoire de",
+    "city": "Meudon",
+    "countryCode": "GB",
+    "lat": 48.80443,
+    "lng": 2.22743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -24449,6 +24504,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "GB",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26765,7 +26831,7 @@
   {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "unknown",
+    "city": "Ayia Thekla",
     "countryCode": "GB",
     "lat": 34.97899,
     "lng": 33.94839,
@@ -29245,6 +29311,17 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1602018625",
+    "name": "Puerto Morelos: Casa Toucan",
+    "city": "Puerto Morelos",
+    "countryCode": "GB",
+    "lat": 20.8482,
+    "lng": -86.875,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32039,17 +32116,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "GB",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34309,6 +34375,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1207755799",
+    "name": "Meudon: Observatoire de",
+    "city": "Meudon",
+    "countryCode": "DE",
+    "lat": 48.80443,
+    "lng": 2.22743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -35262,6 +35339,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "DE",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37578,7 +37666,7 @@
   {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "unknown",
+    "city": "Ayia Thekla",
     "countryCode": "DE",
     "lat": 34.97899,
     "lng": 33.94839,
@@ -40058,6 +40146,17 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1602018625",
+    "name": "Puerto Morelos: Casa Toucan",
+    "city": "Puerto Morelos",
+    "countryCode": "DE",
+    "lat": 20.8482,
+    "lng": -86.875,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42852,17 +42951,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "DE",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45122,6 +45210,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1207755799",
+    "name": "Meudon: Observatoire de",
+    "city": "Meudon",
+    "countryCode": "FR",
+    "lat": 48.80443,
+    "lng": 2.22743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -46075,6 +46174,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "FR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48391,7 +48501,7 @@
   {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "unknown",
+    "city": "Ayia Thekla",
     "countryCode": "FR",
     "lat": 34.97899,
     "lng": 33.94839,
@@ -50871,6 +50981,17 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1602018625",
+    "name": "Puerto Morelos: Casa Toucan",
+    "city": "Puerto Morelos",
+    "countryCode": "FR",
+    "lat": 20.8482,
+    "lng": -86.875,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53665,17 +53786,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "FR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55935,6 +56045,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1207755799",
+    "name": "Meudon: Observatoire de",
+    "city": "Meudon",
+    "countryCode": "CN",
+    "lat": 48.80443,
+    "lng": 2.22743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -56888,6 +57009,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "CN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59204,7 +59336,7 @@
   {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "unknown",
+    "city": "Ayia Thekla",
     "countryCode": "CN",
     "lat": 34.97899,
     "lng": 33.94839,
@@ -61684,6 +61816,17 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1602018625",
+    "name": "Puerto Morelos: Casa Toucan",
+    "city": "Puerto Morelos",
+    "countryCode": "CN",
+    "lat": 20.8482,
+    "lng": -86.875,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64478,17 +64621,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "CN",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66748,6 +66880,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1207755799",
+    "name": "Meudon: Observatoire de",
+    "city": "Meudon",
+    "countryCode": "KR",
+    "lat": 48.80443,
+    "lng": 2.22743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -67701,6 +67844,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "KR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70017,7 +70171,7 @@
   {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "unknown",
+    "city": "Ayia Thekla",
     "countryCode": "KR",
     "lat": 34.97899,
     "lng": 33.94839,
@@ -72497,6 +72651,17 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1602018625",
+    "name": "Puerto Morelos: Casa Toucan",
+    "city": "Puerto Morelos",
+    "countryCode": "KR",
+    "lat": 20.8482,
+    "lng": -86.875,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75291,17 +75456,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "KR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77561,6 +77715,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1207755799",
+    "name": "Meudon: Observatoire de",
+    "city": "Meudon",
+    "countryCode": "IN",
+    "lat": 48.80443,
+    "lng": 2.22743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -78514,6 +78679,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "IN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80830,7 +81006,7 @@
   {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "unknown",
+    "city": "Ayia Thekla",
     "countryCode": "IN",
     "lat": 34.97899,
     "lng": 33.94839,
@@ -83310,6 +83486,17 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1602018625",
+    "name": "Puerto Morelos: Casa Toucan",
+    "city": "Puerto Morelos",
+    "countryCode": "IN",
+    "lat": 20.8482,
+    "lng": -86.875,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86104,17 +86291,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "IN",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88374,6 +88550,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1207755799",
+    "name": "Meudon: Observatoire de",
+    "city": "Meudon",
+    "countryCode": "BR",
+    "lat": 48.80443,
+    "lng": 2.22743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -89327,6 +89514,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "BR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91643,7 +91841,7 @@
   {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "unknown",
+    "city": "Ayia Thekla",
     "countryCode": "BR",
     "lat": 34.97899,
     "lng": 33.94839,
@@ -94123,6 +94321,17 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1602018625",
+    "name": "Puerto Morelos: Casa Toucan",
+    "city": "Puerto Morelos",
+    "countryCode": "BR",
+    "lat": 20.8482,
+    "lng": -86.875,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96917,17 +97126,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "BR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99187,6 +99385,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1207755799",
+    "name": "Meudon: Observatoire de",
+    "city": "Meudon",
+    "countryCode": "AU",
+    "lat": 48.80443,
+    "lng": 2.22743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1207755799/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -100140,6 +100349,17 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "AU",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102456,7 +102676,7 @@
   {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "unknown",
+    "city": "Ayia Thekla",
     "countryCode": "AU",
     "lat": 34.97899,
     "lng": 33.94839,
@@ -104936,6 +105156,17 @@
     "lat": 46.53862,
     "lng": 10.13617,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1418724444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1602018625",
+    "name": "Puerto Morelos: Casa Toucan",
+    "city": "Puerto Morelos",
+    "countryCode": "AU",
+    "lat": 20.8482,
+    "lng": -86.875,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1602018625/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107730,17 +107961,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "AU",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },

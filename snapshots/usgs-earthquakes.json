@@ -50,6 +50,16 @@
     "source": "USGS"
   },
   {
+    "id": "us7000shyf",
+    "type": "earthquake",
+    "lat": -63.0576,
+    "lng": 146.0836,
+    "intensity": 4.6,
+    "timestamp": "2026-05-02T19:50:46.409Z",
+    "description": "M 4.6 - south of Australia",
+    "source": "USGS"
+  },
+  {
     "id": "us7000shxy",
     "type": "earthquake",
     "lat": 16.6585,
@@ -67,16 +77,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-02T15:00:32.178Z",
     "description": "M 4.6 - 245 km SSW of Cilacap, Indonesia",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000shti",
-    "type": "earthquake",
-    "lat": -4.2751,
-    "lng": 152.7606,
-    "intensity": 4.6,
-    "timestamp": "2026-05-02T14:15:34.556Z",
-    "description": "M 4.6 - 55 km E of Kokopo, Papua New Guinea",
     "source": "USGS"
   }
 ]
