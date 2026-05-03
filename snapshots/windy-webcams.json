@@ -3806,17 +3806,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477310006",
-    "name": "Cabarete: Villa Taina",
-    "city": "Cabarete",
-    "countryCode": "JP",
-    "lat": 19.74984,
-    "lng": -70.40995,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311793079",
     "name": "Decin",
     "city": "Decin",
@@ -5863,6 +5852,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "JP",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -7696,6 +7696,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "JP",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10044,7 +10055,7 @@
   },
   {
     "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
+    "name": "Guarcino › North-east: Family Park Campocatino - Chiesa di San Viviano",
     "city": "Guarcino",
     "countryCode": "JP",
     "lat": 41.83495,
@@ -10424,6 +10435,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "JP",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14630,17 +14652,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477310006",
-    "name": "Cabarete: Villa Taina",
-    "city": "Cabarete",
-    "countryCode": "US",
-    "lat": 19.74984,
-    "lng": -70.40995,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311793079",
     "name": "Decin",
     "city": "Decin",
@@ -16687,6 +16698,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "US",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -18520,6 +18542,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "US",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20868,7 +20901,7 @@
   },
   {
     "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
+    "name": "Guarcino › North-east: Family Park Campocatino - Chiesa di San Viviano",
     "city": "Guarcino",
     "countryCode": "US",
     "lat": 41.83495,
@@ -21248,6 +21281,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "US",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25454,17 +25498,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477310006",
-    "name": "Cabarete: Villa Taina",
-    "city": "Cabarete",
-    "countryCode": "GB",
-    "lat": 19.74984,
-    "lng": -70.40995,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311793079",
     "name": "Decin",
     "city": "Decin",
@@ -27511,6 +27544,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "GB",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -29344,6 +29388,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "GB",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31692,7 +31747,7 @@
   },
   {
     "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
+    "name": "Guarcino › North-east: Family Park Campocatino - Chiesa di San Viviano",
     "city": "Guarcino",
     "countryCode": "GB",
     "lat": 41.83495,
@@ -32072,6 +32127,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "GB",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36278,17 +36344,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477310006",
-    "name": "Cabarete: Villa Taina",
-    "city": "Cabarete",
-    "countryCode": "DE",
-    "lat": 19.74984,
-    "lng": -70.40995,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311793079",
     "name": "Decin",
     "city": "Decin",
@@ -38335,6 +38390,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "DE",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -40168,6 +40234,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "DE",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42516,7 +42593,7 @@
   },
   {
     "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
+    "name": "Guarcino › North-east: Family Park Campocatino - Chiesa di San Viviano",
     "city": "Guarcino",
     "countryCode": "DE",
     "lat": 41.83495,
@@ -42896,6 +42973,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "DE",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47102,17 +47190,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477310006",
-    "name": "Cabarete: Villa Taina",
-    "city": "Cabarete",
-    "countryCode": "FR",
-    "lat": 19.74984,
-    "lng": -70.40995,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311793079",
     "name": "Decin",
     "city": "Decin",
@@ -49159,6 +49236,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "FR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -50992,6 +51080,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "FR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53340,7 +53439,7 @@
   },
   {
     "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
+    "name": "Guarcino › North-east: Family Park Campocatino - Chiesa di San Viviano",
     "city": "Guarcino",
     "countryCode": "FR",
     "lat": 41.83495,
@@ -53720,6 +53819,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "FR",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57926,17 +58036,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477310006",
-    "name": "Cabarete: Villa Taina",
-    "city": "Cabarete",
-    "countryCode": "CN",
-    "lat": 19.74984,
-    "lng": -70.40995,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311793079",
     "name": "Decin",
     "city": "Decin",
@@ -59983,6 +60082,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "CN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -61816,6 +61926,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "CN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64164,7 +64285,7 @@
   },
   {
     "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
+    "name": "Guarcino › North-east: Family Park Campocatino - Chiesa di San Viviano",
     "city": "Guarcino",
     "countryCode": "CN",
     "lat": 41.83495,
@@ -64544,6 +64665,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "CN",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68750,17 +68882,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477310006",
-    "name": "Cabarete: Villa Taina",
-    "city": "Cabarete",
-    "countryCode": "KR",
-    "lat": 19.74984,
-    "lng": -70.40995,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311793079",
     "name": "Decin",
     "city": "Decin",
@@ -70807,6 +70928,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "KR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -72640,6 +72772,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "KR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74988,7 +75131,7 @@
   },
   {
     "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
+    "name": "Guarcino › North-east: Family Park Campocatino - Chiesa di San Viviano",
     "city": "Guarcino",
     "countryCode": "KR",
     "lat": 41.83495,
@@ -75368,6 +75511,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "KR",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79574,17 +79728,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477310006",
-    "name": "Cabarete: Villa Taina",
-    "city": "Cabarete",
-    "countryCode": "IN",
-    "lat": 19.74984,
-    "lng": -70.40995,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311793079",
     "name": "Decin",
     "city": "Decin",
@@ -81631,6 +81774,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "IN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -83464,6 +83618,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "IN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85812,7 +85977,7 @@
   },
   {
     "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
+    "name": "Guarcino › North-east: Family Park Campocatino - Chiesa di San Viviano",
     "city": "Guarcino",
     "countryCode": "IN",
     "lat": 41.83495,
@@ -86192,6 +86357,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "IN",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90398,17 +90574,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477310006",
-    "name": "Cabarete: Villa Taina",
-    "city": "Cabarete",
-    "countryCode": "BR",
-    "lat": 19.74984,
-    "lng": -70.40995,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311793079",
     "name": "Decin",
     "city": "Decin",
@@ -92455,6 +92620,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "BR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -94288,6 +94464,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "BR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96636,7 +96823,7 @@
   },
   {
     "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
+    "name": "Guarcino › North-east: Family Park Campocatino - Chiesa di San Viviano",
     "city": "Guarcino",
     "countryCode": "BR",
     "lat": 41.83495,
@@ -97016,6 +97203,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "BR",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101222,17 +101420,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1477310006",
-    "name": "Cabarete: Villa Taina",
-    "city": "Cabarete",
-    "countryCode": "AU",
-    "lat": 19.74984,
-    "lng": -70.40995,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1477310006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1311793079",
     "name": "Decin",
     "city": "Decin",
@@ -103279,6 +103466,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "AU",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -105112,6 +105310,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "AU",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107460,7 +107669,7 @@
   },
   {
     "id": "windy-1258320410",
-    "name": "Guarcino: CAMPOCATINOMETEO",
+    "name": "Guarcino › North-east: Family Park Campocatino - Chiesa di San Viviano",
     "city": "Guarcino",
     "countryCode": "AU",
     "lat": 41.83495,
@@ -107840,6 +108049,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "AU",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },

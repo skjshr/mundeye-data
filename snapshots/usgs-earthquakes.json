@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000si08",
+    "type": "earthquake",
+    "lat": 54.1902,
+    "lng": -162.9301,
+    "intensity": 4.6,
+    "timestamp": "2026-05-03T19:20:10.387Z",
+    "description": "M 4.6 - 80 km SSE of False Pass, Alaska",
+    "source": "USGS"
+  },
+  {
     "id": "us7000si03",
     "type": "earthquake",
     "lat": 41.33,
@@ -97,16 +107,6 @@
     "intensity": 4.7,
     "timestamp": "2026-05-02T20:29:54.406Z",
     "description": "M 4.7 - 196 km SSE of Mata-Utu, Wallis and Futuna",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000shyf",
-    "type": "earthquake",
-    "lat": -63.0576,
-    "lng": 146.0836,
-    "intensity": 4.6,
-    "timestamp": "2026-05-02T19:50:46.409Z",
-    "description": "M 4.6 - south of Australia",
     "source": "USGS"
   }
 ]
