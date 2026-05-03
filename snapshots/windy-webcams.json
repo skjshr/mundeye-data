@@ -220,17 +220,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -1518,17 +1507,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1447838456",
-    "name": "Ny-Alesund › North-east: Kongsfjorden",
-    "city": "Ny-Alesund",
-    "countryCode": "JP",
-    "lat": 78.90683,
-    "lng": 11.88892,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1494608365",
     "name": "Oludeniz: Belcekiz Beach Club - Ölüdeniz Plajı - Belcekiz Beach Hotel - Paragliding Oludeniz Turkey - Fethiye",
     "city": "unknown",
@@ -2442,17 +2420,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2526,6 +2493,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2625,17 +2603,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "JP",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4466,17 +4433,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531252514",
-    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
-    "city": "Olawa",
-    "countryCode": "JP",
-    "lat": 50.9466,
-    "lng": 17.2926,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1266593099",
     "name": "Hornsund: Fiord",
     "city": "Hornsund",
@@ -4484,6 +4440,17 @@
     "lat": 77.00241,
     "lng": 15.5484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531252514",
+    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
+    "city": "Olawa",
+    "countryCode": "JP",
+    "lat": 50.9466,
+    "lng": 17.2926,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6908,17 +6875,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1439681130",
-    "name": "Martigues: Carro",
-    "city": "Martigues",
-    "countryCode": "JP",
-    "lat": 43.33184,
-    "lng": 5.03546,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -6926,6 +6882,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
+    "countryCode": "JP",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7854,17 +7821,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -8081,6 +8037,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "JP",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9724,17 +9691,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "JP",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -9742,6 +9698,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "JP",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9911,17 +9878,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
-    "city": "Pardubice",
-    "countryCode": "JP",
-    "lat": 50.0359,
-    "lng": 15.76975,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -9929,6 +9885,17 @@
     "lat": 39.7088,
     "lng": 3.46112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296228992",
+    "name": "Pardubice: Dům služeb",
+    "city": "Pardubice",
+    "countryCode": "JP",
+    "lat": 50.0359,
+    "lng": 15.76975,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10692,17 +10659,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
-    "countryCode": "JP",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1371735012",
     "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
     "city": "Fieschertal",
@@ -10710,6 +10666,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1462381714",
+    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "city": "San Sebastián",
+    "countryCode": "JP",
+    "lat": 43.3178,
+    "lng": -1.98518,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10743,17 +10710,6 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "JP",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10820,17 +10776,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "JP",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11055,17 +11000,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -12353,17 +12287,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1447838456",
-    "name": "Ny-Alesund › North-east: Kongsfjorden",
-    "city": "Ny-Alesund",
-    "countryCode": "US",
-    "lat": 78.90683,
-    "lng": 11.88892,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1494608365",
     "name": "Oludeniz: Belcekiz Beach Club - Ölüdeniz Plajı - Belcekiz Beach Hotel - Paragliding Oludeniz Turkey - Fethiye",
     "city": "unknown",
@@ -13277,17 +13200,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13361,6 +13273,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13460,17 +13383,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "US",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15301,17 +15213,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531252514",
-    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
-    "city": "Olawa",
-    "countryCode": "US",
-    "lat": 50.9466,
-    "lng": 17.2926,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1266593099",
     "name": "Hornsund: Fiord",
     "city": "Hornsund",
@@ -15319,6 +15220,17 @@
     "lat": 77.00241,
     "lng": 15.5484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531252514",
+    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
+    "city": "Olawa",
+    "countryCode": "US",
+    "lat": 50.9466,
+    "lng": 17.2926,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17743,17 +17655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1439681130",
-    "name": "Martigues: Carro",
-    "city": "Martigues",
-    "countryCode": "US",
-    "lat": 43.33184,
-    "lng": 5.03546,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -17761,6 +17662,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
+    "countryCode": "US",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18689,17 +18601,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -18916,6 +18817,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "US",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20559,17 +20471,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "US",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -20577,6 +20478,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "US",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20746,17 +20658,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
-    "city": "Pardubice",
-    "countryCode": "US",
-    "lat": 50.0359,
-    "lng": 15.76975,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -20764,6 +20665,17 @@
     "lat": 39.7088,
     "lng": 3.46112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296228992",
+    "name": "Pardubice: Dům služeb",
+    "city": "Pardubice",
+    "countryCode": "US",
+    "lat": 50.0359,
+    "lng": 15.76975,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21527,17 +21439,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
-    "countryCode": "US",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1371735012",
     "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
     "city": "Fieschertal",
@@ -21545,6 +21446,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1462381714",
+    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "city": "San Sebastián",
+    "countryCode": "US",
+    "lat": 43.3178,
+    "lng": -1.98518,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21578,17 +21490,6 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "US",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21655,17 +21556,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "US",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21890,17 +21780,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -23188,17 +23067,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1447838456",
-    "name": "Ny-Alesund › North-east: Kongsfjorden",
-    "city": "Ny-Alesund",
-    "countryCode": "GB",
-    "lat": 78.90683,
-    "lng": 11.88892,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1494608365",
     "name": "Oludeniz: Belcekiz Beach Club - Ölüdeniz Plajı - Belcekiz Beach Hotel - Paragliding Oludeniz Turkey - Fethiye",
     "city": "unknown",
@@ -24112,17 +23980,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24196,6 +24053,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24295,17 +24163,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "GB",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26136,17 +25993,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531252514",
-    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
-    "city": "Olawa",
-    "countryCode": "GB",
-    "lat": 50.9466,
-    "lng": 17.2926,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1266593099",
     "name": "Hornsund: Fiord",
     "city": "Hornsund",
@@ -26154,6 +26000,17 @@
     "lat": 77.00241,
     "lng": 15.5484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531252514",
+    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
+    "city": "Olawa",
+    "countryCode": "GB",
+    "lat": 50.9466,
+    "lng": 17.2926,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28578,17 +28435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1439681130",
-    "name": "Martigues: Carro",
-    "city": "Martigues",
-    "countryCode": "GB",
-    "lat": 43.33184,
-    "lng": 5.03546,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -28596,6 +28442,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
+    "countryCode": "GB",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29524,17 +29381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -29751,6 +29597,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "GB",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31394,17 +31251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "GB",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -31412,6 +31258,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "GB",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31581,17 +31438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
-    "city": "Pardubice",
-    "countryCode": "GB",
-    "lat": 50.0359,
-    "lng": 15.76975,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -31599,6 +31445,17 @@
     "lat": 39.7088,
     "lng": 3.46112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296228992",
+    "name": "Pardubice: Dům služeb",
+    "city": "Pardubice",
+    "countryCode": "GB",
+    "lat": 50.0359,
+    "lng": 15.76975,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32362,17 +32219,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
-    "countryCode": "GB",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1371735012",
     "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
     "city": "Fieschertal",
@@ -32380,6 +32226,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1462381714",
+    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "city": "San Sebastián",
+    "countryCode": "GB",
+    "lat": 43.3178,
+    "lng": -1.98518,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32413,17 +32270,6 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "GB",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32490,17 +32336,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "GB",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32725,17 +32560,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -34023,17 +33847,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1447838456",
-    "name": "Ny-Alesund › North-east: Kongsfjorden",
-    "city": "Ny-Alesund",
-    "countryCode": "DE",
-    "lat": 78.90683,
-    "lng": 11.88892,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1494608365",
     "name": "Oludeniz: Belcekiz Beach Club - Ölüdeniz Plajı - Belcekiz Beach Hotel - Paragliding Oludeniz Turkey - Fethiye",
     "city": "unknown",
@@ -34947,17 +34760,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -35031,6 +34833,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35130,17 +34943,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "DE",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36971,17 +36773,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531252514",
-    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
-    "city": "Olawa",
-    "countryCode": "DE",
-    "lat": 50.9466,
-    "lng": 17.2926,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1266593099",
     "name": "Hornsund: Fiord",
     "city": "Hornsund",
@@ -36989,6 +36780,17 @@
     "lat": 77.00241,
     "lng": 15.5484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531252514",
+    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
+    "city": "Olawa",
+    "countryCode": "DE",
+    "lat": 50.9466,
+    "lng": 17.2926,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39413,17 +39215,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1439681130",
-    "name": "Martigues: Carro",
-    "city": "Martigues",
-    "countryCode": "DE",
-    "lat": 43.33184,
-    "lng": 5.03546,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -39431,6 +39222,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
+    "countryCode": "DE",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40359,17 +40161,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -40586,6 +40377,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "DE",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42229,17 +42031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "DE",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -42247,6 +42038,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "DE",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42416,17 +42218,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
-    "city": "Pardubice",
-    "countryCode": "DE",
-    "lat": 50.0359,
-    "lng": 15.76975,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -42434,6 +42225,17 @@
     "lat": 39.7088,
     "lng": 3.46112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296228992",
+    "name": "Pardubice: Dům služeb",
+    "city": "Pardubice",
+    "countryCode": "DE",
+    "lat": 50.0359,
+    "lng": 15.76975,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43197,17 +42999,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
-    "countryCode": "DE",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1371735012",
     "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
     "city": "Fieschertal",
@@ -43215,6 +43006,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1462381714",
+    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "city": "San Sebastián",
+    "countryCode": "DE",
+    "lat": 43.3178,
+    "lng": -1.98518,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43248,17 +43050,6 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "DE",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43325,17 +43116,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "DE",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43560,17 +43340,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -44858,17 +44627,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1447838456",
-    "name": "Ny-Alesund › North-east: Kongsfjorden",
-    "city": "Ny-Alesund",
-    "countryCode": "FR",
-    "lat": 78.90683,
-    "lng": 11.88892,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1494608365",
     "name": "Oludeniz: Belcekiz Beach Club - Ölüdeniz Plajı - Belcekiz Beach Hotel - Paragliding Oludeniz Turkey - Fethiye",
     "city": "unknown",
@@ -45782,17 +45540,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45866,6 +45613,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45965,17 +45723,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "FR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47806,17 +47553,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531252514",
-    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
-    "city": "Olawa",
-    "countryCode": "FR",
-    "lat": 50.9466,
-    "lng": 17.2926,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1266593099",
     "name": "Hornsund: Fiord",
     "city": "Hornsund",
@@ -47824,6 +47560,17 @@
     "lat": 77.00241,
     "lng": 15.5484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531252514",
+    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
+    "city": "Olawa",
+    "countryCode": "FR",
+    "lat": 50.9466,
+    "lng": 17.2926,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50248,17 +49995,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1439681130",
-    "name": "Martigues: Carro",
-    "city": "Martigues",
-    "countryCode": "FR",
-    "lat": 43.33184,
-    "lng": 5.03546,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -50266,6 +50002,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
+    "countryCode": "FR",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51194,17 +50941,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -51421,6 +51157,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "FR",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53064,17 +52811,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "FR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -53082,6 +52818,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "FR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53251,17 +52998,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
-    "city": "Pardubice",
-    "countryCode": "FR",
-    "lat": 50.0359,
-    "lng": 15.76975,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -53269,6 +53005,17 @@
     "lat": 39.7088,
     "lng": 3.46112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296228992",
+    "name": "Pardubice: Dům služeb",
+    "city": "Pardubice",
+    "countryCode": "FR",
+    "lat": 50.0359,
+    "lng": 15.76975,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54032,17 +53779,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
-    "countryCode": "FR",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1371735012",
     "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
     "city": "Fieschertal",
@@ -54050,6 +53786,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1462381714",
+    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "city": "San Sebastián",
+    "countryCode": "FR",
+    "lat": 43.3178,
+    "lng": -1.98518,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54083,17 +53830,6 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "FR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54160,17 +53896,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "FR",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54395,17 +54120,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -55693,17 +55407,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1447838456",
-    "name": "Ny-Alesund › North-east: Kongsfjorden",
-    "city": "Ny-Alesund",
-    "countryCode": "CN",
-    "lat": 78.90683,
-    "lng": 11.88892,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1494608365",
     "name": "Oludeniz: Belcekiz Beach Club - Ölüdeniz Plajı - Belcekiz Beach Hotel - Paragliding Oludeniz Turkey - Fethiye",
     "city": "unknown",
@@ -56617,17 +56320,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56701,6 +56393,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56800,17 +56503,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "CN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58641,17 +58333,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531252514",
-    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
-    "city": "Olawa",
-    "countryCode": "CN",
-    "lat": 50.9466,
-    "lng": 17.2926,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1266593099",
     "name": "Hornsund: Fiord",
     "city": "Hornsund",
@@ -58659,6 +58340,17 @@
     "lat": 77.00241,
     "lng": 15.5484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531252514",
+    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
+    "city": "Olawa",
+    "countryCode": "CN",
+    "lat": 50.9466,
+    "lng": 17.2926,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61083,17 +60775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1439681130",
-    "name": "Martigues: Carro",
-    "city": "Martigues",
-    "countryCode": "CN",
-    "lat": 43.33184,
-    "lng": 5.03546,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -61101,6 +60782,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
+    "countryCode": "CN",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62029,17 +61721,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -62256,6 +61937,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "CN",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63899,17 +63591,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "CN",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -63917,6 +63598,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "CN",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64086,17 +63778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
-    "city": "Pardubice",
-    "countryCode": "CN",
-    "lat": 50.0359,
-    "lng": 15.76975,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -64104,6 +63785,17 @@
     "lat": 39.7088,
     "lng": 3.46112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296228992",
+    "name": "Pardubice: Dům služeb",
+    "city": "Pardubice",
+    "countryCode": "CN",
+    "lat": 50.0359,
+    "lng": 15.76975,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64867,17 +64559,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
-    "countryCode": "CN",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1371735012",
     "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
     "city": "Fieschertal",
@@ -64885,6 +64566,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1462381714",
+    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "city": "San Sebastián",
+    "countryCode": "CN",
+    "lat": 43.3178,
+    "lng": -1.98518,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64918,17 +64610,6 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "CN",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64995,17 +64676,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "CN",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65230,17 +64900,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -66528,17 +66187,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1447838456",
-    "name": "Ny-Alesund › North-east: Kongsfjorden",
-    "city": "Ny-Alesund",
-    "countryCode": "KR",
-    "lat": 78.90683,
-    "lng": 11.88892,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1494608365",
     "name": "Oludeniz: Belcekiz Beach Club - Ölüdeniz Plajı - Belcekiz Beach Hotel - Paragliding Oludeniz Turkey - Fethiye",
     "city": "unknown",
@@ -67452,17 +67100,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67536,6 +67173,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67635,17 +67283,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "KR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69476,17 +69113,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531252514",
-    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
-    "city": "Olawa",
-    "countryCode": "KR",
-    "lat": 50.9466,
-    "lng": 17.2926,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1266593099",
     "name": "Hornsund: Fiord",
     "city": "Hornsund",
@@ -69494,6 +69120,17 @@
     "lat": 77.00241,
     "lng": 15.5484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531252514",
+    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
+    "city": "Olawa",
+    "countryCode": "KR",
+    "lat": 50.9466,
+    "lng": 17.2926,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71918,17 +71555,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1439681130",
-    "name": "Martigues: Carro",
-    "city": "Martigues",
-    "countryCode": "KR",
-    "lat": 43.33184,
-    "lng": 5.03546,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -71936,6 +71562,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
+    "countryCode": "KR",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72864,17 +72501,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -73091,6 +72717,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "KR",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74734,17 +74371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "KR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -74752,6 +74378,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "KR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74921,17 +74558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
-    "city": "Pardubice",
-    "countryCode": "KR",
-    "lat": 50.0359,
-    "lng": 15.76975,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -74939,6 +74565,17 @@
     "lat": 39.7088,
     "lng": 3.46112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296228992",
+    "name": "Pardubice: Dům služeb",
+    "city": "Pardubice",
+    "countryCode": "KR",
+    "lat": 50.0359,
+    "lng": 15.76975,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75702,17 +75339,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
-    "countryCode": "KR",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1371735012",
     "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
     "city": "Fieschertal",
@@ -75720,6 +75346,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1462381714",
+    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "city": "San Sebastián",
+    "countryCode": "KR",
+    "lat": 43.3178,
+    "lng": -1.98518,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75753,17 +75390,6 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "KR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75830,17 +75456,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "KR",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76065,17 +75680,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -77363,17 +76967,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1447838456",
-    "name": "Ny-Alesund › North-east: Kongsfjorden",
-    "city": "Ny-Alesund",
-    "countryCode": "IN",
-    "lat": 78.90683,
-    "lng": 11.88892,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1494608365",
     "name": "Oludeniz: Belcekiz Beach Club - Ölüdeniz Plajı - Belcekiz Beach Hotel - Paragliding Oludeniz Turkey - Fethiye",
     "city": "unknown",
@@ -78287,17 +77880,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -78371,6 +77953,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78470,17 +78063,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "IN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80311,17 +79893,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531252514",
-    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
-    "city": "Olawa",
-    "countryCode": "IN",
-    "lat": 50.9466,
-    "lng": 17.2926,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1266593099",
     "name": "Hornsund: Fiord",
     "city": "Hornsund",
@@ -80329,6 +79900,17 @@
     "lat": 77.00241,
     "lng": 15.5484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531252514",
+    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
+    "city": "Olawa",
+    "countryCode": "IN",
+    "lat": 50.9466,
+    "lng": 17.2926,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82753,17 +82335,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1439681130",
-    "name": "Martigues: Carro",
-    "city": "Martigues",
-    "countryCode": "IN",
-    "lat": 43.33184,
-    "lng": 5.03546,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -82771,6 +82342,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
+    "countryCode": "IN",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83699,17 +83281,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -83926,6 +83497,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "IN",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85569,17 +85151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "IN",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -85587,6 +85158,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "IN",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85756,17 +85338,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
-    "city": "Pardubice",
-    "countryCode": "IN",
-    "lat": 50.0359,
-    "lng": 15.76975,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -85774,6 +85345,17 @@
     "lat": 39.7088,
     "lng": 3.46112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296228992",
+    "name": "Pardubice: Dům služeb",
+    "city": "Pardubice",
+    "countryCode": "IN",
+    "lat": 50.0359,
+    "lng": 15.76975,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86537,17 +86119,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
-    "countryCode": "IN",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1371735012",
     "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
     "city": "Fieschertal",
@@ -86555,6 +86126,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1462381714",
+    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "city": "San Sebastián",
+    "countryCode": "IN",
+    "lat": 43.3178,
+    "lng": -1.98518,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86588,17 +86170,6 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "IN",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86665,17 +86236,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "IN",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86900,17 +86460,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -88198,17 +87747,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1447838456",
-    "name": "Ny-Alesund › North-east: Kongsfjorden",
-    "city": "Ny-Alesund",
-    "countryCode": "BR",
-    "lat": 78.90683,
-    "lng": 11.88892,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1494608365",
     "name": "Oludeniz: Belcekiz Beach Club - Ölüdeniz Plajı - Belcekiz Beach Hotel - Paragliding Oludeniz Turkey - Fethiye",
     "city": "unknown",
@@ -89122,17 +88660,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -89206,6 +88733,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89305,17 +88843,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "BR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91146,17 +90673,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531252514",
-    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
-    "city": "Olawa",
-    "countryCode": "BR",
-    "lat": 50.9466,
-    "lng": 17.2926,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1266593099",
     "name": "Hornsund: Fiord",
     "city": "Hornsund",
@@ -91164,6 +90680,17 @@
     "lat": 77.00241,
     "lng": 15.5484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531252514",
+    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
+    "city": "Olawa",
+    "countryCode": "BR",
+    "lat": 50.9466,
+    "lng": 17.2926,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93588,17 +93115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1439681130",
-    "name": "Martigues: Carro",
-    "city": "Martigues",
-    "countryCode": "BR",
-    "lat": 43.33184,
-    "lng": 5.03546,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -93606,6 +93122,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
+    "countryCode": "BR",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94534,17 +94061,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -94761,6 +94277,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "BR",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96404,17 +95931,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "BR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -96422,6 +95938,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "BR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96591,17 +96118,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
-    "city": "Pardubice",
-    "countryCode": "BR",
-    "lat": 50.0359,
-    "lng": 15.76975,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -96609,6 +96125,17 @@
     "lat": 39.7088,
     "lng": 3.46112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296228992",
+    "name": "Pardubice: Dům služeb",
+    "city": "Pardubice",
+    "countryCode": "BR",
+    "lat": 50.0359,
+    "lng": 15.76975,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97372,17 +96899,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
-    "countryCode": "BR",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1371735012",
     "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
     "city": "Fieschertal",
@@ -97390,6 +96906,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1462381714",
+    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "city": "San Sebastián",
+    "countryCode": "BR",
+    "lat": 43.3178,
+    "lng": -1.98518,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97423,17 +96950,6 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "BR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97500,17 +97016,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "BR",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97735,17 +97240,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -99033,17 +98527,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1447838456",
-    "name": "Ny-Alesund › North-east: Kongsfjorden",
-    "city": "Ny-Alesund",
-    "countryCode": "AU",
-    "lat": 78.90683,
-    "lng": 11.88892,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1494608365",
     "name": "Oludeniz: Belcekiz Beach Club - Ölüdeniz Plajı - Belcekiz Beach Hotel - Paragliding Oludeniz Turkey - Fethiye",
     "city": "unknown",
@@ -99957,17 +99440,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -100041,6 +99513,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100140,17 +99623,6 @@
     "lat": 45.81409,
     "lng": 9.071,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200419751/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "AU",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101981,17 +101453,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1531252514",
-    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
-    "city": "Olawa",
-    "countryCode": "AU",
-    "lat": 50.9466,
-    "lng": 17.2926,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1266593099",
     "name": "Hornsund: Fiord",
     "city": "Hornsund",
@@ -101999,6 +101460,17 @@
     "lat": 77.00241,
     "lng": 15.5484,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1266593099/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1531252514",
+    "name": "Olawa: Województwo dolnośląskie, Rzeczpospolita Polska",
+    "city": "Olawa",
+    "countryCode": "AU",
+    "lat": 50.9466,
+    "lng": 17.2926,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531252514/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104423,17 +103895,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1439681130",
-    "name": "Martigues: Carro",
-    "city": "Martigues",
-    "countryCode": "AU",
-    "lat": 43.33184,
-    "lng": 5.03546,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -104441,6 +103902,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1439681130",
+    "name": "Martigues: Carro",
+    "city": "Martigues",
+    "countryCode": "AU",
+    "lat": 43.33184,
+    "lng": 5.03546,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105369,17 +104841,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -105596,6 +105057,17 @@
     "lat": 43.64452,
     "lng": 6.65636,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250603886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1334396756",
+    "name": "Follonica › South-west: GV LNI - Webcam",
+    "city": "Follonica",
+    "countryCode": "AU",
+    "lat": 42.93975,
+    "lng": 10.71422,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334396756/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107239,17 +106711,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "AU",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1420818867",
     "name": "Stavrakia › North: Stavrakion - Crete, Greece",
     "city": "Stavrakia",
@@ -107257,6 +106718,17 @@
     "lat": 35.25336,
     "lng": 25.06278,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1420818867/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "AU",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107426,17 +106898,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
-    "city": "Pardubice",
-    "countryCode": "AU",
-    "lat": 50.0359,
-    "lng": 15.76975,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -107444,6 +106905,17 @@
     "lat": 39.7088,
     "lng": 3.46112,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1249044619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296228992",
+    "name": "Pardubice: Dům služeb",
+    "city": "Pardubice",
+    "countryCode": "AU",
+    "lat": 50.0359,
+    "lng": 15.76975,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296228992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108207,17 +107679,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1462381714",
-    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
-    "city": "San Sebastián",
-    "countryCode": "AU",
-    "lat": 43.3178,
-    "lng": -1.98518,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1371735012",
     "name": "Fieschertal: Konkordiahütte - Trugberg - Gletscherhorn - Jungfraujoch - Hollandiahütte SAC - Ebnefluh - Jungfrau - Jungfrau Region",
     "city": "Fieschertal",
@@ -108225,6 +107686,17 @@
     "lat": 46.50027,
     "lng": 8.05344,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1371735012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1462381714",
+    "name": "San Sebastián › North: Hotel Abba Londres Y De Inglaterra - Basque Country, Spain",
+    "city": "San Sebastián",
+    "countryCode": "AU",
+    "lat": 43.3178,
+    "lng": -1.98518,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1462381714/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108258,17 +107730,6 @@
     "lat": 50.60924,
     "lng": -2.45282,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "AU",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108335,17 +107796,6 @@
     "lat": 48.53645,
     "lng": 12.15196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1246601261/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1343916615",
-    "name": "Swampscott: Boston, Southwest View",
-    "city": "Swampscott",
-    "countryCode": "AU",
-    "lat": 42.4687,
-    "lng": -70.90877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1343916615/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
