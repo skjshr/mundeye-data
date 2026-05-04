@@ -121,6 +121,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "JP",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -194,6 +205,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "JP",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2024,6 +2046,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "JP",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -2075,17 +2108,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2211,17 +2233,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229964992",
-    "name": "Tallinn › North-east: City Square webcam in Estonia",
-    "city": "Tallinn",
-    "countryCode": "JP",
-    "lat": 59.43271,
-    "lng": 24.74432,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1437378560",
     "name": "České Budějovice: Ceske Budejovice 1 › South-west: Náměstí Přemysla Otakara II.",
     "city": "České Budějovice",
@@ -2233,13 +2244,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1216891584",
-    "name": "Pajala › East: Soltorget (Live)",
-    "city": "Pajala",
+    "id": "windy-1229964992",
+    "name": "Tallinn › North-east: City Square webcam in Estonia",
+    "city": "Tallinn",
     "countryCode": "JP",
-    "lat": 67.21257,
-    "lng": 23.36728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
+    "lat": 59.43271,
+    "lng": 24.74432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2251,6 +2262,17 @@
     "lat": 61.66479,
     "lng": 8.36197,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250336261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216891584",
+    "name": "Pajala › East: Soltorget (Live)",
+    "city": "Pajala",
+    "countryCode": "JP",
+    "lat": 67.21257,
+    "lng": 23.36728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2603,17 +2625,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "JP",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5874,17 +5885,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "JP",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -6226,17 +6226,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "JP",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -6270,17 +6259,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1490171140",
-    "name": "Cortina d'Ampezzo › South: Corso Italia",
-    "city": "Cortina d'Ampezzo",
-    "countryCode": "JP",
-    "lat": 46.5369,
-    "lng": 12.13903,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -6288,6 +6266,17 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1490171140",
+    "name": "Cortina d'Ampezzo › South: Corso Italia",
+    "city": "Cortina d'Ampezzo",
+    "countryCode": "JP",
+    "lat": 46.5369,
+    "lng": 12.13903,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6963,17 +6952,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "JP",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -6981,6 +6959,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "JP",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7832,17 +7821,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "JP",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -7850,6 +7828,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "JP",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7960,17 +7949,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "JP",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8701,6 +8679,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1189608479",
+    "name": "Pernat: Cres",
+    "city": "Pernat",
+    "countryCode": "JP",
+    "lat": 44.9621,
+    "lng": 14.3951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1189608479/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201621627",
     "name": "Bassano del Grappa: Piazza Garibaldi 2",
     "city": "Bassano del Grappa",
@@ -8778,17 +8767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "JP",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -8796,6 +8774,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "JP",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10296,13 +10285,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
     "countryCode": "JP",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10831,17 +10820,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "JP",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10967,6 +10945,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "US",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -11040,6 +11029,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "US",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12870,6 +12870,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "US",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -12921,17 +12932,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13057,17 +13057,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229964992",
-    "name": "Tallinn › North-east: City Square webcam in Estonia",
-    "city": "Tallinn",
-    "countryCode": "US",
-    "lat": 59.43271,
-    "lng": 24.74432,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1437378560",
     "name": "České Budějovice: Ceske Budejovice 1 › South-west: Náměstí Přemysla Otakara II.",
     "city": "České Budějovice",
@@ -13079,13 +13068,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1216891584",
-    "name": "Pajala › East: Soltorget (Live)",
-    "city": "Pajala",
+    "id": "windy-1229964992",
+    "name": "Tallinn › North-east: City Square webcam in Estonia",
+    "city": "Tallinn",
     "countryCode": "US",
-    "lat": 67.21257,
-    "lng": 23.36728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
+    "lat": 59.43271,
+    "lng": 24.74432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13097,6 +13086,17 @@
     "lat": 61.66479,
     "lng": 8.36197,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250336261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216891584",
+    "name": "Pajala › East: Soltorget (Live)",
+    "city": "Pajala",
+    "countryCode": "US",
+    "lat": 67.21257,
+    "lng": 23.36728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13449,17 +13449,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "US",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16720,17 +16709,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "US",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -17072,17 +17050,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "US",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -17116,17 +17083,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1490171140",
-    "name": "Cortina d'Ampezzo › South: Corso Italia",
-    "city": "Cortina d'Ampezzo",
-    "countryCode": "US",
-    "lat": 46.5369,
-    "lng": 12.13903,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -17134,6 +17090,17 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1490171140",
+    "name": "Cortina d'Ampezzo › South: Corso Italia",
+    "city": "Cortina d'Ampezzo",
+    "countryCode": "US",
+    "lat": 46.5369,
+    "lng": 12.13903,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17809,17 +17776,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "US",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -17827,6 +17783,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "US",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18678,17 +18645,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "US",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -18696,6 +18652,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "US",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18806,17 +18773,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "US",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19547,6 +19503,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1189608479",
+    "name": "Pernat: Cres",
+    "city": "Pernat",
+    "countryCode": "US",
+    "lat": 44.9621,
+    "lng": 14.3951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1189608479/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201621627",
     "name": "Bassano del Grappa: Piazza Garibaldi 2",
     "city": "Bassano del Grappa",
@@ -19624,17 +19591,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "US",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -19642,6 +19598,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "US",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21142,13 +21109,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
     "countryCode": "US",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21677,17 +21644,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "US",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21813,6 +21769,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "GB",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -21886,6 +21853,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "GB",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23716,6 +23694,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "GB",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -23767,17 +23756,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23903,17 +23881,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229964992",
-    "name": "Tallinn › North-east: City Square webcam in Estonia",
-    "city": "Tallinn",
-    "countryCode": "GB",
-    "lat": 59.43271,
-    "lng": 24.74432,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1437378560",
     "name": "České Budějovice: Ceske Budejovice 1 › South-west: Náměstí Přemysla Otakara II.",
     "city": "České Budějovice",
@@ -23925,13 +23892,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1216891584",
-    "name": "Pajala › East: Soltorget (Live)",
-    "city": "Pajala",
+    "id": "windy-1229964992",
+    "name": "Tallinn › North-east: City Square webcam in Estonia",
+    "city": "Tallinn",
     "countryCode": "GB",
-    "lat": 67.21257,
-    "lng": 23.36728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
+    "lat": 59.43271,
+    "lng": 24.74432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23943,6 +23910,17 @@
     "lat": 61.66479,
     "lng": 8.36197,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250336261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216891584",
+    "name": "Pajala › East: Soltorget (Live)",
+    "city": "Pajala",
+    "countryCode": "GB",
+    "lat": 67.21257,
+    "lng": 23.36728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24295,17 +24273,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "GB",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27566,17 +27533,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "GB",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -27918,17 +27874,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "GB",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -27962,17 +27907,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1490171140",
-    "name": "Cortina d'Ampezzo › South: Corso Italia",
-    "city": "Cortina d'Ampezzo",
-    "countryCode": "GB",
-    "lat": 46.5369,
-    "lng": 12.13903,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -27980,6 +27914,17 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1490171140",
+    "name": "Cortina d'Ampezzo › South: Corso Italia",
+    "city": "Cortina d'Ampezzo",
+    "countryCode": "GB",
+    "lat": 46.5369,
+    "lng": 12.13903,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28655,17 +28600,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "GB",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -28673,6 +28607,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "GB",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29524,17 +29469,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "GB",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -29542,6 +29476,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "GB",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29652,17 +29597,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "GB",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30393,6 +30327,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1189608479",
+    "name": "Pernat: Cres",
+    "city": "Pernat",
+    "countryCode": "GB",
+    "lat": 44.9621,
+    "lng": 14.3951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1189608479/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201621627",
     "name": "Bassano del Grappa: Piazza Garibaldi 2",
     "city": "Bassano del Grappa",
@@ -30470,17 +30415,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "GB",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -30488,6 +30422,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "GB",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31988,13 +31933,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
     "countryCode": "GB",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32523,17 +32468,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "GB",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32659,6 +32593,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "DE",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -32732,6 +32677,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "DE",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34562,6 +34518,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "DE",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -34613,17 +34580,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34749,17 +34705,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229964992",
-    "name": "Tallinn › North-east: City Square webcam in Estonia",
-    "city": "Tallinn",
-    "countryCode": "DE",
-    "lat": 59.43271,
-    "lng": 24.74432,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1437378560",
     "name": "České Budějovice: Ceske Budejovice 1 › South-west: Náměstí Přemysla Otakara II.",
     "city": "České Budějovice",
@@ -34771,13 +34716,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1216891584",
-    "name": "Pajala › East: Soltorget (Live)",
-    "city": "Pajala",
+    "id": "windy-1229964992",
+    "name": "Tallinn › North-east: City Square webcam in Estonia",
+    "city": "Tallinn",
     "countryCode": "DE",
-    "lat": 67.21257,
-    "lng": 23.36728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
+    "lat": 59.43271,
+    "lng": 24.74432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34789,6 +34734,17 @@
     "lat": 61.66479,
     "lng": 8.36197,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250336261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216891584",
+    "name": "Pajala › East: Soltorget (Live)",
+    "city": "Pajala",
+    "countryCode": "DE",
+    "lat": 67.21257,
+    "lng": 23.36728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35141,17 +35097,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "DE",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38412,17 +38357,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "DE",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -38764,17 +38698,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "DE",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -38808,17 +38731,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1490171140",
-    "name": "Cortina d'Ampezzo › South: Corso Italia",
-    "city": "Cortina d'Ampezzo",
-    "countryCode": "DE",
-    "lat": 46.5369,
-    "lng": 12.13903,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -38826,6 +38738,17 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1490171140",
+    "name": "Cortina d'Ampezzo › South: Corso Italia",
+    "city": "Cortina d'Ampezzo",
+    "countryCode": "DE",
+    "lat": 46.5369,
+    "lng": 12.13903,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39501,17 +39424,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "DE",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -39519,6 +39431,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "DE",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40370,17 +40293,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "DE",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -40388,6 +40300,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "DE",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40498,17 +40421,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "DE",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41239,6 +41151,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1189608479",
+    "name": "Pernat: Cres",
+    "city": "Pernat",
+    "countryCode": "DE",
+    "lat": 44.9621,
+    "lng": 14.3951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1189608479/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201621627",
     "name": "Bassano del Grappa: Piazza Garibaldi 2",
     "city": "Bassano del Grappa",
@@ -41316,17 +41239,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "DE",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -41334,6 +41246,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "DE",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42834,13 +42757,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
     "countryCode": "DE",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43369,17 +43292,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "DE",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43505,6 +43417,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "FR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -43578,6 +43501,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "FR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45408,6 +45342,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "FR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -45459,17 +45404,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45595,17 +45529,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229964992",
-    "name": "Tallinn › North-east: City Square webcam in Estonia",
-    "city": "Tallinn",
-    "countryCode": "FR",
-    "lat": 59.43271,
-    "lng": 24.74432,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1437378560",
     "name": "České Budějovice: Ceske Budejovice 1 › South-west: Náměstí Přemysla Otakara II.",
     "city": "České Budějovice",
@@ -45617,13 +45540,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1216891584",
-    "name": "Pajala › East: Soltorget (Live)",
-    "city": "Pajala",
+    "id": "windy-1229964992",
+    "name": "Tallinn › North-east: City Square webcam in Estonia",
+    "city": "Tallinn",
     "countryCode": "FR",
-    "lat": 67.21257,
-    "lng": 23.36728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
+    "lat": 59.43271,
+    "lng": 24.74432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45635,6 +45558,17 @@
     "lat": 61.66479,
     "lng": 8.36197,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250336261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216891584",
+    "name": "Pajala › East: Soltorget (Live)",
+    "city": "Pajala",
+    "countryCode": "FR",
+    "lat": 67.21257,
+    "lng": 23.36728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45987,17 +45921,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "FR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49258,17 +49181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "FR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -49610,17 +49522,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "FR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -49654,17 +49555,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1490171140",
-    "name": "Cortina d'Ampezzo › South: Corso Italia",
-    "city": "Cortina d'Ampezzo",
-    "countryCode": "FR",
-    "lat": 46.5369,
-    "lng": 12.13903,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -49672,6 +49562,17 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1490171140",
+    "name": "Cortina d'Ampezzo › South: Corso Italia",
+    "city": "Cortina d'Ampezzo",
+    "countryCode": "FR",
+    "lat": 46.5369,
+    "lng": 12.13903,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50347,17 +50248,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "FR",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -50365,6 +50255,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "FR",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51216,17 +51117,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "FR",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -51234,6 +51124,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "FR",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51344,17 +51245,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "FR",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52085,6 +51975,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1189608479",
+    "name": "Pernat: Cres",
+    "city": "Pernat",
+    "countryCode": "FR",
+    "lat": 44.9621,
+    "lng": 14.3951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1189608479/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201621627",
     "name": "Bassano del Grappa: Piazza Garibaldi 2",
     "city": "Bassano del Grappa",
@@ -52162,17 +52063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "FR",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -52180,6 +52070,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "FR",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53680,13 +53581,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
     "countryCode": "FR",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54215,17 +54116,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "FR",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54351,6 +54241,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "CN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -54424,6 +54325,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "CN",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56254,6 +56166,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "CN",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -56305,17 +56228,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56441,17 +56353,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229964992",
-    "name": "Tallinn › North-east: City Square webcam in Estonia",
-    "city": "Tallinn",
-    "countryCode": "CN",
-    "lat": 59.43271,
-    "lng": 24.74432,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1437378560",
     "name": "České Budějovice: Ceske Budejovice 1 › South-west: Náměstí Přemysla Otakara II.",
     "city": "České Budějovice",
@@ -56463,13 +56364,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1216891584",
-    "name": "Pajala › East: Soltorget (Live)",
-    "city": "Pajala",
+    "id": "windy-1229964992",
+    "name": "Tallinn › North-east: City Square webcam in Estonia",
+    "city": "Tallinn",
     "countryCode": "CN",
-    "lat": 67.21257,
-    "lng": 23.36728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
+    "lat": 59.43271,
+    "lng": 24.74432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56481,6 +56382,17 @@
     "lat": 61.66479,
     "lng": 8.36197,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250336261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216891584",
+    "name": "Pajala › East: Soltorget (Live)",
+    "city": "Pajala",
+    "countryCode": "CN",
+    "lat": 67.21257,
+    "lng": 23.36728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56833,17 +56745,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "CN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60104,17 +60005,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "CN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -60456,17 +60346,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "CN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -60500,17 +60379,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1490171140",
-    "name": "Cortina d'Ampezzo › South: Corso Italia",
-    "city": "Cortina d'Ampezzo",
-    "countryCode": "CN",
-    "lat": 46.5369,
-    "lng": 12.13903,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -60518,6 +60386,17 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1490171140",
+    "name": "Cortina d'Ampezzo › South: Corso Italia",
+    "city": "Cortina d'Ampezzo",
+    "countryCode": "CN",
+    "lat": 46.5369,
+    "lng": 12.13903,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61193,17 +61072,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "CN",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -61211,6 +61079,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "CN",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62062,17 +61941,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "CN",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -62080,6 +61948,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "CN",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62190,17 +62069,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "CN",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62931,6 +62799,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1189608479",
+    "name": "Pernat: Cres",
+    "city": "Pernat",
+    "countryCode": "CN",
+    "lat": 44.9621,
+    "lng": 14.3951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1189608479/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201621627",
     "name": "Bassano del Grappa: Piazza Garibaldi 2",
     "city": "Bassano del Grappa",
@@ -63008,17 +62887,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "CN",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -63026,6 +62894,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "CN",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64526,13 +64405,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
     "countryCode": "CN",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65061,17 +64940,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "CN",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65197,6 +65065,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "KR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -65270,6 +65149,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "KR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67100,6 +66990,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "KR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -67151,17 +67052,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67287,17 +67177,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229964992",
-    "name": "Tallinn › North-east: City Square webcam in Estonia",
-    "city": "Tallinn",
-    "countryCode": "KR",
-    "lat": 59.43271,
-    "lng": 24.74432,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1437378560",
     "name": "České Budějovice: Ceske Budejovice 1 › South-west: Náměstí Přemysla Otakara II.",
     "city": "České Budějovice",
@@ -67309,13 +67188,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1216891584",
-    "name": "Pajala › East: Soltorget (Live)",
-    "city": "Pajala",
+    "id": "windy-1229964992",
+    "name": "Tallinn › North-east: City Square webcam in Estonia",
+    "city": "Tallinn",
     "countryCode": "KR",
-    "lat": 67.21257,
-    "lng": 23.36728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
+    "lat": 59.43271,
+    "lng": 24.74432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67327,6 +67206,17 @@
     "lat": 61.66479,
     "lng": 8.36197,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250336261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216891584",
+    "name": "Pajala › East: Soltorget (Live)",
+    "city": "Pajala",
+    "countryCode": "KR",
+    "lat": 67.21257,
+    "lng": 23.36728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67679,17 +67569,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "KR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70950,17 +70829,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "KR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -71302,17 +71170,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "KR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -71346,17 +71203,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1490171140",
-    "name": "Cortina d'Ampezzo › South: Corso Italia",
-    "city": "Cortina d'Ampezzo",
-    "countryCode": "KR",
-    "lat": 46.5369,
-    "lng": 12.13903,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -71364,6 +71210,17 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1490171140",
+    "name": "Cortina d'Ampezzo › South: Corso Italia",
+    "city": "Cortina d'Ampezzo",
+    "countryCode": "KR",
+    "lat": 46.5369,
+    "lng": 12.13903,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72039,17 +71896,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "KR",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -72057,6 +71903,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "KR",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72908,17 +72765,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "KR",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -72926,6 +72772,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "KR",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73036,17 +72893,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "KR",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73777,6 +73623,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1189608479",
+    "name": "Pernat: Cres",
+    "city": "Pernat",
+    "countryCode": "KR",
+    "lat": 44.9621,
+    "lng": 14.3951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1189608479/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201621627",
     "name": "Bassano del Grappa: Piazza Garibaldi 2",
     "city": "Bassano del Grappa",
@@ -73854,17 +73711,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "KR",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -73872,6 +73718,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "KR",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75372,13 +75229,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
     "countryCode": "KR",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75907,17 +75764,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "KR",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76043,6 +75889,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "IN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -76116,6 +75973,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "IN",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77946,6 +77814,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "IN",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -77997,17 +77876,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78133,17 +78001,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229964992",
-    "name": "Tallinn › North-east: City Square webcam in Estonia",
-    "city": "Tallinn",
-    "countryCode": "IN",
-    "lat": 59.43271,
-    "lng": 24.74432,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1437378560",
     "name": "České Budějovice: Ceske Budejovice 1 › South-west: Náměstí Přemysla Otakara II.",
     "city": "České Budějovice",
@@ -78155,13 +78012,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1216891584",
-    "name": "Pajala › East: Soltorget (Live)",
-    "city": "Pajala",
+    "id": "windy-1229964992",
+    "name": "Tallinn › North-east: City Square webcam in Estonia",
+    "city": "Tallinn",
     "countryCode": "IN",
-    "lat": 67.21257,
-    "lng": 23.36728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
+    "lat": 59.43271,
+    "lng": 24.74432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78173,6 +78030,17 @@
     "lat": 61.66479,
     "lng": 8.36197,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250336261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216891584",
+    "name": "Pajala › East: Soltorget (Live)",
+    "city": "Pajala",
+    "countryCode": "IN",
+    "lat": 67.21257,
+    "lng": 23.36728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78525,17 +78393,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "IN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81796,17 +81653,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "IN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -82148,17 +81994,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "IN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -82192,17 +82027,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1490171140",
-    "name": "Cortina d'Ampezzo › South: Corso Italia",
-    "city": "Cortina d'Ampezzo",
-    "countryCode": "IN",
-    "lat": 46.5369,
-    "lng": 12.13903,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -82210,6 +82034,17 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1490171140",
+    "name": "Cortina d'Ampezzo › South: Corso Italia",
+    "city": "Cortina d'Ampezzo",
+    "countryCode": "IN",
+    "lat": 46.5369,
+    "lng": 12.13903,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82885,17 +82720,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "IN",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -82903,6 +82727,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "IN",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83754,17 +83589,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "IN",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -83772,6 +83596,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "IN",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83882,17 +83717,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "IN",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84623,6 +84447,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1189608479",
+    "name": "Pernat: Cres",
+    "city": "Pernat",
+    "countryCode": "IN",
+    "lat": 44.9621,
+    "lng": 14.3951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1189608479/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201621627",
     "name": "Bassano del Grappa: Piazza Garibaldi 2",
     "city": "Bassano del Grappa",
@@ -84700,17 +84535,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "IN",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -84718,6 +84542,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "IN",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86218,13 +86053,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
     "countryCode": "IN",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86753,17 +86588,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "IN",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86889,6 +86713,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "BR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -86962,6 +86797,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "BR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88792,6 +88638,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "BR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -88843,17 +88700,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88979,17 +88825,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229964992",
-    "name": "Tallinn › North-east: City Square webcam in Estonia",
-    "city": "Tallinn",
-    "countryCode": "BR",
-    "lat": 59.43271,
-    "lng": 24.74432,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1437378560",
     "name": "České Budějovice: Ceske Budejovice 1 › South-west: Náměstí Přemysla Otakara II.",
     "city": "České Budějovice",
@@ -89001,13 +88836,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1216891584",
-    "name": "Pajala › East: Soltorget (Live)",
-    "city": "Pajala",
+    "id": "windy-1229964992",
+    "name": "Tallinn › North-east: City Square webcam in Estonia",
+    "city": "Tallinn",
     "countryCode": "BR",
-    "lat": 67.21257,
-    "lng": 23.36728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
+    "lat": 59.43271,
+    "lng": 24.74432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89019,6 +88854,17 @@
     "lat": 61.66479,
     "lng": 8.36197,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250336261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216891584",
+    "name": "Pajala › East: Soltorget (Live)",
+    "city": "Pajala",
+    "countryCode": "BR",
+    "lat": 67.21257,
+    "lng": 23.36728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89371,17 +89217,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "BR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92642,17 +92477,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "BR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -92994,17 +92818,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "BR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -93038,17 +92851,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1490171140",
-    "name": "Cortina d'Ampezzo › South: Corso Italia",
-    "city": "Cortina d'Ampezzo",
-    "countryCode": "BR",
-    "lat": 46.5369,
-    "lng": 12.13903,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -93056,6 +92858,17 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1490171140",
+    "name": "Cortina d'Ampezzo › South: Corso Italia",
+    "city": "Cortina d'Ampezzo",
+    "countryCode": "BR",
+    "lat": 46.5369,
+    "lng": 12.13903,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93731,17 +93544,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "BR",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -93749,6 +93551,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "BR",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94600,17 +94413,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "BR",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -94618,6 +94420,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "BR",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94728,17 +94541,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "BR",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95469,6 +95271,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1189608479",
+    "name": "Pernat: Cres",
+    "city": "Pernat",
+    "countryCode": "BR",
+    "lat": 44.9621,
+    "lng": 14.3951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1189608479/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201621627",
     "name": "Bassano del Grappa: Piazza Garibaldi 2",
     "city": "Bassano del Grappa",
@@ -95546,17 +95359,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "BR",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -95564,6 +95366,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "BR",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97064,13 +96877,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
     "countryCode": "BR",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97599,17 +97412,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "BR",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97735,6 +97537,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "AU",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -97808,6 +97621,17 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "AU",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99638,6 +99462,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "AU",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -99689,17 +99524,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99825,17 +99649,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229964992",
-    "name": "Tallinn › North-east: City Square webcam in Estonia",
-    "city": "Tallinn",
-    "countryCode": "AU",
-    "lat": 59.43271,
-    "lng": 24.74432,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1437378560",
     "name": "České Budějovice: Ceske Budejovice 1 › South-west: Náměstí Přemysla Otakara II.",
     "city": "České Budějovice",
@@ -99847,13 +99660,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1216891584",
-    "name": "Pajala › East: Soltorget (Live)",
-    "city": "Pajala",
+    "id": "windy-1229964992",
+    "name": "Tallinn › North-east: City Square webcam in Estonia",
+    "city": "Tallinn",
     "countryCode": "AU",
-    "lat": 67.21257,
-    "lng": 23.36728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
+    "lat": 59.43271,
+    "lng": 24.74432,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229964992/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99865,6 +99678,17 @@
     "lat": 61.66479,
     "lng": 8.36197,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250336261/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1216891584",
+    "name": "Pajala › East: Soltorget (Live)",
+    "city": "Pajala",
+    "countryCode": "AU",
+    "lat": 67.21257,
+    "lng": 23.36728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216891584/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100217,17 +100041,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "AU",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103488,17 +103301,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "AU",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -103840,17 +103642,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "AU",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -103884,17 +103675,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1490171140",
-    "name": "Cortina d'Ampezzo › South: Corso Italia",
-    "city": "Cortina d'Ampezzo",
-    "countryCode": "AU",
-    "lat": 46.5369,
-    "lng": 12.13903,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1394437365",
     "name": "Alta: Alta Port Authority - Cathedral Of The Northern Lights - North Adventure AS - Alta Airport - Rafsbotn - Vassbotndalen",
     "city": "Alta",
@@ -103902,6 +103682,17 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1490171140",
+    "name": "Cortina d'Ampezzo › South: Corso Italia",
+    "city": "Cortina d'Ampezzo",
+    "countryCode": "AU",
+    "lat": 46.5369,
+    "lng": 12.13903,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1490171140/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104577,17 +104368,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1365062059",
-    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
-    "city": "Carrara",
-    "countryCode": "AU",
-    "lat": 44.04012,
-    "lng": 10.02935,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -104595,6 +104375,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1365062059",
+    "name": "Carrara: Marina di Carrara › South: Public Beach La Rotonda",
+    "city": "Carrara",
+    "countryCode": "AU",
+    "lat": 44.04012,
+    "lng": 10.02935,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1365062059/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105446,17 +105237,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "AU",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -105464,6 +105244,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "AU",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105574,17 +105365,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1393697860",
-    "name": "Subiaco: Monte Livata",
-    "city": "Subiaco",
-    "countryCode": "AU",
-    "lat": 41.93748,
-    "lng": 13.15092,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1393697860/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106315,6 +106095,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1189608479",
+    "name": "Pernat: Cres",
+    "city": "Pernat",
+    "countryCode": "AU",
+    "lat": 44.9621,
+    "lng": 14.3951,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1189608479/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1201621627",
     "name": "Bassano del Grappa: Piazza Garibaldi 2",
     "city": "Bassano del Grappa",
@@ -106392,17 +106183,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609089223",
-    "name": "Bedonia › North",
-    "city": "Bedonia",
-    "countryCode": "AU",
-    "lat": 44.52169,
-    "lng": 9.5599,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1534186346",
     "name": "Aklavik › South-east: true",
     "city": "Aklavik",
@@ -106410,6 +106190,17 @@
     "lat": 68.22333,
     "lng": -135.00556,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1534186346/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609089223",
+    "name": "Bedonia › North",
+    "city": "Bedonia",
+    "countryCode": "AU",
+    "lat": 44.52169,
+    "lng": 9.5599,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609089223/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107910,13 +107701,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
+    "id": "windy-1510914337",
+    "name": "Geneva › North-west: The Geneva Water Fountain",
+    "city": "Geneva",
     "countryCode": "AU",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "lat": 46.20574,
+    "lng": 6.15646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108445,17 +108236,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1619856885",
-    "name": "Levanto",
-    "city": "Levanto",
-    "countryCode": "AU",
-    "lat": 44.16623,
-    "lng": 9.61015,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
