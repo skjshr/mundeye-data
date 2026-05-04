@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000si2c",
+    "type": "earthquake",
+    "lat": 3.0938,
+    "lng": 126.7085,
+    "intensity": 4.6,
+    "timestamp": "2026-05-04T03:37:06.423Z",
+    "description": "M 4.6 - 209 km NW of Tobelo, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us7000si0r",
     "type": "earthquake",
     "lat": 3.7804,
