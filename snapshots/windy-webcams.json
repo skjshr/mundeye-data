@@ -1166,6 +1166,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -1815,17 +1826,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "JP",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -2097,6 +2097,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2464,17 +2475,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -2563,17 +2563,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "JP",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -2603,6 +2592,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "JP",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2684,17 +2684,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "JP",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -2702,6 +2691,17 @@
     "lat": 43.60943,
     "lng": 3.88141,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334228612/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513601",
+    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "JP",
+    "lat": 47.17294,
+    "lng": 9.34001,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2922,17 +2922,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3476,17 +3465,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250234364",
-    "name": "Baan Klong Prao: Klong Prao beach - Cape Chai Chet จุดชมวิวแหลมไชยเชษฐ์​ - Coco Dee Bo Tours and Internet Cafe Koh Chang",
-    "city": "Baan Klong Prao",
-    "countryCode": "JP",
-    "lat": 12.04888,
-    "lng": 102.29947,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250234364/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1377791522",
     "name": "Muro: Alcúdia - Platja de",
     "city": "Muro",
@@ -3527,17 +3505,6 @@
     "lat": 63.17839,
     "lng": 14.64312,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369571511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "JP",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5423,6 +5390,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -5852,6 +5830,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "JP",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -6189,6 +6178,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "JP",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6534,17 +6534,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "JP",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -6552,6 +6541,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "JP",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7260,17 +7260,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793898374",
-    "name": "Novara › North: San Gaudenzio",
-    "city": "Novara",
-    "countryCode": "JP",
-    "lat": 45.4469,
-    "lng": 8.6216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1480180301",
     "name": "Sorsele: Västerbotten, Sweden",
     "city": "Sorsele",
@@ -7278,6 +7267,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793898374",
+    "name": "Novara › North: San Gaudenzio",
+    "city": "Novara",
+    "countryCode": "JP",
+    "lat": 45.4469,
+    "lng": 8.6216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7744,17 +7744,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "JP",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -7762,6 +7751,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "JP",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9306,17 +9306,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "JP",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -9324,6 +9313,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "JP",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10472,17 +10472,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "JP",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -10490,6 +10479,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "JP",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10670,17 +10670,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1226253969",
-    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
-    "city": "Saint-Francois-Longchamp",
-    "countryCode": "JP",
-    "lat": 45.41787,
-    "lng": 6.36416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -10688,6 +10677,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1226253969",
+    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
+    "city": "Saint-Francois-Longchamp",
+    "countryCode": "JP",
+    "lat": 45.41787,
+    "lng": 6.36416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11935,6 +11935,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -12584,17 +12595,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "US",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -12866,6 +12866,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13233,17 +13244,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -13332,17 +13332,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "US",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -13372,6 +13361,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "US",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13453,17 +13453,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "US",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -13471,6 +13460,17 @@
     "lat": 43.60943,
     "lng": 3.88141,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334228612/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513601",
+    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "US",
+    "lat": 47.17294,
+    "lng": 9.34001,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13691,17 +13691,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14245,17 +14234,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250234364",
-    "name": "Baan Klong Prao: Klong Prao beach - Cape Chai Chet จุดชมวิวแหลมไชยเชษฐ์​ - Coco Dee Bo Tours and Internet Cafe Koh Chang",
-    "city": "Baan Klong Prao",
-    "countryCode": "US",
-    "lat": 12.04888,
-    "lng": 102.29947,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250234364/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1377791522",
     "name": "Muro: Alcúdia - Platja de",
     "city": "Muro",
@@ -14296,17 +14274,6 @@
     "lat": 63.17839,
     "lng": 14.64312,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369571511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "US",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16192,6 +16159,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -16621,6 +16599,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "US",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -16958,6 +16947,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "US",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17303,17 +17303,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "US",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -17321,6 +17310,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "US",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18029,17 +18029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793898374",
-    "name": "Novara › North: San Gaudenzio",
-    "city": "Novara",
-    "countryCode": "US",
-    "lat": 45.4469,
-    "lng": 8.6216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1480180301",
     "name": "Sorsele: Västerbotten, Sweden",
     "city": "Sorsele",
@@ -18047,6 +18036,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793898374",
+    "name": "Novara › North: San Gaudenzio",
+    "city": "Novara",
+    "countryCode": "US",
+    "lat": 45.4469,
+    "lng": 8.6216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18513,17 +18513,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "US",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -18531,6 +18520,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "US",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20075,17 +20075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "US",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -20093,6 +20082,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "US",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21241,17 +21241,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "US",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -21259,6 +21248,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "US",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21439,17 +21439,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1226253969",
-    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
-    "city": "Saint-Francois-Longchamp",
-    "countryCode": "US",
-    "lat": 45.41787,
-    "lng": 6.36416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -21457,6 +21446,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1226253969",
+    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
+    "city": "Saint-Francois-Longchamp",
+    "countryCode": "US",
+    "lat": 45.41787,
+    "lng": 6.36416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22704,6 +22704,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -23353,17 +23364,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "GB",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -23635,6 +23635,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24002,17 +24013,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -24101,17 +24101,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "GB",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -24141,6 +24130,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "GB",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24222,17 +24222,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "GB",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -24240,6 +24229,17 @@
     "lat": 43.60943,
     "lng": 3.88141,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334228612/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513601",
+    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "GB",
+    "lat": 47.17294,
+    "lng": 9.34001,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24460,17 +24460,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25014,17 +25003,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250234364",
-    "name": "Baan Klong Prao: Klong Prao beach - Cape Chai Chet จุดชมวิวแหลมไชยเชษฐ์​ - Coco Dee Bo Tours and Internet Cafe Koh Chang",
-    "city": "Baan Klong Prao",
-    "countryCode": "GB",
-    "lat": 12.04888,
-    "lng": 102.29947,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250234364/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1377791522",
     "name": "Muro: Alcúdia - Platja de",
     "city": "Muro",
@@ -25065,17 +25043,6 @@
     "lat": 63.17839,
     "lng": 14.64312,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369571511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "GB",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26961,6 +26928,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -27390,6 +27368,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "GB",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -27727,6 +27716,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "GB",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28072,17 +28072,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "GB",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -28090,6 +28079,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "GB",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28798,17 +28798,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793898374",
-    "name": "Novara › North: San Gaudenzio",
-    "city": "Novara",
-    "countryCode": "GB",
-    "lat": 45.4469,
-    "lng": 8.6216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1480180301",
     "name": "Sorsele: Västerbotten, Sweden",
     "city": "Sorsele",
@@ -28816,6 +28805,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793898374",
+    "name": "Novara › North: San Gaudenzio",
+    "city": "Novara",
+    "countryCode": "GB",
+    "lat": 45.4469,
+    "lng": 8.6216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29282,17 +29282,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "GB",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -29300,6 +29289,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "GB",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30844,17 +30844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "GB",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -30862,6 +30851,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "GB",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32010,17 +32010,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "GB",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -32028,6 +32017,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "GB",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32208,17 +32208,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1226253969",
-    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
-    "city": "Saint-Francois-Longchamp",
-    "countryCode": "GB",
-    "lat": 45.41787,
-    "lng": 6.36416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -32226,6 +32215,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1226253969",
+    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
+    "city": "Saint-Francois-Longchamp",
+    "countryCode": "GB",
+    "lat": 45.41787,
+    "lng": 6.36416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33473,6 +33473,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -34122,17 +34133,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "DE",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -34404,6 +34404,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34771,17 +34782,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -34870,17 +34870,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "DE",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -34910,6 +34899,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "DE",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34991,17 +34991,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "DE",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -35009,6 +34998,17 @@
     "lat": 43.60943,
     "lng": 3.88141,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334228612/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513601",
+    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "DE",
+    "lat": 47.17294,
+    "lng": 9.34001,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35229,17 +35229,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35783,17 +35772,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250234364",
-    "name": "Baan Klong Prao: Klong Prao beach - Cape Chai Chet จุดชมวิวแหลมไชยเชษฐ์​ - Coco Dee Bo Tours and Internet Cafe Koh Chang",
-    "city": "Baan Klong Prao",
-    "countryCode": "DE",
-    "lat": 12.04888,
-    "lng": 102.29947,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250234364/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1377791522",
     "name": "Muro: Alcúdia - Platja de",
     "city": "Muro",
@@ -35834,17 +35812,6 @@
     "lat": 63.17839,
     "lng": 14.64312,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369571511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "DE",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37730,6 +37697,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -38159,6 +38137,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "DE",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -38496,6 +38485,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "DE",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38841,17 +38841,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "DE",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -38859,6 +38848,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "DE",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39567,17 +39567,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793898374",
-    "name": "Novara › North: San Gaudenzio",
-    "city": "Novara",
-    "countryCode": "DE",
-    "lat": 45.4469,
-    "lng": 8.6216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1480180301",
     "name": "Sorsele: Västerbotten, Sweden",
     "city": "Sorsele",
@@ -39585,6 +39574,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793898374",
+    "name": "Novara › North: San Gaudenzio",
+    "city": "Novara",
+    "countryCode": "DE",
+    "lat": 45.4469,
+    "lng": 8.6216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40051,17 +40051,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "DE",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -40069,6 +40058,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "DE",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41613,17 +41613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "DE",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -41631,6 +41620,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "DE",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42779,17 +42779,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "DE",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -42797,6 +42786,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "DE",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42977,17 +42977,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1226253969",
-    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
-    "city": "Saint-Francois-Longchamp",
-    "countryCode": "DE",
-    "lat": 45.41787,
-    "lng": 6.36416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -42995,6 +42984,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1226253969",
+    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
+    "city": "Saint-Francois-Longchamp",
+    "countryCode": "DE",
+    "lat": 45.41787,
+    "lng": 6.36416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44242,6 +44242,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -44891,17 +44902,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "FR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -45173,6 +45173,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45540,17 +45551,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -45639,17 +45639,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "FR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -45679,6 +45668,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "FR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45760,17 +45760,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "FR",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -45778,6 +45767,17 @@
     "lat": 43.60943,
     "lng": 3.88141,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334228612/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513601",
+    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "FR",
+    "lat": 47.17294,
+    "lng": 9.34001,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45998,17 +45998,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46552,17 +46541,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250234364",
-    "name": "Baan Klong Prao: Klong Prao beach - Cape Chai Chet จุดชมวิวแหลมไชยเชษฐ์​ - Coco Dee Bo Tours and Internet Cafe Koh Chang",
-    "city": "Baan Klong Prao",
-    "countryCode": "FR",
-    "lat": 12.04888,
-    "lng": 102.29947,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250234364/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1377791522",
     "name": "Muro: Alcúdia - Platja de",
     "city": "Muro",
@@ -46603,17 +46581,6 @@
     "lat": 63.17839,
     "lng": 14.64312,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369571511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "FR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48499,6 +48466,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -48928,6 +48906,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "FR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -49265,6 +49254,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "FR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49610,17 +49610,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "FR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -49628,6 +49617,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "FR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50336,17 +50336,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793898374",
-    "name": "Novara › North: San Gaudenzio",
-    "city": "Novara",
-    "countryCode": "FR",
-    "lat": 45.4469,
-    "lng": 8.6216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1480180301",
     "name": "Sorsele: Västerbotten, Sweden",
     "city": "Sorsele",
@@ -50354,6 +50343,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793898374",
+    "name": "Novara › North: San Gaudenzio",
+    "city": "Novara",
+    "countryCode": "FR",
+    "lat": 45.4469,
+    "lng": 8.6216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50820,17 +50820,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "FR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -50838,6 +50827,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "FR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52382,17 +52382,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "FR",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -52400,6 +52389,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "FR",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53548,17 +53548,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "FR",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -53566,6 +53555,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "FR",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53746,17 +53746,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1226253969",
-    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
-    "city": "Saint-Francois-Longchamp",
-    "countryCode": "FR",
-    "lat": 45.41787,
-    "lng": 6.36416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -53764,6 +53753,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1226253969",
+    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
+    "city": "Saint-Francois-Longchamp",
+    "countryCode": "FR",
+    "lat": 45.41787,
+    "lng": 6.36416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55011,6 +55011,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -55660,17 +55671,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "CN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -55942,6 +55942,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56309,17 +56320,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -56408,17 +56408,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "CN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -56448,6 +56437,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "CN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56529,17 +56529,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "CN",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -56547,6 +56536,17 @@
     "lat": 43.60943,
     "lng": 3.88141,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334228612/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513601",
+    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "CN",
+    "lat": 47.17294,
+    "lng": 9.34001,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56767,17 +56767,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57321,17 +57310,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250234364",
-    "name": "Baan Klong Prao: Klong Prao beach - Cape Chai Chet จุดชมวิวแหลมไชยเชษฐ์​ - Coco Dee Bo Tours and Internet Cafe Koh Chang",
-    "city": "Baan Klong Prao",
-    "countryCode": "CN",
-    "lat": 12.04888,
-    "lng": 102.29947,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250234364/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1377791522",
     "name": "Muro: Alcúdia - Platja de",
     "city": "Muro",
@@ -57372,17 +57350,6 @@
     "lat": 63.17839,
     "lng": 14.64312,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369571511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "CN",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59268,6 +59235,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -59697,6 +59675,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "CN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -60034,6 +60023,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "CN",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60379,17 +60379,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "CN",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -60397,6 +60386,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "CN",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61105,17 +61105,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793898374",
-    "name": "Novara › North: San Gaudenzio",
-    "city": "Novara",
-    "countryCode": "CN",
-    "lat": 45.4469,
-    "lng": 8.6216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1480180301",
     "name": "Sorsele: Västerbotten, Sweden",
     "city": "Sorsele",
@@ -61123,6 +61112,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793898374",
+    "name": "Novara › North: San Gaudenzio",
+    "city": "Novara",
+    "countryCode": "CN",
+    "lat": 45.4469,
+    "lng": 8.6216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61589,17 +61589,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "CN",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -61607,6 +61596,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "CN",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63151,17 +63151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "CN",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -63169,6 +63158,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "CN",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64317,17 +64317,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "CN",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -64335,6 +64324,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "CN",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64515,17 +64515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1226253969",
-    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
-    "city": "Saint-Francois-Longchamp",
-    "countryCode": "CN",
-    "lat": 45.41787,
-    "lng": 6.36416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -64533,6 +64522,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1226253969",
+    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
+    "city": "Saint-Francois-Longchamp",
+    "countryCode": "CN",
+    "lat": 45.41787,
+    "lng": 6.36416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65780,6 +65780,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -66429,17 +66440,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "KR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -66711,6 +66711,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67078,17 +67089,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -67177,17 +67177,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "KR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -67217,6 +67206,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "KR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67298,17 +67298,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "KR",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -67316,6 +67305,17 @@
     "lat": 43.60943,
     "lng": 3.88141,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334228612/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513601",
+    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "KR",
+    "lat": 47.17294,
+    "lng": 9.34001,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67536,17 +67536,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68090,17 +68079,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250234364",
-    "name": "Baan Klong Prao: Klong Prao beach - Cape Chai Chet จุดชมวิวแหลมไชยเชษฐ์​ - Coco Dee Bo Tours and Internet Cafe Koh Chang",
-    "city": "Baan Klong Prao",
-    "countryCode": "KR",
-    "lat": 12.04888,
-    "lng": 102.29947,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250234364/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1377791522",
     "name": "Muro: Alcúdia - Platja de",
     "city": "Muro",
@@ -68141,17 +68119,6 @@
     "lat": 63.17839,
     "lng": 14.64312,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369571511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "KR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70037,6 +70004,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -70466,6 +70444,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "KR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -70803,6 +70792,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "KR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71148,17 +71148,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "KR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -71166,6 +71155,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "KR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71874,17 +71874,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793898374",
-    "name": "Novara › North: San Gaudenzio",
-    "city": "Novara",
-    "countryCode": "KR",
-    "lat": 45.4469,
-    "lng": 8.6216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1480180301",
     "name": "Sorsele: Västerbotten, Sweden",
     "city": "Sorsele",
@@ -71892,6 +71881,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793898374",
+    "name": "Novara › North: San Gaudenzio",
+    "city": "Novara",
+    "countryCode": "KR",
+    "lat": 45.4469,
+    "lng": 8.6216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72358,17 +72358,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "KR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -72376,6 +72365,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "KR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73920,17 +73920,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "KR",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -73938,6 +73927,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "KR",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75086,17 +75086,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "KR",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -75104,6 +75093,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "KR",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75284,17 +75284,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1226253969",
-    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
-    "city": "Saint-Francois-Longchamp",
-    "countryCode": "KR",
-    "lat": 45.41787,
-    "lng": 6.36416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -75302,6 +75291,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1226253969",
+    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
+    "city": "Saint-Francois-Longchamp",
+    "countryCode": "KR",
+    "lat": 45.41787,
+    "lng": 6.36416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76549,6 +76549,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -77198,17 +77209,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "IN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -77480,6 +77480,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77847,17 +77858,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -77946,17 +77946,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "IN",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -77986,6 +77975,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "IN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78067,17 +78067,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "IN",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -78085,6 +78074,17 @@
     "lat": 43.60943,
     "lng": 3.88141,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334228612/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513601",
+    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "IN",
+    "lat": 47.17294,
+    "lng": 9.34001,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78305,17 +78305,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78859,17 +78848,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250234364",
-    "name": "Baan Klong Prao: Klong Prao beach - Cape Chai Chet จุดชมวิวแหลมไชยเชษฐ์​ - Coco Dee Bo Tours and Internet Cafe Koh Chang",
-    "city": "Baan Klong Prao",
-    "countryCode": "IN",
-    "lat": 12.04888,
-    "lng": 102.29947,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250234364/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1377791522",
     "name": "Muro: Alcúdia - Platja de",
     "city": "Muro",
@@ -78910,17 +78888,6 @@
     "lat": 63.17839,
     "lng": 14.64312,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369571511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "IN",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80806,6 +80773,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -81235,6 +81213,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "IN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -81572,6 +81561,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "IN",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81917,17 +81917,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "IN",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -81935,6 +81924,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "IN",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82643,17 +82643,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793898374",
-    "name": "Novara › North: San Gaudenzio",
-    "city": "Novara",
-    "countryCode": "IN",
-    "lat": 45.4469,
-    "lng": 8.6216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1480180301",
     "name": "Sorsele: Västerbotten, Sweden",
     "city": "Sorsele",
@@ -82661,6 +82650,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793898374",
+    "name": "Novara › North: San Gaudenzio",
+    "city": "Novara",
+    "countryCode": "IN",
+    "lat": 45.4469,
+    "lng": 8.6216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83127,17 +83127,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "IN",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -83145,6 +83134,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "IN",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84689,17 +84689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "IN",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -84707,6 +84696,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "IN",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85855,17 +85855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "IN",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -85873,6 +85862,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "IN",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86053,17 +86053,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1226253969",
-    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
-    "city": "Saint-Francois-Longchamp",
-    "countryCode": "IN",
-    "lat": 45.41787,
-    "lng": 6.36416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -86071,6 +86060,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1226253969",
+    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
+    "city": "Saint-Francois-Longchamp",
+    "countryCode": "IN",
+    "lat": 45.41787,
+    "lng": 6.36416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87318,6 +87318,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -87967,17 +87978,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "BR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -88249,6 +88249,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88616,17 +88627,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -88715,17 +88715,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "BR",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -88755,6 +88744,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "BR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88836,17 +88836,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "BR",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -88854,6 +88843,17 @@
     "lat": 43.60943,
     "lng": 3.88141,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334228612/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513601",
+    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "BR",
+    "lat": 47.17294,
+    "lng": 9.34001,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89074,17 +89074,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89628,17 +89617,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250234364",
-    "name": "Baan Klong Prao: Klong Prao beach - Cape Chai Chet จุดชมวิวแหลมไชยเชษฐ์​ - Coco Dee Bo Tours and Internet Cafe Koh Chang",
-    "city": "Baan Klong Prao",
-    "countryCode": "BR",
-    "lat": 12.04888,
-    "lng": 102.29947,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250234364/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1377791522",
     "name": "Muro: Alcúdia - Platja de",
     "city": "Muro",
@@ -89679,17 +89657,6 @@
     "lat": 63.17839,
     "lng": 14.64312,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369571511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "BR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91575,6 +91542,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -92004,6 +91982,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "BR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -92341,6 +92330,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "BR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92686,17 +92686,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "BR",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -92704,6 +92693,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "BR",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93412,17 +93412,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793898374",
-    "name": "Novara › North: San Gaudenzio",
-    "city": "Novara",
-    "countryCode": "BR",
-    "lat": 45.4469,
-    "lng": 8.6216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1480180301",
     "name": "Sorsele: Västerbotten, Sweden",
     "city": "Sorsele",
@@ -93430,6 +93419,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793898374",
+    "name": "Novara › North: San Gaudenzio",
+    "city": "Novara",
+    "countryCode": "BR",
+    "lat": 45.4469,
+    "lng": 8.6216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93896,17 +93896,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "BR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -93914,6 +93903,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "BR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95458,17 +95458,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "BR",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -95476,6 +95465,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "BR",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96624,17 +96624,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "BR",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -96642,6 +96631,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "BR",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96822,17 +96822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1226253969",
-    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
-    "city": "Saint-Francois-Longchamp",
-    "countryCode": "BR",
-    "lat": 45.41787,
-    "lng": 6.36416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -96840,6 +96829,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1226253969",
+    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
+    "city": "Saint-Francois-Longchamp",
+    "countryCode": "BR",
+    "lat": 45.41787,
+    "lng": 6.36416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98087,6 +98087,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1450843353",
+    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -41.65012,
+    "lng": 145.96191,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -98736,17 +98747,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "AU",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -99018,6 +99018,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99385,17 +99396,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1154342436",
     "name": "Lausanne › South-east: Centre",
     "city": "Lausanne",
@@ -99484,17 +99484,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1547038112",
-    "name": "Jackson: Spotted Horse Ranch on Hoback River",
-    "city": "Jackson",
-    "countryCode": "AU",
-    "lat": 43.30086,
-    "lng": -110.67134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -99524,6 +99513,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "AU",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99605,17 +99605,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513601",
-    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
-    "city": "Wildhaus-Alt St. Johann",
-    "countryCode": "AU",
-    "lat": 47.17294,
-    "lng": 9.34001,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -99623,6 +99612,17 @@
     "lat": 43.60943,
     "lng": 3.88141,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1334228612/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513601",
+    "name": "Wildhaus-Alt St. Johann: Wildhaus Berggasthaus Gamsalp",
+    "city": "Wildhaus-Alt St. Johann",
+    "countryCode": "AU",
+    "lat": 47.17294,
+    "lng": 9.34001,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513601/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99843,17 +99843,6 @@
     "lat": 46.40533,
     "lng": 9.69525,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1239271528/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100397,17 +100386,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1250234364",
-    "name": "Baan Klong Prao: Klong Prao beach - Cape Chai Chet จุดชมวิวแหลมไชยเชษฐ์​ - Coco Dee Bo Tours and Internet Cafe Koh Chang",
-    "city": "Baan Klong Prao",
-    "countryCode": "AU",
-    "lat": 12.04888,
-    "lng": 102.29947,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250234364/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1377791522",
     "name": "Muro: Alcúdia - Platja de",
     "city": "Muro",
@@ -100448,17 +100426,6 @@
     "lat": 63.17839,
     "lng": 14.64312,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369571511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "AU",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102344,6 +102311,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1516351151",
     "name": "Alicante: Valencia, Spania",
     "city": "Alicante",
@@ -102773,6 +102751,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "AU",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -103110,6 +103099,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "AU",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103455,17 +103455,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1187538760",
-    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
-    "city": "Korbach",
-    "countryCode": "AU",
-    "lat": 51.27462,
-    "lng": 8.87153,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1348599722",
     "name": "Ahrenshoop: Strand",
     "city": "Ahrenshoop",
@@ -103473,6 +103462,17 @@
     "lat": 54.38388,
     "lng": 12.42512,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1187538760",
+    "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
+    "city": "Korbach",
+    "countryCode": "AU",
+    "lat": 51.27462,
+    "lng": 8.87153,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104181,17 +104181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1793898374",
-    "name": "Novara › North: San Gaudenzio",
-    "city": "Novara",
-    "countryCode": "AU",
-    "lat": 45.4469,
-    "lng": 8.6216,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1480180301",
     "name": "Sorsele: Västerbotten, Sweden",
     "city": "Sorsele",
@@ -104199,6 +104188,17 @@
     "lat": 65.53313,
     "lng": 17.53707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1480180301/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1793898374",
+    "name": "Novara › North: San Gaudenzio",
+    "city": "Novara",
+    "countryCode": "AU",
+    "lat": 45.4469,
+    "lng": 8.6216,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793898374/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104665,17 +104665,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "AU",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -104683,6 +104672,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "AU",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106227,17 +106227,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "AU",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1613136596",
     "name": "Pa Tong: Patong",
     "city": "Pa Tong",
@@ -106245,6 +106234,17 @@
     "lat": 7.89153,
     "lng": 98.29367,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1613136596/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "AU",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107393,17 +107393,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1370546719",
-    "name": "Tazacorte: Puerto",
-    "city": "Tazacorte",
-    "countryCode": "AU",
-    "lat": 28.65175,
-    "lng": -17.94728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1225720055",
     "name": "Little Mountain › South: Quart -a-Nancy Point - Manchioneel Bay - Cistern Point - Cooper Island",
     "city": "Little Mountain",
@@ -107411,6 +107400,17 @@
     "lat": 18.38848,
     "lng": -64.51337,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225720055/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1370546719",
+    "name": "Tazacorte: Puerto",
+    "city": "Tazacorte",
+    "countryCode": "AU",
+    "lat": 28.65175,
+    "lng": -17.94728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107591,17 +107591,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1226253969",
-    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
-    "city": "Saint-Francois-Longchamp",
-    "countryCode": "AU",
-    "lat": 45.41787,
-    "lng": 6.36416,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -107609,6 +107598,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1226253969",
+    "name": "Saint-Francois-Longchamp › South-east: Domaine skiable de Saint François Longchamp Labellemontagne",
+    "city": "Saint-Francois-Longchamp",
+    "countryCode": "AU",
+    "lat": 45.41787,
+    "lng": 6.36416,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1226253969/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
