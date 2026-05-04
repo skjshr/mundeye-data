@@ -2167,17 +2167,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040911",
-    "name": "Gryon: Les Chaux",
-    "city": "Gryon",
-    "countryCode": "JP",
-    "lat": 46.29565,
-    "lng": 7.10311,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040911/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309692963",
     "name": "Porjus › North-west: Northern Lights webcam",
     "city": "Porjus",
@@ -4093,23 +4082,12 @@
   },
   {
     "id": "windy-1636048457",
-    "name": "Livigno",
+    "name": "Livigno › North-east: Via Plan - Crap de La Paré",
     "city": "Livigno",
     "countryCode": "JP",
     "lat": 46.53955,
     "lng": 10.13632,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636048457/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697029358",
-    "name": "Ollon: Villars-sur-Ollon",
-    "city": "Ollon",
-    "countryCode": "JP",
-    "lat": 46.33152,
-    "lng": 7.06704,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5677,11 +5655,11 @@
   },
   {
     "id": "windy-1312293890",
-    "name": "Lignano Sabbiadoro: Lignano Pineta 2",
+    "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
     "countryCode": "JP",
-    "lat": 45.6711,
-    "lng": 13.11716,
+    "lat": 45.6672,
+    "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -7613,11 +7591,11 @@
   },
   {
     "id": "windy-1387434609",
-    "name": "Livorno: Circolo Pesca Nazario Sauro Sea Entrance",
+    "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
     "countryCode": "JP",
-    "lat": 43.54264,
-    "lng": 10.316,
+    "lat": 43.53807,
+    "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -7729,6 +7707,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "JP",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8785,17 +8774,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "JP",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10435,6 +10413,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "JP",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12947,17 +12936,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040911",
-    "name": "Gryon: Les Chaux",
-    "city": "Gryon",
-    "countryCode": "US",
-    "lat": 46.29565,
-    "lng": 7.10311,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040911/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309692963",
     "name": "Porjus › North-west: Northern Lights webcam",
     "city": "Porjus",
@@ -14873,23 +14851,12 @@
   },
   {
     "id": "windy-1636048457",
-    "name": "Livigno",
+    "name": "Livigno › North-east: Via Plan - Crap de La Paré",
     "city": "Livigno",
     "countryCode": "US",
     "lat": 46.53955,
     "lng": 10.13632,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636048457/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697029358",
-    "name": "Ollon: Villars-sur-Ollon",
-    "city": "Ollon",
-    "countryCode": "US",
-    "lat": 46.33152,
-    "lng": 7.06704,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16457,11 +16424,11 @@
   },
   {
     "id": "windy-1312293890",
-    "name": "Lignano Sabbiadoro: Lignano Pineta 2",
+    "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
     "countryCode": "US",
-    "lat": 45.6711,
-    "lng": 13.11716,
+    "lat": 45.6672,
+    "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -18393,11 +18360,11 @@
   },
   {
     "id": "windy-1387434609",
-    "name": "Livorno: Circolo Pesca Nazario Sauro Sea Entrance",
+    "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
     "countryCode": "US",
-    "lat": 43.54264,
-    "lng": 10.316,
+    "lat": 43.53807,
+    "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -18509,6 +18476,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "US",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19565,17 +19543,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "US",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21215,6 +21182,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "US",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23727,17 +23705,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040911",
-    "name": "Gryon: Les Chaux",
-    "city": "Gryon",
-    "countryCode": "GB",
-    "lat": 46.29565,
-    "lng": 7.10311,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040911/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309692963",
     "name": "Porjus › North-west: Northern Lights webcam",
     "city": "Porjus",
@@ -25653,23 +25620,12 @@
   },
   {
     "id": "windy-1636048457",
-    "name": "Livigno",
+    "name": "Livigno › North-east: Via Plan - Crap de La Paré",
     "city": "Livigno",
     "countryCode": "GB",
     "lat": 46.53955,
     "lng": 10.13632,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636048457/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697029358",
-    "name": "Ollon: Villars-sur-Ollon",
-    "city": "Ollon",
-    "countryCode": "GB",
-    "lat": 46.33152,
-    "lng": 7.06704,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27237,11 +27193,11 @@
   },
   {
     "id": "windy-1312293890",
-    "name": "Lignano Sabbiadoro: Lignano Pineta 2",
+    "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
     "countryCode": "GB",
-    "lat": 45.6711,
-    "lng": 13.11716,
+    "lat": 45.6672,
+    "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -29173,11 +29129,11 @@
   },
   {
     "id": "windy-1387434609",
-    "name": "Livorno: Circolo Pesca Nazario Sauro Sea Entrance",
+    "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
     "countryCode": "GB",
-    "lat": 43.54264,
-    "lng": 10.316,
+    "lat": 43.53807,
+    "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -29289,6 +29245,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "GB",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30345,17 +30312,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "GB",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31995,6 +31951,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "GB",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34507,17 +34474,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040911",
-    "name": "Gryon: Les Chaux",
-    "city": "Gryon",
-    "countryCode": "DE",
-    "lat": 46.29565,
-    "lng": 7.10311,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040911/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309692963",
     "name": "Porjus › North-west: Northern Lights webcam",
     "city": "Porjus",
@@ -36433,23 +36389,12 @@
   },
   {
     "id": "windy-1636048457",
-    "name": "Livigno",
+    "name": "Livigno › North-east: Via Plan - Crap de La Paré",
     "city": "Livigno",
     "countryCode": "DE",
     "lat": 46.53955,
     "lng": 10.13632,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636048457/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697029358",
-    "name": "Ollon: Villars-sur-Ollon",
-    "city": "Ollon",
-    "countryCode": "DE",
-    "lat": 46.33152,
-    "lng": 7.06704,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38017,11 +37962,11 @@
   },
   {
     "id": "windy-1312293890",
-    "name": "Lignano Sabbiadoro: Lignano Pineta 2",
+    "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
     "countryCode": "DE",
-    "lat": 45.6711,
-    "lng": 13.11716,
+    "lat": 45.6672,
+    "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -39953,11 +39898,11 @@
   },
   {
     "id": "windy-1387434609",
-    "name": "Livorno: Circolo Pesca Nazario Sauro Sea Entrance",
+    "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
     "countryCode": "DE",
-    "lat": 43.54264,
-    "lng": 10.316,
+    "lat": 43.53807,
+    "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -40069,6 +40014,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "DE",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41125,17 +41081,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "DE",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42775,6 +42720,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "DE",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45287,17 +45243,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040911",
-    "name": "Gryon: Les Chaux",
-    "city": "Gryon",
-    "countryCode": "FR",
-    "lat": 46.29565,
-    "lng": 7.10311,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040911/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309692963",
     "name": "Porjus › North-west: Northern Lights webcam",
     "city": "Porjus",
@@ -47213,23 +47158,12 @@
   },
   {
     "id": "windy-1636048457",
-    "name": "Livigno",
+    "name": "Livigno › North-east: Via Plan - Crap de La Paré",
     "city": "Livigno",
     "countryCode": "FR",
     "lat": 46.53955,
     "lng": 10.13632,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636048457/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697029358",
-    "name": "Ollon: Villars-sur-Ollon",
-    "city": "Ollon",
-    "countryCode": "FR",
-    "lat": 46.33152,
-    "lng": 7.06704,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48797,11 +48731,11 @@
   },
   {
     "id": "windy-1312293890",
-    "name": "Lignano Sabbiadoro: Lignano Pineta 2",
+    "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
     "countryCode": "FR",
-    "lat": 45.6711,
-    "lng": 13.11716,
+    "lat": 45.6672,
+    "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -50733,11 +50667,11 @@
   },
   {
     "id": "windy-1387434609",
-    "name": "Livorno: Circolo Pesca Nazario Sauro Sea Entrance",
+    "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
     "countryCode": "FR",
-    "lat": 43.54264,
-    "lng": 10.316,
+    "lat": 43.53807,
+    "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -50849,6 +50783,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "FR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51905,17 +51850,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "FR",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53555,6 +53489,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "FR",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56067,17 +56012,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040911",
-    "name": "Gryon: Les Chaux",
-    "city": "Gryon",
-    "countryCode": "CN",
-    "lat": 46.29565,
-    "lng": 7.10311,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040911/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309692963",
     "name": "Porjus › North-west: Northern Lights webcam",
     "city": "Porjus",
@@ -57993,23 +57927,12 @@
   },
   {
     "id": "windy-1636048457",
-    "name": "Livigno",
+    "name": "Livigno › North-east: Via Plan - Crap de La Paré",
     "city": "Livigno",
     "countryCode": "CN",
     "lat": 46.53955,
     "lng": 10.13632,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636048457/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697029358",
-    "name": "Ollon: Villars-sur-Ollon",
-    "city": "Ollon",
-    "countryCode": "CN",
-    "lat": 46.33152,
-    "lng": 7.06704,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59577,11 +59500,11 @@
   },
   {
     "id": "windy-1312293890",
-    "name": "Lignano Sabbiadoro: Lignano Pineta 2",
+    "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
     "countryCode": "CN",
-    "lat": 45.6711,
-    "lng": 13.11716,
+    "lat": 45.6672,
+    "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -61513,11 +61436,11 @@
   },
   {
     "id": "windy-1387434609",
-    "name": "Livorno: Circolo Pesca Nazario Sauro Sea Entrance",
+    "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
     "countryCode": "CN",
-    "lat": 43.54264,
-    "lng": 10.316,
+    "lat": 43.53807,
+    "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -61629,6 +61552,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "CN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62685,17 +62619,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "CN",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64335,6 +64258,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "CN",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66847,17 +66781,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040911",
-    "name": "Gryon: Les Chaux",
-    "city": "Gryon",
-    "countryCode": "KR",
-    "lat": 46.29565,
-    "lng": 7.10311,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040911/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309692963",
     "name": "Porjus › North-west: Northern Lights webcam",
     "city": "Porjus",
@@ -68773,23 +68696,12 @@
   },
   {
     "id": "windy-1636048457",
-    "name": "Livigno",
+    "name": "Livigno › North-east: Via Plan - Crap de La Paré",
     "city": "Livigno",
     "countryCode": "KR",
     "lat": 46.53955,
     "lng": 10.13632,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636048457/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697029358",
-    "name": "Ollon: Villars-sur-Ollon",
-    "city": "Ollon",
-    "countryCode": "KR",
-    "lat": 46.33152,
-    "lng": 7.06704,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70357,11 +70269,11 @@
   },
   {
     "id": "windy-1312293890",
-    "name": "Lignano Sabbiadoro: Lignano Pineta 2",
+    "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
     "countryCode": "KR",
-    "lat": 45.6711,
-    "lng": 13.11716,
+    "lat": 45.6672,
+    "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -72293,11 +72205,11 @@
   },
   {
     "id": "windy-1387434609",
-    "name": "Livorno: Circolo Pesca Nazario Sauro Sea Entrance",
+    "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
     "countryCode": "KR",
-    "lat": 43.54264,
-    "lng": 10.316,
+    "lat": 43.53807,
+    "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -72409,6 +72321,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "KR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73465,17 +73388,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "KR",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75115,6 +75027,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "KR",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77627,17 +77550,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040911",
-    "name": "Gryon: Les Chaux",
-    "city": "Gryon",
-    "countryCode": "IN",
-    "lat": 46.29565,
-    "lng": 7.10311,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040911/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309692963",
     "name": "Porjus › North-west: Northern Lights webcam",
     "city": "Porjus",
@@ -79553,23 +79465,12 @@
   },
   {
     "id": "windy-1636048457",
-    "name": "Livigno",
+    "name": "Livigno › North-east: Via Plan - Crap de La Paré",
     "city": "Livigno",
     "countryCode": "IN",
     "lat": 46.53955,
     "lng": 10.13632,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636048457/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697029358",
-    "name": "Ollon: Villars-sur-Ollon",
-    "city": "Ollon",
-    "countryCode": "IN",
-    "lat": 46.33152,
-    "lng": 7.06704,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81137,11 +81038,11 @@
   },
   {
     "id": "windy-1312293890",
-    "name": "Lignano Sabbiadoro: Lignano Pineta 2",
+    "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
     "countryCode": "IN",
-    "lat": 45.6711,
-    "lng": 13.11716,
+    "lat": 45.6672,
+    "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -83073,11 +82974,11 @@
   },
   {
     "id": "windy-1387434609",
-    "name": "Livorno: Circolo Pesca Nazario Sauro Sea Entrance",
+    "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
     "countryCode": "IN",
-    "lat": 43.54264,
-    "lng": 10.316,
+    "lat": 43.53807,
+    "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -83189,6 +83090,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "IN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84245,17 +84157,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "IN",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85895,6 +85796,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "IN",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88407,17 +88319,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040911",
-    "name": "Gryon: Les Chaux",
-    "city": "Gryon",
-    "countryCode": "BR",
-    "lat": 46.29565,
-    "lng": 7.10311,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040911/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309692963",
     "name": "Porjus › North-west: Northern Lights webcam",
     "city": "Porjus",
@@ -90333,23 +90234,12 @@
   },
   {
     "id": "windy-1636048457",
-    "name": "Livigno",
+    "name": "Livigno › North-east: Via Plan - Crap de La Paré",
     "city": "Livigno",
     "countryCode": "BR",
     "lat": 46.53955,
     "lng": 10.13632,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636048457/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697029358",
-    "name": "Ollon: Villars-sur-Ollon",
-    "city": "Ollon",
-    "countryCode": "BR",
-    "lat": 46.33152,
-    "lng": 7.06704,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91917,11 +91807,11 @@
   },
   {
     "id": "windy-1312293890",
-    "name": "Lignano Sabbiadoro: Lignano Pineta 2",
+    "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
     "countryCode": "BR",
-    "lat": 45.6711,
-    "lng": 13.11716,
+    "lat": 45.6672,
+    "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -93853,11 +93743,11 @@
   },
   {
     "id": "windy-1387434609",
-    "name": "Livorno: Circolo Pesca Nazario Sauro Sea Entrance",
+    "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
     "countryCode": "BR",
-    "lat": 43.54264,
-    "lng": 10.316,
+    "lat": 43.53807,
+    "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -93969,6 +93859,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "BR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95025,17 +94926,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "BR",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96675,6 +96565,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "BR",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99187,17 +99088,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040911",
-    "name": "Gryon: Les Chaux",
-    "city": "Gryon",
-    "countryCode": "AU",
-    "lat": 46.29565,
-    "lng": 7.10311,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040911/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1309692963",
     "name": "Porjus › North-west: Northern Lights webcam",
     "city": "Porjus",
@@ -101113,23 +101003,12 @@
   },
   {
     "id": "windy-1636048457",
-    "name": "Livigno",
+    "name": "Livigno › North-east: Via Plan - Crap de La Paré",
     "city": "Livigno",
     "countryCode": "AU",
     "lat": 46.53955,
     "lng": 10.13632,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636048457/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1697029358",
-    "name": "Ollon: Villars-sur-Ollon",
-    "city": "Ollon",
-    "countryCode": "AU",
-    "lat": 46.33152,
-    "lng": 7.06704,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697029358/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102697,11 +102576,11 @@
   },
   {
     "id": "windy-1312293890",
-    "name": "Lignano Sabbiadoro: Lignano Pineta 2",
+    "name": "Lignano Sabbiadoro › East: Beach Office 4 - Italian Flag - Boardwalk, Lignano Pineta",
     "city": "Lignano Sabbiadoro",
     "countryCode": "AU",
-    "lat": 45.6711,
-    "lng": 13.11716,
+    "lat": 45.6672,
+    "lng": 13.11229,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312293890/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -104633,11 +104512,11 @@
   },
   {
     "id": "windy-1387434609",
-    "name": "Livorno: Circolo Pesca Nazario Sauro Sea Entrance",
+    "name": "Livorno › North-west: Scoglio della Regina - Consorzio per il Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci”",
     "city": "Livorno",
     "countryCode": "AU",
-    "lat": 43.54264,
-    "lng": 10.316,
+    "lat": 43.53807,
+    "lng": 10.30053,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1387434609/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -104749,6 +104628,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "AU",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105805,17 +105695,6 @@
     "lat": -22.68076,
     "lng": 14.52043,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1253685675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "AU",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107455,6 +107334,17 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333963000",
+    "name": "Civitanova Marche: Panoramiche",
+    "city": "Civitanova Marche",
+    "countryCode": "AU",
+    "lat": 43.31224,
+    "lng": 13.72692,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },

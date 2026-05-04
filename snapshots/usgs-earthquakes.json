@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000si80",
+    "type": "earthquake",
+    "lat": 52.1273,
+    "lng": 176.2987,
+    "intensity": 4.5,
+    "timestamp": "2026-05-04T19:14:27.450Z",
+    "description": "M 4.5 - 226 km ESE of Attu Station, Alaska",
+    "source": "USGS"
+  },
+  {
     "id": "us7000si6f",
     "type": "earthquake",
     "lat": 30.6809,
@@ -107,16 +117,6 @@
     "intensity": 4.5,
     "timestamp": "2026-05-03T20:54:57.763Z",
     "description": "M 4.5 - 231 km SE of Sarangani, Philippines",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si08",
-    "type": "earthquake",
-    "lat": 54.1902,
-    "lng": -162.9301,
-    "intensity": 4.6,
-    "timestamp": "2026-05-03T19:20:10.387Z",
-    "description": "M 4.6 - 80 km SSE of False Pass, Alaska",
     "source": "USGS"
   }
 ]
