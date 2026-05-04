@@ -1166,17 +1166,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -2640,17 +2629,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "JP",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -2889,6 +2867,17 @@
     "lat": 48.36854,
     "lng": 10.89768,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208959324/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "JP",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5148,6 +5137,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1620810630",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "Ayia Thekla",
+    "countryCode": "JP",
+    "lat": 34.97899,
+    "lng": 33.94839,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1583957954",
     "name": "Grenoble: Bastille",
     "city": "Grenoble",
@@ -5441,17 +5441,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6567,17 +6556,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "JP",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -6585,6 +6563,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "JP",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6666,17 +6655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "JP",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -6684,6 +6662,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "JP",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7700,17 +7689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333365832",
-    "name": "Valasska Senice › South-west: Košár",
-    "city": "Valasska Senice",
-    "countryCode": "JP",
-    "lat": 49.23621,
-    "lng": 18.12976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333365832/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -7755,17 +7733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "JP",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -7806,17 +7773,6 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "JP",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8987,17 +8943,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "JP",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -9005,6 +8950,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "JP",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9405,17 +9361,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "JP",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -9489,6 +9434,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "JP",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10274,13 +10230,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
     "countryCode": "JP",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10395,17 +10351,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1585495121",
-    "name": "Taranto: Marina di Lizzano",
-    "city": "Taranto",
-    "countryCode": "JP",
-    "lat": 40.33294,
-    "lng": 17.42583,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -10413,6 +10358,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1585495121",
+    "name": "Taranto: Marina di Lizzano",
+    "city": "Taranto",
+    "countryCode": "JP",
+    "lat": 40.33294,
+    "lng": 17.42583,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11990,17 +11946,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -13464,17 +13409,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "US",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -13713,6 +13647,17 @@
     "lat": 48.36854,
     "lng": 10.89768,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208959324/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "US",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15972,6 +15917,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1620810630",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "Ayia Thekla",
+    "countryCode": "US",
+    "lat": 34.97899,
+    "lng": 33.94839,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1583957954",
     "name": "Grenoble: Bastille",
     "city": "Grenoble",
@@ -16265,17 +16221,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17391,17 +17336,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "US",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -17409,6 +17343,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "US",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17490,17 +17435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "US",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -17508,6 +17442,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "US",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18524,17 +18469,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333365832",
-    "name": "Valasska Senice › South-west: Košár",
-    "city": "Valasska Senice",
-    "countryCode": "US",
-    "lat": 49.23621,
-    "lng": 18.12976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333365832/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -18579,17 +18513,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "US",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -18630,17 +18553,6 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "US",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19811,17 +19723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "US",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -19829,6 +19730,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "US",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20229,17 +20141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "US",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -20313,6 +20214,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "US",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21098,13 +21010,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
     "countryCode": "US",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21219,17 +21131,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1585495121",
-    "name": "Taranto: Marina di Lizzano",
-    "city": "Taranto",
-    "countryCode": "US",
-    "lat": 40.33294,
-    "lng": 17.42583,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -21237,6 +21138,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1585495121",
+    "name": "Taranto: Marina di Lizzano",
+    "city": "Taranto",
+    "countryCode": "US",
+    "lat": 40.33294,
+    "lng": 17.42583,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22814,17 +22726,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -24288,17 +24189,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "GB",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -24537,6 +24427,17 @@
     "lat": 48.36854,
     "lng": 10.89768,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208959324/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "GB",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26796,6 +26697,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1620810630",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "Ayia Thekla",
+    "countryCode": "GB",
+    "lat": 34.97899,
+    "lng": 33.94839,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1583957954",
     "name": "Grenoble: Bastille",
     "city": "Grenoble",
@@ -27089,17 +27001,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28215,17 +28116,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "GB",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -28233,6 +28123,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "GB",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28314,17 +28215,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "GB",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -28332,6 +28222,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "GB",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29348,17 +29249,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333365832",
-    "name": "Valasska Senice › South-west: Košár",
-    "city": "Valasska Senice",
-    "countryCode": "GB",
-    "lat": 49.23621,
-    "lng": 18.12976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333365832/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -29403,17 +29293,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "GB",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -29454,17 +29333,6 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "GB",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30635,17 +30503,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "GB",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -30653,6 +30510,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "GB",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31053,17 +30921,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "GB",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -31137,6 +30994,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "GB",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31922,13 +31790,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
     "countryCode": "GB",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32043,17 +31911,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1585495121",
-    "name": "Taranto: Marina di Lizzano",
-    "city": "Taranto",
-    "countryCode": "GB",
-    "lat": 40.33294,
-    "lng": 17.42583,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -32061,6 +31918,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1585495121",
+    "name": "Taranto: Marina di Lizzano",
+    "city": "Taranto",
+    "countryCode": "GB",
+    "lat": 40.33294,
+    "lng": 17.42583,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33638,17 +33506,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -35112,17 +34969,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "DE",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -35361,6 +35207,17 @@
     "lat": 48.36854,
     "lng": 10.89768,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208959324/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "DE",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37620,6 +37477,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1620810630",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "Ayia Thekla",
+    "countryCode": "DE",
+    "lat": 34.97899,
+    "lng": 33.94839,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1583957954",
     "name": "Grenoble: Bastille",
     "city": "Grenoble",
@@ -37913,17 +37781,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39039,17 +38896,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "DE",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -39057,6 +38903,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "DE",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39138,17 +38995,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "DE",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -39156,6 +39002,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "DE",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40172,17 +40029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333365832",
-    "name": "Valasska Senice › South-west: Košár",
-    "city": "Valasska Senice",
-    "countryCode": "DE",
-    "lat": 49.23621,
-    "lng": 18.12976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333365832/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -40227,17 +40073,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "DE",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -40278,17 +40113,6 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "DE",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41459,17 +41283,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "DE",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -41477,6 +41290,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "DE",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41877,17 +41701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "DE",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -41961,6 +41774,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "DE",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42746,13 +42570,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
     "countryCode": "DE",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42867,17 +42691,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1585495121",
-    "name": "Taranto: Marina di Lizzano",
-    "city": "Taranto",
-    "countryCode": "DE",
-    "lat": 40.33294,
-    "lng": 17.42583,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -42885,6 +42698,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1585495121",
+    "name": "Taranto: Marina di Lizzano",
+    "city": "Taranto",
+    "countryCode": "DE",
+    "lat": 40.33294,
+    "lng": 17.42583,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44462,17 +44286,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -45936,17 +45749,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "FR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -46185,6 +45987,17 @@
     "lat": 48.36854,
     "lng": 10.89768,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208959324/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "FR",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48444,6 +48257,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1620810630",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "Ayia Thekla",
+    "countryCode": "FR",
+    "lat": 34.97899,
+    "lng": 33.94839,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1583957954",
     "name": "Grenoble: Bastille",
     "city": "Grenoble",
@@ -48737,17 +48561,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49863,17 +49676,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "FR",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -49881,6 +49683,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "FR",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49962,17 +49775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "FR",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -49980,6 +49782,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "FR",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50996,17 +50809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333365832",
-    "name": "Valasska Senice › South-west: Košár",
-    "city": "Valasska Senice",
-    "countryCode": "FR",
-    "lat": 49.23621,
-    "lng": 18.12976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333365832/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -51051,17 +50853,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "FR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -51102,17 +50893,6 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "FR",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52283,17 +52063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "FR",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -52301,6 +52070,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "FR",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52701,17 +52481,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "FR",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -52785,6 +52554,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "FR",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53570,13 +53350,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
     "countryCode": "FR",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53691,17 +53471,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1585495121",
-    "name": "Taranto: Marina di Lizzano",
-    "city": "Taranto",
-    "countryCode": "FR",
-    "lat": 40.33294,
-    "lng": 17.42583,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -53709,6 +53478,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1585495121",
+    "name": "Taranto: Marina di Lizzano",
+    "city": "Taranto",
+    "countryCode": "FR",
+    "lat": 40.33294,
+    "lng": 17.42583,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55286,17 +55066,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -56760,17 +56529,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "CN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -57009,6 +56767,17 @@
     "lat": 48.36854,
     "lng": 10.89768,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208959324/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "CN",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59268,6 +59037,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1620810630",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "Ayia Thekla",
+    "countryCode": "CN",
+    "lat": 34.97899,
+    "lng": 33.94839,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1583957954",
     "name": "Grenoble: Bastille",
     "city": "Grenoble",
@@ -59561,17 +59341,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60687,17 +60456,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "CN",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -60705,6 +60463,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "CN",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60786,17 +60555,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "CN",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -60804,6 +60562,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "CN",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61820,17 +61589,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333365832",
-    "name": "Valasska Senice › South-west: Košár",
-    "city": "Valasska Senice",
-    "countryCode": "CN",
-    "lat": 49.23621,
-    "lng": 18.12976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333365832/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -61875,17 +61633,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "CN",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -61926,17 +61673,6 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "CN",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63107,17 +62843,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "CN",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -63125,6 +62850,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "CN",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63525,17 +63261,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "CN",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -63609,6 +63334,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "CN",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64394,13 +64130,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
     "countryCode": "CN",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64515,17 +64251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1585495121",
-    "name": "Taranto: Marina di Lizzano",
-    "city": "Taranto",
-    "countryCode": "CN",
-    "lat": 40.33294,
-    "lng": 17.42583,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -64533,6 +64258,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1585495121",
+    "name": "Taranto: Marina di Lizzano",
+    "city": "Taranto",
+    "countryCode": "CN",
+    "lat": 40.33294,
+    "lng": 17.42583,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66110,17 +65846,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -67584,17 +67309,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "KR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -67833,6 +67547,17 @@
     "lat": 48.36854,
     "lng": 10.89768,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208959324/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "KR",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70092,6 +69817,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1620810630",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "Ayia Thekla",
+    "countryCode": "KR",
+    "lat": 34.97899,
+    "lng": 33.94839,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1583957954",
     "name": "Grenoble: Bastille",
     "city": "Grenoble",
@@ -70385,17 +70121,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71511,17 +71236,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "KR",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -71529,6 +71243,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "KR",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71610,17 +71335,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "KR",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -71628,6 +71342,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "KR",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72644,17 +72369,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333365832",
-    "name": "Valasska Senice › South-west: Košár",
-    "city": "Valasska Senice",
-    "countryCode": "KR",
-    "lat": 49.23621,
-    "lng": 18.12976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333365832/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -72699,17 +72413,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "KR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -72750,17 +72453,6 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "KR",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73931,17 +73623,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "KR",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -73949,6 +73630,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "KR",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74349,17 +74041,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "KR",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -74433,6 +74114,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "KR",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75218,13 +74910,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
     "countryCode": "KR",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75339,17 +75031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1585495121",
-    "name": "Taranto: Marina di Lizzano",
-    "city": "Taranto",
-    "countryCode": "KR",
-    "lat": 40.33294,
-    "lng": 17.42583,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -75357,6 +75038,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1585495121",
+    "name": "Taranto: Marina di Lizzano",
+    "city": "Taranto",
+    "countryCode": "KR",
+    "lat": 40.33294,
+    "lng": 17.42583,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76934,17 +76626,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -78408,17 +78089,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "IN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -78657,6 +78327,17 @@
     "lat": 48.36854,
     "lng": 10.89768,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208959324/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "IN",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80916,6 +80597,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1620810630",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "Ayia Thekla",
+    "countryCode": "IN",
+    "lat": 34.97899,
+    "lng": 33.94839,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1583957954",
     "name": "Grenoble: Bastille",
     "city": "Grenoble",
@@ -81209,17 +80901,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82335,17 +82016,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "IN",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -82353,6 +82023,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "IN",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82434,17 +82115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "IN",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -82452,6 +82122,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "IN",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83468,17 +83149,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333365832",
-    "name": "Valasska Senice › South-west: Košár",
-    "city": "Valasska Senice",
-    "countryCode": "IN",
-    "lat": 49.23621,
-    "lng": 18.12976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333365832/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -83523,17 +83193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "IN",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -83574,17 +83233,6 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "IN",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84755,17 +84403,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "IN",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -84773,6 +84410,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "IN",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85173,17 +84821,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "IN",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -85257,6 +84894,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "IN",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86042,13 +85690,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
     "countryCode": "IN",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86163,17 +85811,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1585495121",
-    "name": "Taranto: Marina di Lizzano",
-    "city": "Taranto",
-    "countryCode": "IN",
-    "lat": 40.33294,
-    "lng": 17.42583,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -86181,6 +85818,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1585495121",
+    "name": "Taranto: Marina di Lizzano",
+    "city": "Taranto",
+    "countryCode": "IN",
+    "lat": 40.33294,
+    "lng": 17.42583,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87758,17 +87406,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -89232,17 +88869,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "BR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -89481,6 +89107,17 @@
     "lat": 48.36854,
     "lng": 10.89768,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208959324/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "BR",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91740,6 +91377,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1620810630",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "Ayia Thekla",
+    "countryCode": "BR",
+    "lat": 34.97899,
+    "lng": 33.94839,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1583957954",
     "name": "Grenoble: Bastille",
     "city": "Grenoble",
@@ -92033,17 +91681,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93159,17 +92796,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "BR",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -93177,6 +92803,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "BR",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93258,17 +92895,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "BR",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -93276,6 +92902,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "BR",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94292,17 +93929,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333365832",
-    "name": "Valasska Senice › South-west: Košár",
-    "city": "Valasska Senice",
-    "countryCode": "BR",
-    "lat": 49.23621,
-    "lng": 18.12976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333365832/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -94347,17 +93973,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "BR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -94398,17 +94013,6 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "BR",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95579,17 +95183,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "BR",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -95597,6 +95190,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "BR",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95997,17 +95601,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "BR",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -96081,6 +95674,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "BR",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96866,13 +96470,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
     "countryCode": "BR",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96987,17 +96591,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1585495121",
-    "name": "Taranto: Marina di Lizzano",
-    "city": "Taranto",
-    "countryCode": "BR",
-    "lat": 40.33294,
-    "lng": 17.42583,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -97005,6 +96598,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1585495121",
+    "name": "Taranto: Marina di Lizzano",
+    "city": "Taranto",
+    "countryCode": "BR",
+    "lat": 40.33294,
+    "lng": 17.42583,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98582,17 +98186,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1450843353",
-    "name": "Cradle Mountain: Lake Saint Clair National Park - Tasmania, Australia",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -41.65012,
-    "lng": 145.96191,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1450843353/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1188507764",
     "name": "Graz › West: Kunsthaus Graz",
     "city": "Graz",
@@ -100056,17 +99649,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "AU",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -100305,6 +99887,17 @@
     "lat": 48.36854,
     "lng": 10.89768,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1208959324/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1706632696",
+    "name": "Bauang › North-west: Dolores River",
+    "city": "Bauang",
+    "countryCode": "AU",
+    "lat": 15.22906,
+    "lng": 120.60006,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1706632696/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102564,6 +102157,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1620810630",
+    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
+    "city": "Ayia Thekla",
+    "countryCode": "AU",
+    "lat": 34.97899,
+    "lng": 33.94839,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1583957954",
     "name": "Grenoble: Bastille",
     "city": "Grenoble",
@@ -102857,17 +102461,6 @@
     "lat": 49.74633,
     "lng": 13.37806,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1421392485/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103983,17 +103576,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "AU",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -104001,6 +103583,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "AU",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104082,17 +103675,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "AU",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -104100,6 +103682,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "AU",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105116,17 +104709,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333365832",
-    "name": "Valasska Senice › South-west: Košár",
-    "city": "Valasska Senice",
-    "countryCode": "AU",
-    "lat": 49.23621,
-    "lng": 18.12976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333365832/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1322567375",
     "name": "Tromso › East: Tromsø: Institutt for Informatikk, Universitetet",
     "city": "Tromso",
@@ -105171,17 +104753,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "AU",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580739694",
     "name": "Ontex › East: Lac du Bourget",
     "city": "Ontex",
@@ -105222,17 +104793,6 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1252916501",
-    "name": "Rimini: A14 km. 127,0 - Sud itinere Sud",
-    "city": "Rimini",
-    "countryCode": "AU",
-    "lat": 44.0383,
-    "lng": 12.56537,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252916501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106403,17 +105963,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "AU",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -106421,6 +105970,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "AU",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106821,17 +106381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1326740058",
-    "name": "Castagneto Carducci: Circolo Nautico Donoratico",
-    "city": "Castagneto Carducci",
-    "countryCode": "AU",
-    "lat": 43.18326,
-    "lng": 10.53824,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326740058/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575445569",
     "name": "Palamos: Port de Palamós",
     "city": "Palamos",
@@ -106905,6 +106454,17 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "AU",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107690,13 +107250,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1510914337",
-    "name": "Geneva › North-west: The Geneva Water Fountain",
-    "city": "Geneva",
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
     "countryCode": "AU",
-    "lat": 46.20574,
-    "lng": 6.15646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510914337/original.jpg",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107811,17 +107371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1585495121",
-    "name": "Taranto: Marina di Lizzano",
-    "city": "Taranto",
-    "countryCode": "AU",
-    "lat": 40.33294,
-    "lng": 17.42583,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -107829,6 +107378,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1585495121",
+    "name": "Taranto: Marina di Lizzano",
+    "city": "Taranto",
+    "countryCode": "AU",
+    "lat": 40.33294,
+    "lng": 17.42583,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1585495121/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
