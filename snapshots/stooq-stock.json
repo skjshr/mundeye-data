@@ -6,7 +6,7 @@
     "price": 7230.1,
     "changePct": 0,
     "currency": "USD",
-    "asOf": "2026-05-01T00:00:00.000Z"
+    "asOf": "2026-05-04T00:00:00.000Z"
   },
   {
     "symbol": "DJI",
@@ -15,13 +15,13 @@
     "price": 49499.3,
     "changePct": 0,
     "currency": "USD",
-    "asOf": "2026-05-01T00:00:00.000Z"
+    "asOf": "2026-05-04T00:00:00.000Z"
   },
   {
     "symbol": "IXIC",
     "name": "NASDAQ Composite",
     "countryCode": "US",
-    "price": 25114.44,
+    "price": 25114.443,
     "changePct": 0,
     "currency": "USD",
     "asOf": "2026-05-01T00:00:00.000Z"
@@ -57,8 +57,8 @@
     "symbol": "DAX",
     "name": "DAX",
     "countryCode": "DE",
-    "price": 24275.41,
-    "changePct": -0.29,
+    "price": 24273.08,
+    "changePct": -0.01,
     "currency": "EUR",
     "asOf": "2026-05-04T00:00:00.000Z"
   }

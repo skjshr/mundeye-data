@@ -121,17 +121,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "JP",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -2640,6 +2629,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "JP",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -2845,17 +2845,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "JP",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5192,6 +5181,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "JP",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -5721,8 +5721,8 @@
   },
   {
     "id": "windy-1287070461",
-    "name": "Racin: Obec Škrdlovice - Škrdlovice",
-    "city": "Racin",
+    "name": "Skrdlovice › South: Obec Škrdlovice - Škrdlovice",
+    "city": "Skrdlovice",
     "countryCode": "JP",
     "lat": 49.6373,
     "lng": 15.92511,
@@ -6985,17 +6985,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1403781260",
-    "name": "Les Sables-d'Olonne",
-    "city": "Les Sables-d'Olonne",
-    "countryCode": "JP",
-    "lat": 46.49457,
-    "lng": -1.79172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -7003,6 +6992,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1403781260",
+    "name": "Les Sables-d'Olonne",
+    "city": "Les Sables-d'Olonne",
+    "countryCode": "JP",
+    "lat": 46.49457,
+    "lng": -1.79172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7179,6 +7179,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1476170462",
+    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
+    "city": "Modena",
+    "countryCode": "JP",
+    "lat": 44.64818,
+    "lng": 10.92992,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7645,6 +7656,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1394528762",
+    "name": "Scarborough: Filey Webcam",
+    "city": "Scarborough",
+    "countryCode": "JP",
+    "lat": 54.20859,
+    "lng": -0.28509,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394528762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1418724444",
     "name": "Livigno: Lombardia, Italia",
     "city": "Livigno",
@@ -7964,17 +7986,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
-    "countryCode": "JP",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
     "city": "Gala",
@@ -8130,7 +8141,7 @@
   },
   {
     "id": "windy-1235117487",
-    "name": "Pec pod Snezkou: Relaxpark",
+    "name": "Pec pod Snezkou › South-east: Bobsleigh Relax Park - Přehrada v Bukovém údolí",
     "city": "Pec pod Snezkou",
     "countryCode": "JP",
     "lat": 50.69898,
@@ -8569,17 +8580,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1601618149",
-    "name": "Olbia",
-    "city": "Olbia",
-    "countryCode": "JP",
-    "lat": 40.92475,
-    "lng": 9.50211,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -8587,6 +8587,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1601618149",
+    "name": "Olbia",
+    "city": "Olbia",
+    "countryCode": "JP",
+    "lat": 40.92475,
+    "lng": 9.50211,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9130,17 +9141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "JP",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -9148,6 +9148,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "JP",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9489,17 +9500,6 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "JP",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9988,6 +9988,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1609680440",
+    "name": "Asco",
+    "city": "Asco",
+    "countryCode": "JP",
+    "lat": 42.40321,
+    "lng": 8.92281,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -10000,7 +10011,7 @@
   },
   {
     "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
+    "name": "Pardubice › North-east: třída Míru - Green gate",
     "city": "Pardubice",
     "countryCode": "JP",
     "lat": 50.0359,
@@ -10142,17 +10153,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1222167761",
-    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
-    "city": "Teufen",
-    "countryCode": "JP",
-    "lat": 47.40475,
-    "lng": 9.3473,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -10160,6 +10160,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1222167761",
+    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
+    "city": "Teufen",
+    "countryCode": "JP",
+    "lat": 47.40475,
+    "lng": 9.3473,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10468,17 +10479,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "JP",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10831,39 +10831,6 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1309247619",
-    "name": "Damp: Yachthafen Webcam Ostsee Resort",
-    "city": "Damp",
-    "countryCode": "JP",
-    "lat": 54.58365,
-    "lng": 10.02588,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1499191860",
-    "name": "Hessi Jerbi: Djerba Kite Lagoon",
-    "city": "Hessi Jerbi",
-    "countryCode": "JP",
-    "lat": 33.63949,
-    "lng": 11.00743,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "JP",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10989,17 +10956,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "US",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -13508,6 +13464,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "US",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -13713,17 +13680,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "US",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16060,6 +16016,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "US",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -16589,8 +16556,8 @@
   },
   {
     "id": "windy-1287070461",
-    "name": "Racin: Obec Škrdlovice - Škrdlovice",
-    "city": "Racin",
+    "name": "Skrdlovice › South: Obec Škrdlovice - Škrdlovice",
+    "city": "Skrdlovice",
     "countryCode": "US",
     "lat": 49.6373,
     "lng": 15.92511,
@@ -17853,17 +17820,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1403781260",
-    "name": "Les Sables-d'Olonne",
-    "city": "Les Sables-d'Olonne",
-    "countryCode": "US",
-    "lat": 46.49457,
-    "lng": -1.79172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -17871,6 +17827,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1403781260",
+    "name": "Les Sables-d'Olonne",
+    "city": "Les Sables-d'Olonne",
+    "countryCode": "US",
+    "lat": 46.49457,
+    "lng": -1.79172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18047,6 +18014,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1476170462",
+    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
+    "city": "Modena",
+    "countryCode": "US",
+    "lat": 44.64818,
+    "lng": 10.92992,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18513,6 +18491,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1394528762",
+    "name": "Scarborough: Filey Webcam",
+    "city": "Scarborough",
+    "countryCode": "US",
+    "lat": 54.20859,
+    "lng": -0.28509,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394528762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1418724444",
     "name": "Livigno: Lombardia, Italia",
     "city": "Livigno",
@@ -18832,17 +18821,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
-    "countryCode": "US",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
     "city": "Gala",
@@ -18998,7 +18976,7 @@
   },
   {
     "id": "windy-1235117487",
-    "name": "Pec pod Snezkou: Relaxpark",
+    "name": "Pec pod Snezkou › South-east: Bobsleigh Relax Park - Přehrada v Bukovém údolí",
     "city": "Pec pod Snezkou",
     "countryCode": "US",
     "lat": 50.69898,
@@ -19437,17 +19415,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1601618149",
-    "name": "Olbia",
-    "city": "Olbia",
-    "countryCode": "US",
-    "lat": 40.92475,
-    "lng": 9.50211,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -19455,6 +19422,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1601618149",
+    "name": "Olbia",
+    "city": "Olbia",
+    "countryCode": "US",
+    "lat": 40.92475,
+    "lng": 9.50211,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19998,17 +19976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "US",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -20016,6 +19983,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "US",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20357,17 +20335,6 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "US",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20856,6 +20823,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1609680440",
+    "name": "Asco",
+    "city": "Asco",
+    "countryCode": "US",
+    "lat": 42.40321,
+    "lng": 8.92281,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -20868,7 +20846,7 @@
   },
   {
     "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
+    "name": "Pardubice › North-east: třída Míru - Green gate",
     "city": "Pardubice",
     "countryCode": "US",
     "lat": 50.0359,
@@ -21010,17 +20988,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1222167761",
-    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
-    "city": "Teufen",
-    "countryCode": "US",
-    "lat": 47.40475,
-    "lng": 9.3473,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -21028,6 +20995,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1222167761",
+    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
+    "city": "Teufen",
+    "countryCode": "US",
+    "lat": 47.40475,
+    "lng": 9.3473,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21336,17 +21314,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "US",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21699,39 +21666,6 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1309247619",
-    "name": "Damp: Yachthafen Webcam Ostsee Resort",
-    "city": "Damp",
-    "countryCode": "US",
-    "lat": 54.58365,
-    "lng": 10.02588,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1499191860",
-    "name": "Hessi Jerbi: Djerba Kite Lagoon",
-    "city": "Hessi Jerbi",
-    "countryCode": "US",
-    "lat": 33.63949,
-    "lng": 11.00743,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "US",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21857,17 +21791,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "GB",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -24376,6 +24299,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "GB",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -24581,17 +24515,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "GB",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26928,6 +26851,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "GB",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -27457,8 +27391,8 @@
   },
   {
     "id": "windy-1287070461",
-    "name": "Racin: Obec Škrdlovice - Škrdlovice",
-    "city": "Racin",
+    "name": "Skrdlovice › South: Obec Škrdlovice - Škrdlovice",
+    "city": "Skrdlovice",
     "countryCode": "GB",
     "lat": 49.6373,
     "lng": 15.92511,
@@ -28721,17 +28655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1403781260",
-    "name": "Les Sables-d'Olonne",
-    "city": "Les Sables-d'Olonne",
-    "countryCode": "GB",
-    "lat": 46.49457,
-    "lng": -1.79172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -28739,6 +28662,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1403781260",
+    "name": "Les Sables-d'Olonne",
+    "city": "Les Sables-d'Olonne",
+    "countryCode": "GB",
+    "lat": 46.49457,
+    "lng": -1.79172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28915,6 +28849,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1476170462",
+    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
+    "city": "Modena",
+    "countryCode": "GB",
+    "lat": 44.64818,
+    "lng": 10.92992,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29381,6 +29326,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1394528762",
+    "name": "Scarborough: Filey Webcam",
+    "city": "Scarborough",
+    "countryCode": "GB",
+    "lat": 54.20859,
+    "lng": -0.28509,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394528762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1418724444",
     "name": "Livigno: Lombardia, Italia",
     "city": "Livigno",
@@ -29700,17 +29656,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
-    "countryCode": "GB",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
     "city": "Gala",
@@ -29866,7 +29811,7 @@
   },
   {
     "id": "windy-1235117487",
-    "name": "Pec pod Snezkou: Relaxpark",
+    "name": "Pec pod Snezkou › South-east: Bobsleigh Relax Park - Přehrada v Bukovém údolí",
     "city": "Pec pod Snezkou",
     "countryCode": "GB",
     "lat": 50.69898,
@@ -30305,17 +30250,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1601618149",
-    "name": "Olbia",
-    "city": "Olbia",
-    "countryCode": "GB",
-    "lat": 40.92475,
-    "lng": 9.50211,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -30323,6 +30257,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1601618149",
+    "name": "Olbia",
+    "city": "Olbia",
+    "countryCode": "GB",
+    "lat": 40.92475,
+    "lng": 9.50211,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30866,17 +30811,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "GB",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -30884,6 +30818,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "GB",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31225,17 +31170,6 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "GB",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31724,6 +31658,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1609680440",
+    "name": "Asco",
+    "city": "Asco",
+    "countryCode": "GB",
+    "lat": 42.40321,
+    "lng": 8.92281,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -31736,7 +31681,7 @@
   },
   {
     "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
+    "name": "Pardubice › North-east: třída Míru - Green gate",
     "city": "Pardubice",
     "countryCode": "GB",
     "lat": 50.0359,
@@ -31878,17 +31823,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1222167761",
-    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
-    "city": "Teufen",
-    "countryCode": "GB",
-    "lat": 47.40475,
-    "lng": 9.3473,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -31896,6 +31830,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1222167761",
+    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
+    "city": "Teufen",
+    "countryCode": "GB",
+    "lat": 47.40475,
+    "lng": 9.3473,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32204,17 +32149,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "GB",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32567,39 +32501,6 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1309247619",
-    "name": "Damp: Yachthafen Webcam Ostsee Resort",
-    "city": "Damp",
-    "countryCode": "GB",
-    "lat": 54.58365,
-    "lng": 10.02588,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1499191860",
-    "name": "Hessi Jerbi: Djerba Kite Lagoon",
-    "city": "Hessi Jerbi",
-    "countryCode": "GB",
-    "lat": 33.63949,
-    "lng": 11.00743,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "GB",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32725,17 +32626,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "DE",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -35244,6 +35134,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "DE",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -35449,17 +35350,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "DE",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37796,6 +37686,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "DE",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -38325,8 +38226,8 @@
   },
   {
     "id": "windy-1287070461",
-    "name": "Racin: Obec Škrdlovice - Škrdlovice",
-    "city": "Racin",
+    "name": "Skrdlovice › South: Obec Škrdlovice - Škrdlovice",
+    "city": "Skrdlovice",
     "countryCode": "DE",
     "lat": 49.6373,
     "lng": 15.92511,
@@ -39589,17 +39490,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1403781260",
-    "name": "Les Sables-d'Olonne",
-    "city": "Les Sables-d'Olonne",
-    "countryCode": "DE",
-    "lat": 46.49457,
-    "lng": -1.79172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -39607,6 +39497,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1403781260",
+    "name": "Les Sables-d'Olonne",
+    "city": "Les Sables-d'Olonne",
+    "countryCode": "DE",
+    "lat": 46.49457,
+    "lng": -1.79172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39783,6 +39684,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1476170462",
+    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
+    "city": "Modena",
+    "countryCode": "DE",
+    "lat": 44.64818,
+    "lng": 10.92992,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40249,6 +40161,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1394528762",
+    "name": "Scarborough: Filey Webcam",
+    "city": "Scarborough",
+    "countryCode": "DE",
+    "lat": 54.20859,
+    "lng": -0.28509,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394528762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1418724444",
     "name": "Livigno: Lombardia, Italia",
     "city": "Livigno",
@@ -40568,17 +40491,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
-    "countryCode": "DE",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
     "city": "Gala",
@@ -40734,7 +40646,7 @@
   },
   {
     "id": "windy-1235117487",
-    "name": "Pec pod Snezkou: Relaxpark",
+    "name": "Pec pod Snezkou › South-east: Bobsleigh Relax Park - Přehrada v Bukovém údolí",
     "city": "Pec pod Snezkou",
     "countryCode": "DE",
     "lat": 50.69898,
@@ -41173,17 +41085,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1601618149",
-    "name": "Olbia",
-    "city": "Olbia",
-    "countryCode": "DE",
-    "lat": 40.92475,
-    "lng": 9.50211,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -41191,6 +41092,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1601618149",
+    "name": "Olbia",
+    "city": "Olbia",
+    "countryCode": "DE",
+    "lat": 40.92475,
+    "lng": 9.50211,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41734,17 +41646,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "DE",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -41752,6 +41653,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "DE",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42093,17 +42005,6 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "DE",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42592,6 +42493,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1609680440",
+    "name": "Asco",
+    "city": "Asco",
+    "countryCode": "DE",
+    "lat": 42.40321,
+    "lng": 8.92281,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -42604,7 +42516,7 @@
   },
   {
     "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
+    "name": "Pardubice › North-east: třída Míru - Green gate",
     "city": "Pardubice",
     "countryCode": "DE",
     "lat": 50.0359,
@@ -42746,17 +42658,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1222167761",
-    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
-    "city": "Teufen",
-    "countryCode": "DE",
-    "lat": 47.40475,
-    "lng": 9.3473,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -42764,6 +42665,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1222167761",
+    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
+    "city": "Teufen",
+    "countryCode": "DE",
+    "lat": 47.40475,
+    "lng": 9.3473,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43072,17 +42984,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "DE",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43435,39 +43336,6 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1309247619",
-    "name": "Damp: Yachthafen Webcam Ostsee Resort",
-    "city": "Damp",
-    "countryCode": "DE",
-    "lat": 54.58365,
-    "lng": 10.02588,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1499191860",
-    "name": "Hessi Jerbi: Djerba Kite Lagoon",
-    "city": "Hessi Jerbi",
-    "countryCode": "DE",
-    "lat": 33.63949,
-    "lng": 11.00743,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "DE",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43593,17 +43461,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "FR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -46112,6 +45969,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "FR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -46317,17 +46185,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "FR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48664,6 +48521,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "FR",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -49193,8 +49061,8 @@
   },
   {
     "id": "windy-1287070461",
-    "name": "Racin: Obec Škrdlovice - Škrdlovice",
-    "city": "Racin",
+    "name": "Skrdlovice › South: Obec Škrdlovice - Škrdlovice",
+    "city": "Skrdlovice",
     "countryCode": "FR",
     "lat": 49.6373,
     "lng": 15.92511,
@@ -50457,17 +50325,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1403781260",
-    "name": "Les Sables-d'Olonne",
-    "city": "Les Sables-d'Olonne",
-    "countryCode": "FR",
-    "lat": 46.49457,
-    "lng": -1.79172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -50475,6 +50332,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1403781260",
+    "name": "Les Sables-d'Olonne",
+    "city": "Les Sables-d'Olonne",
+    "countryCode": "FR",
+    "lat": 46.49457,
+    "lng": -1.79172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50651,6 +50519,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1476170462",
+    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
+    "city": "Modena",
+    "countryCode": "FR",
+    "lat": 44.64818,
+    "lng": 10.92992,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51117,6 +50996,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1394528762",
+    "name": "Scarborough: Filey Webcam",
+    "city": "Scarborough",
+    "countryCode": "FR",
+    "lat": 54.20859,
+    "lng": -0.28509,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394528762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1418724444",
     "name": "Livigno: Lombardia, Italia",
     "city": "Livigno",
@@ -51436,17 +51326,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
-    "countryCode": "FR",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
     "city": "Gala",
@@ -51602,7 +51481,7 @@
   },
   {
     "id": "windy-1235117487",
-    "name": "Pec pod Snezkou: Relaxpark",
+    "name": "Pec pod Snezkou › South-east: Bobsleigh Relax Park - Přehrada v Bukovém údolí",
     "city": "Pec pod Snezkou",
     "countryCode": "FR",
     "lat": 50.69898,
@@ -52041,17 +51920,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1601618149",
-    "name": "Olbia",
-    "city": "Olbia",
-    "countryCode": "FR",
-    "lat": 40.92475,
-    "lng": 9.50211,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -52059,6 +51927,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1601618149",
+    "name": "Olbia",
+    "city": "Olbia",
+    "countryCode": "FR",
+    "lat": 40.92475,
+    "lng": 9.50211,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52602,17 +52481,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "FR",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -52620,6 +52488,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "FR",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52961,17 +52840,6 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "FR",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53460,6 +53328,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1609680440",
+    "name": "Asco",
+    "city": "Asco",
+    "countryCode": "FR",
+    "lat": 42.40321,
+    "lng": 8.92281,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -53472,7 +53351,7 @@
   },
   {
     "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
+    "name": "Pardubice › North-east: třída Míru - Green gate",
     "city": "Pardubice",
     "countryCode": "FR",
     "lat": 50.0359,
@@ -53614,17 +53493,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1222167761",
-    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
-    "city": "Teufen",
-    "countryCode": "FR",
-    "lat": 47.40475,
-    "lng": 9.3473,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -53632,6 +53500,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1222167761",
+    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
+    "city": "Teufen",
+    "countryCode": "FR",
+    "lat": 47.40475,
+    "lng": 9.3473,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53940,17 +53819,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "FR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54303,39 +54171,6 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1309247619",
-    "name": "Damp: Yachthafen Webcam Ostsee Resort",
-    "city": "Damp",
-    "countryCode": "FR",
-    "lat": 54.58365,
-    "lng": 10.02588,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1499191860",
-    "name": "Hessi Jerbi: Djerba Kite Lagoon",
-    "city": "Hessi Jerbi",
-    "countryCode": "FR",
-    "lat": 33.63949,
-    "lng": 11.00743,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "FR",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54461,17 +54296,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "CN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -56980,6 +56804,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "CN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -57185,17 +57020,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "CN",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59532,6 +59356,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "CN",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -60061,8 +59896,8 @@
   },
   {
     "id": "windy-1287070461",
-    "name": "Racin: Obec Škrdlovice - Škrdlovice",
-    "city": "Racin",
+    "name": "Skrdlovice › South: Obec Škrdlovice - Škrdlovice",
+    "city": "Skrdlovice",
     "countryCode": "CN",
     "lat": 49.6373,
     "lng": 15.92511,
@@ -61325,17 +61160,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1403781260",
-    "name": "Les Sables-d'Olonne",
-    "city": "Les Sables-d'Olonne",
-    "countryCode": "CN",
-    "lat": 46.49457,
-    "lng": -1.79172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -61343,6 +61167,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1403781260",
+    "name": "Les Sables-d'Olonne",
+    "city": "Les Sables-d'Olonne",
+    "countryCode": "CN",
+    "lat": 46.49457,
+    "lng": -1.79172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61519,6 +61354,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1476170462",
+    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
+    "city": "Modena",
+    "countryCode": "CN",
+    "lat": 44.64818,
+    "lng": 10.92992,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61985,6 +61831,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1394528762",
+    "name": "Scarborough: Filey Webcam",
+    "city": "Scarborough",
+    "countryCode": "CN",
+    "lat": 54.20859,
+    "lng": -0.28509,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394528762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1418724444",
     "name": "Livigno: Lombardia, Italia",
     "city": "Livigno",
@@ -62304,17 +62161,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
-    "countryCode": "CN",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
     "city": "Gala",
@@ -62470,7 +62316,7 @@
   },
   {
     "id": "windy-1235117487",
-    "name": "Pec pod Snezkou: Relaxpark",
+    "name": "Pec pod Snezkou › South-east: Bobsleigh Relax Park - Přehrada v Bukovém údolí",
     "city": "Pec pod Snezkou",
     "countryCode": "CN",
     "lat": 50.69898,
@@ -62909,17 +62755,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1601618149",
-    "name": "Olbia",
-    "city": "Olbia",
-    "countryCode": "CN",
-    "lat": 40.92475,
-    "lng": 9.50211,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -62927,6 +62762,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1601618149",
+    "name": "Olbia",
+    "city": "Olbia",
+    "countryCode": "CN",
+    "lat": 40.92475,
+    "lng": 9.50211,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63470,17 +63316,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "CN",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -63488,6 +63323,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "CN",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63829,17 +63675,6 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "CN",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64328,6 +64163,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1609680440",
+    "name": "Asco",
+    "city": "Asco",
+    "countryCode": "CN",
+    "lat": 42.40321,
+    "lng": 8.92281,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -64340,7 +64186,7 @@
   },
   {
     "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
+    "name": "Pardubice › North-east: třída Míru - Green gate",
     "city": "Pardubice",
     "countryCode": "CN",
     "lat": 50.0359,
@@ -64482,17 +64328,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1222167761",
-    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
-    "city": "Teufen",
-    "countryCode": "CN",
-    "lat": 47.40475,
-    "lng": 9.3473,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -64500,6 +64335,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1222167761",
+    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
+    "city": "Teufen",
+    "countryCode": "CN",
+    "lat": 47.40475,
+    "lng": 9.3473,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64808,17 +64654,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "CN",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65171,39 +65006,6 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1309247619",
-    "name": "Damp: Yachthafen Webcam Ostsee Resort",
-    "city": "Damp",
-    "countryCode": "CN",
-    "lat": 54.58365,
-    "lng": 10.02588,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1499191860",
-    "name": "Hessi Jerbi: Djerba Kite Lagoon",
-    "city": "Hessi Jerbi",
-    "countryCode": "CN",
-    "lat": 33.63949,
-    "lng": 11.00743,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "CN",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65329,17 +65131,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "KR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -67848,6 +67639,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "KR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -68053,17 +67855,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "KR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70400,6 +70191,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "KR",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -70929,8 +70731,8 @@
   },
   {
     "id": "windy-1287070461",
-    "name": "Racin: Obec Škrdlovice - Škrdlovice",
-    "city": "Racin",
+    "name": "Skrdlovice › South: Obec Škrdlovice - Škrdlovice",
+    "city": "Skrdlovice",
     "countryCode": "KR",
     "lat": 49.6373,
     "lng": 15.92511,
@@ -72193,17 +71995,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1403781260",
-    "name": "Les Sables-d'Olonne",
-    "city": "Les Sables-d'Olonne",
-    "countryCode": "KR",
-    "lat": 46.49457,
-    "lng": -1.79172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -72211,6 +72002,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1403781260",
+    "name": "Les Sables-d'Olonne",
+    "city": "Les Sables-d'Olonne",
+    "countryCode": "KR",
+    "lat": 46.49457,
+    "lng": -1.79172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72387,6 +72189,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1476170462",
+    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
+    "city": "Modena",
+    "countryCode": "KR",
+    "lat": 44.64818,
+    "lng": 10.92992,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72853,6 +72666,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1394528762",
+    "name": "Scarborough: Filey Webcam",
+    "city": "Scarborough",
+    "countryCode": "KR",
+    "lat": 54.20859,
+    "lng": -0.28509,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394528762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1418724444",
     "name": "Livigno: Lombardia, Italia",
     "city": "Livigno",
@@ -73172,17 +72996,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
-    "countryCode": "KR",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
     "city": "Gala",
@@ -73338,7 +73151,7 @@
   },
   {
     "id": "windy-1235117487",
-    "name": "Pec pod Snezkou: Relaxpark",
+    "name": "Pec pod Snezkou › South-east: Bobsleigh Relax Park - Přehrada v Bukovém údolí",
     "city": "Pec pod Snezkou",
     "countryCode": "KR",
     "lat": 50.69898,
@@ -73777,17 +73590,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1601618149",
-    "name": "Olbia",
-    "city": "Olbia",
-    "countryCode": "KR",
-    "lat": 40.92475,
-    "lng": 9.50211,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -73795,6 +73597,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1601618149",
+    "name": "Olbia",
+    "city": "Olbia",
+    "countryCode": "KR",
+    "lat": 40.92475,
+    "lng": 9.50211,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74338,17 +74151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "KR",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -74356,6 +74158,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "KR",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74697,17 +74510,6 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "KR",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75196,6 +74998,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1609680440",
+    "name": "Asco",
+    "city": "Asco",
+    "countryCode": "KR",
+    "lat": 42.40321,
+    "lng": 8.92281,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -75208,7 +75021,7 @@
   },
   {
     "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
+    "name": "Pardubice › North-east: třída Míru - Green gate",
     "city": "Pardubice",
     "countryCode": "KR",
     "lat": 50.0359,
@@ -75350,17 +75163,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1222167761",
-    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
-    "city": "Teufen",
-    "countryCode": "KR",
-    "lat": 47.40475,
-    "lng": 9.3473,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -75368,6 +75170,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1222167761",
+    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
+    "city": "Teufen",
+    "countryCode": "KR",
+    "lat": 47.40475,
+    "lng": 9.3473,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75676,17 +75489,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "KR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76039,39 +75841,6 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1309247619",
-    "name": "Damp: Yachthafen Webcam Ostsee Resort",
-    "city": "Damp",
-    "countryCode": "KR",
-    "lat": 54.58365,
-    "lng": 10.02588,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1499191860",
-    "name": "Hessi Jerbi: Djerba Kite Lagoon",
-    "city": "Hessi Jerbi",
-    "countryCode": "KR",
-    "lat": 33.63949,
-    "lng": 11.00743,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "KR",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76197,17 +75966,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "IN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -78716,6 +78474,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "IN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -78921,17 +78690,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "IN",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81268,6 +81026,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "IN",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -81797,8 +81566,8 @@
   },
   {
     "id": "windy-1287070461",
-    "name": "Racin: Obec Škrdlovice - Škrdlovice",
-    "city": "Racin",
+    "name": "Skrdlovice › South: Obec Škrdlovice - Škrdlovice",
+    "city": "Skrdlovice",
     "countryCode": "IN",
     "lat": 49.6373,
     "lng": 15.92511,
@@ -83061,17 +82830,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1403781260",
-    "name": "Les Sables-d'Olonne",
-    "city": "Les Sables-d'Olonne",
-    "countryCode": "IN",
-    "lat": 46.49457,
-    "lng": -1.79172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -83079,6 +82837,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1403781260",
+    "name": "Les Sables-d'Olonne",
+    "city": "Les Sables-d'Olonne",
+    "countryCode": "IN",
+    "lat": 46.49457,
+    "lng": -1.79172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83255,6 +83024,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1476170462",
+    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
+    "city": "Modena",
+    "countryCode": "IN",
+    "lat": 44.64818,
+    "lng": 10.92992,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83721,6 +83501,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1394528762",
+    "name": "Scarborough: Filey Webcam",
+    "city": "Scarborough",
+    "countryCode": "IN",
+    "lat": 54.20859,
+    "lng": -0.28509,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394528762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1418724444",
     "name": "Livigno: Lombardia, Italia",
     "city": "Livigno",
@@ -84040,17 +83831,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
-    "countryCode": "IN",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
     "city": "Gala",
@@ -84206,7 +83986,7 @@
   },
   {
     "id": "windy-1235117487",
-    "name": "Pec pod Snezkou: Relaxpark",
+    "name": "Pec pod Snezkou › South-east: Bobsleigh Relax Park - Přehrada v Bukovém údolí",
     "city": "Pec pod Snezkou",
     "countryCode": "IN",
     "lat": 50.69898,
@@ -84645,17 +84425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1601618149",
-    "name": "Olbia",
-    "city": "Olbia",
-    "countryCode": "IN",
-    "lat": 40.92475,
-    "lng": 9.50211,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -84663,6 +84432,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1601618149",
+    "name": "Olbia",
+    "city": "Olbia",
+    "countryCode": "IN",
+    "lat": 40.92475,
+    "lng": 9.50211,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85206,17 +84986,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "IN",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -85224,6 +84993,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "IN",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85565,17 +85345,6 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "IN",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86064,6 +85833,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1609680440",
+    "name": "Asco",
+    "city": "Asco",
+    "countryCode": "IN",
+    "lat": 42.40321,
+    "lng": 8.92281,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -86076,7 +85856,7 @@
   },
   {
     "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
+    "name": "Pardubice › North-east: třída Míru - Green gate",
     "city": "Pardubice",
     "countryCode": "IN",
     "lat": 50.0359,
@@ -86218,17 +85998,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1222167761",
-    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
-    "city": "Teufen",
-    "countryCode": "IN",
-    "lat": 47.40475,
-    "lng": 9.3473,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -86236,6 +86005,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1222167761",
+    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
+    "city": "Teufen",
+    "countryCode": "IN",
+    "lat": 47.40475,
+    "lng": 9.3473,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86544,17 +86324,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "IN",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86907,39 +86676,6 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1309247619",
-    "name": "Damp: Yachthafen Webcam Ostsee Resort",
-    "city": "Damp",
-    "countryCode": "IN",
-    "lat": 54.58365,
-    "lng": 10.02588,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1499191860",
-    "name": "Hessi Jerbi: Djerba Kite Lagoon",
-    "city": "Hessi Jerbi",
-    "countryCode": "IN",
-    "lat": 33.63949,
-    "lng": 11.00743,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "IN",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87065,17 +86801,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "BR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -89584,6 +89309,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "BR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -89789,17 +89525,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "BR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92136,6 +91861,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "BR",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -92665,8 +92401,8 @@
   },
   {
     "id": "windy-1287070461",
-    "name": "Racin: Obec Škrdlovice - Škrdlovice",
-    "city": "Racin",
+    "name": "Skrdlovice › South: Obec Škrdlovice - Škrdlovice",
+    "city": "Skrdlovice",
     "countryCode": "BR",
     "lat": 49.6373,
     "lng": 15.92511,
@@ -93929,17 +93665,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1403781260",
-    "name": "Les Sables-d'Olonne",
-    "city": "Les Sables-d'Olonne",
-    "countryCode": "BR",
-    "lat": 46.49457,
-    "lng": -1.79172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -93947,6 +93672,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1403781260",
+    "name": "Les Sables-d'Olonne",
+    "city": "Les Sables-d'Olonne",
+    "countryCode": "BR",
+    "lat": 46.49457,
+    "lng": -1.79172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94123,6 +93859,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1476170462",
+    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
+    "city": "Modena",
+    "countryCode": "BR",
+    "lat": 44.64818,
+    "lng": 10.92992,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94589,6 +94336,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1394528762",
+    "name": "Scarborough: Filey Webcam",
+    "city": "Scarborough",
+    "countryCode": "BR",
+    "lat": 54.20859,
+    "lng": -0.28509,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394528762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1418724444",
     "name": "Livigno: Lombardia, Italia",
     "city": "Livigno",
@@ -94908,17 +94666,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
-    "countryCode": "BR",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
     "city": "Gala",
@@ -95074,7 +94821,7 @@
   },
   {
     "id": "windy-1235117487",
-    "name": "Pec pod Snezkou: Relaxpark",
+    "name": "Pec pod Snezkou › South-east: Bobsleigh Relax Park - Přehrada v Bukovém údolí",
     "city": "Pec pod Snezkou",
     "countryCode": "BR",
     "lat": 50.69898,
@@ -95513,17 +95260,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1601618149",
-    "name": "Olbia",
-    "city": "Olbia",
-    "countryCode": "BR",
-    "lat": 40.92475,
-    "lng": 9.50211,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -95531,6 +95267,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1601618149",
+    "name": "Olbia",
+    "city": "Olbia",
+    "countryCode": "BR",
+    "lat": 40.92475,
+    "lng": 9.50211,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96074,17 +95821,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "BR",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -96092,6 +95828,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "BR",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96433,17 +96180,6 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "BR",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96932,6 +96668,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1609680440",
+    "name": "Asco",
+    "city": "Asco",
+    "countryCode": "BR",
+    "lat": 42.40321,
+    "lng": 8.92281,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -96944,7 +96691,7 @@
   },
   {
     "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
+    "name": "Pardubice › North-east: třída Míru - Green gate",
     "city": "Pardubice",
     "countryCode": "BR",
     "lat": 50.0359,
@@ -97086,17 +96833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1222167761",
-    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
-    "city": "Teufen",
-    "countryCode": "BR",
-    "lat": 47.40475,
-    "lng": 9.3473,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -97104,6 +96840,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1222167761",
+    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
+    "city": "Teufen",
+    "countryCode": "BR",
+    "lat": 47.40475,
+    "lng": 9.3473,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97412,17 +97159,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "BR",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97775,39 +97511,6 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1309247619",
-    "name": "Damp: Yachthafen Webcam Ostsee Resort",
-    "city": "Damp",
-    "countryCode": "BR",
-    "lat": 54.58365,
-    "lng": 10.02588,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1499191860",
-    "name": "Hessi Jerbi: Djerba Kite Lagoon",
-    "city": "Hessi Jerbi",
-    "countryCode": "BR",
-    "lat": 33.63949,
-    "lng": 11.00743,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "BR",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97933,17 +97636,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "AU",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -100452,6 +100144,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "AU",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256304311",
     "name": "Korenov › East: Jizerka",
     "city": "Korenov",
@@ -100657,17 +100360,6 @@
     "lat": 46.22878,
     "lng": 8.29938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "AU",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103004,6 +102696,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1547981452",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia: Oropa 3",
+    "city": "Biella",
+    "countryCode": "AU",
+    "lat": 45.62672,
+    "lng": 7.98139,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547981452/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1256082169",
     "name": "Nakhon Ratchasima: Korat Web Cam",
     "city": "Nakhon Ratchasima",
@@ -103533,8 +103236,8 @@
   },
   {
     "id": "windy-1287070461",
-    "name": "Racin: Obec Škrdlovice - Škrdlovice",
-    "city": "Racin",
+    "name": "Skrdlovice › South: Obec Škrdlovice - Škrdlovice",
+    "city": "Skrdlovice",
     "countryCode": "AU",
     "lat": 49.6373,
     "lng": 15.92511,
@@ -104797,17 +104500,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1403781260",
-    "name": "Les Sables-d'Olonne",
-    "city": "Les Sables-d'Olonne",
-    "countryCode": "AU",
-    "lat": 46.49457,
-    "lng": -1.79172,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1439681130",
     "name": "Martigues: Carro",
     "city": "Martigues",
@@ -104815,6 +104507,17 @@
     "lat": 43.33184,
     "lng": 5.03546,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1439681130/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1403781260",
+    "name": "Les Sables-d'Olonne",
+    "city": "Les Sables-d'Olonne",
+    "countryCode": "AU",
+    "lat": 46.49457,
+    "lng": -1.79172,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1403781260/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104991,6 +104694,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1476170462",
+    "name": "Modena › South-west: Piazza Roma - Torre Civica - Ghirlandina - Monte Cimone - Appennino Tosco-Emiliano National Park",
+    "city": "Modena",
+    "countryCode": "AU",
+    "lat": 44.64818,
+    "lng": 10.92992,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1476170462/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105457,6 +105171,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1394528762",
+    "name": "Scarborough: Filey Webcam",
+    "city": "Scarborough",
+    "countryCode": "AU",
+    "lat": 54.20859,
+    "lng": -0.28509,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394528762/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1418724444",
     "name": "Livigno: Lombardia, Italia",
     "city": "Livigno",
@@ -105776,17 +105501,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1388921207",
-    "name": "Municipal Unit of Vytina: Μαγούλιανα Αρκαδίας",
-    "city": "Municipal Unit of Vytina",
-    "countryCode": "AU",
-    "lat": 37.6773,
-    "lng": 22.12491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1388921207/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1321532630",
     "name": "Gala: Fefor Høifjellshotell, Fefor, Vinstra, Norge",
     "city": "Gala",
@@ -105942,7 +105656,7 @@
   },
   {
     "id": "windy-1235117487",
-    "name": "Pec pod Snezkou: Relaxpark",
+    "name": "Pec pod Snezkou › South-east: Bobsleigh Relax Park - Přehrada v Bukovém údolí",
     "city": "Pec pod Snezkou",
     "countryCode": "AU",
     "lat": 50.69898,
@@ -106381,17 +106095,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1601618149",
-    "name": "Olbia",
-    "city": "Olbia",
-    "countryCode": "AU",
-    "lat": 40.92475,
-    "lng": 9.50211,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952951",
     "name": "Sao Martinho: Lido, Funchal - Praia do Lido",
     "city": "Sao Martinho",
@@ -106399,6 +106102,17 @@
     "lat": 32.63563,
     "lng": -16.93917,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952951/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1601618149",
+    "name": "Olbia",
+    "city": "Olbia",
+    "countryCode": "AU",
+    "lat": 40.92475,
+    "lng": 9.50211,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106942,17 +106656,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1286473689",
-    "name": "Agaete › South: Dedo De Dios",
-    "city": "Agaete",
-    "countryCode": "AU",
-    "lat": 28.10084,
-    "lng": -15.71014,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -106960,6 +106663,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1286473689",
+    "name": "Agaete › South: Dedo De Dios",
+    "city": "Agaete",
+    "countryCode": "AU",
+    "lat": 28.10084,
+    "lng": -15.71014,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107301,17 +107015,6 @@
     "lat": 54.30902,
     "lng": 8.93766,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1231534692/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "AU",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107800,6 +107503,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1609680440",
+    "name": "Asco",
+    "city": "Asco",
+    "countryCode": "AU",
+    "lat": 42.40321,
+    "lng": 8.92281,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1249044619",
     "name": "Capdepera: Club Náutico de Cala Ratjada",
     "city": "Capdepera",
@@ -107812,7 +107526,7 @@
   },
   {
     "id": "windy-1296228992",
-    "name": "Pardubice: Dům služeb",
+    "name": "Pardubice › North-east: třída Míru - Green gate",
     "city": "Pardubice",
     "countryCode": "AU",
     "lat": 50.0359,
@@ -107954,17 +107668,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1222167761",
-    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
-    "city": "Teufen",
-    "countryCode": "AU",
-    "lat": 47.40475,
-    "lng": 9.3473,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216908149",
     "name": "Vaxjo: Vaexjoe - Växjö",
     "city": "Vaxjo",
@@ -107972,6 +107675,17 @@
     "lat": 56.87826,
     "lng": 14.80841,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216908149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1222167761",
+    "name": "Teufen: Satellitenstation Wilen in St.Gallen (Schweiz)",
+    "city": "Teufen",
+    "countryCode": "AU",
+    "lat": 47.40475,
+    "lng": 9.3473,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1222167761/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108280,17 +107994,6 @@
     "lat": 46.20973,
     "lng": 6.13609,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1306928257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1333963000",
-    "name": "Civitanova Marche: Panoramiche",
-    "city": "Civitanova Marche",
-    "countryCode": "AU",
-    "lat": 43.31224,
-    "lng": 13.72692,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108643,39 +108346,6 @@
     "lat": 44.16623,
     "lng": 9.61015,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1619856885/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1309247619",
-    "name": "Damp: Yachthafen Webcam Ostsee Resort",
-    "city": "Damp",
-    "countryCode": "AU",
-    "lat": 54.58365,
-    "lng": 10.02588,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1499191860",
-    "name": "Hessi Jerbi: Djerba Kite Lagoon",
-    "city": "Hessi Jerbi",
-    "countryCode": "AU",
-    "lat": 33.63949,
-    "lng": 11.00743,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1195856932",
-    "name": "Stade: Elbe River",
-    "city": "Stade",
-    "countryCode": "AU",
-    "lat": 53.62779,
-    "lng": 9.52425,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
