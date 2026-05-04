@@ -209,17 +209,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "JP",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -612,17 +601,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "JP",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1558,6 +1536,17 @@
     "lat": 50.06385,
     "lng": 14.38247,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1449602996/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1447838456",
+    "name": "Ny-Alesund › North-east: Kongsfjorden",
+    "city": "Ny-Alesund",
+    "countryCode": "JP",
+    "lat": 78.90683,
+    "lng": 11.88892,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4367,6 +4356,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1183493286",
+    "name": "Knokke-Heist › North: Knokke-Duinbergen 2",
+    "city": "Knokke-Heist",
+    "countryCode": "JP",
+    "lat": 51.34423,
+    "lng": 3.25899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183493286/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966151",
     "name": "Goslar › South-west: Goslarer Marktplatz und Rathaus",
     "city": "Goslar",
@@ -5093,17 +5093,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1422877039",
-    "name": "Pulsano: Marina di Pulsano",
-    "city": "Pulsano",
-    "countryCode": "JP",
-    "lat": 40.35273,
-    "lng": 17.36409,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -5111,6 +5100,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "JP",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5148,13 +5148,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1620810630",
-    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "Ayia Thekla",
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
     "countryCode": "JP",
-    "lat": 34.97899,
-    "lng": 33.94839,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5166,17 +5166,6 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "JP",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6677,17 +6666,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "JP",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -6695,6 +6673,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "JP",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7821,17 +7810,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252945368",
-    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
-    "city": "Barcelona",
-    "countryCode": "JP",
-    "lat": 41.37747,
-    "lng": 2.17965,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -7839,6 +7817,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252945368",
+    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
+    "city": "Barcelona",
+    "countryCode": "JP",
+    "lat": 41.37747,
+    "lng": 2.17965,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9152,17 +9141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "JP",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -9170,6 +9148,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "JP",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9208,11 +9197,11 @@
   },
   {
     "id": "windy-1273334222",
-    "name": "Ischia › South-east: Castello Aragonese, borgo e golfo di - Ponte",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
     "city": "Ischia",
     "countryCode": "JP",
-    "lat": 40.72593,
-    "lng": 13.95956,
+    "lat": 40.73851,
+    "lng": 13.95404,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -9361,17 +9350,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "JP",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1562831720",
     "name": "Rochehaut › South: Frahan",
     "city": "Rochehaut",
@@ -9379,6 +9357,17 @@
     "lat": 49.8399,
     "lng": 5.00416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "JP",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10296,6 +10285,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
+    "countryCode": "JP",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -10318,17 +10318,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
-    "countryCode": "JP",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto",
     "city": "Vysoke Myto",
@@ -10336,17 +10325,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10516,17 +10494,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "JP",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -10534,6 +10501,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "JP",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11099,17 +11077,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "US",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -11502,17 +11469,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "US",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12448,6 +12404,17 @@
     "lat": 50.06385,
     "lng": 14.38247,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1449602996/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1447838456",
+    "name": "Ny-Alesund › North-east: Kongsfjorden",
+    "city": "Ny-Alesund",
+    "countryCode": "US",
+    "lat": 78.90683,
+    "lng": 11.88892,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15257,6 +15224,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1183493286",
+    "name": "Knokke-Heist › North: Knokke-Duinbergen 2",
+    "city": "Knokke-Heist",
+    "countryCode": "US",
+    "lat": 51.34423,
+    "lng": 3.25899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183493286/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966151",
     "name": "Goslar › South-west: Goslarer Marktplatz und Rathaus",
     "city": "Goslar",
@@ -15983,17 +15961,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1422877039",
-    "name": "Pulsano: Marina di Pulsano",
-    "city": "Pulsano",
-    "countryCode": "US",
-    "lat": 40.35273,
-    "lng": 17.36409,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -16001,6 +15968,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "US",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16038,13 +16016,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1620810630",
-    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "Ayia Thekla",
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
     "countryCode": "US",
-    "lat": 34.97899,
-    "lng": 33.94839,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16056,17 +16034,6 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "US",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17567,17 +17534,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "US",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -17585,6 +17541,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "US",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18711,17 +18678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252945368",
-    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
-    "city": "Barcelona",
-    "countryCode": "US",
-    "lat": 41.37747,
-    "lng": 2.17965,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -18729,6 +18685,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252945368",
+    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
+    "city": "Barcelona",
+    "countryCode": "US",
+    "lat": 41.37747,
+    "lng": 2.17965,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20042,17 +20009,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "US",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -20060,6 +20016,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "US",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20098,11 +20065,11 @@
   },
   {
     "id": "windy-1273334222",
-    "name": "Ischia › South-east: Castello Aragonese, borgo e golfo di - Ponte",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
     "city": "Ischia",
     "countryCode": "US",
-    "lat": 40.72593,
-    "lng": 13.95956,
+    "lat": 40.73851,
+    "lng": 13.95404,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -20251,17 +20218,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "US",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1562831720",
     "name": "Rochehaut › South: Frahan",
     "city": "Rochehaut",
@@ -20269,6 +20225,17 @@
     "lat": 49.8399,
     "lng": 5.00416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "US",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21186,6 +21153,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
+    "countryCode": "US",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -21208,17 +21186,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
-    "countryCode": "US",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto",
     "city": "Vysoke Myto",
@@ -21226,17 +21193,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21406,17 +21362,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "US",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -21424,6 +21369,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "US",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21989,17 +21945,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "GB",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -22392,17 +22337,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "GB",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23338,6 +23272,17 @@
     "lat": 50.06385,
     "lng": 14.38247,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1449602996/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1447838456",
+    "name": "Ny-Alesund › North-east: Kongsfjorden",
+    "city": "Ny-Alesund",
+    "countryCode": "GB",
+    "lat": 78.90683,
+    "lng": 11.88892,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26147,6 +26092,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1183493286",
+    "name": "Knokke-Heist › North: Knokke-Duinbergen 2",
+    "city": "Knokke-Heist",
+    "countryCode": "GB",
+    "lat": 51.34423,
+    "lng": 3.25899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183493286/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966151",
     "name": "Goslar › South-west: Goslarer Marktplatz und Rathaus",
     "city": "Goslar",
@@ -26873,17 +26829,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1422877039",
-    "name": "Pulsano: Marina di Pulsano",
-    "city": "Pulsano",
-    "countryCode": "GB",
-    "lat": 40.35273,
-    "lng": 17.36409,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -26891,6 +26836,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "GB",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26928,13 +26884,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1620810630",
-    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "Ayia Thekla",
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
     "countryCode": "GB",
-    "lat": 34.97899,
-    "lng": 33.94839,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26946,17 +26902,6 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "GB",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28457,17 +28402,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "GB",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -28475,6 +28409,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "GB",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29601,17 +29546,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252945368",
-    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
-    "city": "Barcelona",
-    "countryCode": "GB",
-    "lat": 41.37747,
-    "lng": 2.17965,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -29619,6 +29553,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252945368",
+    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
+    "city": "Barcelona",
+    "countryCode": "GB",
+    "lat": 41.37747,
+    "lng": 2.17965,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30932,17 +30877,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "GB",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -30950,6 +30884,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "GB",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30988,11 +30933,11 @@
   },
   {
     "id": "windy-1273334222",
-    "name": "Ischia › South-east: Castello Aragonese, borgo e golfo di - Ponte",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
     "city": "Ischia",
     "countryCode": "GB",
-    "lat": 40.72593,
-    "lng": 13.95956,
+    "lat": 40.73851,
+    "lng": 13.95404,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -31141,17 +31086,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "GB",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1562831720",
     "name": "Rochehaut › South: Frahan",
     "city": "Rochehaut",
@@ -31159,6 +31093,17 @@
     "lat": 49.8399,
     "lng": 5.00416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "GB",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32076,6 +32021,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
+    "countryCode": "GB",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -32098,17 +32054,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
-    "countryCode": "GB",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto",
     "city": "Vysoke Myto",
@@ -32116,17 +32061,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32296,17 +32230,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "GB",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -32314,6 +32237,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "GB",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32879,17 +32813,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "DE",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -33282,17 +33205,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "DE",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34228,6 +34140,17 @@
     "lat": 50.06385,
     "lng": 14.38247,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1449602996/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1447838456",
+    "name": "Ny-Alesund › North-east: Kongsfjorden",
+    "city": "Ny-Alesund",
+    "countryCode": "DE",
+    "lat": 78.90683,
+    "lng": 11.88892,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37037,6 +36960,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1183493286",
+    "name": "Knokke-Heist › North: Knokke-Duinbergen 2",
+    "city": "Knokke-Heist",
+    "countryCode": "DE",
+    "lat": 51.34423,
+    "lng": 3.25899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183493286/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966151",
     "name": "Goslar › South-west: Goslarer Marktplatz und Rathaus",
     "city": "Goslar",
@@ -37763,17 +37697,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1422877039",
-    "name": "Pulsano: Marina di Pulsano",
-    "city": "Pulsano",
-    "countryCode": "DE",
-    "lat": 40.35273,
-    "lng": 17.36409,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -37781,6 +37704,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "DE",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37818,13 +37752,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1620810630",
-    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "Ayia Thekla",
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
     "countryCode": "DE",
-    "lat": 34.97899,
-    "lng": 33.94839,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37836,17 +37770,6 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "DE",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39347,17 +39270,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "DE",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -39365,6 +39277,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "DE",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40491,17 +40414,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252945368",
-    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
-    "city": "Barcelona",
-    "countryCode": "DE",
-    "lat": 41.37747,
-    "lng": 2.17965,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -40509,6 +40421,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252945368",
+    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
+    "city": "Barcelona",
+    "countryCode": "DE",
+    "lat": 41.37747,
+    "lng": 2.17965,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41822,17 +41745,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "DE",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -41840,6 +41752,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "DE",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41878,11 +41801,11 @@
   },
   {
     "id": "windy-1273334222",
-    "name": "Ischia › South-east: Castello Aragonese, borgo e golfo di - Ponte",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
     "city": "Ischia",
     "countryCode": "DE",
-    "lat": 40.72593,
-    "lng": 13.95956,
+    "lat": 40.73851,
+    "lng": 13.95404,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -42031,17 +41954,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "DE",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1562831720",
     "name": "Rochehaut › South: Frahan",
     "city": "Rochehaut",
@@ -42049,6 +41961,17 @@
     "lat": 49.8399,
     "lng": 5.00416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "DE",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42966,6 +42889,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
+    "countryCode": "DE",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -42988,17 +42922,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
-    "countryCode": "DE",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto",
     "city": "Vysoke Myto",
@@ -43006,17 +42929,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43186,17 +43098,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "DE",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -43204,6 +43105,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "DE",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43769,17 +43681,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "FR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -44172,17 +44073,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "FR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45118,6 +45008,17 @@
     "lat": 50.06385,
     "lng": 14.38247,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1449602996/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1447838456",
+    "name": "Ny-Alesund › North-east: Kongsfjorden",
+    "city": "Ny-Alesund",
+    "countryCode": "FR",
+    "lat": 78.90683,
+    "lng": 11.88892,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47927,6 +47828,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1183493286",
+    "name": "Knokke-Heist › North: Knokke-Duinbergen 2",
+    "city": "Knokke-Heist",
+    "countryCode": "FR",
+    "lat": 51.34423,
+    "lng": 3.25899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183493286/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966151",
     "name": "Goslar › South-west: Goslarer Marktplatz und Rathaus",
     "city": "Goslar",
@@ -48653,17 +48565,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1422877039",
-    "name": "Pulsano: Marina di Pulsano",
-    "city": "Pulsano",
-    "countryCode": "FR",
-    "lat": 40.35273,
-    "lng": 17.36409,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -48671,6 +48572,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "FR",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48708,13 +48620,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1620810630",
-    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "Ayia Thekla",
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
     "countryCode": "FR",
-    "lat": 34.97899,
-    "lng": 33.94839,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48726,17 +48638,6 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "FR",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50237,17 +50138,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "FR",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -50255,6 +50145,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "FR",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51381,17 +51282,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252945368",
-    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
-    "city": "Barcelona",
-    "countryCode": "FR",
-    "lat": 41.37747,
-    "lng": 2.17965,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -51399,6 +51289,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252945368",
+    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
+    "city": "Barcelona",
+    "countryCode": "FR",
+    "lat": 41.37747,
+    "lng": 2.17965,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52712,17 +52613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "FR",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -52730,6 +52620,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "FR",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52768,11 +52669,11 @@
   },
   {
     "id": "windy-1273334222",
-    "name": "Ischia › South-east: Castello Aragonese, borgo e golfo di - Ponte",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
     "city": "Ischia",
     "countryCode": "FR",
-    "lat": 40.72593,
-    "lng": 13.95956,
+    "lat": 40.73851,
+    "lng": 13.95404,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -52921,17 +52822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "FR",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1562831720",
     "name": "Rochehaut › South: Frahan",
     "city": "Rochehaut",
@@ -52939,6 +52829,17 @@
     "lat": 49.8399,
     "lng": 5.00416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "FR",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53856,6 +53757,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
+    "countryCode": "FR",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -53878,17 +53790,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
-    "countryCode": "FR",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto",
     "city": "Vysoke Myto",
@@ -53896,17 +53797,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54076,17 +53966,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "FR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -54094,6 +53973,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "FR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54659,17 +54549,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "CN",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -55062,17 +54941,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "CN",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56008,6 +55876,17 @@
     "lat": 50.06385,
     "lng": 14.38247,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1449602996/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1447838456",
+    "name": "Ny-Alesund › North-east: Kongsfjorden",
+    "city": "Ny-Alesund",
+    "countryCode": "CN",
+    "lat": 78.90683,
+    "lng": 11.88892,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58817,6 +58696,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1183493286",
+    "name": "Knokke-Heist › North: Knokke-Duinbergen 2",
+    "city": "Knokke-Heist",
+    "countryCode": "CN",
+    "lat": 51.34423,
+    "lng": 3.25899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183493286/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966151",
     "name": "Goslar › South-west: Goslarer Marktplatz und Rathaus",
     "city": "Goslar",
@@ -59543,17 +59433,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1422877039",
-    "name": "Pulsano: Marina di Pulsano",
-    "city": "Pulsano",
-    "countryCode": "CN",
-    "lat": 40.35273,
-    "lng": 17.36409,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -59561,6 +59440,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "CN",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59598,13 +59488,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1620810630",
-    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "Ayia Thekla",
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
     "countryCode": "CN",
-    "lat": 34.97899,
-    "lng": 33.94839,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59616,17 +59506,6 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "CN",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61127,17 +61006,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "CN",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -61145,6 +61013,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "CN",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62271,17 +62150,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252945368",
-    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
-    "city": "Barcelona",
-    "countryCode": "CN",
-    "lat": 41.37747,
-    "lng": 2.17965,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -62289,6 +62157,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252945368",
+    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
+    "city": "Barcelona",
+    "countryCode": "CN",
+    "lat": 41.37747,
+    "lng": 2.17965,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63602,17 +63481,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "CN",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -63620,6 +63488,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "CN",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63658,11 +63537,11 @@
   },
   {
     "id": "windy-1273334222",
-    "name": "Ischia › South-east: Castello Aragonese, borgo e golfo di - Ponte",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
     "city": "Ischia",
     "countryCode": "CN",
-    "lat": 40.72593,
-    "lng": 13.95956,
+    "lat": 40.73851,
+    "lng": 13.95404,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -63811,17 +63690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "CN",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1562831720",
     "name": "Rochehaut › South: Frahan",
     "city": "Rochehaut",
@@ -63829,6 +63697,17 @@
     "lat": 49.8399,
     "lng": 5.00416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "CN",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64746,6 +64625,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
+    "countryCode": "CN",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -64768,17 +64658,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
-    "countryCode": "CN",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto",
     "city": "Vysoke Myto",
@@ -64786,17 +64665,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64966,17 +64834,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "CN",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -64984,6 +64841,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "CN",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65549,17 +65417,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "KR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -65952,17 +65809,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "KR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66898,6 +66744,17 @@
     "lat": 50.06385,
     "lng": 14.38247,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1449602996/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1447838456",
+    "name": "Ny-Alesund › North-east: Kongsfjorden",
+    "city": "Ny-Alesund",
+    "countryCode": "KR",
+    "lat": 78.90683,
+    "lng": 11.88892,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69707,6 +69564,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1183493286",
+    "name": "Knokke-Heist › North: Knokke-Duinbergen 2",
+    "city": "Knokke-Heist",
+    "countryCode": "KR",
+    "lat": 51.34423,
+    "lng": 3.25899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183493286/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966151",
     "name": "Goslar › South-west: Goslarer Marktplatz und Rathaus",
     "city": "Goslar",
@@ -70433,17 +70301,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1422877039",
-    "name": "Pulsano: Marina di Pulsano",
-    "city": "Pulsano",
-    "countryCode": "KR",
-    "lat": 40.35273,
-    "lng": 17.36409,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -70451,6 +70308,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "KR",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70488,13 +70356,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1620810630",
-    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "Ayia Thekla",
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
     "countryCode": "KR",
-    "lat": 34.97899,
-    "lng": 33.94839,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70506,17 +70374,6 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "KR",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72017,17 +71874,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "KR",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -72035,6 +71881,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "KR",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73161,17 +73018,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252945368",
-    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
-    "city": "Barcelona",
-    "countryCode": "KR",
-    "lat": 41.37747,
-    "lng": 2.17965,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -73179,6 +73025,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252945368",
+    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
+    "city": "Barcelona",
+    "countryCode": "KR",
+    "lat": 41.37747,
+    "lng": 2.17965,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74492,17 +74349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "KR",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -74510,6 +74356,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "KR",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74548,11 +74405,11 @@
   },
   {
     "id": "windy-1273334222",
-    "name": "Ischia › South-east: Castello Aragonese, borgo e golfo di - Ponte",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
     "city": "Ischia",
     "countryCode": "KR",
-    "lat": 40.72593,
-    "lng": 13.95956,
+    "lat": 40.73851,
+    "lng": 13.95404,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -74701,17 +74558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "KR",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1562831720",
     "name": "Rochehaut › South: Frahan",
     "city": "Rochehaut",
@@ -74719,6 +74565,17 @@
     "lat": 49.8399,
     "lng": 5.00416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "KR",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75636,6 +75493,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
+    "countryCode": "KR",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -75658,17 +75526,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
-    "countryCode": "KR",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto",
     "city": "Vysoke Myto",
@@ -75676,17 +75533,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75856,17 +75702,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "KR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -75874,6 +75709,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "KR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76439,17 +76285,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "IN",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -76842,17 +76677,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "IN",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77788,6 +77612,17 @@
     "lat": 50.06385,
     "lng": 14.38247,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1449602996/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1447838456",
+    "name": "Ny-Alesund › North-east: Kongsfjorden",
+    "city": "Ny-Alesund",
+    "countryCode": "IN",
+    "lat": 78.90683,
+    "lng": 11.88892,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80597,6 +80432,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1183493286",
+    "name": "Knokke-Heist › North: Knokke-Duinbergen 2",
+    "city": "Knokke-Heist",
+    "countryCode": "IN",
+    "lat": 51.34423,
+    "lng": 3.25899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183493286/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966151",
     "name": "Goslar › South-west: Goslarer Marktplatz und Rathaus",
     "city": "Goslar",
@@ -81323,17 +81169,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1422877039",
-    "name": "Pulsano: Marina di Pulsano",
-    "city": "Pulsano",
-    "countryCode": "IN",
-    "lat": 40.35273,
-    "lng": 17.36409,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -81341,6 +81176,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "IN",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81378,13 +81224,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1620810630",
-    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "Ayia Thekla",
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
     "countryCode": "IN",
-    "lat": 34.97899,
-    "lng": 33.94839,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81396,17 +81242,6 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "IN",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82907,17 +82742,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "IN",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -82925,6 +82749,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "IN",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84051,17 +83886,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252945368",
-    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
-    "city": "Barcelona",
-    "countryCode": "IN",
-    "lat": 41.37747,
-    "lng": 2.17965,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -84069,6 +83893,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252945368",
+    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
+    "city": "Barcelona",
+    "countryCode": "IN",
+    "lat": 41.37747,
+    "lng": 2.17965,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85382,17 +85217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "IN",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -85400,6 +85224,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "IN",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85438,11 +85273,11 @@
   },
   {
     "id": "windy-1273334222",
-    "name": "Ischia › South-east: Castello Aragonese, borgo e golfo di - Ponte",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
     "city": "Ischia",
     "countryCode": "IN",
-    "lat": 40.72593,
-    "lng": 13.95956,
+    "lat": 40.73851,
+    "lng": 13.95404,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -85591,17 +85426,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "IN",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1562831720",
     "name": "Rochehaut › South: Frahan",
     "city": "Rochehaut",
@@ -85609,6 +85433,17 @@
     "lat": 49.8399,
     "lng": 5.00416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "IN",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86526,6 +86361,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
+    "countryCode": "IN",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -86548,17 +86394,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
-    "countryCode": "IN",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto",
     "city": "Vysoke Myto",
@@ -86566,17 +86401,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86746,17 +86570,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "IN",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -86764,6 +86577,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "IN",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87329,17 +87153,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "BR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -87732,17 +87545,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "BR",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88678,6 +88480,17 @@
     "lat": 50.06385,
     "lng": 14.38247,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1449602996/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1447838456",
+    "name": "Ny-Alesund › North-east: Kongsfjorden",
+    "city": "Ny-Alesund",
+    "countryCode": "BR",
+    "lat": 78.90683,
+    "lng": 11.88892,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91487,6 +91300,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1183493286",
+    "name": "Knokke-Heist › North: Knokke-Duinbergen 2",
+    "city": "Knokke-Heist",
+    "countryCode": "BR",
+    "lat": 51.34423,
+    "lng": 3.25899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183493286/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966151",
     "name": "Goslar › South-west: Goslarer Marktplatz und Rathaus",
     "city": "Goslar",
@@ -92213,17 +92037,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1422877039",
-    "name": "Pulsano: Marina di Pulsano",
-    "city": "Pulsano",
-    "countryCode": "BR",
-    "lat": 40.35273,
-    "lng": 17.36409,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -92231,6 +92044,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "BR",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92268,13 +92092,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1620810630",
-    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "Ayia Thekla",
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
     "countryCode": "BR",
-    "lat": 34.97899,
-    "lng": 33.94839,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92286,17 +92110,6 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "BR",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93797,17 +93610,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "BR",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -93815,6 +93617,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "BR",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94941,17 +94754,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252945368",
-    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
-    "city": "Barcelona",
-    "countryCode": "BR",
-    "lat": 41.37747,
-    "lng": 2.17965,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -94959,6 +94761,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252945368",
+    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
+    "city": "Barcelona",
+    "countryCode": "BR",
+    "lat": 41.37747,
+    "lng": 2.17965,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96272,17 +96085,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "BR",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -96290,6 +96092,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "BR",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96328,11 +96141,11 @@
   },
   {
     "id": "windy-1273334222",
-    "name": "Ischia › South-east: Castello Aragonese, borgo e golfo di - Ponte",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
     "city": "Ischia",
     "countryCode": "BR",
-    "lat": 40.72593,
-    "lng": 13.95956,
+    "lat": 40.73851,
+    "lng": 13.95404,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -96481,17 +96294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "BR",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1562831720",
     "name": "Rochehaut › South: Frahan",
     "city": "Rochehaut",
@@ -96499,6 +96301,17 @@
     "lat": 49.8399,
     "lng": 5.00416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "BR",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97416,6 +97229,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
+    "countryCode": "BR",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -97438,17 +97262,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
-    "countryCode": "BR",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto",
     "city": "Vysoke Myto",
@@ -97456,17 +97269,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97636,17 +97438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "BR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -97654,6 +97445,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "BR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98219,17 +98021,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "AU",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -98622,17 +98413,6 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1509611733",
-    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
-    "city": "Chennai",
-    "countryCode": "AU",
-    "lat": 24.29834,
-    "lng": 89.08002,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99568,6 +99348,17 @@
     "lat": 50.06385,
     "lng": 14.38247,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1449602996/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1447838456",
+    "name": "Ny-Alesund › North-east: Kongsfjorden",
+    "city": "Ny-Alesund",
+    "countryCode": "AU",
+    "lat": 78.90683,
+    "lng": 11.88892,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1447838456/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102377,6 +102168,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1183493286",
+    "name": "Knokke-Heist › North: Knokke-Duinbergen 2",
+    "city": "Knokke-Heist",
+    "countryCode": "AU",
+    "lat": 51.34423,
+    "lng": 3.25899,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183493286/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1310966151",
     "name": "Goslar › South-west: Goslarer Marktplatz und Rathaus",
     "city": "Goslar",
@@ -103103,17 +102905,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1422877039",
-    "name": "Pulsano: Marina di Pulsano",
-    "city": "Pulsano",
-    "countryCode": "AU",
-    "lat": 40.35273,
-    "lng": 17.36409,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -103121,6 +102912,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1422877039",
+    "name": "Pulsano: Marina di Pulsano",
+    "city": "Pulsano",
+    "countryCode": "AU",
+    "lat": 40.35273,
+    "lng": 17.36409,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1422877039/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103158,13 +102960,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1620810630",
-    "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
-    "city": "Ayia Thekla",
+    "id": "windy-1583957954",
+    "name": "Grenoble: Bastille",
+    "city": "Grenoble",
     "countryCode": "AU",
-    "lat": 34.97899,
-    "lng": 33.94839,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "lat": 45.19859,
+    "lng": 5.72452,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103176,17 +102978,6 @@
     "lat": 62.06656,
     "lng": -7.28257,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349363864/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1583957954",
-    "name": "Grenoble: Bastille",
-    "city": "Grenoble",
-    "countryCode": "AU",
-    "lat": 45.19859,
-    "lng": 5.72452,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1583957954/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104687,17 +104478,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1214173880",
-    "name": "Ulm: an der Donau - Webcam über der B10",
-    "city": "Ulm",
-    "countryCode": "AU",
-    "lat": 48.40174,
-    "lng": 9.9749,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -104705,6 +104485,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1214173880",
+    "name": "Ulm: an der Donau - Webcam über der B10",
+    "city": "Ulm",
+    "countryCode": "AU",
+    "lat": 48.40174,
+    "lng": 9.9749,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1214173880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105831,17 +105622,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1252945368",
-    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
-    "city": "Barcelona",
-    "countryCode": "AU",
-    "lat": 41.37747,
-    "lng": 2.17965,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1573770736",
     "name": "Kittila › North: Levi - Tuikku",
     "city": "Kittila",
@@ -105849,6 +105629,17 @@
     "lat": 67.79125,
     "lng": 24.84657,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1252945368",
+    "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
+    "city": "Barcelona",
+    "countryCode": "AU",
+    "lat": 41.37747,
+    "lng": 2.17965,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107162,17 +106953,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1471649256",
-    "name": "L'Ile-Rousse: L'Ile Rousse",
-    "city": "L'Ile-Rousse",
-    "countryCode": "AU",
-    "lat": 42.64104,
-    "lng": 8.93671,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -107180,6 +106960,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1471649256",
+    "name": "L'Ile-Rousse: L'Ile Rousse",
+    "city": "L'Ile-Rousse",
+    "countryCode": "AU",
+    "lat": 42.64104,
+    "lng": 8.93671,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1471649256/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107218,11 +107009,11 @@
   },
   {
     "id": "windy-1273334222",
-    "name": "Ischia › South-east: Castello Aragonese, borgo e golfo di - Ponte",
+    "name": "Ischia › South-east: Spiaggia dei Pescatori - Miramare e Castello - Ponte Aragonese - Il Monastero",
     "city": "Ischia",
     "countryCode": "AU",
-    "lat": 40.72593,
-    "lng": 13.95956,
+    "lat": 40.73851,
+    "lng": 13.95404,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273334222/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -107371,17 +107162,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1369898796",
-    "name": "Rakovnik › South-east: Husovo náměstí",
-    "city": "Rakovnik",
-    "countryCode": "AU",
-    "lat": 50.10466,
-    "lng": 13.72755,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1562831720",
     "name": "Rochehaut › South: Frahan",
     "city": "Rochehaut",
@@ -107389,6 +107169,17 @@
     "lat": 49.8399,
     "lng": 5.00416,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562831720/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1369898796",
+    "name": "Rakovnik › South-east: Husovo náměstí",
+    "city": "Rakovnik",
+    "countryCode": "AU",
+    "lat": 50.10466,
+    "lng": 13.72755,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369898796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108306,6 +108097,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1510609075",
+    "name": "Sete › South-west: Plage sète - Port de Sète",
+    "city": "Sete",
+    "countryCode": "AU",
+    "lat": 43.39348,
+    "lng": 3.66382,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -108328,17 +108130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1510609075",
-    "name": "Sete › South-west: Plage sète - Port de Sète",
-    "city": "Sete",
-    "countryCode": "AU",
-    "lat": 43.39348,
-    "lng": 3.66382,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1510609075/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto",
     "city": "Vysoke Myto",
@@ -108346,17 +108137,6 @@
     "lat": 49.95166,
     "lng": 16.16346,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215701217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108526,17 +108306,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "AU",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580415336",
     "name": "Franco da Rocha › North-west: Rua Valdomiro Silva Ramos",
     "city": "Franco da Rocha",
@@ -108544,6 +108313,17 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "AU",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
