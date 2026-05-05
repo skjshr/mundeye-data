@@ -1,22 +1,72 @@
 [
   {
+    "id": "us7000sibr",
+    "type": "earthquake",
+    "lat": 25.2767,
+    "lng": 96.4552,
+    "intensity": 4.5,
+    "timestamp": "2026-05-05T04:10:49.268Z",
+    "description": "M 4.5 - 95 km W of Myitkyina, Burma (Myanmar)",
+    "source": "USGS"
+  },
+  {
+    "id": "nn00917635",
+    "type": "earthquake",
+    "lat": 38.4568,
+    "lng": -116.5006,
+    "intensity": 4.53,
+    "timestamp": "2026-05-05T02:39:52.449Z",
+    "description": "M 4.5 - 77 km NE of Tonopah, Nevada",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000siat",
+    "type": "earthquake",
+    "lat": -6.4335,
+    "lng": 130.1627,
+    "intensity": 5.3,
+    "timestamp": "2026-05-05T02:38:49.853Z",
+    "description": "M 5.3 - Banda Sea",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000siar",
+    "type": "earthquake",
+    "lat": 53.6488,
+    "lng": -165.5555,
+    "intensity": 4.7,
+    "timestamp": "2026-05-05T02:38:47.990Z",
+    "description": "M 4.7 - 55 km SSE of Akutan, Alaska",
+    "source": "USGS"
+  },
+  {
+    "id": "us7000si9y",
+    "type": "earthquake",
+    "lat": -25.945,
+    "lng": 130.8724,
+    "intensity": 4.5,
+    "timestamp": "2026-05-05T00:16:51.219Z",
+    "description": "M 4.5 - 78 km S of Yulara, Australia",
+    "source": "USGS"
+  },
+  {
     "id": "us7000si9t",
     "type": "earthquake",
-    "lat": 39.959,
-    "lng": 142.9841,
+    "lat": 39.9667,
+    "lng": 143.0076,
     "intensity": 5.2,
-    "timestamp": "2026-05-04T23:54:07.648Z",
-    "description": "M 5.2 - 95 km ENE of Miyako, Japan",
+    "timestamp": "2026-05-04T23:54:06.749Z",
+    "description": "M 5.2 - 98 km ENE of Miyako, Japan",
     "source": "USGS"
   },
   {
     "id": "us7000si98",
     "type": "earthquake",
-    "lat": 39.8723,
-    "lng": 143.3449,
+    "lat": 39.9213,
+    "lng": 143.3419,
     "intensity": 4.8,
-    "timestamp": "2026-05-04T21:42:00.126Z",
-    "description": "M 4.8 - 122 km ENE of Miyako, Japan",
+    "timestamp": "2026-05-04T21:42:00.110Z",
+    "description": "M 4.8 - 123 km ENE of Miyako, Japan",
     "source": "USGS"
   },
   {
@@ -117,16 +167,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-04T05:55:42.224Z",
     "description": "M 4.6 - 49 km NNW of Murghob, Tajikistan",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si2c",
-    "type": "earthquake",
-    "lat": 3.0938,
-    "lng": 126.7085,
-    "intensity": 4.6,
-    "timestamp": "2026-05-04T03:37:06.423Z",
-    "description": "M 4.6 - 209 km NW of Tobelo, Indonesia",
     "source": "USGS"
   }
 ]
