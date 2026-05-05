@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000sicu",
+    "type": "earthquake",
+    "lat": -10.1135,
+    "lng": 119.3245,
+    "intensity": 5.8,
+    "timestamp": "2026-05-05T06:44:51.479Z",
+    "description": "M 5.8 - 76 km S of Tambolaka, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us7000sibr",
     "type": "earthquake",
     "lat": 25.2767,
@@ -137,36 +147,6 @@
     "intensity": 4.9,
     "timestamp": "2026-05-04T08:22:02.570Z",
     "description": "M 4.9 - 94 km WNW of Copiapó, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si3e",
-    "type": "earthquake",
-    "lat": -4.0947,
-    "lng": 152.8839,
-    "intensity": 4.7,
-    "timestamp": "2026-05-04T06:41:05.197Z",
-    "description": "M 4.7 - 73 km ENE of Kokopo, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si2z",
-    "type": "earthquake",
-    "lat": 11.7774,
-    "lng": 125.3718,
-    "intensity": 6,
-    "timestamp": "2026-05-04T06:09:50.058Z",
-    "description": "M 6.0 - 5 km WNW of Nena, Philippines",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si2w",
-    "type": "earthquake",
-    "lat": 38.5799,
-    "lng": 73.7437,
-    "intensity": 4.6,
-    "timestamp": "2026-05-04T05:55:42.224Z",
-    "description": "M 4.6 - 49 km NNW of Murghob, Tajikistan",
     "source": "USGS"
   }
 ]
