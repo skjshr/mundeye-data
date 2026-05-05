@@ -1,5 +1,15 @@
 [
   {
+    "id": "us7000si9t",
+    "type": "earthquake",
+    "lat": 39.959,
+    "lng": 142.9841,
+    "intensity": 5.2,
+    "timestamp": "2026-05-04T23:54:07.648Z",
+    "description": "M 5.2 - 95 km ENE of Miyako, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us7000si98",
     "type": "earthquake",
     "lat": 39.8723,

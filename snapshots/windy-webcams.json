@@ -616,17 +616,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "JP",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -3333,17 +3322,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309685432",
-    "name": "Tromso: Weather Live in",
-    "city": "Tromso",
-    "countryCode": "JP",
-    "lat": 69.64294,
-    "lng": 18.98536,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1359321680",
     "name": "Petropavlovsk-Kamchatsky: Gorely volcano",
     "city": "Petropavlovsk-Kamchatsky",
@@ -3351,6 +3329,17 @@
     "lat": 53.03192,
     "lng": 158.63709,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1359321680/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309685432",
+    "name": "Tromso: Weather Live in",
+    "city": "Tromso",
+    "countryCode": "JP",
+    "lat": 69.64294,
+    "lng": 18.98536,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3626,17 +3615,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "JP",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4488,17 +4466,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203759695",
-    "name": "Rypefjord: Hammerfest Kommune",
-    "city": "Rypefjord",
-    "countryCode": "JP",
-    "lat": 70.66355,
-    "lng": 23.68665,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522013332",
     "name": "Petropavlovsk-Kamchatsky › North-east: Kamtsjatka, Russia: Avachinsky",
     "city": "Petropavlovsk-Kamchatsky",
@@ -4506,6 +4473,17 @@
     "lat": 53.04444,
     "lng": 158.65076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522013332/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203759695",
+    "name": "Rypefjord: Hammerfest Kommune",
+    "city": "Rypefjord",
+    "countryCode": "JP",
+    "lat": 70.66355,
+    "lng": 23.68665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7238,17 +7216,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "JP",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -7711,17 +7678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "JP",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -7729,6 +7685,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "JP",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8004,17 +7971,6 @@
     "lat": -43.7358,
     "lng": 170.09552,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1592952482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "JP",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8558,17 +8514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "JP",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -8624,17 +8569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "JP",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -8642,6 +8576,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "JP",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9999,17 +9944,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "JP",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -10017,6 +9951,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "JP",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10571,17 +10516,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1495818660",
-    "name": "Mogan: Gran Canaria - Anfi Beach, Canary Islands",
-    "city": "Mogan",
-    "countryCode": "JP",
-    "lat": 27.77219,
-    "lng": -15.69782,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1495818660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697040341",
     "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
     "city": "Yverdon-les-Bains",
@@ -10732,6 +10666,39 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "JP",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "JP",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "JP",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11352,17 +11319,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "US",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -14069,17 +14025,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309685432",
-    "name": "Tromso: Weather Live in",
-    "city": "Tromso",
-    "countryCode": "US",
-    "lat": 69.64294,
-    "lng": 18.98536,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1359321680",
     "name": "Petropavlovsk-Kamchatsky: Gorely volcano",
     "city": "Petropavlovsk-Kamchatsky",
@@ -14087,6 +14032,17 @@
     "lat": 53.03192,
     "lng": 158.63709,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1359321680/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309685432",
+    "name": "Tromso: Weather Live in",
+    "city": "Tromso",
+    "countryCode": "US",
+    "lat": 69.64294,
+    "lng": 18.98536,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14362,17 +14318,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "US",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15224,17 +15169,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203759695",
-    "name": "Rypefjord: Hammerfest Kommune",
-    "city": "Rypefjord",
-    "countryCode": "US",
-    "lat": 70.66355,
-    "lng": 23.68665,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522013332",
     "name": "Petropavlovsk-Kamchatsky › North-east: Kamtsjatka, Russia: Avachinsky",
     "city": "Petropavlovsk-Kamchatsky",
@@ -15242,6 +15176,17 @@
     "lat": 53.04444,
     "lng": 158.65076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522013332/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203759695",
+    "name": "Rypefjord: Hammerfest Kommune",
+    "city": "Rypefjord",
+    "countryCode": "US",
+    "lat": 70.66355,
+    "lng": 23.68665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17974,17 +17919,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "US",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -18447,17 +18381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "US",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -18465,6 +18388,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "US",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18740,17 +18674,6 @@
     "lat": -43.7358,
     "lng": 170.09552,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1592952482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "US",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19294,17 +19217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "US",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -19360,17 +19272,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "US",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -19378,6 +19279,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "US",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20735,17 +20647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "US",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -20753,6 +20654,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "US",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21457,6 +21369,39 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "US",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "US",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "US",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24783,17 +24728,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309685432",
-    "name": "Tromso: Weather Live in",
-    "city": "Tromso",
-    "countryCode": "GB",
-    "lat": 69.64294,
-    "lng": 18.98536,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1359321680",
     "name": "Petropavlovsk-Kamchatsky: Gorely volcano",
     "city": "Petropavlovsk-Kamchatsky",
@@ -24801,6 +24735,17 @@
     "lat": 53.03192,
     "lng": 158.63709,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1359321680/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309685432",
+    "name": "Tromso: Weather Live in",
+    "city": "Tromso",
+    "countryCode": "GB",
+    "lat": 69.64294,
+    "lng": 18.98536,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25076,17 +25021,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "GB",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25938,17 +25872,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203759695",
-    "name": "Rypefjord: Hammerfest Kommune",
-    "city": "Rypefjord",
-    "countryCode": "GB",
-    "lat": 70.66355,
-    "lng": 23.68665,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522013332",
     "name": "Petropavlovsk-Kamchatsky › North-east: Kamtsjatka, Russia: Avachinsky",
     "city": "Petropavlovsk-Kamchatsky",
@@ -25956,6 +25879,17 @@
     "lat": 53.04444,
     "lng": 158.65076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522013332/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203759695",
+    "name": "Rypefjord: Hammerfest Kommune",
+    "city": "Rypefjord",
+    "countryCode": "GB",
+    "lat": 70.66355,
+    "lng": 23.68665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28688,17 +28622,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "GB",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -29161,17 +29084,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "GB",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -29179,6 +29091,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "GB",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29454,17 +29377,6 @@
     "lat": -43.7358,
     "lng": 170.09552,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1592952482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "GB",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30008,17 +29920,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "GB",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -30074,17 +29975,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "GB",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -30092,6 +29982,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "GB",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31449,17 +31350,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "GB",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -31467,6 +31357,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "GB",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32171,6 +32072,39 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "GB",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "GB",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "GB",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35497,17 +35431,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309685432",
-    "name": "Tromso: Weather Live in",
-    "city": "Tromso",
-    "countryCode": "DE",
-    "lat": 69.64294,
-    "lng": 18.98536,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1359321680",
     "name": "Petropavlovsk-Kamchatsky: Gorely volcano",
     "city": "Petropavlovsk-Kamchatsky",
@@ -35515,6 +35438,17 @@
     "lat": 53.03192,
     "lng": 158.63709,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1359321680/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309685432",
+    "name": "Tromso: Weather Live in",
+    "city": "Tromso",
+    "countryCode": "DE",
+    "lat": 69.64294,
+    "lng": 18.98536,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35790,17 +35724,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "DE",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36652,17 +36575,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203759695",
-    "name": "Rypefjord: Hammerfest Kommune",
-    "city": "Rypefjord",
-    "countryCode": "DE",
-    "lat": 70.66355,
-    "lng": 23.68665,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522013332",
     "name": "Petropavlovsk-Kamchatsky › North-east: Kamtsjatka, Russia: Avachinsky",
     "city": "Petropavlovsk-Kamchatsky",
@@ -36670,6 +36582,17 @@
     "lat": 53.04444,
     "lng": 158.65076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522013332/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203759695",
+    "name": "Rypefjord: Hammerfest Kommune",
+    "city": "Rypefjord",
+    "countryCode": "DE",
+    "lat": 70.66355,
+    "lng": 23.68665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39402,17 +39325,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "DE",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -39875,17 +39787,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "DE",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -39893,6 +39794,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "DE",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40168,17 +40080,6 @@
     "lat": -43.7358,
     "lng": 170.09552,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1592952482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "DE",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40722,17 +40623,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "DE",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -40788,17 +40678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "DE",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -40806,6 +40685,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "DE",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42163,17 +42053,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "DE",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -42181,6 +42060,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "DE",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42885,6 +42775,39 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "DE",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "DE",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "DE",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46211,17 +46134,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309685432",
-    "name": "Tromso: Weather Live in",
-    "city": "Tromso",
-    "countryCode": "FR",
-    "lat": 69.64294,
-    "lng": 18.98536,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1359321680",
     "name": "Petropavlovsk-Kamchatsky: Gorely volcano",
     "city": "Petropavlovsk-Kamchatsky",
@@ -46229,6 +46141,17 @@
     "lat": 53.03192,
     "lng": 158.63709,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1359321680/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309685432",
+    "name": "Tromso: Weather Live in",
+    "city": "Tromso",
+    "countryCode": "FR",
+    "lat": 69.64294,
+    "lng": 18.98536,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46504,17 +46427,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "FR",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47366,17 +47278,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203759695",
-    "name": "Rypefjord: Hammerfest Kommune",
-    "city": "Rypefjord",
-    "countryCode": "FR",
-    "lat": 70.66355,
-    "lng": 23.68665,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522013332",
     "name": "Petropavlovsk-Kamchatsky › North-east: Kamtsjatka, Russia: Avachinsky",
     "city": "Petropavlovsk-Kamchatsky",
@@ -47384,6 +47285,17 @@
     "lat": 53.04444,
     "lng": 158.65076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522013332/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203759695",
+    "name": "Rypefjord: Hammerfest Kommune",
+    "city": "Rypefjord",
+    "countryCode": "FR",
+    "lat": 70.66355,
+    "lng": 23.68665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50116,17 +50028,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "FR",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -50589,17 +50490,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "FR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -50607,6 +50497,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "FR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50882,17 +50783,6 @@
     "lat": -43.7358,
     "lng": 170.09552,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1592952482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "FR",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51436,17 +51326,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "FR",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -51502,17 +51381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "FR",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -51520,6 +51388,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "FR",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52877,17 +52756,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "FR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -52895,6 +52763,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "FR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53599,6 +53478,39 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "FR",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "FR",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "FR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56925,17 +56837,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309685432",
-    "name": "Tromso: Weather Live in",
-    "city": "Tromso",
-    "countryCode": "CN",
-    "lat": 69.64294,
-    "lng": 18.98536,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1359321680",
     "name": "Petropavlovsk-Kamchatsky: Gorely volcano",
     "city": "Petropavlovsk-Kamchatsky",
@@ -56943,6 +56844,17 @@
     "lat": 53.03192,
     "lng": 158.63709,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1359321680/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309685432",
+    "name": "Tromso: Weather Live in",
+    "city": "Tromso",
+    "countryCode": "CN",
+    "lat": 69.64294,
+    "lng": 18.98536,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57218,17 +57130,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "CN",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58080,17 +57981,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203759695",
-    "name": "Rypefjord: Hammerfest Kommune",
-    "city": "Rypefjord",
-    "countryCode": "CN",
-    "lat": 70.66355,
-    "lng": 23.68665,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522013332",
     "name": "Petropavlovsk-Kamchatsky › North-east: Kamtsjatka, Russia: Avachinsky",
     "city": "Petropavlovsk-Kamchatsky",
@@ -58098,6 +57988,17 @@
     "lat": 53.04444,
     "lng": 158.65076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522013332/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203759695",
+    "name": "Rypefjord: Hammerfest Kommune",
+    "city": "Rypefjord",
+    "countryCode": "CN",
+    "lat": 70.66355,
+    "lng": 23.68665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60830,17 +60731,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "CN",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -61303,17 +61193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "CN",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -61321,6 +61200,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "CN",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61596,17 +61486,6 @@
     "lat": -43.7358,
     "lng": 170.09552,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1592952482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "CN",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62150,17 +62029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "CN",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -62216,17 +62084,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "CN",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -62234,6 +62091,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "CN",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63591,17 +63459,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "CN",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -63609,6 +63466,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "CN",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64313,6 +64181,39 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "CN",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "CN",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "CN",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67639,17 +67540,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309685432",
-    "name": "Tromso: Weather Live in",
-    "city": "Tromso",
-    "countryCode": "KR",
-    "lat": 69.64294,
-    "lng": 18.98536,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1359321680",
     "name": "Petropavlovsk-Kamchatsky: Gorely volcano",
     "city": "Petropavlovsk-Kamchatsky",
@@ -67657,6 +67547,17 @@
     "lat": 53.03192,
     "lng": 158.63709,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1359321680/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309685432",
+    "name": "Tromso: Weather Live in",
+    "city": "Tromso",
+    "countryCode": "KR",
+    "lat": 69.64294,
+    "lng": 18.98536,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67932,17 +67833,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "KR",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68794,17 +68684,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203759695",
-    "name": "Rypefjord: Hammerfest Kommune",
-    "city": "Rypefjord",
-    "countryCode": "KR",
-    "lat": 70.66355,
-    "lng": 23.68665,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522013332",
     "name": "Petropavlovsk-Kamchatsky › North-east: Kamtsjatka, Russia: Avachinsky",
     "city": "Petropavlovsk-Kamchatsky",
@@ -68812,6 +68691,17 @@
     "lat": 53.04444,
     "lng": 158.65076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522013332/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203759695",
+    "name": "Rypefjord: Hammerfest Kommune",
+    "city": "Rypefjord",
+    "countryCode": "KR",
+    "lat": 70.66355,
+    "lng": 23.68665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71544,17 +71434,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "KR",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -72017,17 +71896,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "KR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -72035,6 +71903,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "KR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72310,17 +72189,6 @@
     "lat": -43.7358,
     "lng": 170.09552,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1592952482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "KR",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72864,17 +72732,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "KR",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -72930,17 +72787,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "KR",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -72948,6 +72794,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "KR",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74305,17 +74162,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "KR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -74323,6 +74169,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "KR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75027,6 +74884,39 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "KR",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "KR",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "KR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78353,17 +78243,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309685432",
-    "name": "Tromso: Weather Live in",
-    "city": "Tromso",
-    "countryCode": "IN",
-    "lat": 69.64294,
-    "lng": 18.98536,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1359321680",
     "name": "Petropavlovsk-Kamchatsky: Gorely volcano",
     "city": "Petropavlovsk-Kamchatsky",
@@ -78371,6 +78250,17 @@
     "lat": 53.03192,
     "lng": 158.63709,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1359321680/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309685432",
+    "name": "Tromso: Weather Live in",
+    "city": "Tromso",
+    "countryCode": "IN",
+    "lat": 69.64294,
+    "lng": 18.98536,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78646,17 +78536,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "IN",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79508,17 +79387,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203759695",
-    "name": "Rypefjord: Hammerfest Kommune",
-    "city": "Rypefjord",
-    "countryCode": "IN",
-    "lat": 70.66355,
-    "lng": 23.68665,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522013332",
     "name": "Petropavlovsk-Kamchatsky › North-east: Kamtsjatka, Russia: Avachinsky",
     "city": "Petropavlovsk-Kamchatsky",
@@ -79526,6 +79394,17 @@
     "lat": 53.04444,
     "lng": 158.65076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522013332/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203759695",
+    "name": "Rypefjord: Hammerfest Kommune",
+    "city": "Rypefjord",
+    "countryCode": "IN",
+    "lat": 70.66355,
+    "lng": 23.68665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82258,17 +82137,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "IN",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -82731,17 +82599,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "IN",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -82749,6 +82606,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "IN",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83024,17 +82892,6 @@
     "lat": -43.7358,
     "lng": 170.09552,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1592952482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "IN",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83578,17 +83435,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "IN",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -83644,17 +83490,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "IN",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -83662,6 +83497,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "IN",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85019,17 +84865,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "IN",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -85037,6 +84872,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "IN",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85741,6 +85587,39 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "IN",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "IN",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "IN",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89067,17 +88946,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309685432",
-    "name": "Tromso: Weather Live in",
-    "city": "Tromso",
-    "countryCode": "BR",
-    "lat": 69.64294,
-    "lng": 18.98536,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1359321680",
     "name": "Petropavlovsk-Kamchatsky: Gorely volcano",
     "city": "Petropavlovsk-Kamchatsky",
@@ -89085,6 +88953,17 @@
     "lat": 53.03192,
     "lng": 158.63709,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1359321680/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309685432",
+    "name": "Tromso: Weather Live in",
+    "city": "Tromso",
+    "countryCode": "BR",
+    "lat": 69.64294,
+    "lng": 18.98536,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89360,17 +89239,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "BR",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90222,17 +90090,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203759695",
-    "name": "Rypefjord: Hammerfest Kommune",
-    "city": "Rypefjord",
-    "countryCode": "BR",
-    "lat": 70.66355,
-    "lng": 23.68665,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522013332",
     "name": "Petropavlovsk-Kamchatsky › North-east: Kamtsjatka, Russia: Avachinsky",
     "city": "Petropavlovsk-Kamchatsky",
@@ -90240,6 +90097,17 @@
     "lat": 53.04444,
     "lng": 158.65076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522013332/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203759695",
+    "name": "Rypefjord: Hammerfest Kommune",
+    "city": "Rypefjord",
+    "countryCode": "BR",
+    "lat": 70.66355,
+    "lng": 23.68665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92972,17 +92840,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "BR",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -93445,17 +93302,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "BR",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -93463,6 +93309,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "BR",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93738,17 +93595,6 @@
     "lat": -43.7358,
     "lng": 170.09552,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1592952482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "BR",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94292,17 +94138,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "BR",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -94358,17 +94193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "BR",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -94376,6 +94200,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "BR",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95733,17 +95568,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "BR",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -95751,6 +95575,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "BR",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96455,6 +96290,39 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "BR",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "BR",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "BR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99781,17 +99649,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309685432",
-    "name": "Tromso: Weather Live in",
-    "city": "Tromso",
-    "countryCode": "AU",
-    "lat": 69.64294,
-    "lng": 18.98536,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1359321680",
     "name": "Petropavlovsk-Kamchatsky: Gorely volcano",
     "city": "Petropavlovsk-Kamchatsky",
@@ -99799,6 +99656,17 @@
     "lat": 53.03192,
     "lng": 158.63709,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1359321680/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309685432",
+    "name": "Tromso: Weather Live in",
+    "city": "Tromso",
+    "countryCode": "AU",
+    "lat": 69.64294,
+    "lng": 18.98536,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309685432/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100074,17 +99942,6 @@
     "lat": 47.56557,
     "lng": 8.25662,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171889392/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1412842619",
-    "name": "Nakkerud: Buvatn - Norway, Buskerud: Lake",
-    "city": "Nakkerud",
-    "countryCode": "AU",
-    "lat": 60.67241,
-    "lng": 9.28308,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1412842619/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100936,17 +100793,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203759695",
-    "name": "Rypefjord: Hammerfest Kommune",
-    "city": "Rypefjord",
-    "countryCode": "AU",
-    "lat": 70.66355,
-    "lng": 23.68665,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1522013332",
     "name": "Petropavlovsk-Kamchatsky › North-east: Kamtsjatka, Russia: Avachinsky",
     "city": "Petropavlovsk-Kamchatsky",
@@ -100954,6 +100800,17 @@
     "lat": 53.04444,
     "lng": 158.65076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1522013332/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203759695",
+    "name": "Rypefjord: Hammerfest Kommune",
+    "city": "Rypefjord",
+    "countryCode": "AU",
+    "lat": 70.66355,
+    "lng": 23.68665,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203759695/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103686,17 +103543,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1156158815",
-    "name": "Langnau im Emmental: Aussicht vom Dorfberg in Langnau",
-    "city": "Langnau im Emmental",
-    "countryCode": "AU",
-    "lat": 46.94525,
-    "lng": 7.78081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1156158815/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249114124",
     "name": "Isola",
     "city": "Isola",
@@ -104159,17 +104005,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1215516024",
-    "name": "Kolin",
-    "city": "Kolin",
-    "countryCode": "AU",
-    "lat": 50.02759,
-    "lng": 15.20199,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1396331188",
     "name": "Olsztyn: Lotnisko Dajtki",
     "city": "Olsztyn",
@@ -104177,6 +104012,17 @@
     "lat": 53.77488,
     "lng": 20.41623,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1396331188/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1215516024",
+    "name": "Kolin",
+    "city": "Kolin",
+    "countryCode": "AU",
+    "lat": 50.02759,
+    "lng": 15.20199,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104452,17 +104298,6 @@
     "lat": -43.7358,
     "lng": 170.09552,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1592952482/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1217347897",
-    "name": "District of Poprad: Nový Smokovec",
-    "city": "District of Poprad",
-    "countryCode": "AU",
-    "lat": 49.13963,
-    "lng": 20.22952,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217347897/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105006,17 +104841,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1262711159",
-    "name": "Alpe Devero: Casa Vacanze La Rossa - VB ITALY",
-    "city": "Alpe Devero",
-    "countryCode": "AU",
-    "lat": 46.32038,
-    "lng": 8.26266,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1262711159/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1544601845",
     "name": "Vagsli: Telemark fylke, Norge",
     "city": "Vagsli",
@@ -105072,17 +104896,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "AU",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -105090,6 +104903,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "AU",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106447,17 +106271,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349754613",
-    "name": "Kagoshima: Sakura Island 3",
-    "city": "Kagoshima",
-    "countryCode": "AU",
-    "lat": 31.56019,
-    "lng": 130.55814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545396501",
     "name": "Kirkja › South-east: Norðoyar, Faroe Islands",
     "city": "Kirkja",
@@ -106465,6 +106278,17 @@
     "lat": 62.3194,
     "lng": -6.32016,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545396501/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349754613",
+    "name": "Kagoshima: Sakura Island 3",
+    "city": "Kagoshima",
+    "countryCode": "AU",
+    "lat": 31.56019,
+    "lng": 130.55814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349754613/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107169,6 +106993,39 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1499191860",
+    "name": "Hessi Jerbi: Djerba Kite Lagoon",
+    "city": "Hessi Jerbi",
+    "countryCode": "AU",
+    "lat": 33.63949,
+    "lng": 11.00743,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "AU",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "AU",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
