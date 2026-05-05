@@ -231,17 +231,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -2497,17 +2486,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2592,6 +2570,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4433,6 +4422,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1219997733",
+    "name": "Fairbanks: Chena River Viewed From Pro Music",
+    "city": "Fairbanks",
+    "countryCode": "JP",
+    "lat": 64.84591,
+    "lng": -147.70499,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1219997733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208682005",
     "name": "Caussols: Côte d'Azur",
     "city": "Caussols",
@@ -5555,17 +5555,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273997720",
-    "name": "Hodonin: náměstí",
-    "city": "Hodonin",
-    "countryCode": "JP",
-    "lat": 48.8488,
-    "lng": 17.12787,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216892440",
     "name": "Storuman › North-west: Square",
     "city": "Storuman",
@@ -5573,6 +5562,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273997720",
+    "name": "Hodonin: náměstí",
+    "city": "Hodonin",
+    "countryCode": "JP",
+    "lat": 48.8488,
+    "lng": 17.12787,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7876,17 +7876,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -8888,17 +8877,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "JP",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -9009,17 +8987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "JP",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -9031,13 +8998,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
     "countryCode": "JP",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9049,6 +9016,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "JP",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9735,17 +9713,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350084015",
-    "name": "Zakopane: Gubalowki",
-    "city": "Zakopane",
-    "countryCode": "JP",
-    "lat": 49.29295,
-    "lng": 19.94544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1428821468",
     "name": "Den Helder › South-east: Meteo-Julianadorp",
     "city": "Den Helder",
@@ -9753,6 +9720,17 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350084015",
+    "name": "Zakopane: Gubalowki",
+    "city": "Zakopane",
+    "countryCode": "JP",
+    "lat": 49.29295,
+    "lng": 19.94544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10285,6 +10263,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -10809,6 +10798,17 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "JP",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11044,17 +11044,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -13310,17 +13299,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13405,6 +13383,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15246,6 +15235,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1219997733",
+    "name": "Fairbanks: Chena River Viewed From Pro Music",
+    "city": "Fairbanks",
+    "countryCode": "US",
+    "lat": 64.84591,
+    "lng": -147.70499,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1219997733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208682005",
     "name": "Caussols: Côte d'Azur",
     "city": "Caussols",
@@ -16368,17 +16368,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273997720",
-    "name": "Hodonin: náměstí",
-    "city": "Hodonin",
-    "countryCode": "US",
-    "lat": 48.8488,
-    "lng": 17.12787,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216892440",
     "name": "Storuman › North-west: Square",
     "city": "Storuman",
@@ -16386,6 +16375,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273997720",
+    "name": "Hodonin: náměstí",
+    "city": "Hodonin",
+    "countryCode": "US",
+    "lat": 48.8488,
+    "lng": 17.12787,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18689,17 +18689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -19701,17 +19690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "US",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -19822,17 +19800,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "US",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -19844,13 +19811,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
     "countryCode": "US",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19862,6 +19829,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "US",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20548,17 +20526,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350084015",
-    "name": "Zakopane: Gubalowki",
-    "city": "Zakopane",
-    "countryCode": "US",
-    "lat": 49.29295,
-    "lng": 19.94544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1428821468",
     "name": "Den Helder › South-east: Meteo-Julianadorp",
     "city": "Den Helder",
@@ -20566,6 +20533,17 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350084015",
+    "name": "Zakopane: Gubalowki",
+    "city": "Zakopane",
+    "countryCode": "US",
+    "lat": 49.29295,
+    "lng": 19.94544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21098,6 +21076,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -21622,6 +21611,17 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "US",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21857,17 +21857,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -24123,17 +24112,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24218,6 +24196,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26059,6 +26048,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1219997733",
+    "name": "Fairbanks: Chena River Viewed From Pro Music",
+    "city": "Fairbanks",
+    "countryCode": "GB",
+    "lat": 64.84591,
+    "lng": -147.70499,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1219997733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208682005",
     "name": "Caussols: Côte d'Azur",
     "city": "Caussols",
@@ -27181,17 +27181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273997720",
-    "name": "Hodonin: náměstí",
-    "city": "Hodonin",
-    "countryCode": "GB",
-    "lat": 48.8488,
-    "lng": 17.12787,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216892440",
     "name": "Storuman › North-west: Square",
     "city": "Storuman",
@@ -27199,6 +27188,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273997720",
+    "name": "Hodonin: náměstí",
+    "city": "Hodonin",
+    "countryCode": "GB",
+    "lat": 48.8488,
+    "lng": 17.12787,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29502,17 +29502,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -30514,17 +30503,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "GB",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -30635,17 +30613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "GB",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -30657,13 +30624,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
     "countryCode": "GB",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30675,6 +30642,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "GB",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31361,17 +31339,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350084015",
-    "name": "Zakopane: Gubalowki",
-    "city": "Zakopane",
-    "countryCode": "GB",
-    "lat": 49.29295,
-    "lng": 19.94544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1428821468",
     "name": "Den Helder › South-east: Meteo-Julianadorp",
     "city": "Den Helder",
@@ -31379,6 +31346,17 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350084015",
+    "name": "Zakopane: Gubalowki",
+    "city": "Zakopane",
+    "countryCode": "GB",
+    "lat": 49.29295,
+    "lng": 19.94544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31911,6 +31889,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -32435,6 +32424,17 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "GB",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32670,17 +32670,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -34936,17 +34925,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -35031,6 +35009,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36872,6 +36861,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1219997733",
+    "name": "Fairbanks: Chena River Viewed From Pro Music",
+    "city": "Fairbanks",
+    "countryCode": "DE",
+    "lat": 64.84591,
+    "lng": -147.70499,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1219997733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208682005",
     "name": "Caussols: Côte d'Azur",
     "city": "Caussols",
@@ -37994,17 +37994,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273997720",
-    "name": "Hodonin: náměstí",
-    "city": "Hodonin",
-    "countryCode": "DE",
-    "lat": 48.8488,
-    "lng": 17.12787,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216892440",
     "name": "Storuman › North-west: Square",
     "city": "Storuman",
@@ -38012,6 +38001,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273997720",
+    "name": "Hodonin: náměstí",
+    "city": "Hodonin",
+    "countryCode": "DE",
+    "lat": 48.8488,
+    "lng": 17.12787,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40315,17 +40315,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -41327,17 +41316,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "DE",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -41448,17 +41426,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "DE",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -41470,13 +41437,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
     "countryCode": "DE",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41488,6 +41455,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "DE",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42174,17 +42152,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350084015",
-    "name": "Zakopane: Gubalowki",
-    "city": "Zakopane",
-    "countryCode": "DE",
-    "lat": 49.29295,
-    "lng": 19.94544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1428821468",
     "name": "Den Helder › South-east: Meteo-Julianadorp",
     "city": "Den Helder",
@@ -42192,6 +42159,17 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350084015",
+    "name": "Zakopane: Gubalowki",
+    "city": "Zakopane",
+    "countryCode": "DE",
+    "lat": 49.29295,
+    "lng": 19.94544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42724,6 +42702,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -43248,6 +43237,17 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "DE",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43483,17 +43483,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -45749,17 +45738,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45844,6 +45822,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47685,6 +47674,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1219997733",
+    "name": "Fairbanks: Chena River Viewed From Pro Music",
+    "city": "Fairbanks",
+    "countryCode": "FR",
+    "lat": 64.84591,
+    "lng": -147.70499,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1219997733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208682005",
     "name": "Caussols: Côte d'Azur",
     "city": "Caussols",
@@ -48807,17 +48807,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273997720",
-    "name": "Hodonin: náměstí",
-    "city": "Hodonin",
-    "countryCode": "FR",
-    "lat": 48.8488,
-    "lng": 17.12787,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216892440",
     "name": "Storuman › North-west: Square",
     "city": "Storuman",
@@ -48825,6 +48814,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273997720",
+    "name": "Hodonin: náměstí",
+    "city": "Hodonin",
+    "countryCode": "FR",
+    "lat": 48.8488,
+    "lng": 17.12787,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51128,17 +51128,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -52140,17 +52129,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "FR",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -52261,17 +52239,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "FR",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -52283,13 +52250,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
     "countryCode": "FR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52301,6 +52268,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "FR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52987,17 +52965,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350084015",
-    "name": "Zakopane: Gubalowki",
-    "city": "Zakopane",
-    "countryCode": "FR",
-    "lat": 49.29295,
-    "lng": 19.94544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1428821468",
     "name": "Den Helder › South-east: Meteo-Julianadorp",
     "city": "Den Helder",
@@ -53005,6 +52972,17 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350084015",
+    "name": "Zakopane: Gubalowki",
+    "city": "Zakopane",
+    "countryCode": "FR",
+    "lat": 49.29295,
+    "lng": 19.94544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53537,6 +53515,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -54061,6 +54050,17 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "FR",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54296,17 +54296,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -56562,17 +56551,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56657,6 +56635,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58498,6 +58487,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1219997733",
+    "name": "Fairbanks: Chena River Viewed From Pro Music",
+    "city": "Fairbanks",
+    "countryCode": "CN",
+    "lat": 64.84591,
+    "lng": -147.70499,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1219997733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208682005",
     "name": "Caussols: Côte d'Azur",
     "city": "Caussols",
@@ -59620,17 +59620,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273997720",
-    "name": "Hodonin: náměstí",
-    "city": "Hodonin",
-    "countryCode": "CN",
-    "lat": 48.8488,
-    "lng": 17.12787,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216892440",
     "name": "Storuman › North-west: Square",
     "city": "Storuman",
@@ -59638,6 +59627,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273997720",
+    "name": "Hodonin: náměstí",
+    "city": "Hodonin",
+    "countryCode": "CN",
+    "lat": 48.8488,
+    "lng": 17.12787,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61941,17 +61941,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -62953,17 +62942,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "CN",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -63074,17 +63052,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "CN",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -63096,13 +63063,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
     "countryCode": "CN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63114,6 +63081,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "CN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63800,17 +63778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350084015",
-    "name": "Zakopane: Gubalowki",
-    "city": "Zakopane",
-    "countryCode": "CN",
-    "lat": 49.29295,
-    "lng": 19.94544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1428821468",
     "name": "Den Helder › South-east: Meteo-Julianadorp",
     "city": "Den Helder",
@@ -63818,6 +63785,17 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350084015",
+    "name": "Zakopane: Gubalowki",
+    "city": "Zakopane",
+    "countryCode": "CN",
+    "lat": 49.29295,
+    "lng": 19.94544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64350,6 +64328,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -64874,6 +64863,17 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "CN",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65109,17 +65109,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -67375,17 +67364,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67470,6 +67448,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69311,6 +69300,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1219997733",
+    "name": "Fairbanks: Chena River Viewed From Pro Music",
+    "city": "Fairbanks",
+    "countryCode": "KR",
+    "lat": 64.84591,
+    "lng": -147.70499,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1219997733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208682005",
     "name": "Caussols: Côte d'Azur",
     "city": "Caussols",
@@ -70433,17 +70433,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273997720",
-    "name": "Hodonin: náměstí",
-    "city": "Hodonin",
-    "countryCode": "KR",
-    "lat": 48.8488,
-    "lng": 17.12787,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216892440",
     "name": "Storuman › North-west: Square",
     "city": "Storuman",
@@ -70451,6 +70440,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273997720",
+    "name": "Hodonin: náměstí",
+    "city": "Hodonin",
+    "countryCode": "KR",
+    "lat": 48.8488,
+    "lng": 17.12787,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72754,17 +72754,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -73766,17 +73755,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "KR",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -73887,17 +73865,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "KR",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -73909,13 +73876,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
     "countryCode": "KR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73927,6 +73894,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "KR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74613,17 +74591,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350084015",
-    "name": "Zakopane: Gubalowki",
-    "city": "Zakopane",
-    "countryCode": "KR",
-    "lat": 49.29295,
-    "lng": 19.94544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1428821468",
     "name": "Den Helder › South-east: Meteo-Julianadorp",
     "city": "Den Helder",
@@ -74631,6 +74598,17 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350084015",
+    "name": "Zakopane: Gubalowki",
+    "city": "Zakopane",
+    "countryCode": "KR",
+    "lat": 49.29295,
+    "lng": 19.94544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75163,6 +75141,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -75687,6 +75676,17 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "KR",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75922,17 +75922,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -78188,17 +78177,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -78283,6 +78261,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80124,6 +80113,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1219997733",
+    "name": "Fairbanks: Chena River Viewed From Pro Music",
+    "city": "Fairbanks",
+    "countryCode": "IN",
+    "lat": 64.84591,
+    "lng": -147.70499,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1219997733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208682005",
     "name": "Caussols: Côte d'Azur",
     "city": "Caussols",
@@ -81246,17 +81246,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273997720",
-    "name": "Hodonin: náměstí",
-    "city": "Hodonin",
-    "countryCode": "IN",
-    "lat": 48.8488,
-    "lng": 17.12787,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216892440",
     "name": "Storuman › North-west: Square",
     "city": "Storuman",
@@ -81264,6 +81253,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273997720",
+    "name": "Hodonin: náměstí",
+    "city": "Hodonin",
+    "countryCode": "IN",
+    "lat": 48.8488,
+    "lng": 17.12787,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83567,17 +83567,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -84579,17 +84568,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "IN",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -84700,17 +84678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "IN",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -84722,13 +84689,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
     "countryCode": "IN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84740,6 +84707,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "IN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85426,17 +85404,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350084015",
-    "name": "Zakopane: Gubalowki",
-    "city": "Zakopane",
-    "countryCode": "IN",
-    "lat": 49.29295,
-    "lng": 19.94544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1428821468",
     "name": "Den Helder › South-east: Meteo-Julianadorp",
     "city": "Den Helder",
@@ -85444,6 +85411,17 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350084015",
+    "name": "Zakopane: Gubalowki",
+    "city": "Zakopane",
+    "countryCode": "IN",
+    "lat": 49.29295,
+    "lng": 19.94544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85976,6 +85954,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -86500,6 +86489,17 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "IN",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86735,17 +86735,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -89001,17 +88990,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -89096,6 +89074,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90937,6 +90926,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1219997733",
+    "name": "Fairbanks: Chena River Viewed From Pro Music",
+    "city": "Fairbanks",
+    "countryCode": "BR",
+    "lat": 64.84591,
+    "lng": -147.70499,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1219997733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208682005",
     "name": "Caussols: Côte d'Azur",
     "city": "Caussols",
@@ -92059,17 +92059,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273997720",
-    "name": "Hodonin: náměstí",
-    "city": "Hodonin",
-    "countryCode": "BR",
-    "lat": 48.8488,
-    "lng": 17.12787,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216892440",
     "name": "Storuman › North-west: Square",
     "city": "Storuman",
@@ -92077,6 +92066,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273997720",
+    "name": "Hodonin: náměstí",
+    "city": "Hodonin",
+    "countryCode": "BR",
+    "lat": 48.8488,
+    "lng": 17.12787,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94380,17 +94380,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -95392,17 +95381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "BR",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -95513,17 +95491,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "BR",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -95535,13 +95502,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
     "countryCode": "BR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95553,6 +95520,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "BR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96239,17 +96217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350084015",
-    "name": "Zakopane: Gubalowki",
-    "city": "Zakopane",
-    "countryCode": "BR",
-    "lat": 49.29295,
-    "lng": 19.94544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1428821468",
     "name": "Den Helder › South-east: Meteo-Julianadorp",
     "city": "Den Helder",
@@ -96257,6 +96224,17 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350084015",
+    "name": "Zakopane: Gubalowki",
+    "city": "Zakopane",
+    "countryCode": "BR",
+    "lat": 49.29295,
+    "lng": 19.94544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96789,6 +96767,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -97313,6 +97302,17 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "BR",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97548,17 +97548,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -99814,17 +99803,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -99909,6 +99887,17 @@
     "lat": 49.29899,
     "lng": 19.94885,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531225795/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101750,6 +101739,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1219997733",
+    "name": "Fairbanks: Chena River Viewed From Pro Music",
+    "city": "Fairbanks",
+    "countryCode": "AU",
+    "lat": 64.84591,
+    "lng": -147.70499,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1219997733/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1208682005",
     "name": "Caussols: Côte d'Azur",
     "city": "Caussols",
@@ -102872,17 +102872,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273997720",
-    "name": "Hodonin: náměstí",
-    "city": "Hodonin",
-    "countryCode": "AU",
-    "lat": 48.8488,
-    "lng": 17.12787,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1216892440",
     "name": "Storuman › North-west: Square",
     "city": "Storuman",
@@ -102890,6 +102879,17 @@
     "lat": 65.09554,
     "lng": 17.11719,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273997720",
+    "name": "Hodonin: náměstí",
+    "city": "Hodonin",
+    "countryCode": "AU",
+    "lat": 48.8488,
+    "lng": 17.12787,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273997720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105193,17 +105193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607263795",
     "name": "Jingwei › South-west",
     "city": "Jingwei",
@@ -106205,17 +106194,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1498986660",
-    "name": "Nyeri: Aberdare Range, Kenya",
-    "city": "Nyeri",
-    "countryCode": "AU",
-    "lat": -0.39825,
-    "lng": 36.83132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1498986660/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1471290764",
     "name": "Moscow › South-east: Krestyanskaya Zastava Square",
     "city": "Moscow",
@@ -106326,17 +106304,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "AU",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1197467727",
     "name": "Rudolfsheim-Funfhaus: Votivkirche",
     "city": "unknown",
@@ -106348,13 +106315,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
     "countryCode": "AU",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106366,6 +106333,17 @@
     "lat": 55.09908,
     "lng": 14.69093,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1507155065/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "AU",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107052,17 +107030,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350084015",
-    "name": "Zakopane: Gubalowki",
-    "city": "Zakopane",
-    "countryCode": "AU",
-    "lat": 49.29295,
-    "lng": 19.94544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1428821468",
     "name": "Den Helder › South-east: Meteo-Julianadorp",
     "city": "Den Helder",
@@ -107070,6 +107037,17 @@
     "lat": 52.88734,
     "lng": 4.7356,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1428821468/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350084015",
+    "name": "Zakopane: Gubalowki",
+    "city": "Zakopane",
+    "countryCode": "AU",
+    "lat": 49.29295,
+    "lng": 19.94544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350084015/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107602,6 +107580,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1280647091",
+    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.6009,
+    "lng": -118.06158,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -108126,6 +108115,17 @@
     "lat": 33.63949,
     "lng": 11.00743,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1499191860/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1195856932",
+    "name": "Stade: Elbe River",
+    "city": "Stade",
+    "countryCode": "AU",
+    "lat": 53.62779,
+    "lng": 9.52425,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
