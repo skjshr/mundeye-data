@@ -1,5 +1,35 @@
 [
   {
+    "id": "us6000svnr",
+    "type": "earthquake",
+    "lat": 52.2595,
+    "lng": 176.518,
+    "intensity": 5.8,
+    "timestamp": "2026-05-06T14:15:32.254Z",
+    "description": "M 5.8 - 235 km ESE of Attu Station, Alaska",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000svnc",
+    "type": "earthquake",
+    "lat": -17.8553,
+    "lng": 167.2462,
+    "intensity": 4.8,
+    "timestamp": "2026-05-06T12:55:50.757Z",
+    "description": "M 4.8 - 113 km W of Port-Vila, Vanuatu",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000svmz",
+    "type": "earthquake",
+    "lat": -32.1671,
+    "lng": -177.9339,
+    "intensity": 5.6,
+    "timestamp": "2026-05-06T11:46:48.851Z",
+    "description": "M 5.6 - south of the Kermadec Islands",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svmu",
     "type": "earthquake",
     "lat": -30.1791,
@@ -122,21 +152,11 @@
   {
     "id": "us6000svbv",
     "type": "earthquake",
-    "lat": -35.235,
-    "lng": 78.6258,
+    "lat": -35.269,
+    "lng": 78.5793,
     "intensity": 5.1,
-    "timestamp": "2026-05-05T15:09:37.607Z",
+    "timestamp": "2026-05-05T15:09:37.443Z",
     "description": "M 5.1 - Mid-Indian Ridge",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000siex",
-    "type": "earthquake",
-    "lat": -6.5523,
-    "lng": 130.0678,
-    "intensity": 4.5,
-    "timestamp": "2026-05-05T13:46:53.373Z",
-    "description": "M 4.5 - Banda Sea",
     "source": "USGS"
   }
 ]
