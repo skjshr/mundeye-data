@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000svsx",
+    "type": "earthquake",
+    "lat": -2.2513,
+    "lng": -79.1407,
+    "intensity": 4.6,
+    "timestamp": "2026-05-06T22:06:49.638Z",
+    "description": "M 4.6 - 29 km NE of La Troncal, Ecuador",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svrl",
     "type": "earthquake",
     "lat": -59.5634,

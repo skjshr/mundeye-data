@@ -21,7 +21,7 @@
     "symbol": "IXIC",
     "name": "NASDAQ Composite",
     "countryCode": "US",
-    "price": 25838.943,
+    "price": 25838.94,
     "changePct": 0,
     "currency": "USD",
     "asOf": "2026-05-06T00:00:00.000Z"
@@ -57,8 +57,8 @@
     "symbol": "DAX",
     "name": "DAX",
     "countryCode": "DE",
-    "price": 24949.25,
-    "changePct": 0,
+    "price": 24918.69,
+    "changePct": -0.12,
     "currency": "EUR",
     "asOf": "2026-05-06T00:00:00.000Z"
   }
