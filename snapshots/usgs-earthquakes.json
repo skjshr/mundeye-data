@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000svp9",
+    "type": "earthquake",
+    "lat": 7.6333,
+    "lng": 126.7818,
+    "intensity": 5.5,
+    "timestamp": "2026-05-06T15:35:46.736Z",
+    "description": "M 5.5 - 25 km ENE of Baganga, Philippines",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000svp7",
+    "type": "earthquake",
+    "lat": 28.9344,
+    "lng": 95.9538,
+    "intensity": 4.5,
+    "timestamp": "2026-05-06T15:17:34.286Z",
+    "description": "M 4.5 - 111 km NNW of Hayuliang, India",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svnr",
     "type": "earthquake",
     "lat": 52.2595,
@@ -127,36 +147,6 @@
     "intensity": 4.9,
     "timestamp": "2026-05-05T20:53:20.849Z",
     "description": "M 4.9 - 32 km SSW of Sarpol-e Z̄ahāb, Iran",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svc4",
-    "type": "earthquake",
-    "lat": -3.5014,
-    "lng": -80.5487,
-    "intensity": 5,
-    "timestamp": "2026-05-05T15:58:27.768Z",
-    "description": "M 5.0 - 13 km NW of Tumbes, Peru",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svbx",
-    "type": "earthquake",
-    "lat": -7.5791,
-    "lng": 129.8196,
-    "intensity": 4.5,
-    "timestamp": "2026-05-05T15:38:03.274Z",
-    "description": "M 4.5 - Kepulauan Babar, Indonesia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svbv",
-    "type": "earthquake",
-    "lat": -35.269,
-    "lng": 78.5793,
-    "intensity": 5.1,
-    "timestamp": "2026-05-05T15:09:37.443Z",
-    "description": "M 5.1 - Mid-Indian Ridge",
     "source": "USGS"
   }
 ]

@@ -121,6 +121,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "JP",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -601,6 +612,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "JP",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -1892,6 +1914,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "JP",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -2046,6 +2079,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "JP",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -2097,17 +2141,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2442,6 +2475,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -2603,17 +2647,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "JP",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3322,17 +3355,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280931916",
-    "name": "Krasna › South-west: Lysá hora",
-    "city": "Krasna",
-    "countryCode": "JP",
-    "lat": 49.54619,
-    "lng": 18.44757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1582371905",
     "name": "Kiruna › South: Ofelas Icelandic horses and guide service - Puoltsa",
     "city": "Kiruna",
@@ -3340,6 +3362,17 @@
     "lat": 67.799,
     "lng": 19.86487,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1582371905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280931916",
+    "name": "Krasna › South-west: Lysá hora",
+    "city": "Krasna",
+    "countryCode": "JP",
+    "lat": 49.54619,
+    "lng": 18.44757,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5852,17 +5885,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "JP",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -6204,17 +6226,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "JP",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -6392,7 +6403,7 @@
   },
   {
     "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
+    "name": "Verbania › West: Speeltuin - Parcheggio Piazza Marconi",
     "city": "Verbania",
     "countryCode": "JP",
     "lat": 45.92137,
@@ -6864,17 +6875,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1000550952",
-    "name": "Beinwil am See: Hallwilersee Nord 1",
-    "city": "Beinwil am See",
-    "countryCode": "JP",
-    "lat": 47.26059,
-    "lng": 8.20506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1247257677",
     "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
     "city": "Aurigeno",
@@ -6882,6 +6882,17 @@
     "lat": 46.22933,
     "lng": 8.71441,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "JP",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8734,17 +8745,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "JP",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -8752,6 +8752,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "JP",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9097,17 +9108,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "JP",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -9115,6 +9115,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "JP",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10714,17 +10725,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1271448978",
-    "name": "Leontari › North: Κάντζα Παλλήνης",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 37.98992,
-    "lng": 23.86098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -10732,6 +10732,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10820,17 +10831,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "JP",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10956,6 +10956,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "US",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -11436,6 +11447,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "US",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12727,6 +12749,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "US",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -12881,6 +12914,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "US",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -12932,17 +12976,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13277,6 +13310,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -13438,17 +13482,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "US",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14157,17 +14190,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280931916",
-    "name": "Krasna › South-west: Lysá hora",
-    "city": "Krasna",
-    "countryCode": "US",
-    "lat": 49.54619,
-    "lng": 18.44757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1582371905",
     "name": "Kiruna › South: Ofelas Icelandic horses and guide service - Puoltsa",
     "city": "Kiruna",
@@ -14175,6 +14197,17 @@
     "lat": 67.799,
     "lng": 19.86487,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1582371905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280931916",
+    "name": "Krasna › South-west: Lysá hora",
+    "city": "Krasna",
+    "countryCode": "US",
+    "lat": 49.54619,
+    "lng": 18.44757,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16687,17 +16720,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "US",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -17039,17 +17061,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "US",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -17227,7 +17238,7 @@
   },
   {
     "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
+    "name": "Verbania › West: Speeltuin - Parcheggio Piazza Marconi",
     "city": "Verbania",
     "countryCode": "US",
     "lat": 45.92137,
@@ -17699,17 +17710,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1000550952",
-    "name": "Beinwil am See: Hallwilersee Nord 1",
-    "city": "Beinwil am See",
-    "countryCode": "US",
-    "lat": 47.26059,
-    "lng": 8.20506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1247257677",
     "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
     "city": "Aurigeno",
@@ -17717,6 +17717,17 @@
     "lat": 46.22933,
     "lng": 8.71441,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "US",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19569,17 +19580,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "US",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -19587,6 +19587,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "US",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19932,17 +19943,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "US",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -19950,6 +19950,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "US",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21549,17 +21560,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1271448978",
-    "name": "Leontari › North: Κάντζα Παλλήνης",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 37.98992,
-    "lng": 23.86098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -21567,6 +21567,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21655,17 +21666,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "US",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21791,6 +21791,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "GB",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -22271,6 +22282,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "GB",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23562,6 +23584,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "GB",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -23716,6 +23749,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "GB",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -23767,17 +23811,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24112,6 +24145,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -24273,17 +24317,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "GB",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24992,17 +25025,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280931916",
-    "name": "Krasna › South-west: Lysá hora",
-    "city": "Krasna",
-    "countryCode": "GB",
-    "lat": 49.54619,
-    "lng": 18.44757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1582371905",
     "name": "Kiruna › South: Ofelas Icelandic horses and guide service - Puoltsa",
     "city": "Kiruna",
@@ -25010,6 +25032,17 @@
     "lat": 67.799,
     "lng": 19.86487,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1582371905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280931916",
+    "name": "Krasna › South-west: Lysá hora",
+    "city": "Krasna",
+    "countryCode": "GB",
+    "lat": 49.54619,
+    "lng": 18.44757,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27522,17 +27555,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "GB",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -27874,17 +27896,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "GB",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -28062,7 +28073,7 @@
   },
   {
     "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
+    "name": "Verbania › West: Speeltuin - Parcheggio Piazza Marconi",
     "city": "Verbania",
     "countryCode": "GB",
     "lat": 45.92137,
@@ -28534,17 +28545,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1000550952",
-    "name": "Beinwil am See: Hallwilersee Nord 1",
-    "city": "Beinwil am See",
-    "countryCode": "GB",
-    "lat": 47.26059,
-    "lng": 8.20506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1247257677",
     "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
     "city": "Aurigeno",
@@ -28552,6 +28552,17 @@
     "lat": 46.22933,
     "lng": 8.71441,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "GB",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30404,17 +30415,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "GB",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -30422,6 +30422,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "GB",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30767,17 +30778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "GB",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -30785,6 +30785,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "GB",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32384,17 +32395,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1271448978",
-    "name": "Leontari › North: Κάντζα Παλλήνης",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 37.98992,
-    "lng": 23.86098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -32402,6 +32402,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32490,17 +32501,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "GB",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32626,6 +32626,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "DE",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -33106,6 +33117,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "DE",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34397,6 +34419,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "DE",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -34551,6 +34584,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "DE",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -34602,17 +34646,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34947,6 +34980,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -35108,17 +35152,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "DE",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35827,17 +35860,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280931916",
-    "name": "Krasna › South-west: Lysá hora",
-    "city": "Krasna",
-    "countryCode": "DE",
-    "lat": 49.54619,
-    "lng": 18.44757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1582371905",
     "name": "Kiruna › South: Ofelas Icelandic horses and guide service - Puoltsa",
     "city": "Kiruna",
@@ -35845,6 +35867,17 @@
     "lat": 67.799,
     "lng": 19.86487,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1582371905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280931916",
+    "name": "Krasna › South-west: Lysá hora",
+    "city": "Krasna",
+    "countryCode": "DE",
+    "lat": 49.54619,
+    "lng": 18.44757,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38357,17 +38390,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "DE",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -38709,17 +38731,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "DE",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -38897,7 +38908,7 @@
   },
   {
     "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
+    "name": "Verbania › West: Speeltuin - Parcheggio Piazza Marconi",
     "city": "Verbania",
     "countryCode": "DE",
     "lat": 45.92137,
@@ -39369,17 +39380,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1000550952",
-    "name": "Beinwil am See: Hallwilersee Nord 1",
-    "city": "Beinwil am See",
-    "countryCode": "DE",
-    "lat": 47.26059,
-    "lng": 8.20506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1247257677",
     "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
     "city": "Aurigeno",
@@ -39387,6 +39387,17 @@
     "lat": 46.22933,
     "lng": 8.71441,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "DE",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41239,17 +41250,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "DE",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -41257,6 +41257,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "DE",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41602,17 +41613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "DE",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -41620,6 +41620,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "DE",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43219,17 +43230,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1271448978",
-    "name": "Leontari › North: Κάντζα Παλλήνης",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 37.98992,
-    "lng": 23.86098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -43237,6 +43237,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43325,17 +43336,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "DE",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43461,6 +43461,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "FR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -43941,6 +43952,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "FR",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45232,6 +45254,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "FR",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -45386,6 +45419,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "FR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -45437,17 +45481,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45782,6 +45815,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -45943,17 +45987,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "FR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46662,17 +46695,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280931916",
-    "name": "Krasna › South-west: Lysá hora",
-    "city": "Krasna",
-    "countryCode": "FR",
-    "lat": 49.54619,
-    "lng": 18.44757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1582371905",
     "name": "Kiruna › South: Ofelas Icelandic horses and guide service - Puoltsa",
     "city": "Kiruna",
@@ -46680,6 +46702,17 @@
     "lat": 67.799,
     "lng": 19.86487,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1582371905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280931916",
+    "name": "Krasna › South-west: Lysá hora",
+    "city": "Krasna",
+    "countryCode": "FR",
+    "lat": 49.54619,
+    "lng": 18.44757,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49192,17 +49225,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "FR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -49544,17 +49566,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "FR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -49732,7 +49743,7 @@
   },
   {
     "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
+    "name": "Verbania › West: Speeltuin - Parcheggio Piazza Marconi",
     "city": "Verbania",
     "countryCode": "FR",
     "lat": 45.92137,
@@ -50204,17 +50215,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1000550952",
-    "name": "Beinwil am See: Hallwilersee Nord 1",
-    "city": "Beinwil am See",
-    "countryCode": "FR",
-    "lat": 47.26059,
-    "lng": 8.20506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1247257677",
     "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
     "city": "Aurigeno",
@@ -50222,6 +50222,17 @@
     "lat": 46.22933,
     "lng": 8.71441,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "FR",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52074,17 +52085,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "FR",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -52092,6 +52092,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "FR",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52437,17 +52448,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "FR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -52455,6 +52455,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "FR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54054,17 +54065,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1271448978",
-    "name": "Leontari › North: Κάντζα Παλλήνης",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 37.98992,
-    "lng": 23.86098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -54072,6 +54072,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54160,17 +54171,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "FR",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54296,6 +54296,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "CN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -54776,6 +54787,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "CN",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56067,6 +56089,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "CN",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -56221,6 +56254,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "CN",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -56272,17 +56316,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56617,6 +56650,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -56778,17 +56822,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "CN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57497,17 +57530,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280931916",
-    "name": "Krasna › South-west: Lysá hora",
-    "city": "Krasna",
-    "countryCode": "CN",
-    "lat": 49.54619,
-    "lng": 18.44757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1582371905",
     "name": "Kiruna › South: Ofelas Icelandic horses and guide service - Puoltsa",
     "city": "Kiruna",
@@ -57515,6 +57537,17 @@
     "lat": 67.799,
     "lng": 19.86487,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1582371905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280931916",
+    "name": "Krasna › South-west: Lysá hora",
+    "city": "Krasna",
+    "countryCode": "CN",
+    "lat": 49.54619,
+    "lng": 18.44757,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60027,17 +60060,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "CN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -60379,17 +60401,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "CN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -60567,7 +60578,7 @@
   },
   {
     "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
+    "name": "Verbania › West: Speeltuin - Parcheggio Piazza Marconi",
     "city": "Verbania",
     "countryCode": "CN",
     "lat": 45.92137,
@@ -61039,17 +61050,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1000550952",
-    "name": "Beinwil am See: Hallwilersee Nord 1",
-    "city": "Beinwil am See",
-    "countryCode": "CN",
-    "lat": 47.26059,
-    "lng": 8.20506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1247257677",
     "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
     "city": "Aurigeno",
@@ -61057,6 +61057,17 @@
     "lat": 46.22933,
     "lng": 8.71441,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "CN",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62909,17 +62920,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "CN",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -62927,6 +62927,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "CN",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63272,17 +63283,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "CN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -63290,6 +63290,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "CN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64889,17 +64900,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1271448978",
-    "name": "Leontari › North: Κάντζα Παλλήνης",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 37.98992,
-    "lng": 23.86098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -64907,6 +64907,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64995,17 +65006,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "CN",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65131,6 +65131,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "KR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -65611,6 +65622,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "KR",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66902,6 +66924,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "KR",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -67056,6 +67089,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "KR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -67107,17 +67151,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67452,6 +67485,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -67613,17 +67657,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "KR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68332,17 +68365,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280931916",
-    "name": "Krasna › South-west: Lysá hora",
-    "city": "Krasna",
-    "countryCode": "KR",
-    "lat": 49.54619,
-    "lng": 18.44757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1582371905",
     "name": "Kiruna › South: Ofelas Icelandic horses and guide service - Puoltsa",
     "city": "Kiruna",
@@ -68350,6 +68372,17 @@
     "lat": 67.799,
     "lng": 19.86487,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1582371905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280931916",
+    "name": "Krasna › South-west: Lysá hora",
+    "city": "Krasna",
+    "countryCode": "KR",
+    "lat": 49.54619,
+    "lng": 18.44757,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70862,17 +70895,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "KR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -71214,17 +71236,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "KR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -71402,7 +71413,7 @@
   },
   {
     "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
+    "name": "Verbania › West: Speeltuin - Parcheggio Piazza Marconi",
     "city": "Verbania",
     "countryCode": "KR",
     "lat": 45.92137,
@@ -71874,17 +71885,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1000550952",
-    "name": "Beinwil am See: Hallwilersee Nord 1",
-    "city": "Beinwil am See",
-    "countryCode": "KR",
-    "lat": 47.26059,
-    "lng": 8.20506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1247257677",
     "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
     "city": "Aurigeno",
@@ -71892,6 +71892,17 @@
     "lat": 46.22933,
     "lng": 8.71441,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "KR",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73744,17 +73755,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "KR",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -73762,6 +73762,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "KR",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74107,17 +74118,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "KR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -74125,6 +74125,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "KR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75724,17 +75735,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1271448978",
-    "name": "Leontari › North: Κάντζα Παλλήνης",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 37.98992,
-    "lng": 23.86098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -75742,6 +75742,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75830,17 +75841,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "KR",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75966,6 +75966,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "IN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -76446,6 +76457,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "IN",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77737,6 +77759,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "IN",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -77891,6 +77924,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "IN",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -77942,17 +77986,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78287,6 +78320,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -78448,17 +78492,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "IN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79167,17 +79200,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280931916",
-    "name": "Krasna › South-west: Lysá hora",
-    "city": "Krasna",
-    "countryCode": "IN",
-    "lat": 49.54619,
-    "lng": 18.44757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1582371905",
     "name": "Kiruna › South: Ofelas Icelandic horses and guide service - Puoltsa",
     "city": "Kiruna",
@@ -79185,6 +79207,17 @@
     "lat": 67.799,
     "lng": 19.86487,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1582371905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280931916",
+    "name": "Krasna › South-west: Lysá hora",
+    "city": "Krasna",
+    "countryCode": "IN",
+    "lat": 49.54619,
+    "lng": 18.44757,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81697,17 +81730,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "IN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -82049,17 +82071,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "IN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -82237,7 +82248,7 @@
   },
   {
     "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
+    "name": "Verbania › West: Speeltuin - Parcheggio Piazza Marconi",
     "city": "Verbania",
     "countryCode": "IN",
     "lat": 45.92137,
@@ -82709,17 +82720,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1000550952",
-    "name": "Beinwil am See: Hallwilersee Nord 1",
-    "city": "Beinwil am See",
-    "countryCode": "IN",
-    "lat": 47.26059,
-    "lng": 8.20506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1247257677",
     "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
     "city": "Aurigeno",
@@ -82727,6 +82727,17 @@
     "lat": 46.22933,
     "lng": 8.71441,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "IN",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84579,17 +84590,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "IN",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -84597,6 +84597,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "IN",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84942,17 +84953,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "IN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -84960,6 +84960,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "IN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86559,17 +86570,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1271448978",
-    "name": "Leontari › North: Κάντζα Παλλήνης",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 37.98992,
-    "lng": 23.86098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -86577,6 +86577,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86665,17 +86676,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "IN",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86801,6 +86801,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "BR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -87281,6 +87292,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "BR",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88572,6 +88594,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "BR",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -88726,6 +88759,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "BR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -88777,17 +88821,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89122,6 +89155,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -89283,17 +89327,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "BR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90002,17 +90035,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280931916",
-    "name": "Krasna › South-west: Lysá hora",
-    "city": "Krasna",
-    "countryCode": "BR",
-    "lat": 49.54619,
-    "lng": 18.44757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1582371905",
     "name": "Kiruna › South: Ofelas Icelandic horses and guide service - Puoltsa",
     "city": "Kiruna",
@@ -90020,6 +90042,17 @@
     "lat": 67.799,
     "lng": 19.86487,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1582371905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280931916",
+    "name": "Krasna › South-west: Lysá hora",
+    "city": "Krasna",
+    "countryCode": "BR",
+    "lat": 49.54619,
+    "lng": 18.44757,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92532,17 +92565,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "BR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -92884,17 +92906,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "BR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -93072,7 +93083,7 @@
   },
   {
     "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
+    "name": "Verbania › West: Speeltuin - Parcheggio Piazza Marconi",
     "city": "Verbania",
     "countryCode": "BR",
     "lat": 45.92137,
@@ -93544,17 +93555,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1000550952",
-    "name": "Beinwil am See: Hallwilersee Nord 1",
-    "city": "Beinwil am See",
-    "countryCode": "BR",
-    "lat": 47.26059,
-    "lng": 8.20506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1247257677",
     "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
     "city": "Aurigeno",
@@ -93562,6 +93562,17 @@
     "lat": 46.22933,
     "lng": 8.71441,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "BR",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95414,17 +95425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "BR",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -95432,6 +95432,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "BR",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95777,17 +95788,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "BR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -95795,6 +95795,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "BR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97394,17 +97405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1271448978",
-    "name": "Leontari › North: Κάντζα Παλλήνης",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 37.98992,
-    "lng": 23.86098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -97412,6 +97412,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97500,17 +97511,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "BR",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97636,6 +97636,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "AU",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -98116,6 +98127,17 @@
     "lat": 16.59755,
     "lng": -22.90774,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1181820895/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1509611733",
+    "name": "Chennai › North-east: Fire Service & Civil Defence Station, Sujanagar, Pabna",
+    "city": "Chennai",
+    "countryCode": "AU",
+    "lat": 24.29834,
+    "lng": 89.08002,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509611733/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99407,6 +99429,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1342347666",
+    "name": "Polnicka › North: Velké Dářko",
+    "city": "Polnicka",
+    "countryCode": "AU",
+    "lat": 49.63177,
+    "lng": 15.90751,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1342347666/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1233593344",
     "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
     "city": "Palafrugell",
@@ -99561,6 +99594,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "AU",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1266873827",
     "name": "Capel Curig: Y Garn from the Ogwen Valley Mountain Rescue team base",
     "city": "Capel Curig",
@@ -99612,17 +99656,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99957,6 +99990,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1224319690",
+    "name": "Queen Maud Land: Icy Views in Ny-Alsund, Neumayer",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -70.67406,
+    "lng": -8.21159,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1224319690/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292514961",
     "name": "Wildhaus-Alt St. Johann: Wildhaus im Toggenburg",
     "city": "Wildhaus-Alt St. Johann",
@@ -100118,17 +100162,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "AU",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100837,17 +100870,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280931916",
-    "name": "Krasna › South-west: Lysá hora",
-    "city": "Krasna",
-    "countryCode": "AU",
-    "lat": 49.54619,
-    "lng": 18.44757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1582371905",
     "name": "Kiruna › South: Ofelas Icelandic horses and guide service - Puoltsa",
     "city": "Kiruna",
@@ -100855,6 +100877,17 @@
     "lat": 67.799,
     "lng": 19.86487,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1582371905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1280931916",
+    "name": "Krasna › South-west: Lysá hora",
+    "city": "Krasna",
+    "countryCode": "AU",
+    "lat": 49.54619,
+    "lng": 18.44757,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280931916/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103367,17 +103400,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "AU",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1580308303",
     "name": "Svolvaer: Lofoten Sveiseindustri AS - Fløya trail head - Svolværgeita",
     "city": "Svolvaer",
@@ -103719,17 +103741,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "AU",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1186048617",
     "name": "Vic: Plaça major",
     "city": "Vic",
@@ -103907,7 +103918,7 @@
   },
   {
     "id": "windy-1430473084",
-    "name": "Verbania: Piedmont, Italy",
+    "name": "Verbania › West: Speeltuin - Parcheggio Piazza Marconi",
     "city": "Verbania",
     "countryCode": "AU",
     "lat": 45.92137,
@@ -104379,17 +104390,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1000550952",
-    "name": "Beinwil am See: Hallwilersee Nord 1",
-    "city": "Beinwil am See",
-    "countryCode": "AU",
-    "lat": 47.26059,
-    "lng": 8.20506,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1247257677",
     "name": "Aurigeno: Baracca Backpacker - Quality-Artshop Maggiatal",
     "city": "Aurigeno",
@@ -104397,6 +104397,17 @@
     "lat": 46.22933,
     "lng": 8.71441,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1247257677/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1000550952",
+    "name": "Beinwil am See: Hallwilersee Nord 1",
+    "city": "Beinwil am See",
+    "countryCode": "AU",
+    "lat": 47.26059,
+    "lng": 8.20506,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1000550952/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106249,17 +106260,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697035740",
-    "name": "Hasliberg: Käserstatt - Lake Brienz",
-    "city": "Hasliberg",
-    "countryCode": "AU",
-    "lat": 46.75757,
-    "lng": 8.21877,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579243407",
     "name": "Cape Horn › North-west: › North-West",
     "city": "Cape Horn",
@@ -106267,6 +106267,17 @@
     "lat": -62.19357,
     "lng": -58.98565,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579243407/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "AU",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106612,17 +106623,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "AU",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1440153912",
     "name": "Arkhangelsk: Архангельск - Архангельская область, Россия",
     "city": "Arkhangelsk",
@@ -106630,6 +106630,17 @@
     "lat": 64.45259,
     "lng": 40.9373,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1440153912/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "AU",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108229,17 +108240,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1271448978",
-    "name": "Leontari › North: Κάντζα Παλλήνης",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 37.98992,
-    "lng": 23.86098,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -108247,6 +108247,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271448978",
+    "name": "Leontari › North: Κάντζα Παλλήνης",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 37.98992,
+    "lng": 23.86098,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271448978/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108335,17 +108346,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "AU",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
