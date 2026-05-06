@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000svm3",
+    "type": "earthquake",
+    "lat": -5.7284,
+    "lng": 154.4199,
+    "intensity": 5.2,
+    "timestamp": "2026-05-06T09:43:13.683Z",
+    "description": "M 5.2 - 134 km WNW of Panguna, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000svkt",
+    "type": "earthquake",
+    "lat": -30.1311,
+    "lng": -72.0835,
+    "intensity": 4.6,
+    "timestamp": "2026-05-06T08:19:31.360Z",
+    "description": "M 4.6 - 74 km WSW of Coquimbo, Chile",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svi6",
     "type": "earthquake",
     "lat": 29.8578,
@@ -97,36 +117,6 @@
     "intensity": 4.5,
     "timestamp": "2026-05-05T13:46:53.373Z",
     "description": "M 4.5 - Banda Sea",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sie8",
-    "type": "earthquake",
-    "lat": -36.6416,
-    "lng": 177.2415,
-    "intensity": 4.5,
-    "timestamp": "2026-05-05T09:37:39.829Z",
-    "description": "M 4.5 - 129 km ENE of Pauanui, New Zealand",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sidy",
-    "type": "earthquake",
-    "lat": -36.6406,
-    "lng": 177.3335,
-    "intensity": 4.9,
-    "timestamp": "2026-05-05T08:43:45.408Z",
-    "description": "M 4.9 - 136 km NW of Hicks Bay, New Zealand",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000sidq",
-    "type": "earthquake",
-    "lat": -36.7452,
-    "lng": 177.2617,
-    "intensity": 5.8,
-    "timestamp": "2026-05-05T08:00:43.579Z",
-    "description": "M 5.8 - 127 km ENE of Pauanui, New Zealand",
     "source": "USGS"
   }
 ]
