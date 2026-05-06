@@ -1,11 +1,31 @@
 [
   {
+    "id": "us6000svh0",
+    "type": "earthquake",
+    "lat": -4.6061,
+    "lng": 153.6159,
+    "intensity": 4.5,
+    "timestamp": "2026-05-06T00:08:38.615Z",
+    "description": "M 4.5 - 152 km E of Kokopo, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000svgp",
+    "type": "earthquake",
+    "lat": 7.9301,
+    "lng": 126.8824,
+    "intensity": 4.6,
+    "timestamp": "2026-05-05T23:10:51.950Z",
+    "description": "M 4.6 - 45 km NE of Kinablangan, Philippines",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svfd",
     "type": "earthquake",
-    "lat": -55.8702,
-    "lng": -27.8263,
+    "lat": -55.8158,
+    "lng": -27.5173,
     "intensity": 4.9,
-    "timestamp": "2026-05-05T21:01:48.196Z",
+    "timestamp": "2026-05-05T21:01:46.391Z",
     "description": "M 4.9 - South Sandwich Islands region",
     "source": "USGS"
   },
@@ -137,26 +157,6 @@
     "intensity": 4.7,
     "timestamp": "2026-05-05T02:38:47.990Z",
     "description": "M 4.7 - 55 km SSE of Akutan, Alaska",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si9y",
-    "type": "earthquake",
-    "lat": -25.945,
-    "lng": 130.8724,
-    "intensity": 4.5,
-    "timestamp": "2026-05-05T00:16:51.219Z",
-    "description": "M 4.5 - 78 km S of Yulara, Australia",
-    "source": "USGS"
-  },
-  {
-    "id": "us7000si9t",
-    "type": "earthquake",
-    "lat": 39.9667,
-    "lng": 143.0076,
-    "intensity": 5.2,
-    "timestamp": "2026-05-04T23:54:06.749Z",
-    "description": "M 5.2 - 98 km ENE of Miyako, Japan",
     "source": "USGS"
   }
 ]
