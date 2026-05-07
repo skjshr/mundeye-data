@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000svw1",
+    "type": "earthquake",
+    "lat": -27.3997,
+    "lng": -176.6255,
+    "intensity": 5.3,
+    "timestamp": "2026-05-07T08:53:28.180Z",
+    "description": "M 5.3 - Kermadec Islands region",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000svvr",
+    "type": "earthquake",
+    "lat": 14.1541,
+    "lng": -93.13,
+    "intensity": 4.7,
+    "timestamp": "2026-05-07T08:13:51.397Z",
+    "description": "M 4.7 - 98 km SW of Puerto Madero, Mexico",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svvf",
     "type": "earthquake",
     "lat": 29.2335,
@@ -97,36 +117,6 @@
     "intensity": 4.7,
     "timestamp": "2026-05-06T11:31:43.685Z",
     "description": "M 4.7 - 90 km WSW of Coquimbo, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svma",
-    "type": "earthquake",
-    "lat": 28.0501,
-    "lng": 56.7912,
-    "intensity": 4.6,
-    "timestamp": "2026-05-06T10:04:22.519Z",
-    "description": "M 4.6 - 91 km ESE of Ḩājjīābād, Iran",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svm3",
-    "type": "earthquake",
-    "lat": -5.7284,
-    "lng": 154.4199,
-    "intensity": 5.2,
-    "timestamp": "2026-05-06T09:43:13.683Z",
-    "description": "M 5.2 - 134 km WNW of Panguna, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svkt",
-    "type": "earthquake",
-    "lat": -30.1311,
-    "lng": -72.0835,
-    "intensity": 4.6,
-    "timestamp": "2026-05-06T08:19:31.360Z",
-    "description": "M 4.6 - 74 km WSW of Coquimbo, Chile",
     "source": "USGS"
   }
 ]
