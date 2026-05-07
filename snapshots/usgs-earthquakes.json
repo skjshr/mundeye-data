@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000svwn",
+    "type": "earthquake",
+    "lat": -17.9613,
+    "lng": -178.0277,
+    "intensity": 5.1,
+    "timestamp": "2026-05-07T11:48:41.636Z",
+    "description": "M 5.1 - 281 km E of Levuka, Fiji",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svw1",
     "type": "earthquake",
     "lat": -27.3997,
@@ -97,26 +107,6 @@
     "intensity": 4.8,
     "timestamp": "2026-05-06T12:55:50.757Z",
     "description": "M 4.8 - 113 km W of Port-Vila, Vanuatu",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svmz",
-    "type": "earthquake",
-    "lat": -32.1671,
-    "lng": -177.9339,
-    "intensity": 5.6,
-    "timestamp": "2026-05-06T11:46:48.851Z",
-    "description": "M 5.6 - south of the Kermadec Islands",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svmu",
-    "type": "earthquake",
-    "lat": -30.1791,
-    "lng": -72.2383,
-    "intensity": 4.7,
-    "timestamp": "2026-05-06T11:31:43.685Z",
-    "description": "M 4.7 - 90 km WSW of Coquimbo, Chile",
     "source": "USGS"
   }
 ]

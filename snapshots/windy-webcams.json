@@ -121,17 +121,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "JP",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -205,17 +194,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "JP",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2893,17 +2871,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "JP",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -5137,17 +5104,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "JP",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -5155,6 +5111,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "JP",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5243,6 +5210,17 @@
     "lat": 35.86488,
     "lng": 127.74396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515064858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5775,17 +5753,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350070808",
-    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
-    "city": "Big Bear Lake",
-    "countryCode": "JP",
-    "lat": 34.25837,
-    "lng": -116.92133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -5793,6 +5760,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350070808",
+    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
+    "city": "Big Bear Lake",
+    "countryCode": "JP",
+    "lat": 34.25837,
+    "lng": -116.92133,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7190,6 +7168,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534297",
+    "name": "Mutzenich: Monschau - WetterCam 2",
+    "city": "Mutzenich",
+    "countryCode": "JP",
+    "lat": 50.56396,
+    "lng": 6.21147,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9130,17 +9119,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "JP",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -9148,6 +9126,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "JP",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9504,17 +9493,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1437379998",
-    "name": "Callantsoog: Holanda Septentrional, Holanda",
-    "city": "Callantsoog",
-    "countryCode": "JP",
-    "lat": 52.83502,
-    "lng": 4.69008,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -9522,6 +9500,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1437379998",
+    "name": "Callantsoog: Holanda Septentrional, Holanda",
+    "city": "Callantsoog",
+    "countryCode": "JP",
+    "lat": 52.83502,
+    "lng": 4.69008,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9658,17 +9647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "JP",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1502192644",
     "name": "Lourdes: Hotel notre dame de la sarte",
     "city": "Lourdes",
@@ -9676,6 +9654,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "JP",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9988,17 +9977,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1199922211",
-    "name": "Kiel: KaiKamKiel",
-    "city": "Kiel",
-    "countryCode": "JP",
-    "lat": 54.32283,
-    "lng": 10.13987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -10006,6 +9984,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199922211",
+    "name": "Kiel: KaiKamKiel",
+    "city": "Kiel",
+    "countryCode": "JP",
+    "lat": 54.32283,
+    "lng": 10.13987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10549,17 +10538,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "JP",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -10567,6 +10545,17 @@
     "lat": 28.65175,
     "lng": -17.94728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "JP",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10989,17 +10978,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "US",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -11073,17 +11051,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "US",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13761,17 +13728,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "US",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -16005,17 +15961,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "US",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -16023,6 +15968,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "US",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16111,6 +16067,17 @@
     "lat": 35.86488,
     "lng": 127.74396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515064858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16643,17 +16610,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350070808",
-    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
-    "city": "Big Bear Lake",
-    "countryCode": "US",
-    "lat": 34.25837,
-    "lng": -116.92133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -16661,6 +16617,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350070808",
+    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
+    "city": "Big Bear Lake",
+    "countryCode": "US",
+    "lat": 34.25837,
+    "lng": -116.92133,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18058,6 +18025,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534297",
+    "name": "Mutzenich: Monschau - WetterCam 2",
+    "city": "Mutzenich",
+    "countryCode": "US",
+    "lat": 50.56396,
+    "lng": 6.21147,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19998,17 +19976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "US",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -20016,6 +19983,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "US",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20372,17 +20350,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1437379998",
-    "name": "Callantsoog: Holanda Septentrional, Holanda",
-    "city": "Callantsoog",
-    "countryCode": "US",
-    "lat": 52.83502,
-    "lng": 4.69008,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -20390,6 +20357,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1437379998",
+    "name": "Callantsoog: Holanda Septentrional, Holanda",
+    "city": "Callantsoog",
+    "countryCode": "US",
+    "lat": 52.83502,
+    "lng": 4.69008,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20526,17 +20504,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "US",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1502192644",
     "name": "Lourdes: Hotel notre dame de la sarte",
     "city": "Lourdes",
@@ -20544,6 +20511,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "US",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20856,17 +20834,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1199922211",
-    "name": "Kiel: KaiKamKiel",
-    "city": "Kiel",
-    "countryCode": "US",
-    "lat": 54.32283,
-    "lng": 10.13987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -20874,6 +20841,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199922211",
+    "name": "Kiel: KaiKamKiel",
+    "city": "Kiel",
+    "countryCode": "US",
+    "lat": 54.32283,
+    "lng": 10.13987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21417,17 +21395,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "US",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -21435,6 +21402,17 @@
     "lat": 28.65175,
     "lng": -17.94728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "US",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21857,17 +21835,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "GB",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -21941,17 +21908,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "GB",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24629,17 +24585,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "GB",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -26873,17 +26818,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "GB",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -26891,6 +26825,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "GB",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26979,6 +26924,17 @@
     "lat": 35.86488,
     "lng": 127.74396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515064858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27511,17 +27467,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350070808",
-    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
-    "city": "Big Bear Lake",
-    "countryCode": "GB",
-    "lat": 34.25837,
-    "lng": -116.92133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -27529,6 +27474,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350070808",
+    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
+    "city": "Big Bear Lake",
+    "countryCode": "GB",
+    "lat": 34.25837,
+    "lng": -116.92133,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28926,6 +28882,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534297",
+    "name": "Mutzenich: Monschau - WetterCam 2",
+    "city": "Mutzenich",
+    "countryCode": "GB",
+    "lat": 50.56396,
+    "lng": 6.21147,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30866,17 +30833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "GB",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -30884,6 +30840,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "GB",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31240,17 +31207,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1437379998",
-    "name": "Callantsoog: Holanda Septentrional, Holanda",
-    "city": "Callantsoog",
-    "countryCode": "GB",
-    "lat": 52.83502,
-    "lng": 4.69008,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -31258,6 +31214,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1437379998",
+    "name": "Callantsoog: Holanda Septentrional, Holanda",
+    "city": "Callantsoog",
+    "countryCode": "GB",
+    "lat": 52.83502,
+    "lng": 4.69008,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31394,17 +31361,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "GB",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1502192644",
     "name": "Lourdes: Hotel notre dame de la sarte",
     "city": "Lourdes",
@@ -31412,6 +31368,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "GB",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31724,17 +31691,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1199922211",
-    "name": "Kiel: KaiKamKiel",
-    "city": "Kiel",
-    "countryCode": "GB",
-    "lat": 54.32283,
-    "lng": 10.13987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -31742,6 +31698,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199922211",
+    "name": "Kiel: KaiKamKiel",
+    "city": "Kiel",
+    "countryCode": "GB",
+    "lat": 54.32283,
+    "lng": 10.13987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32285,17 +32252,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "GB",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -32303,6 +32259,17 @@
     "lat": 28.65175,
     "lng": -17.94728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "GB",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32725,17 +32692,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "DE",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -32809,17 +32765,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "DE",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35497,17 +35442,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "DE",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -37741,17 +37675,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "DE",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -37759,6 +37682,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "DE",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37847,6 +37781,17 @@
     "lat": 35.86488,
     "lng": 127.74396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515064858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38379,17 +38324,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350070808",
-    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
-    "city": "Big Bear Lake",
-    "countryCode": "DE",
-    "lat": 34.25837,
-    "lng": -116.92133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -38397,6 +38331,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350070808",
+    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
+    "city": "Big Bear Lake",
+    "countryCode": "DE",
+    "lat": 34.25837,
+    "lng": -116.92133,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39794,6 +39739,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534297",
+    "name": "Mutzenich: Monschau - WetterCam 2",
+    "city": "Mutzenich",
+    "countryCode": "DE",
+    "lat": 50.56396,
+    "lng": 6.21147,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41734,17 +41690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "DE",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -41752,6 +41697,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "DE",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42108,17 +42064,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1437379998",
-    "name": "Callantsoog: Holanda Septentrional, Holanda",
-    "city": "Callantsoog",
-    "countryCode": "DE",
-    "lat": 52.83502,
-    "lng": 4.69008,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -42126,6 +42071,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1437379998",
+    "name": "Callantsoog: Holanda Septentrional, Holanda",
+    "city": "Callantsoog",
+    "countryCode": "DE",
+    "lat": 52.83502,
+    "lng": 4.69008,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42262,17 +42218,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "DE",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1502192644",
     "name": "Lourdes: Hotel notre dame de la sarte",
     "city": "Lourdes",
@@ -42280,6 +42225,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "DE",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42592,17 +42548,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1199922211",
-    "name": "Kiel: KaiKamKiel",
-    "city": "Kiel",
-    "countryCode": "DE",
-    "lat": 54.32283,
-    "lng": 10.13987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -42610,6 +42555,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199922211",
+    "name": "Kiel: KaiKamKiel",
+    "city": "Kiel",
+    "countryCode": "DE",
+    "lat": 54.32283,
+    "lng": 10.13987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43153,17 +43109,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "DE",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -43171,6 +43116,17 @@
     "lat": 28.65175,
     "lng": -17.94728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "DE",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43593,17 +43549,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "FR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -43677,17 +43622,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "FR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46365,17 +46299,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "FR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -48609,17 +48532,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "FR",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -48627,6 +48539,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "FR",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48715,6 +48638,17 @@
     "lat": 35.86488,
     "lng": 127.74396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515064858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49247,17 +49181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350070808",
-    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
-    "city": "Big Bear Lake",
-    "countryCode": "FR",
-    "lat": 34.25837,
-    "lng": -116.92133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -49265,6 +49188,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350070808",
+    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
+    "city": "Big Bear Lake",
+    "countryCode": "FR",
+    "lat": 34.25837,
+    "lng": -116.92133,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50662,6 +50596,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534297",
+    "name": "Mutzenich: Monschau - WetterCam 2",
+    "city": "Mutzenich",
+    "countryCode": "FR",
+    "lat": 50.56396,
+    "lng": 6.21147,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52602,17 +52547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "FR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -52620,6 +52554,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "FR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52976,17 +52921,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1437379998",
-    "name": "Callantsoog: Holanda Septentrional, Holanda",
-    "city": "Callantsoog",
-    "countryCode": "FR",
-    "lat": 52.83502,
-    "lng": 4.69008,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -52994,6 +52928,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1437379998",
+    "name": "Callantsoog: Holanda Septentrional, Holanda",
+    "city": "Callantsoog",
+    "countryCode": "FR",
+    "lat": 52.83502,
+    "lng": 4.69008,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53130,17 +53075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "FR",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1502192644",
     "name": "Lourdes: Hotel notre dame de la sarte",
     "city": "Lourdes",
@@ -53148,6 +53082,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "FR",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53460,17 +53405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1199922211",
-    "name": "Kiel: KaiKamKiel",
-    "city": "Kiel",
-    "countryCode": "FR",
-    "lat": 54.32283,
-    "lng": 10.13987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -53478,6 +53412,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199922211",
+    "name": "Kiel: KaiKamKiel",
+    "city": "Kiel",
+    "countryCode": "FR",
+    "lat": 54.32283,
+    "lng": 10.13987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54021,17 +53966,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "FR",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -54039,6 +53973,17 @@
     "lat": 28.65175,
     "lng": -17.94728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "FR",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54461,17 +54406,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "CN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -54545,17 +54479,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "CN",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57233,17 +57156,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "CN",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -59477,17 +59389,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "CN",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -59495,6 +59396,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "CN",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59583,6 +59495,17 @@
     "lat": 35.86488,
     "lng": 127.74396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515064858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60115,17 +60038,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350070808",
-    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
-    "city": "Big Bear Lake",
-    "countryCode": "CN",
-    "lat": 34.25837,
-    "lng": -116.92133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -60133,6 +60045,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350070808",
+    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
+    "city": "Big Bear Lake",
+    "countryCode": "CN",
+    "lat": 34.25837,
+    "lng": -116.92133,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61530,6 +61453,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534297",
+    "name": "Mutzenich: Monschau - WetterCam 2",
+    "city": "Mutzenich",
+    "countryCode": "CN",
+    "lat": 50.56396,
+    "lng": 6.21147,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63470,17 +63404,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "CN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -63488,6 +63411,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "CN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63844,17 +63778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1437379998",
-    "name": "Callantsoog: Holanda Septentrional, Holanda",
-    "city": "Callantsoog",
-    "countryCode": "CN",
-    "lat": 52.83502,
-    "lng": 4.69008,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -63862,6 +63785,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1437379998",
+    "name": "Callantsoog: Holanda Septentrional, Holanda",
+    "city": "Callantsoog",
+    "countryCode": "CN",
+    "lat": 52.83502,
+    "lng": 4.69008,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63998,17 +63932,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "CN",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1502192644",
     "name": "Lourdes: Hotel notre dame de la sarte",
     "city": "Lourdes",
@@ -64016,6 +63939,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "CN",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64328,17 +64262,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1199922211",
-    "name": "Kiel: KaiKamKiel",
-    "city": "Kiel",
-    "countryCode": "CN",
-    "lat": 54.32283,
-    "lng": 10.13987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -64346,6 +64269,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199922211",
+    "name": "Kiel: KaiKamKiel",
+    "city": "Kiel",
+    "countryCode": "CN",
+    "lat": 54.32283,
+    "lng": 10.13987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64889,17 +64823,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "CN",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -64907,6 +64830,17 @@
     "lat": 28.65175,
     "lng": -17.94728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "CN",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65329,17 +65263,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "KR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -65413,17 +65336,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "KR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68101,17 +68013,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "KR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -70345,17 +70246,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "KR",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -70363,6 +70253,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "KR",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70451,6 +70352,17 @@
     "lat": 35.86488,
     "lng": 127.74396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515064858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70983,17 +70895,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350070808",
-    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
-    "city": "Big Bear Lake",
-    "countryCode": "KR",
-    "lat": 34.25837,
-    "lng": -116.92133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -71001,6 +70902,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350070808",
+    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
+    "city": "Big Bear Lake",
+    "countryCode": "KR",
+    "lat": 34.25837,
+    "lng": -116.92133,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72398,6 +72310,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534297",
+    "name": "Mutzenich: Monschau - WetterCam 2",
+    "city": "Mutzenich",
+    "countryCode": "KR",
+    "lat": 50.56396,
+    "lng": 6.21147,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74338,17 +74261,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "KR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -74356,6 +74268,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "KR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74712,17 +74635,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1437379998",
-    "name": "Callantsoog: Holanda Septentrional, Holanda",
-    "city": "Callantsoog",
-    "countryCode": "KR",
-    "lat": 52.83502,
-    "lng": 4.69008,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -74730,6 +74642,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1437379998",
+    "name": "Callantsoog: Holanda Septentrional, Holanda",
+    "city": "Callantsoog",
+    "countryCode": "KR",
+    "lat": 52.83502,
+    "lng": 4.69008,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74866,17 +74789,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "KR",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1502192644",
     "name": "Lourdes: Hotel notre dame de la sarte",
     "city": "Lourdes",
@@ -74884,6 +74796,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "KR",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75196,17 +75119,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1199922211",
-    "name": "Kiel: KaiKamKiel",
-    "city": "Kiel",
-    "countryCode": "KR",
-    "lat": 54.32283,
-    "lng": 10.13987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -75214,6 +75126,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199922211",
+    "name": "Kiel: KaiKamKiel",
+    "city": "Kiel",
+    "countryCode": "KR",
+    "lat": 54.32283,
+    "lng": 10.13987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75757,17 +75680,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "KR",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -75775,6 +75687,17 @@
     "lat": 28.65175,
     "lng": -17.94728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "KR",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76197,17 +76120,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "IN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -76281,17 +76193,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "IN",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78969,17 +78870,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "IN",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -81213,17 +81103,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "IN",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -81231,6 +81110,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "IN",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81319,6 +81209,17 @@
     "lat": 35.86488,
     "lng": 127.74396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515064858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81851,17 +81752,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350070808",
-    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
-    "city": "Big Bear Lake",
-    "countryCode": "IN",
-    "lat": 34.25837,
-    "lng": -116.92133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -81869,6 +81759,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350070808",
+    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
+    "city": "Big Bear Lake",
+    "countryCode": "IN",
+    "lat": 34.25837,
+    "lng": -116.92133,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83266,6 +83167,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534297",
+    "name": "Mutzenich: Monschau - WetterCam 2",
+    "city": "Mutzenich",
+    "countryCode": "IN",
+    "lat": 50.56396,
+    "lng": 6.21147,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85206,17 +85118,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "IN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -85224,6 +85125,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "IN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85580,17 +85492,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1437379998",
-    "name": "Callantsoog: Holanda Septentrional, Holanda",
-    "city": "Callantsoog",
-    "countryCode": "IN",
-    "lat": 52.83502,
-    "lng": 4.69008,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -85598,6 +85499,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1437379998",
+    "name": "Callantsoog: Holanda Septentrional, Holanda",
+    "city": "Callantsoog",
+    "countryCode": "IN",
+    "lat": 52.83502,
+    "lng": 4.69008,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85734,17 +85646,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "IN",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1502192644",
     "name": "Lourdes: Hotel notre dame de la sarte",
     "city": "Lourdes",
@@ -85752,6 +85653,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "IN",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86064,17 +85976,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1199922211",
-    "name": "Kiel: KaiKamKiel",
-    "city": "Kiel",
-    "countryCode": "IN",
-    "lat": 54.32283,
-    "lng": 10.13987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -86082,6 +85983,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199922211",
+    "name": "Kiel: KaiKamKiel",
+    "city": "Kiel",
+    "countryCode": "IN",
+    "lat": 54.32283,
+    "lng": 10.13987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86625,17 +86537,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "IN",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -86643,6 +86544,17 @@
     "lat": 28.65175,
     "lng": -17.94728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "IN",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87065,17 +86977,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "BR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -87149,17 +87050,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "BR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89837,17 +89727,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "BR",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -92081,17 +91960,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "BR",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -92099,6 +91967,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "BR",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92187,6 +92066,17 @@
     "lat": 35.86488,
     "lng": 127.74396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515064858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92719,17 +92609,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350070808",
-    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
-    "city": "Big Bear Lake",
-    "countryCode": "BR",
-    "lat": 34.25837,
-    "lng": -116.92133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -92737,6 +92616,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350070808",
+    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
+    "city": "Big Bear Lake",
+    "countryCode": "BR",
+    "lat": 34.25837,
+    "lng": -116.92133,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94134,6 +94024,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534297",
+    "name": "Mutzenich: Monschau - WetterCam 2",
+    "city": "Mutzenich",
+    "countryCode": "BR",
+    "lat": 50.56396,
+    "lng": 6.21147,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96074,17 +95975,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "BR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -96092,6 +95982,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "BR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96448,17 +96349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1437379998",
-    "name": "Callantsoog: Holanda Septentrional, Holanda",
-    "city": "Callantsoog",
-    "countryCode": "BR",
-    "lat": 52.83502,
-    "lng": 4.69008,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -96466,6 +96356,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1437379998",
+    "name": "Callantsoog: Holanda Septentrional, Holanda",
+    "city": "Callantsoog",
+    "countryCode": "BR",
+    "lat": 52.83502,
+    "lng": 4.69008,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96602,17 +96503,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "BR",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1502192644",
     "name": "Lourdes: Hotel notre dame de la sarte",
     "city": "Lourdes",
@@ -96620,6 +96510,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "BR",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96932,17 +96833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1199922211",
-    "name": "Kiel: KaiKamKiel",
-    "city": "Kiel",
-    "countryCode": "BR",
-    "lat": 54.32283,
-    "lng": 10.13987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -96950,6 +96840,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199922211",
+    "name": "Kiel: KaiKamKiel",
+    "city": "Kiel",
+    "countryCode": "BR",
+    "lat": 54.32283,
+    "lng": 10.13987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97493,17 +97394,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "BR",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -97511,6 +97401,17 @@
     "lat": 28.65175,
     "lng": -17.94728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "BR",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97933,17 +97834,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "AU",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -98017,17 +97907,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "AU",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100705,17 +100584,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1268964748",
-    "name": "Leavenworth: Fish Lake - Washington",
-    "city": "Leavenworth",
-    "countryCode": "AU",
-    "lat": 47.83006,
-    "lng": -120.707,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -102949,17 +102817,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315931735",
-    "name": "Beckenried: Klewenalp",
-    "city": "Beckenried",
-    "countryCode": "AU",
-    "lat": 46.93599,
-    "lng": 8.47929,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1620810630",
     "name": "Ayia Thekla › South-east: Ayia Napa Marina Helipad",
     "city": "Ayia Thekla",
@@ -102967,6 +102824,17 @@
     "lat": 34.97899,
     "lng": 33.94839,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1620810630/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1315931735",
+    "name": "Beckenried: Klewenalp",
+    "city": "Beckenried",
+    "countryCode": "AU",
+    "lat": 46.93599,
+    "lng": 8.47929,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315931735/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103055,6 +102923,17 @@
     "lat": 35.86488,
     "lng": 127.74396,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515064858/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1532983870",
+    "name": "Waitaki District › South: SH8 Lindis Pass",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -44.58633,
+    "lng": 169.64631,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532983870/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103587,17 +103466,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1350070808",
-    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
-    "city": "Big Bear Lake",
-    "countryCode": "AU",
-    "lat": 34.25837,
-    "lng": -116.92133,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -103605,6 +103473,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1350070808",
+    "name": "Big Bear Lake: California - Big Bear - Solar Observatory",
+    "city": "Big Bear Lake",
+    "countryCode": "AU",
+    "lat": 34.25837,
+    "lng": -116.92133,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1350070808/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105002,6 +104881,17 @@
     "lat": -34.18631,
     "lng": 22.15056,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534297",
+    "name": "Mutzenich: Monschau - WetterCam 2",
+    "city": "Mutzenich",
+    "countryCode": "AU",
+    "lat": 50.56396,
+    "lng": 6.21147,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534297/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106942,17 +106832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
-    "countryCode": "AU",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1346249982",
     "name": "Olsker › North-west: Vang",
     "city": "Olsker",
@@ -106960,6 +106839,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "AU",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107316,17 +107206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1437379998",
-    "name": "Callantsoog: Holanda Septentrional, Holanda",
-    "city": "Callantsoog",
-    "countryCode": "AU",
-    "lat": 52.83502,
-    "lng": 4.69008,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -107334,6 +107213,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1437379998",
+    "name": "Callantsoog: Holanda Septentrional, Holanda",
+    "city": "Callantsoog",
+    "countryCode": "AU",
+    "lat": 52.83502,
+    "lng": 4.69008,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1437379998/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107470,17 +107360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "AU",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1502192644",
     "name": "Lourdes: Hotel notre dame de la sarte",
     "city": "Lourdes",
@@ -107488,6 +107367,17 @@
     "lat": 43.09246,
     "lng": -0.05571,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "AU",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107800,17 +107690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1199922211",
-    "name": "Kiel: KaiKamKiel",
-    "city": "Kiel",
-    "countryCode": "AU",
-    "lat": 54.32283,
-    "lng": 10.13987,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -107818,6 +107697,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199922211",
+    "name": "Kiel: KaiKamKiel",
+    "city": "Kiel",
+    "countryCode": "AU",
+    "lat": 54.32283,
+    "lng": 10.13987,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199922211/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108361,17 +108251,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "AU",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1370546719",
     "name": "Tazacorte: Puerto",
     "city": "Tazacorte",
@@ -108379,6 +108258,17 @@
     "lat": 28.65175,
     "lng": -17.94728,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1370546719/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "AU",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
