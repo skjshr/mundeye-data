@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sw0d",
+    "type": "earthquake",
+    "lat": 36.3135,
+    "lng": 140.047,
+    "intensity": 4.6,
+    "timestamp": "2026-05-07T18:50:02.354Z",
+    "description": "M 4.6 - 5 km E of Chikusei, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000svzd",
     "type": "earthquake",
     "lat": 7.4738,
@@ -67,16 +77,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-06T22:06:49.692Z",
     "description": "M 4.6 - 25 km NE of La Troncal, Ecuador",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svrl",
-    "type": "earthquake",
-    "lat": -59.5634,
-    "lng": -24.0873,
-    "intensity": 5,
-    "timestamp": "2026-05-06T19:19:17.896Z",
-    "description": "M 5.0 - South Sandwich Islands region",
     "source": "USGS"
   }
 ]

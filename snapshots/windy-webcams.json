@@ -473,17 +473,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
-    "city": "Davos",
-    "countryCode": "JP",
-    "lat": 46.82646,
-    "lng": 9.85831,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249392511",
     "name": "Guaruja › South-west: Praia Pitangueiras - Astúrias Beach",
     "city": "Guaruja",
@@ -1826,17 +1815,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "JP",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -2141,6 +2119,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2640,6 +2629,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "JP",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -2647,17 +2647,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "JP",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5764,17 +5753,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296578281",
-    "name": "Antwerp › North: Zicht op de schelde",
-    "city": "Antwerp",
-    "countryCode": "JP",
-    "lat": 51.24067,
-    "lng": 4.39869,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -5782,6 +5760,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296578281",
+    "name": "Antwerp › North: Zicht op de schelde",
+    "city": "Antwerp",
+    "countryCode": "JP",
+    "lat": 51.24067,
+    "lng": 4.39869,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5841,17 +5830,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "JP",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -5892,6 +5870,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "JP",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6655,17 +6644,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "JP",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -6673,6 +6651,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "JP",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6897,6 +6886,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "JP",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292519416",
     "name": "Wildhaus: Freienalp",
     "city": "Wildhaus",
@@ -6926,17 +6926,6 @@
     "lat": 45.55385,
     "lng": 7.57559,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200500543/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "JP",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7085,7 +7074,7 @@
   },
   {
     "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "name": "Ljubovija Municipality: Tornik › South: Čigota",
     "city": "Ljubovija Municipality",
     "countryCode": "JP",
     "lat": 43.67137,
@@ -7762,6 +7751,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "JP",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9020,17 +9020,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "JP",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299660563",
     "name": "Carrieres-sur-Seine: La Défense",
     "city": "Carrieres-sur-Seine",
@@ -9038,6 +9027,17 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "JP",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9086,17 +9086,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -9108,13 +9097,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
     "countryCode": "JP",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9126,6 +9115,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "JP",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9152,17 +9152,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "JP",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -9170,6 +9159,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "JP",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9647,17 +9647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "JP",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -9665,6 +9654,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "JP",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10241,6 +10241,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1526284199",
+    "name": "Lipno nad Vltavou: Marina Lipno",
+    "city": "Lipno nad Vltavou",
+    "countryCode": "JP",
+    "lat": 48.6413,
+    "lng": 14.22128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1526284199/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -10440,11 +10451,11 @@
   },
   {
     "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
     "city": "Cajetina Municipality",
     "countryCode": "JP",
-    "lat": 43.72552,
-    "lng": 19.6978,
+    "lat": 43.72654,
+    "lng": 19.69956,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -10798,17 +10809,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "JP",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11286,17 +11286,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
-    "city": "Davos",
-    "countryCode": "US",
-    "lat": 46.82646,
-    "lng": 9.85831,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249392511",
     "name": "Guaruja › South-west: Praia Pitangueiras - Astúrias Beach",
     "city": "Guaruja",
@@ -12639,17 +12628,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "US",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -12954,6 +12932,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13453,6 +13442,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "US",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -13460,17 +13460,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "US",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16577,17 +16566,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296578281",
-    "name": "Antwerp › North: Zicht op de schelde",
-    "city": "Antwerp",
-    "countryCode": "US",
-    "lat": 51.24067,
-    "lng": 4.39869,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -16595,6 +16573,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296578281",
+    "name": "Antwerp › North: Zicht op de schelde",
+    "city": "Antwerp",
+    "countryCode": "US",
+    "lat": 51.24067,
+    "lng": 4.39869,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16654,17 +16643,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "US",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -16705,6 +16683,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "US",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17468,17 +17457,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "US",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -17486,6 +17464,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "US",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17710,6 +17699,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "US",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292519416",
     "name": "Wildhaus: Freienalp",
     "city": "Wildhaus",
@@ -17739,17 +17739,6 @@
     "lat": 45.55385,
     "lng": 7.57559,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200500543/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "US",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17898,7 +17887,7 @@
   },
   {
     "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "name": "Ljubovija Municipality: Tornik › South: Čigota",
     "city": "Ljubovija Municipality",
     "countryCode": "US",
     "lat": 43.67137,
@@ -18575,6 +18564,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "US",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19833,17 +19833,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "US",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299660563",
     "name": "Carrieres-sur-Seine: La Défense",
     "city": "Carrieres-sur-Seine",
@@ -19851,6 +19840,17 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "US",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19899,17 +19899,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -19921,13 +19910,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
     "countryCode": "US",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19939,6 +19928,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "US",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19965,17 +19965,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "US",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -19983,6 +19972,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "US",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20460,17 +20460,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "US",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -20478,6 +20467,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "US",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21054,6 +21054,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1526284199",
+    "name": "Lipno nad Vltavou: Marina Lipno",
+    "city": "Lipno nad Vltavou",
+    "countryCode": "US",
+    "lat": 48.6413,
+    "lng": 14.22128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1526284199/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -21253,11 +21264,11 @@
   },
   {
     "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
     "city": "Cajetina Municipality",
     "countryCode": "US",
-    "lat": 43.72552,
-    "lng": 19.6978,
+    "lat": 43.72654,
+    "lng": 19.69956,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -21611,17 +21622,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "US",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22099,17 +22099,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
-    "city": "Davos",
-    "countryCode": "GB",
-    "lat": 46.82646,
-    "lng": 9.85831,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249392511",
     "name": "Guaruja › South-west: Praia Pitangueiras - Astúrias Beach",
     "city": "Guaruja",
@@ -23452,17 +23441,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "GB",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -23767,6 +23745,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24266,6 +24255,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "GB",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -24273,17 +24273,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "GB",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27390,17 +27379,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296578281",
-    "name": "Antwerp › North: Zicht op de schelde",
-    "city": "Antwerp",
-    "countryCode": "GB",
-    "lat": 51.24067,
-    "lng": 4.39869,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -27408,6 +27386,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296578281",
+    "name": "Antwerp › North: Zicht op de schelde",
+    "city": "Antwerp",
+    "countryCode": "GB",
+    "lat": 51.24067,
+    "lng": 4.39869,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27467,17 +27456,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "GB",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -27518,6 +27496,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "GB",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28281,17 +28270,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "GB",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -28299,6 +28277,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "GB",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28523,6 +28512,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "GB",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292519416",
     "name": "Wildhaus: Freienalp",
     "city": "Wildhaus",
@@ -28552,17 +28552,6 @@
     "lat": 45.55385,
     "lng": 7.57559,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200500543/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "GB",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28711,7 +28700,7 @@
   },
   {
     "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "name": "Ljubovija Municipality: Tornik › South: Čigota",
     "city": "Ljubovija Municipality",
     "countryCode": "GB",
     "lat": 43.67137,
@@ -29388,6 +29377,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "GB",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30646,17 +30646,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "GB",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299660563",
     "name": "Carrieres-sur-Seine: La Défense",
     "city": "Carrieres-sur-Seine",
@@ -30664,6 +30653,17 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "GB",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30712,17 +30712,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -30734,13 +30723,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
     "countryCode": "GB",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30752,6 +30741,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "GB",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30778,17 +30778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "GB",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -30796,6 +30785,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "GB",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31273,17 +31273,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "GB",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -31291,6 +31280,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "GB",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31867,6 +31867,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1526284199",
+    "name": "Lipno nad Vltavou: Marina Lipno",
+    "city": "Lipno nad Vltavou",
+    "countryCode": "GB",
+    "lat": 48.6413,
+    "lng": 14.22128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1526284199/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -32066,11 +32077,11 @@
   },
   {
     "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
     "city": "Cajetina Municipality",
     "countryCode": "GB",
-    "lat": 43.72552,
-    "lng": 19.6978,
+    "lat": 43.72654,
+    "lng": 19.69956,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -32424,17 +32435,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "GB",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32912,17 +32912,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
-    "city": "Davos",
-    "countryCode": "DE",
-    "lat": 46.82646,
-    "lng": 9.85831,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249392511",
     "name": "Guaruja › South-west: Praia Pitangueiras - Astúrias Beach",
     "city": "Guaruja",
@@ -34265,17 +34254,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "DE",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -34580,6 +34558,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35079,6 +35068,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "DE",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -35086,17 +35086,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "DE",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38203,17 +38192,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296578281",
-    "name": "Antwerp › North: Zicht op de schelde",
-    "city": "Antwerp",
-    "countryCode": "DE",
-    "lat": 51.24067,
-    "lng": 4.39869,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -38221,6 +38199,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296578281",
+    "name": "Antwerp › North: Zicht op de schelde",
+    "city": "Antwerp",
+    "countryCode": "DE",
+    "lat": 51.24067,
+    "lng": 4.39869,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38280,17 +38269,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "DE",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -38331,6 +38309,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "DE",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39094,17 +39083,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "DE",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -39112,6 +39090,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "DE",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39336,6 +39325,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "DE",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292519416",
     "name": "Wildhaus: Freienalp",
     "city": "Wildhaus",
@@ -39365,17 +39365,6 @@
     "lat": 45.55385,
     "lng": 7.57559,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200500543/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "DE",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39524,7 +39513,7 @@
   },
   {
     "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "name": "Ljubovija Municipality: Tornik › South: Čigota",
     "city": "Ljubovija Municipality",
     "countryCode": "DE",
     "lat": 43.67137,
@@ -40201,6 +40190,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "DE",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41459,17 +41459,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "DE",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299660563",
     "name": "Carrieres-sur-Seine: La Défense",
     "city": "Carrieres-sur-Seine",
@@ -41477,6 +41466,17 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "DE",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41525,17 +41525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -41547,13 +41536,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
     "countryCode": "DE",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41565,6 +41554,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "DE",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41591,17 +41591,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "DE",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -41609,6 +41598,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "DE",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42086,17 +42086,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "DE",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -42104,6 +42093,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "DE",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42680,6 +42680,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1526284199",
+    "name": "Lipno nad Vltavou: Marina Lipno",
+    "city": "Lipno nad Vltavou",
+    "countryCode": "DE",
+    "lat": 48.6413,
+    "lng": 14.22128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1526284199/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -42879,11 +42890,11 @@
   },
   {
     "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
     "city": "Cajetina Municipality",
     "countryCode": "DE",
-    "lat": 43.72552,
-    "lng": 19.6978,
+    "lat": 43.72654,
+    "lng": 19.69956,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -43237,17 +43248,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "DE",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43725,17 +43725,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
-    "city": "Davos",
-    "countryCode": "FR",
-    "lat": 46.82646,
-    "lng": 9.85831,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249392511",
     "name": "Guaruja › South-west: Praia Pitangueiras - Astúrias Beach",
     "city": "Guaruja",
@@ -45078,17 +45067,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "FR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -45393,6 +45371,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45892,6 +45881,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "FR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -45899,17 +45899,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "FR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49016,17 +49005,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296578281",
-    "name": "Antwerp › North: Zicht op de schelde",
-    "city": "Antwerp",
-    "countryCode": "FR",
-    "lat": 51.24067,
-    "lng": 4.39869,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -49034,6 +49012,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296578281",
+    "name": "Antwerp › North: Zicht op de schelde",
+    "city": "Antwerp",
+    "countryCode": "FR",
+    "lat": 51.24067,
+    "lng": 4.39869,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49093,17 +49082,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "FR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -49144,6 +49122,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "FR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49907,17 +49896,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "FR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -49925,6 +49903,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "FR",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50149,6 +50138,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "FR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292519416",
     "name": "Wildhaus: Freienalp",
     "city": "Wildhaus",
@@ -50178,17 +50178,6 @@
     "lat": 45.55385,
     "lng": 7.57559,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200500543/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "FR",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50337,7 +50326,7 @@
   },
   {
     "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "name": "Ljubovija Municipality: Tornik › South: Čigota",
     "city": "Ljubovija Municipality",
     "countryCode": "FR",
     "lat": 43.67137,
@@ -51014,6 +51003,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "FR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52272,17 +52272,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "FR",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299660563",
     "name": "Carrieres-sur-Seine: La Défense",
     "city": "Carrieres-sur-Seine",
@@ -52290,6 +52279,17 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "FR",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52338,17 +52338,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -52360,13 +52349,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
     "countryCode": "FR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52378,6 +52367,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "FR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52404,17 +52404,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "FR",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -52422,6 +52411,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "FR",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52899,17 +52899,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "FR",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -52917,6 +52906,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "FR",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53493,6 +53493,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1526284199",
+    "name": "Lipno nad Vltavou: Marina Lipno",
+    "city": "Lipno nad Vltavou",
+    "countryCode": "FR",
+    "lat": 48.6413,
+    "lng": 14.22128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1526284199/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -53692,11 +53703,11 @@
   },
   {
     "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
     "city": "Cajetina Municipality",
     "countryCode": "FR",
-    "lat": 43.72552,
-    "lng": 19.6978,
+    "lat": 43.72654,
+    "lng": 19.69956,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -54050,17 +54061,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "FR",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54538,17 +54538,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
-    "city": "Davos",
-    "countryCode": "CN",
-    "lat": 46.82646,
-    "lng": 9.85831,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249392511",
     "name": "Guaruja › South-west: Praia Pitangueiras - Astúrias Beach",
     "city": "Guaruja",
@@ -55891,17 +55880,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "CN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -56206,6 +56184,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56705,6 +56694,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "CN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -56712,17 +56712,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "CN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59829,17 +59818,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296578281",
-    "name": "Antwerp › North: Zicht op de schelde",
-    "city": "Antwerp",
-    "countryCode": "CN",
-    "lat": 51.24067,
-    "lng": 4.39869,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -59847,6 +59825,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296578281",
+    "name": "Antwerp › North: Zicht op de schelde",
+    "city": "Antwerp",
+    "countryCode": "CN",
+    "lat": 51.24067,
+    "lng": 4.39869,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59906,17 +59895,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "CN",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -59957,6 +59935,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "CN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60720,17 +60709,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "CN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -60738,6 +60716,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "CN",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60962,6 +60951,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "CN",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292519416",
     "name": "Wildhaus: Freienalp",
     "city": "Wildhaus",
@@ -60991,17 +60991,6 @@
     "lat": 45.55385,
     "lng": 7.57559,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200500543/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "CN",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61150,7 +61139,7 @@
   },
   {
     "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "name": "Ljubovija Municipality: Tornik › South: Čigota",
     "city": "Ljubovija Municipality",
     "countryCode": "CN",
     "lat": 43.67137,
@@ -61827,6 +61816,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "CN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63085,17 +63085,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "CN",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299660563",
     "name": "Carrieres-sur-Seine: La Défense",
     "city": "Carrieres-sur-Seine",
@@ -63103,6 +63092,17 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "CN",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63151,17 +63151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -63173,13 +63162,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
     "countryCode": "CN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63191,6 +63180,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "CN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63217,17 +63217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "CN",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -63235,6 +63224,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "CN",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63712,17 +63712,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "CN",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -63730,6 +63719,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "CN",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64306,6 +64306,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1526284199",
+    "name": "Lipno nad Vltavou: Marina Lipno",
+    "city": "Lipno nad Vltavou",
+    "countryCode": "CN",
+    "lat": 48.6413,
+    "lng": 14.22128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1526284199/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -64505,11 +64516,11 @@
   },
   {
     "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
     "city": "Cajetina Municipality",
     "countryCode": "CN",
-    "lat": 43.72552,
-    "lng": 19.6978,
+    "lat": 43.72654,
+    "lng": 19.69956,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -64863,17 +64874,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "CN",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65351,17 +65351,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
-    "city": "Davos",
-    "countryCode": "KR",
-    "lat": 46.82646,
-    "lng": 9.85831,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249392511",
     "name": "Guaruja › South-west: Praia Pitangueiras - Astúrias Beach",
     "city": "Guaruja",
@@ -66704,17 +66693,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "KR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -67019,6 +66997,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67518,6 +67507,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "KR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -67525,17 +67525,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "KR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70642,17 +70631,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296578281",
-    "name": "Antwerp › North: Zicht op de schelde",
-    "city": "Antwerp",
-    "countryCode": "KR",
-    "lat": 51.24067,
-    "lng": 4.39869,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -70660,6 +70638,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296578281",
+    "name": "Antwerp › North: Zicht op de schelde",
+    "city": "Antwerp",
+    "countryCode": "KR",
+    "lat": 51.24067,
+    "lng": 4.39869,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70719,17 +70708,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "KR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -70770,6 +70748,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "KR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71533,17 +71522,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "KR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -71551,6 +71529,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "KR",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71775,6 +71764,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "KR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292519416",
     "name": "Wildhaus: Freienalp",
     "city": "Wildhaus",
@@ -71804,17 +71804,6 @@
     "lat": 45.55385,
     "lng": 7.57559,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200500543/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "KR",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71963,7 +71952,7 @@
   },
   {
     "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "name": "Ljubovija Municipality: Tornik › South: Čigota",
     "city": "Ljubovija Municipality",
     "countryCode": "KR",
     "lat": 43.67137,
@@ -72640,6 +72629,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "KR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73898,17 +73898,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "KR",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299660563",
     "name": "Carrieres-sur-Seine: La Défense",
     "city": "Carrieres-sur-Seine",
@@ -73916,6 +73905,17 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "KR",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73964,17 +73964,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -73986,13 +73975,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
     "countryCode": "KR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74004,6 +73993,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "KR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74030,17 +74030,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "KR",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -74048,6 +74037,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "KR",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74525,17 +74525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "KR",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -74543,6 +74532,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "KR",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75119,6 +75119,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1526284199",
+    "name": "Lipno nad Vltavou: Marina Lipno",
+    "city": "Lipno nad Vltavou",
+    "countryCode": "KR",
+    "lat": 48.6413,
+    "lng": 14.22128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1526284199/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -75318,11 +75329,11 @@
   },
   {
     "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
     "city": "Cajetina Municipality",
     "countryCode": "KR",
-    "lat": 43.72552,
-    "lng": 19.6978,
+    "lat": 43.72654,
+    "lng": 19.69956,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -75676,17 +75687,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "KR",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76164,17 +76164,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
-    "city": "Davos",
-    "countryCode": "IN",
-    "lat": 46.82646,
-    "lng": 9.85831,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249392511",
     "name": "Guaruja › South-west: Praia Pitangueiras - Astúrias Beach",
     "city": "Guaruja",
@@ -77517,17 +77506,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "IN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -77832,6 +77810,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78331,6 +78320,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "IN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -78338,17 +78338,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "IN",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81455,17 +81444,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296578281",
-    "name": "Antwerp › North: Zicht op de schelde",
-    "city": "Antwerp",
-    "countryCode": "IN",
-    "lat": 51.24067,
-    "lng": 4.39869,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -81473,6 +81451,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296578281",
+    "name": "Antwerp › North: Zicht op de schelde",
+    "city": "Antwerp",
+    "countryCode": "IN",
+    "lat": 51.24067,
+    "lng": 4.39869,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81532,17 +81521,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "IN",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -81583,6 +81561,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "IN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82346,17 +82335,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "IN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -82364,6 +82342,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "IN",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82588,6 +82577,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "IN",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292519416",
     "name": "Wildhaus: Freienalp",
     "city": "Wildhaus",
@@ -82617,17 +82617,6 @@
     "lat": 45.55385,
     "lng": 7.57559,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200500543/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "IN",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82776,7 +82765,7 @@
   },
   {
     "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "name": "Ljubovija Municipality: Tornik › South: Čigota",
     "city": "Ljubovija Municipality",
     "countryCode": "IN",
     "lat": 43.67137,
@@ -83453,6 +83442,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "IN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84711,17 +84711,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "IN",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299660563",
     "name": "Carrieres-sur-Seine: La Défense",
     "city": "Carrieres-sur-Seine",
@@ -84729,6 +84718,17 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "IN",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84777,17 +84777,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -84799,13 +84788,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
     "countryCode": "IN",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84817,6 +84806,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "IN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84843,17 +84843,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "IN",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -84861,6 +84850,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "IN",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85338,17 +85338,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "IN",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -85356,6 +85345,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "IN",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85932,6 +85932,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1526284199",
+    "name": "Lipno nad Vltavou: Marina Lipno",
+    "city": "Lipno nad Vltavou",
+    "countryCode": "IN",
+    "lat": 48.6413,
+    "lng": 14.22128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1526284199/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -86131,11 +86142,11 @@
   },
   {
     "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
     "city": "Cajetina Municipality",
     "countryCode": "IN",
-    "lat": 43.72552,
-    "lng": 19.6978,
+    "lat": 43.72654,
+    "lng": 19.69956,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -86489,17 +86500,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "IN",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86977,17 +86977,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
-    "city": "Davos",
-    "countryCode": "BR",
-    "lat": 46.82646,
-    "lng": 9.85831,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249392511",
     "name": "Guaruja › South-west: Praia Pitangueiras - Astúrias Beach",
     "city": "Guaruja",
@@ -88330,17 +88319,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "BR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -88645,6 +88623,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89144,6 +89133,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "BR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -89151,17 +89151,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "BR",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92268,17 +92257,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296578281",
-    "name": "Antwerp › North: Zicht op de schelde",
-    "city": "Antwerp",
-    "countryCode": "BR",
-    "lat": 51.24067,
-    "lng": 4.39869,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -92286,6 +92264,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296578281",
+    "name": "Antwerp › North: Zicht op de schelde",
+    "city": "Antwerp",
+    "countryCode": "BR",
+    "lat": 51.24067,
+    "lng": 4.39869,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92345,17 +92334,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "BR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -92396,6 +92374,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "BR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93159,17 +93148,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "BR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -93177,6 +93155,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "BR",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93401,6 +93390,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "BR",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292519416",
     "name": "Wildhaus: Freienalp",
     "city": "Wildhaus",
@@ -93430,17 +93430,6 @@
     "lat": 45.55385,
     "lng": 7.57559,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200500543/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "BR",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93589,7 +93578,7 @@
   },
   {
     "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "name": "Ljubovija Municipality: Tornik › South: Čigota",
     "city": "Ljubovija Municipality",
     "countryCode": "BR",
     "lat": 43.67137,
@@ -94266,6 +94255,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "BR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95524,17 +95524,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "BR",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299660563",
     "name": "Carrieres-sur-Seine: La Défense",
     "city": "Carrieres-sur-Seine",
@@ -95542,6 +95531,17 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "BR",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95590,17 +95590,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -95612,13 +95601,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
     "countryCode": "BR",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95630,6 +95619,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "BR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95656,17 +95656,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "BR",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -95674,6 +95663,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "BR",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96151,17 +96151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "BR",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -96169,6 +96158,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "BR",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96745,6 +96745,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1526284199",
+    "name": "Lipno nad Vltavou: Marina Lipno",
+    "city": "Lipno nad Vltavou",
+    "countryCode": "BR",
+    "lat": 48.6413,
+    "lng": 14.22128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1526284199/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -96944,11 +96955,11 @@
   },
   {
     "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
     "city": "Cajetina Municipality",
     "countryCode": "BR",
-    "lat": 43.72552,
-    "lng": 19.6978,
+    "lat": 43.72654,
+    "lng": 19.69956,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -97302,17 +97313,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "BR",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97790,17 +97790,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
-    "city": "Davos",
-    "countryCode": "AU",
-    "lat": 46.82646,
-    "lng": 9.85831,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1249392511",
     "name": "Guaruja › South-west: Praia Pitangueiras - Astúrias Beach",
     "city": "Guaruja",
@@ -99143,17 +99132,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "AU",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -99458,6 +99436,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99957,6 +99946,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "AU",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -99964,17 +99964,6 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1010435704",
-    "name": "Solothurn",
-    "city": "Solothurn",
-    "countryCode": "AU",
-    "lat": 47.20837,
-    "lng": 7.53662,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103081,17 +103070,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1296578281",
-    "name": "Antwerp › North: Zicht op de schelde",
-    "city": "Antwerp",
-    "countryCode": "AU",
-    "lat": 51.24067,
-    "lng": 4.39869,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -103099,6 +103077,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1296578281",
+    "name": "Antwerp › North: Zicht op de schelde",
+    "city": "Antwerp",
+    "countryCode": "AU",
+    "lat": 51.24067,
+    "lng": 4.39869,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296578281/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103158,17 +103147,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "AU",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -103209,6 +103187,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "AU",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103972,17 +103961,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "AU",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1368434292",
     "name": "Enontekio: Tie21 Enontekiö, Kilpisjarvi - Norjaan2",
     "city": "Enontekio",
@@ -103990,6 +103968,17 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1115031497",
+    "name": "Matt: Weissenberge 2",
+    "city": "Matt",
+    "countryCode": "AU",
+    "lat": 46.96421,
+    "lng": 9.185,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104214,6 +104203,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1671825348",
+    "name": "Paris",
+    "city": "Paris",
+    "countryCode": "AU",
+    "lat": 48.87039,
+    "lng": 2.29353,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292519416",
     "name": "Wildhaus: Freienalp",
     "city": "Wildhaus",
@@ -104243,17 +104243,6 @@
     "lat": 45.55385,
     "lng": 7.57559,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200500543/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1671825348",
-    "name": "Paris",
-    "city": "Paris",
-    "countryCode": "AU",
-    "lat": 48.87039,
-    "lng": 2.29353,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104402,7 +104391,7 @@
   },
   {
     "id": "windy-1390661695",
-    "name": "Ljubovija Municipality: Tornik › South: Zlatibor - polaz zicare",
+    "name": "Ljubovija Municipality: Tornik › South: Čigota",
     "city": "Ljubovija Municipality",
     "countryCode": "AU",
     "lat": 43.67137,
@@ -105079,6 +105068,17 @@
     "lat": 50.02759,
     "lng": 15.20199,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1215516024/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "AU",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106337,17 +106337,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1516695520",
-    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
-    "city": "Le Hohwald",
-    "countryCode": "AU",
-    "lat": 48.39302,
-    "lng": 7.26978,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299660563",
     "name": "Carrieres-sur-Seine: La Défense",
     "city": "Carrieres-sur-Seine",
@@ -106355,6 +106344,17 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1516695520",
+    "name": "Le Hohwald › North: Tour du Champ du Feu (1099m)",
+    "city": "Le Hohwald",
+    "countryCode": "AU",
+    "lat": 48.39302,
+    "lng": 7.26978,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1516695520/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106403,17 +106403,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1507155065",
     "name": "Vestermarie: Bornholm - Ronne Havn, Denmark",
     "city": "Vestermarie",
@@ -106425,13 +106414,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1606333312",
-    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
-    "city": "Madrid",
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
     "countryCode": "AU",
-    "lat": 40.41974,
-    "lng": -3.69976,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106443,6 +106432,17 @@
     "lat": 55.24659,
     "lng": 14.73988,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1346249982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: GRAN VIA - CLAVEL",
+    "city": "Madrid",
+    "countryCode": "AU",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106469,17 +106469,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "AU",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1341397636",
     "name": "Amaliada: Palouki",
     "city": "Amaliada",
@@ -106487,6 +106476,17 @@
     "lat": 37.75749,
     "lng": 21.30652,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1341397636/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "AU",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106964,17 +106964,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1184843943",
-    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
-    "city": "Gmunden",
-    "countryCode": "AU",
-    "lat": 47.91812,
-    "lng": 13.80261,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1649868005",
     "name": "Indian Shores › West",
     "city": "Indian Shores",
@@ -106982,6 +106971,17 @@
     "lat": 27.8628,
     "lng": -82.84844,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1649868005/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1184843943",
+    "name": "Gmunden › West: Museumplatz - Rathausplatz - Traun - Franz Schubert-Platz",
+    "city": "Gmunden",
+    "countryCode": "AU",
+    "lat": 47.91812,
+    "lng": 13.80261,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1184843943/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107558,6 +107558,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1526284199",
+    "name": "Lipno nad Vltavou: Marina Lipno",
+    "city": "Lipno nad Vltavou",
+    "countryCode": "AU",
+    "lat": 48.6413,
+    "lng": 14.22128,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1526284199/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1537250912",
     "name": "Lisbon › South: Ponte 25 de Abril",
     "city": "unknown",
@@ -107757,11 +107768,11 @@
   },
   {
     "id": "windy-1233032228",
-    "name": "Cajetina Municipality: Zlatibor",
+    "name": "Cajetina Municipality: Zlatibor › South-east: Zlatiborsko jezero",
     "city": "Cajetina Municipality",
     "countryCode": "AU",
-    "lat": 43.72552,
-    "lng": 19.6978,
+    "lat": 43.72654,
+    "lng": 19.69956,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233032228/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -108115,17 +108126,6 @@
     "lat": 31.7707,
     "lng": 35.22198,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1793900809",
-    "name": "Weymouth › North-east: Weymouth Beach",
-    "city": "Weymouth",
-    "countryCode": "AU",
-    "lat": 50.60924,
-    "lng": -2.45282,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1793900809/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
