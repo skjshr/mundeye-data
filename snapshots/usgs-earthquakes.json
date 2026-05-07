@@ -88,25 +88,5 @@
     "timestamp": "2026-05-06T15:17:34.286Z",
     "description": "M 4.5 - 111 km NNW of Hayuliang, India",
     "source": "USGS"
-  },
-  {
-    "id": "us6000svnr",
-    "type": "earthquake",
-    "lat": 52.2595,
-    "lng": 176.518,
-    "intensity": 5.8,
-    "timestamp": "2026-05-06T14:15:32.254Z",
-    "description": "M 5.8 - 235 km ESE of Attu Station, Alaska",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svnc",
-    "type": "earthquake",
-    "lat": -17.8553,
-    "lng": 167.2462,
-    "intensity": 4.8,
-    "timestamp": "2026-05-06T12:55:50.757Z",
-    "description": "M 4.8 - 113 km W of Port-Vila, Vanuatu",
-    "source": "USGS"
   }
 ]
