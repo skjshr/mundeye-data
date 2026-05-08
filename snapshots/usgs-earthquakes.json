@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sw71",
+    "type": "earthquake",
+    "lat": -2.9327,
+    "lng": 147.7874,
+    "intensity": 4.9,
+    "timestamp": "2026-05-08T12:38:37.970Z",
+    "description": "M 4.9 - 114 km SSE of Lorengau, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sw6y",
     "type": "earthquake",
     "lat": -2.9127,
@@ -32,11 +42,11 @@
   {
     "id": "us6000sw5q",
     "type": "earthquake",
-    "lat": -43.51,
-    "lng": 91.4835,
-    "intensity": 5.4,
-    "timestamp": "2026-05-08T07:17:43.284Z",
-    "description": "M 5.4 - southeast Indian Ridge",
+    "lat": -43.412,
+    "lng": 91.7023,
+    "intensity": 5.9,
+    "timestamp": "2026-05-08T07:17:43.055Z",
+    "description": "M 5.9 - southeast Indian Ridge",
     "source": "USGS"
   },
   {
