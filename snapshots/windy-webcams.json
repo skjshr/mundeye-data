@@ -616,17 +616,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "JP",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -2684,17 +2673,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "JP",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -3993,17 +3971,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1192024953",
-    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "Varazdin",
-    "countryCode": "JP",
-    "lat": 46.30783,
-    "lng": 16.33794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -4011,6 +3978,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1192024953",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "Varazdin",
+    "countryCode": "JP",
+    "lat": 46.30783,
+    "lng": 16.33794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5555,6 +5533,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216892440",
+    "name": "Storuman › North-west: Square",
+    "city": "Storuman",
+    "countryCode": "JP",
+    "lat": 65.09554,
+    "lng": 17.11719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1273997720",
     "name": "Hodonin: náměstí",
     "city": "Hodonin",
@@ -6545,17 +6534,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "JP",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -6563,6 +6541,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "JP",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9515,17 +9504,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1502192644",
-    "name": "Lourdes: Hotel notre dame de la sarte",
-    "city": "Lourdes",
-    "countryCode": "JP",
-    "lat": 43.09246,
-    "lng": -0.05571,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -9533,6 +9511,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1502192644",
+    "name": "Lourdes: Hotel notre dame de la sarte",
+    "city": "Lourdes",
+    "countryCode": "JP",
+    "lat": 43.09246,
+    "lng": -0.05571,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10252,17 +10241,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "JP",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -10270,6 +10248,17 @@
     "lat": -44.57301,
     "lng": 167.78161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "JP",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10582,17 +10571,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "JP",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -10600,6 +10578,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "JP",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10688,17 +10677,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "JP",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11352,17 +11330,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "US",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -13420,17 +13387,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "US",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -14729,17 +14685,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1192024953",
-    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "Varazdin",
-    "countryCode": "US",
-    "lat": 46.30783,
-    "lng": 16.33794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -14747,6 +14692,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1192024953",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "Varazdin",
+    "countryCode": "US",
+    "lat": 46.30783,
+    "lng": 16.33794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16291,6 +16247,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216892440",
+    "name": "Storuman › North-west: Square",
+    "city": "Storuman",
+    "countryCode": "US",
+    "lat": 65.09554,
+    "lng": 17.11719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1273997720",
     "name": "Hodonin: náměstí",
     "city": "Hodonin",
@@ -17281,17 +17248,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "US",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -17299,6 +17255,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "US",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20251,17 +20218,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1502192644",
-    "name": "Lourdes: Hotel notre dame de la sarte",
-    "city": "Lourdes",
-    "countryCode": "US",
-    "lat": 43.09246,
-    "lng": -0.05571,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -20269,6 +20225,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1502192644",
+    "name": "Lourdes: Hotel notre dame de la sarte",
+    "city": "Lourdes",
+    "countryCode": "US",
+    "lat": 43.09246,
+    "lng": -0.05571,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20988,17 +20955,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "US",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -21006,6 +20962,17 @@
     "lat": -44.57301,
     "lng": 167.78161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "US",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21318,17 +21285,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "US",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -21336,6 +21292,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "US",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21424,17 +21391,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "US",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22088,17 +22044,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "GB",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -24156,17 +24101,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "GB",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -25465,17 +25399,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1192024953",
-    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "Varazdin",
-    "countryCode": "GB",
-    "lat": 46.30783,
-    "lng": 16.33794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -25483,6 +25406,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1192024953",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "Varazdin",
+    "countryCode": "GB",
+    "lat": 46.30783,
+    "lng": 16.33794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27027,6 +26961,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216892440",
+    "name": "Storuman › North-west: Square",
+    "city": "Storuman",
+    "countryCode": "GB",
+    "lat": 65.09554,
+    "lng": 17.11719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1273997720",
     "name": "Hodonin: náměstí",
     "city": "Hodonin",
@@ -28017,17 +27962,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "GB",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -28035,6 +27969,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "GB",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30987,17 +30932,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1502192644",
-    "name": "Lourdes: Hotel notre dame de la sarte",
-    "city": "Lourdes",
-    "countryCode": "GB",
-    "lat": 43.09246,
-    "lng": -0.05571,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -31005,6 +30939,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1502192644",
+    "name": "Lourdes: Hotel notre dame de la sarte",
+    "city": "Lourdes",
+    "countryCode": "GB",
+    "lat": 43.09246,
+    "lng": -0.05571,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31724,17 +31669,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "GB",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -31742,6 +31676,17 @@
     "lat": -44.57301,
     "lng": 167.78161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "GB",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32054,17 +31999,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "GB",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -32072,6 +32006,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "GB",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32160,17 +32105,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "GB",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32824,17 +32758,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "DE",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -34892,17 +34815,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "DE",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -36201,17 +36113,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1192024953",
-    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "Varazdin",
-    "countryCode": "DE",
-    "lat": 46.30783,
-    "lng": 16.33794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -36219,6 +36120,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1192024953",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "Varazdin",
+    "countryCode": "DE",
+    "lat": 46.30783,
+    "lng": 16.33794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37763,6 +37675,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216892440",
+    "name": "Storuman › North-west: Square",
+    "city": "Storuman",
+    "countryCode": "DE",
+    "lat": 65.09554,
+    "lng": 17.11719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1273997720",
     "name": "Hodonin: náměstí",
     "city": "Hodonin",
@@ -38753,17 +38676,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "DE",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -38771,6 +38683,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "DE",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41723,17 +41646,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1502192644",
-    "name": "Lourdes: Hotel notre dame de la sarte",
-    "city": "Lourdes",
-    "countryCode": "DE",
-    "lat": 43.09246,
-    "lng": -0.05571,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -41741,6 +41653,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1502192644",
+    "name": "Lourdes: Hotel notre dame de la sarte",
+    "city": "Lourdes",
+    "countryCode": "DE",
+    "lat": 43.09246,
+    "lng": -0.05571,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42460,17 +42383,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "DE",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -42478,6 +42390,17 @@
     "lat": -44.57301,
     "lng": 167.78161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "DE",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42790,17 +42713,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "DE",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -42808,6 +42720,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "DE",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42896,17 +42819,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "DE",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43560,17 +43472,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "FR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -45628,17 +45529,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "FR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -46937,17 +46827,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1192024953",
-    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "Varazdin",
-    "countryCode": "FR",
-    "lat": 46.30783,
-    "lng": 16.33794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -46955,6 +46834,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1192024953",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "Varazdin",
+    "countryCode": "FR",
+    "lat": 46.30783,
+    "lng": 16.33794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48499,6 +48389,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216892440",
+    "name": "Storuman › North-west: Square",
+    "city": "Storuman",
+    "countryCode": "FR",
+    "lat": 65.09554,
+    "lng": 17.11719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1273997720",
     "name": "Hodonin: náměstí",
     "city": "Hodonin",
@@ -49489,17 +49390,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "FR",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -49507,6 +49397,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "FR",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52459,17 +52360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1502192644",
-    "name": "Lourdes: Hotel notre dame de la sarte",
-    "city": "Lourdes",
-    "countryCode": "FR",
-    "lat": 43.09246,
-    "lng": -0.05571,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -52477,6 +52367,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1502192644",
+    "name": "Lourdes: Hotel notre dame de la sarte",
+    "city": "Lourdes",
+    "countryCode": "FR",
+    "lat": 43.09246,
+    "lng": -0.05571,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53196,17 +53097,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "FR",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -53214,6 +53104,17 @@
     "lat": -44.57301,
     "lng": 167.78161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "FR",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53526,17 +53427,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "FR",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -53544,6 +53434,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "FR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53632,17 +53533,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "FR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54296,17 +54186,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "CN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -56364,17 +56243,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "CN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -57673,17 +57541,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1192024953",
-    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "Varazdin",
-    "countryCode": "CN",
-    "lat": 46.30783,
-    "lng": 16.33794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -57691,6 +57548,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1192024953",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "Varazdin",
+    "countryCode": "CN",
+    "lat": 46.30783,
+    "lng": 16.33794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59235,6 +59103,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216892440",
+    "name": "Storuman › North-west: Square",
+    "city": "Storuman",
+    "countryCode": "CN",
+    "lat": 65.09554,
+    "lng": 17.11719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1273997720",
     "name": "Hodonin: náměstí",
     "city": "Hodonin",
@@ -60225,17 +60104,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "CN",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -60243,6 +60111,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "CN",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63195,17 +63074,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1502192644",
-    "name": "Lourdes: Hotel notre dame de la sarte",
-    "city": "Lourdes",
-    "countryCode": "CN",
-    "lat": 43.09246,
-    "lng": -0.05571,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -63213,6 +63081,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1502192644",
+    "name": "Lourdes: Hotel notre dame de la sarte",
+    "city": "Lourdes",
+    "countryCode": "CN",
+    "lat": 43.09246,
+    "lng": -0.05571,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63932,17 +63811,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "CN",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -63950,6 +63818,17 @@
     "lat": -44.57301,
     "lng": 167.78161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "CN",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64262,17 +64141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "CN",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -64280,6 +64148,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "CN",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64368,17 +64247,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "CN",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65032,17 +64900,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "KR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -67100,17 +66957,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "KR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -68409,17 +68255,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1192024953",
-    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "Varazdin",
-    "countryCode": "KR",
-    "lat": 46.30783,
-    "lng": 16.33794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -68427,6 +68262,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1192024953",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "Varazdin",
+    "countryCode": "KR",
+    "lat": 46.30783,
+    "lng": 16.33794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69971,6 +69817,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216892440",
+    "name": "Storuman › North-west: Square",
+    "city": "Storuman",
+    "countryCode": "KR",
+    "lat": 65.09554,
+    "lng": 17.11719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1273997720",
     "name": "Hodonin: náměstí",
     "city": "Hodonin",
@@ -70961,17 +70818,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "KR",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -70979,6 +70825,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "KR",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73931,17 +73788,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1502192644",
-    "name": "Lourdes: Hotel notre dame de la sarte",
-    "city": "Lourdes",
-    "countryCode": "KR",
-    "lat": 43.09246,
-    "lng": -0.05571,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -73949,6 +73795,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1502192644",
+    "name": "Lourdes: Hotel notre dame de la sarte",
+    "city": "Lourdes",
+    "countryCode": "KR",
+    "lat": 43.09246,
+    "lng": -0.05571,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74668,17 +74525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "KR",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -74686,6 +74532,17 @@
     "lat": -44.57301,
     "lng": 167.78161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "KR",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74998,17 +74855,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "KR",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -75016,6 +74862,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "KR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75104,17 +74961,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "KR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75768,17 +75614,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "IN",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -77836,17 +77671,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "IN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -79145,17 +78969,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1192024953",
-    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "Varazdin",
-    "countryCode": "IN",
-    "lat": 46.30783,
-    "lng": 16.33794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -79163,6 +78976,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1192024953",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "Varazdin",
+    "countryCode": "IN",
+    "lat": 46.30783,
+    "lng": 16.33794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80707,6 +80531,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216892440",
+    "name": "Storuman › North-west: Square",
+    "city": "Storuman",
+    "countryCode": "IN",
+    "lat": 65.09554,
+    "lng": 17.11719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1273997720",
     "name": "Hodonin: náměstí",
     "city": "Hodonin",
@@ -81697,17 +81532,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "IN",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -81715,6 +81539,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "IN",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84667,17 +84502,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1502192644",
-    "name": "Lourdes: Hotel notre dame de la sarte",
-    "city": "Lourdes",
-    "countryCode": "IN",
-    "lat": 43.09246,
-    "lng": -0.05571,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -84685,6 +84509,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1502192644",
+    "name": "Lourdes: Hotel notre dame de la sarte",
+    "city": "Lourdes",
+    "countryCode": "IN",
+    "lat": 43.09246,
+    "lng": -0.05571,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85404,17 +85239,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "IN",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -85422,6 +85246,17 @@
     "lat": -44.57301,
     "lng": 167.78161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "IN",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85734,17 +85569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "IN",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -85752,6 +85576,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "IN",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85840,17 +85675,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "IN",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86504,17 +86328,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "BR",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -88572,17 +88385,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "BR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -89881,17 +89683,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1192024953",
-    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "Varazdin",
-    "countryCode": "BR",
-    "lat": 46.30783,
-    "lng": 16.33794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -89899,6 +89690,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1192024953",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "Varazdin",
+    "countryCode": "BR",
+    "lat": 46.30783,
+    "lng": 16.33794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91443,6 +91245,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216892440",
+    "name": "Storuman › North-west: Square",
+    "city": "Storuman",
+    "countryCode": "BR",
+    "lat": 65.09554,
+    "lng": 17.11719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1273997720",
     "name": "Hodonin: náměstí",
     "city": "Hodonin",
@@ -92433,17 +92246,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "BR",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -92451,6 +92253,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "BR",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95403,17 +95216,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1502192644",
-    "name": "Lourdes: Hotel notre dame de la sarte",
-    "city": "Lourdes",
-    "countryCode": "BR",
-    "lat": 43.09246,
-    "lng": -0.05571,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -95421,6 +95223,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1502192644",
+    "name": "Lourdes: Hotel notre dame de la sarte",
+    "city": "Lourdes",
+    "countryCode": "BR",
+    "lat": 43.09246,
+    "lng": -0.05571,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96140,17 +95953,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "BR",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -96158,6 +95960,17 @@
     "lat": -44.57301,
     "lng": 167.78161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "BR",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96470,17 +96283,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "BR",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -96488,6 +96290,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "BR",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96576,17 +96389,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "BR",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97240,17 +97042,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1010222761",
-    "name": "Grindelwald: Männlichen, Blick zur Jungfrau",
-    "city": "Grindelwald",
-    "countryCode": "AU",
-    "lat": 46.61124,
-    "lng": 7.94209,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010222761/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1482537945",
     "name": "Fiesch: Fiescheralp",
     "city": "Fiesch",
@@ -99308,17 +99099,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "AU",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1334228612",
     "name": "Montpellier: Place de la Comédie",
     "city": "Montpellier",
@@ -100617,17 +100397,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1192024953",
-    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
-    "city": "Varazdin",
-    "countryCode": "AU",
-    "lat": 46.30783,
-    "lng": 16.33794,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1515017464",
     "name": "Paris: Quartier Saint-Merri › North-west: Chapelle de Saint Symphorien - Eiffel Tower",
     "city": "Paris",
@@ -100635,6 +100404,17 @@
     "lat": 48.85171,
     "lng": 2.33651,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1515017464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1192024953",
+    "name": "Varazdin › North: Trg kralja Tomislava - Townhall of Varazdin",
+    "city": "Varazdin",
+    "countryCode": "AU",
+    "lat": 46.30783,
+    "lng": 16.33794,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1192024953/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102179,6 +101959,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216892440",
+    "name": "Storuman › North-west: Square",
+    "city": "Storuman",
+    "countryCode": "AU",
+    "lat": 65.09554,
+    "lng": 17.11719,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216892440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1273997720",
     "name": "Hodonin: náměstí",
     "city": "Hodonin",
@@ -103169,17 +102960,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197885308",
-    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
-    "city": "Savines-le-Lac",
-    "countryCode": "AU",
-    "lat": 44.52368,
-    "lng": 6.40125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1295480394",
     "name": "Ronda",
     "city": "Ronda",
@@ -103187,6 +102967,17 @@
     "lat": 36.74853,
     "lng": -5.1578,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197885308",
+    "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
+    "city": "Savines-le-Lac",
+    "countryCode": "AU",
+    "lat": 44.52368,
+    "lng": 6.40125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106139,17 +105930,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1502192644",
-    "name": "Lourdes: Hotel notre dame de la sarte",
-    "city": "Lourdes",
-    "countryCode": "AU",
-    "lat": 43.09246,
-    "lng": -0.05571,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1458327982",
     "name": "Hadselhamn › North: Stokmarknes - Hallartind",
     "city": "Hadselhamn",
@@ -106157,6 +105937,17 @@
     "lat": 68.5602,
     "lng": 14.91255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1458327982/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1502192644",
+    "name": "Lourdes: Hotel notre dame de la sarte",
+    "city": "Lourdes",
+    "countryCode": "AU",
+    "lat": 43.09246,
+    "lng": -0.05571,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1502192644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106876,17 +106667,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "AU",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -106894,6 +106674,17 @@
     "lat": -44.57301,
     "lng": 167.78161,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1546480555/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "AU",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107206,17 +106997,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697040341",
-    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
-    "city": "Yverdon-les-Bains",
-    "countryCode": "AU",
-    "lat": 46.77837,
-    "lng": 6.64096,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1240025112",
     "name": "Talcahuano › North: Carriel Sur - Carriel Sur International Airport",
     "city": "Talcahuano",
@@ -107224,6 +107004,17 @@
     "lat": -36.77707,
     "lng": -73.06167,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1240025112/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697040341",
+    "name": "Yverdon-les-Bains: Place Pestalozzi - Yverdon-les-Bains Castle",
+    "city": "Yverdon-les-Bains",
+    "countryCode": "AU",
+    "lat": 46.77837,
+    "lng": 6.64096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697040341/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107312,17 +107103,6 @@
     "lat": 46.56793,
     "lng": 7.48364,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256292851/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1278244720",
-    "name": "Jerusalem: Old City",
-    "city": "Jerusalem",
-    "countryCode": "AU",
-    "lat": 31.7707,
-    "lng": 35.22198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1278244720/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
