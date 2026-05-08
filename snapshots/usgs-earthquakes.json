@@ -1,5 +1,35 @@
 [
   {
+    "id": "us6000sw6y",
+    "type": "earthquake",
+    "lat": -2.9127,
+    "lng": 147.7321,
+    "intensity": 5.6,
+    "timestamp": "2026-05-08T12:22:31.861Z",
+    "description": "M 5.6 - 109 km SSE of Lorengau, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sw6v",
+    "type": "earthquake",
+    "lat": -2.8549,
+    "lng": 147.8959,
+    "intensity": 4.7,
+    "timestamp": "2026-05-08T12:06:02.939Z",
+    "description": "M 4.7 - 114 km SE of Lorengau, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sw6q",
+    "type": "earthquake",
+    "lat": 46.8298,
+    "lng": 92.8746,
+    "intensity": 4.7,
+    "timestamp": "2026-05-08T11:38:55.907Z",
+    "description": "M 4.7 - 160 km SE of Khovd, Mongolia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sw5q",
     "type": "earthquake",
     "lat": -43.51,
@@ -57,26 +87,6 @@
     "intensity": 4.7,
     "timestamp": "2026-05-07T16:54:03.840Z",
     "description": "M 4.7 - central Mid-Atlantic Ridge",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svwn",
-    "type": "earthquake",
-    "lat": -17.9613,
-    "lng": -178.0277,
-    "intensity": 5.1,
-    "timestamp": "2026-05-07T11:48:41.636Z",
-    "description": "M 5.1 - 281 km E of Levuka, Fiji",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svwk",
-    "type": "earthquake",
-    "lat": 51.8366,
-    "lng": 158.6642,
-    "intensity": 4.5,
-    "timestamp": "2026-05-07T11:32:01.976Z",
-    "description": "M 4.5 - 123 km S of Vilyuchinsk, Russia",
     "source": "USGS"
   }
 ]

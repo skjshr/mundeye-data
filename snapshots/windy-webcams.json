@@ -121,17 +121,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "JP",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -205,17 +194,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "JP",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2691,6 +2669,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "JP",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5342,17 +5331,6 @@
     "lat": 46.53629,
     "lng": 12.13663,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1617883750/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1312115546",
-    "name": "Guidel: Plage du Loch",
-    "city": "Guidel",
-    "countryCode": "JP",
-    "lat": 47.75238,
-    "lng": -3.51134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312115546/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10945,17 +10923,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "US",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -11029,17 +10996,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "US",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13515,6 +13471,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "US",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16166,17 +16133,6 @@
     "lat": 46.53629,
     "lng": 12.13663,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1617883750/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1312115546",
-    "name": "Guidel: Plage du Loch",
-    "city": "Guidel",
-    "countryCode": "US",
-    "lat": 47.75238,
-    "lng": -3.51134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312115546/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21769,17 +21725,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "GB",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -21853,17 +21798,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "GB",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24339,6 +24273,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "GB",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26990,17 +26935,6 @@
     "lat": 46.53629,
     "lng": 12.13663,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1617883750/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1312115546",
-    "name": "Guidel: Plage du Loch",
-    "city": "Guidel",
-    "countryCode": "GB",
-    "lat": 47.75238,
-    "lng": -3.51134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312115546/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32593,17 +32527,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "DE",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -32677,17 +32600,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "DE",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35163,6 +35075,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "DE",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37814,17 +37737,6 @@
     "lat": 46.53629,
     "lng": 12.13663,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1617883750/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1312115546",
-    "name": "Guidel: Plage du Loch",
-    "city": "Guidel",
-    "countryCode": "DE",
-    "lat": 47.75238,
-    "lng": -3.51134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312115546/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43417,17 +43329,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "FR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -43501,17 +43402,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "FR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45987,6 +45877,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "FR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48638,17 +48539,6 @@
     "lat": 46.53629,
     "lng": 12.13663,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1617883750/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1312115546",
-    "name": "Guidel: Plage du Loch",
-    "city": "Guidel",
-    "countryCode": "FR",
-    "lat": 47.75238,
-    "lng": -3.51134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312115546/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54241,17 +54131,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "CN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -54325,17 +54204,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "CN",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56811,6 +56679,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "CN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59462,17 +59341,6 @@
     "lat": 46.53629,
     "lng": 12.13663,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1617883750/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1312115546",
-    "name": "Guidel: Plage du Loch",
-    "city": "Guidel",
-    "countryCode": "CN",
-    "lat": 47.75238,
-    "lng": -3.51134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312115546/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65065,17 +64933,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "KR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -65149,17 +65006,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "KR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67635,6 +67481,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "KR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70286,17 +70143,6 @@
     "lat": 46.53629,
     "lng": 12.13663,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1617883750/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1312115546",
-    "name": "Guidel: Plage du Loch",
-    "city": "Guidel",
-    "countryCode": "KR",
-    "lat": 47.75238,
-    "lng": -3.51134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312115546/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75889,17 +75735,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "IN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -75973,17 +75808,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "IN",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78459,6 +78283,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "IN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81110,17 +80945,6 @@
     "lat": 46.53629,
     "lng": 12.13663,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1617883750/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1312115546",
-    "name": "Guidel: Plage du Loch",
-    "city": "Guidel",
-    "countryCode": "IN",
-    "lat": 47.75238,
-    "lng": -3.51134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312115546/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86713,17 +86537,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "BR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -86797,17 +86610,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "BR",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89283,6 +89085,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "BR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91934,17 +91747,6 @@
     "lat": 46.53629,
     "lng": 12.13663,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1617883750/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1312115546",
-    "name": "Guidel: Plage du Loch",
-    "city": "Guidel",
-    "countryCode": "BR",
-    "lat": 47.75238,
-    "lng": -3.51134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312115546/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97537,17 +97339,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "AU",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -97621,17 +97412,6 @@
     "lat": 52.46344,
     "lng": 17.85707,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1531049481/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1513089804",
-    "name": "Chennai: Tamil Nadu - North-North West",
-    "city": "Chennai",
-    "countryCode": "AU",
-    "lat": 12.45619,
-    "lng": 80.1182,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100107,6 +99887,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "AU",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102758,17 +102549,6 @@
     "lat": 46.53629,
     "lng": 12.13663,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1617883750/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1312115546",
-    "name": "Guidel: Plage du Loch",
-    "city": "Guidel",
-    "countryCode": "AU",
-    "lat": 47.75238,
-    "lng": -3.51134,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1312115546/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
