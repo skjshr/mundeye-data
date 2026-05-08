@@ -78,25 +78,5 @@
     "timestamp": "2026-05-07T11:32:01.976Z",
     "description": "M 4.5 - 123 km S of Vilyuchinsk, Russia",
     "source": "USGS"
-  },
-  {
-    "id": "us6000svw1",
-    "type": "earthquake",
-    "lat": -27.3997,
-    "lng": -176.6255,
-    "intensity": 5.3,
-    "timestamp": "2026-05-07T08:53:28.180Z",
-    "description": "M 5.3 - Kermadec Islands region",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000svvr",
-    "type": "earthquake",
-    "lat": 14.1541,
-    "lng": -93.13,
-    "intensity": 4.7,
-    "timestamp": "2026-05-07T08:13:51.397Z",
-    "description": "M 4.7 - 98 km SW of Puerto Madero, Mexico",
-    "source": "USGS"
   }
 ]
