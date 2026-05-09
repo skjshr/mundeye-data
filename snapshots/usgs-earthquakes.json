@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000swe0",
+    "type": "earthquake",
+    "lat": -2.1622,
+    "lng": 139.0989,
+    "intensity": 4.6,
+    "timestamp": "2026-05-09T00:10:26.670Z",
+    "description": "M 4.6 - 177 km WNW of Abepura, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swcg",
     "type": "earthquake",
     "lat": -2.8144,
