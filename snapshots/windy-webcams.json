@@ -2145,6 +2145,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -2636,6 +2647,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "JP",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5775,17 +5797,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "JP",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -5826,6 +5837,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "JP",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10523,17 +10545,6 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "JP",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12991,6 +13002,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -13482,6 +13504,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "US",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16621,17 +16654,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "US",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -16672,6 +16694,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "US",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21369,17 +21402,6 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "US",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23837,6 +23859,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -24328,6 +24361,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "GB",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27467,17 +27511,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "GB",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -27518,6 +27551,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "GB",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32215,17 +32259,6 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "GB",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34683,6 +34716,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -35174,6 +35218,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "DE",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38313,17 +38368,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "DE",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -38364,6 +38408,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "DE",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43061,17 +43116,6 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "DE",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45529,6 +45573,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -46020,6 +46075,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "FR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49159,17 +49225,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "FR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -49210,6 +49265,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "FR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53907,17 +53973,6 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "FR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56375,6 +56430,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -56866,6 +56932,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "CN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60005,17 +60082,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "CN",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -60056,6 +60122,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "CN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64753,17 +64830,6 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "CN",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67221,6 +67287,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -67712,6 +67789,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "KR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70851,17 +70939,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "KR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -70902,6 +70979,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "KR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75599,17 +75687,6 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "KR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78067,6 +78144,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -78558,6 +78646,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "IN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81697,17 +81796,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "IN",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -81748,6 +81836,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "IN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86445,17 +86544,6 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "IN",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88913,6 +89001,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -89404,6 +89503,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "BR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92543,17 +92653,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "BR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -92594,6 +92693,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "BR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97291,17 +97401,6 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "BR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99759,6 +99858,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -100250,6 +100360,17 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "AU",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103389,17 +103510,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "AU",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -103440,6 +103550,17 @@
     "lat": 50.64956,
     "lng": 13.64694,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "AU",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108137,17 +108258,6 @@
     "lat": -23.33225,
     "lng": -46.70938,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1580415336/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "AU",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
