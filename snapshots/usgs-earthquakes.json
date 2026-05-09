@@ -88,35 +88,5 @@
     "timestamp": "2026-05-08T17:10:18.808Z",
     "description": "M 4.6 - 117 km ENE of Miyako, Japan",
     "source": "USGS"
-  },
-  {
-    "id": "us6000sw71",
-    "type": "earthquake",
-    "lat": -2.9327,
-    "lng": 147.7874,
-    "intensity": 4.9,
-    "timestamp": "2026-05-08T12:38:37.970Z",
-    "description": "M 4.9 - 114 km SSE of Lorengau, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sw6y",
-    "type": "earthquake",
-    "lat": -2.9127,
-    "lng": 147.7321,
-    "intensity": 5.6,
-    "timestamp": "2026-05-08T12:22:31.861Z",
-    "description": "M 5.6 - 109 km SSE of Lorengau, Papua New Guinea",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sw6v",
-    "type": "earthquake",
-    "lat": -2.8549,
-    "lng": 147.8959,
-    "intensity": 4.7,
-    "timestamp": "2026-05-08T12:06:02.939Z",
-    "description": "M 4.7 - 114 km SE of Lorengau, Papua New Guinea",
-    "source": "USGS"
   }
 ]

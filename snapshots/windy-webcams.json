@@ -121,17 +121,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "JP",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -1881,6 +1870,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "JP",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -2915,6 +2915,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "JP",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -3103,7 +3114,7 @@
   },
   {
     "id": "windy-1384974004",
-    "name": "Cabo San Lucas: Villa del Arco, beach",
+    "name": "Cabo San Lucas › South: Playa 8 cascadas - Pelican Rock - Playa Coral Negro",
     "city": "Cabo San Lucas",
     "countryCode": "JP",
     "lat": 22.89358,
@@ -3520,17 +3531,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
-    "countryCode": "JP",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391976707",
     "name": "Barentsburg: Isfjord Radio, Spitsbergen",
     "city": "Barentsburg",
@@ -3538,6 +3538,17 @@
     "lat": 78.06057,
     "lng": 13.65189,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391976707/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
+    "countryCode": "JP",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3631,11 +3642,11 @@
   },
   {
     "id": "windy-1467096063",
-    "name": "Victoria › North-east: Gozo Malta: case, strade, colline mare",
+    "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
     "countryCode": "JP",
-    "lat": 36.04839,
-    "lng": 14.24459,
+    "lat": 36.04833,
+    "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -4048,17 +4059,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1579629203",
-    "name": "Real Sitio de San Ildefonso",
-    "city": "Real Sitio de San Ildefonso",
-    "countryCode": "JP",
-    "lat": 40.78907,
-    "lng": -4.00394,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -4066,6 +4066,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579629203",
+    "name": "Real Sitio de San Ildefonso",
+    "city": "Real Sitio de San Ildefonso",
+    "countryCode": "JP",
+    "lat": 40.78907,
+    "lng": -4.00394,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4983,17 +4994,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "JP",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -5001,6 +5001,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "JP",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6633,6 +6644,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "JP",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -7799,17 +7821,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "JP",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -7817,6 +7828,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "JP",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8855,17 +8877,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "JP",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1332198295",
     "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
     "city": "Puerto del Rosario",
@@ -8873,6 +8884,17 @@
     "lat": 28.49344,
     "lng": -13.86612,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1378260136",
+    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
+    "city": "Borkum",
+    "countryCode": "JP",
+    "lat": 53.94773,
+    "lng": 6.59236,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9108,17 +9130,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "JP",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -9126,6 +9137,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "JP",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10615,17 +10637,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1313745880",
-    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
-    "city": "Beatenberg",
-    "countryCode": "JP",
-    "lat": 46.70009,
-    "lng": 7.81521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575671482",
     "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
     "city": "Hamburg",
@@ -10633,6 +10644,17 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1313745880",
+    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
+    "city": "Beatenberg",
+    "countryCode": "JP",
+    "lat": 46.70009,
+    "lng": 7.81521,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10853,6 +10875,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1416154217",
+    "name": "Vilnius: Vilniaus širdis",
+    "city": "Vilnius",
+    "countryCode": "JP",
+    "lat": 54.68496,
+    "lng": 25.2855,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10978,17 +11011,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "US",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -12738,6 +12760,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "US",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -13772,6 +13805,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "US",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -13960,7 +14004,7 @@
   },
   {
     "id": "windy-1384974004",
-    "name": "Cabo San Lucas: Villa del Arco, beach",
+    "name": "Cabo San Lucas › South: Playa 8 cascadas - Pelican Rock - Playa Coral Negro",
     "city": "Cabo San Lucas",
     "countryCode": "US",
     "lat": 22.89358,
@@ -14377,17 +14421,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
-    "countryCode": "US",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391976707",
     "name": "Barentsburg: Isfjord Radio, Spitsbergen",
     "city": "Barentsburg",
@@ -14395,6 +14428,17 @@
     "lat": 78.06057,
     "lng": 13.65189,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391976707/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
+    "countryCode": "US",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14488,11 +14532,11 @@
   },
   {
     "id": "windy-1467096063",
-    "name": "Victoria › North-east: Gozo Malta: case, strade, colline mare",
+    "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
     "countryCode": "US",
-    "lat": 36.04839,
-    "lng": 14.24459,
+    "lat": 36.04833,
+    "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -14905,17 +14949,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1579629203",
-    "name": "Real Sitio de San Ildefonso",
-    "city": "Real Sitio de San Ildefonso",
-    "countryCode": "US",
-    "lat": 40.78907,
-    "lng": -4.00394,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -14923,6 +14956,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579629203",
+    "name": "Real Sitio de San Ildefonso",
+    "city": "Real Sitio de San Ildefonso",
+    "countryCode": "US",
+    "lat": 40.78907,
+    "lng": -4.00394,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15840,17 +15884,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "US",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -15858,6 +15891,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "US",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17490,6 +17534,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "US",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -18656,17 +18711,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "US",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -18674,6 +18718,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "US",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19712,17 +19767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "US",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1332198295",
     "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
     "city": "Puerto del Rosario",
@@ -19730,6 +19774,17 @@
     "lat": 28.49344,
     "lng": -13.86612,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1378260136",
+    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
+    "city": "Borkum",
+    "countryCode": "US",
+    "lat": 53.94773,
+    "lng": 6.59236,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19965,17 +20020,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "US",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -19983,6 +20027,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "US",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21472,17 +21527,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1313745880",
-    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
-    "city": "Beatenberg",
-    "countryCode": "US",
-    "lat": 46.70009,
-    "lng": 7.81521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575671482",
     "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
     "city": "Hamburg",
@@ -21490,6 +21534,17 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1313745880",
+    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
+    "city": "Beatenberg",
+    "countryCode": "US",
+    "lat": 46.70009,
+    "lng": 7.81521,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21710,6 +21765,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1416154217",
+    "name": "Vilnius: Vilniaus širdis",
+    "city": "Vilnius",
+    "countryCode": "US",
+    "lat": 54.68496,
+    "lng": 25.2855,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21835,17 +21901,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "GB",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -23595,6 +23650,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "GB",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -24629,6 +24695,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "GB",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -24817,7 +24894,7 @@
   },
   {
     "id": "windy-1384974004",
-    "name": "Cabo San Lucas: Villa del Arco, beach",
+    "name": "Cabo San Lucas › South: Playa 8 cascadas - Pelican Rock - Playa Coral Negro",
     "city": "Cabo San Lucas",
     "countryCode": "GB",
     "lat": 22.89358,
@@ -25234,17 +25311,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
-    "countryCode": "GB",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391976707",
     "name": "Barentsburg: Isfjord Radio, Spitsbergen",
     "city": "Barentsburg",
@@ -25252,6 +25318,17 @@
     "lat": 78.06057,
     "lng": 13.65189,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391976707/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
+    "countryCode": "GB",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25345,11 +25422,11 @@
   },
   {
     "id": "windy-1467096063",
-    "name": "Victoria › North-east: Gozo Malta: case, strade, colline mare",
+    "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
     "countryCode": "GB",
-    "lat": 36.04839,
-    "lng": 14.24459,
+    "lat": 36.04833,
+    "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -25762,17 +25839,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1579629203",
-    "name": "Real Sitio de San Ildefonso",
-    "city": "Real Sitio de San Ildefonso",
-    "countryCode": "GB",
-    "lat": 40.78907,
-    "lng": -4.00394,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -25780,6 +25846,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579629203",
+    "name": "Real Sitio de San Ildefonso",
+    "city": "Real Sitio de San Ildefonso",
+    "countryCode": "GB",
+    "lat": 40.78907,
+    "lng": -4.00394,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26697,17 +26774,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "GB",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -26715,6 +26781,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "GB",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28347,6 +28424,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "GB",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -29513,17 +29601,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "GB",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -29531,6 +29608,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "GB",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30569,17 +30657,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "GB",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1332198295",
     "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
     "city": "Puerto del Rosario",
@@ -30587,6 +30664,17 @@
     "lat": 28.49344,
     "lng": -13.86612,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1378260136",
+    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
+    "city": "Borkum",
+    "countryCode": "GB",
+    "lat": 53.94773,
+    "lng": 6.59236,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30822,17 +30910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "GB",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -30840,6 +30917,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "GB",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32329,17 +32417,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1313745880",
-    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
-    "city": "Beatenberg",
-    "countryCode": "GB",
-    "lat": 46.70009,
-    "lng": 7.81521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575671482",
     "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
     "city": "Hamburg",
@@ -32347,6 +32424,17 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1313745880",
+    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
+    "city": "Beatenberg",
+    "countryCode": "GB",
+    "lat": 46.70009,
+    "lng": 7.81521,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32567,6 +32655,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1416154217",
+    "name": "Vilnius: Vilniaus širdis",
+    "city": "Vilnius",
+    "countryCode": "GB",
+    "lat": 54.68496,
+    "lng": 25.2855,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32692,17 +32791,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "DE",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -34452,6 +34540,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "DE",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -35486,6 +35585,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "DE",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -35674,7 +35784,7 @@
   },
   {
     "id": "windy-1384974004",
-    "name": "Cabo San Lucas: Villa del Arco, beach",
+    "name": "Cabo San Lucas › South: Playa 8 cascadas - Pelican Rock - Playa Coral Negro",
     "city": "Cabo San Lucas",
     "countryCode": "DE",
     "lat": 22.89358,
@@ -36091,17 +36201,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
-    "countryCode": "DE",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391976707",
     "name": "Barentsburg: Isfjord Radio, Spitsbergen",
     "city": "Barentsburg",
@@ -36109,6 +36208,17 @@
     "lat": 78.06057,
     "lng": 13.65189,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391976707/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
+    "countryCode": "DE",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36202,11 +36312,11 @@
   },
   {
     "id": "windy-1467096063",
-    "name": "Victoria › North-east: Gozo Malta: case, strade, colline mare",
+    "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
     "countryCode": "DE",
-    "lat": 36.04839,
-    "lng": 14.24459,
+    "lat": 36.04833,
+    "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -36619,17 +36729,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1579629203",
-    "name": "Real Sitio de San Ildefonso",
-    "city": "Real Sitio de San Ildefonso",
-    "countryCode": "DE",
-    "lat": 40.78907,
-    "lng": -4.00394,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -36637,6 +36736,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579629203",
+    "name": "Real Sitio de San Ildefonso",
+    "city": "Real Sitio de San Ildefonso",
+    "countryCode": "DE",
+    "lat": 40.78907,
+    "lng": -4.00394,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37554,17 +37664,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "DE",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -37572,6 +37671,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "DE",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39204,6 +39314,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "DE",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -40370,17 +40491,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "DE",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -40388,6 +40498,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "DE",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41426,17 +41547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "DE",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1332198295",
     "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
     "city": "Puerto del Rosario",
@@ -41444,6 +41554,17 @@
     "lat": 28.49344,
     "lng": -13.86612,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1378260136",
+    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
+    "city": "Borkum",
+    "countryCode": "DE",
+    "lat": 53.94773,
+    "lng": 6.59236,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41679,17 +41800,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "DE",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -41697,6 +41807,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "DE",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43186,17 +43307,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1313745880",
-    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
-    "city": "Beatenberg",
-    "countryCode": "DE",
-    "lat": 46.70009,
-    "lng": 7.81521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575671482",
     "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
     "city": "Hamburg",
@@ -43204,6 +43314,17 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1313745880",
+    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
+    "city": "Beatenberg",
+    "countryCode": "DE",
+    "lat": 46.70009,
+    "lng": 7.81521,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43424,6 +43545,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1416154217",
+    "name": "Vilnius: Vilniaus širdis",
+    "city": "Vilnius",
+    "countryCode": "DE",
+    "lat": 54.68496,
+    "lng": 25.2855,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43549,17 +43681,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "FR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -45309,6 +45430,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "FR",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -46343,6 +46475,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "FR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -46531,7 +46674,7 @@
   },
   {
     "id": "windy-1384974004",
-    "name": "Cabo San Lucas: Villa del Arco, beach",
+    "name": "Cabo San Lucas › South: Playa 8 cascadas - Pelican Rock - Playa Coral Negro",
     "city": "Cabo San Lucas",
     "countryCode": "FR",
     "lat": 22.89358,
@@ -46948,17 +47091,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
-    "countryCode": "FR",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391976707",
     "name": "Barentsburg: Isfjord Radio, Spitsbergen",
     "city": "Barentsburg",
@@ -46966,6 +47098,17 @@
     "lat": 78.06057,
     "lng": 13.65189,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391976707/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
+    "countryCode": "FR",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47059,11 +47202,11 @@
   },
   {
     "id": "windy-1467096063",
-    "name": "Victoria › North-east: Gozo Malta: case, strade, colline mare",
+    "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
     "countryCode": "FR",
-    "lat": 36.04839,
-    "lng": 14.24459,
+    "lat": 36.04833,
+    "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -47476,17 +47619,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1579629203",
-    "name": "Real Sitio de San Ildefonso",
-    "city": "Real Sitio de San Ildefonso",
-    "countryCode": "FR",
-    "lat": 40.78907,
-    "lng": -4.00394,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -47494,6 +47626,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579629203",
+    "name": "Real Sitio de San Ildefonso",
+    "city": "Real Sitio de San Ildefonso",
+    "countryCode": "FR",
+    "lat": 40.78907,
+    "lng": -4.00394,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48411,17 +48554,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "FR",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -48429,6 +48561,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "FR",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50061,6 +50204,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "FR",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -51227,17 +51381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "FR",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -51245,6 +51388,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "FR",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52283,17 +52437,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "FR",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1332198295",
     "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
     "city": "Puerto del Rosario",
@@ -52301,6 +52444,17 @@
     "lat": 28.49344,
     "lng": -13.86612,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1378260136",
+    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
+    "city": "Borkum",
+    "countryCode": "FR",
+    "lat": 53.94773,
+    "lng": 6.59236,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52536,17 +52690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "FR",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -52554,6 +52697,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "FR",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54043,17 +54197,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1313745880",
-    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
-    "city": "Beatenberg",
-    "countryCode": "FR",
-    "lat": 46.70009,
-    "lng": 7.81521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575671482",
     "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
     "city": "Hamburg",
@@ -54061,6 +54204,17 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1313745880",
+    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
+    "city": "Beatenberg",
+    "countryCode": "FR",
+    "lat": 46.70009,
+    "lng": 7.81521,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54281,6 +54435,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1416154217",
+    "name": "Vilnius: Vilniaus širdis",
+    "city": "Vilnius",
+    "countryCode": "FR",
+    "lat": 54.68496,
+    "lng": 25.2855,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54406,17 +54571,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "CN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -56166,6 +56320,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "CN",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -57200,6 +57365,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "CN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -57388,7 +57564,7 @@
   },
   {
     "id": "windy-1384974004",
-    "name": "Cabo San Lucas: Villa del Arco, beach",
+    "name": "Cabo San Lucas › South: Playa 8 cascadas - Pelican Rock - Playa Coral Negro",
     "city": "Cabo San Lucas",
     "countryCode": "CN",
     "lat": 22.89358,
@@ -57805,17 +57981,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
-    "countryCode": "CN",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391976707",
     "name": "Barentsburg: Isfjord Radio, Spitsbergen",
     "city": "Barentsburg",
@@ -57823,6 +57988,17 @@
     "lat": 78.06057,
     "lng": 13.65189,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391976707/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
+    "countryCode": "CN",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57916,11 +58092,11 @@
   },
   {
     "id": "windy-1467096063",
-    "name": "Victoria › North-east: Gozo Malta: case, strade, colline mare",
+    "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
     "countryCode": "CN",
-    "lat": 36.04839,
-    "lng": 14.24459,
+    "lat": 36.04833,
+    "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -58333,17 +58509,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1579629203",
-    "name": "Real Sitio de San Ildefonso",
-    "city": "Real Sitio de San Ildefonso",
-    "countryCode": "CN",
-    "lat": 40.78907,
-    "lng": -4.00394,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -58351,6 +58516,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579629203",
+    "name": "Real Sitio de San Ildefonso",
+    "city": "Real Sitio de San Ildefonso",
+    "countryCode": "CN",
+    "lat": 40.78907,
+    "lng": -4.00394,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59268,17 +59444,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "CN",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -59286,6 +59451,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "CN",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60918,6 +61094,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "CN",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -62084,17 +62271,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "CN",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -62102,6 +62278,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "CN",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63140,17 +63327,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "CN",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1332198295",
     "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
     "city": "Puerto del Rosario",
@@ -63158,6 +63334,17 @@
     "lat": 28.49344,
     "lng": -13.86612,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1378260136",
+    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
+    "city": "Borkum",
+    "countryCode": "CN",
+    "lat": 53.94773,
+    "lng": 6.59236,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63393,17 +63580,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "CN",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -63411,6 +63587,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "CN",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64900,17 +65087,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1313745880",
-    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
-    "city": "Beatenberg",
-    "countryCode": "CN",
-    "lat": 46.70009,
-    "lng": 7.81521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575671482",
     "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
     "city": "Hamburg",
@@ -64918,6 +65094,17 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1313745880",
+    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
+    "city": "Beatenberg",
+    "countryCode": "CN",
+    "lat": 46.70009,
+    "lng": 7.81521,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65138,6 +65325,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1416154217",
+    "name": "Vilnius: Vilniaus širdis",
+    "city": "Vilnius",
+    "countryCode": "CN",
+    "lat": 54.68496,
+    "lng": 25.2855,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65263,17 +65461,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "KR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -67023,6 +67210,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "KR",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -68057,6 +68255,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "KR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -68245,7 +68454,7 @@
   },
   {
     "id": "windy-1384974004",
-    "name": "Cabo San Lucas: Villa del Arco, beach",
+    "name": "Cabo San Lucas › South: Playa 8 cascadas - Pelican Rock - Playa Coral Negro",
     "city": "Cabo San Lucas",
     "countryCode": "KR",
     "lat": 22.89358,
@@ -68662,17 +68871,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
-    "countryCode": "KR",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391976707",
     "name": "Barentsburg: Isfjord Radio, Spitsbergen",
     "city": "Barentsburg",
@@ -68680,6 +68878,17 @@
     "lat": 78.06057,
     "lng": 13.65189,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391976707/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
+    "countryCode": "KR",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68773,11 +68982,11 @@
   },
   {
     "id": "windy-1467096063",
-    "name": "Victoria › North-east: Gozo Malta: case, strade, colline mare",
+    "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
     "countryCode": "KR",
-    "lat": 36.04839,
-    "lng": 14.24459,
+    "lat": 36.04833,
+    "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -69190,17 +69399,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1579629203",
-    "name": "Real Sitio de San Ildefonso",
-    "city": "Real Sitio de San Ildefonso",
-    "countryCode": "KR",
-    "lat": 40.78907,
-    "lng": -4.00394,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -69208,6 +69406,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579629203",
+    "name": "Real Sitio de San Ildefonso",
+    "city": "Real Sitio de San Ildefonso",
+    "countryCode": "KR",
+    "lat": 40.78907,
+    "lng": -4.00394,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70125,17 +70334,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "KR",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -70143,6 +70341,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "KR",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71775,6 +71984,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "KR",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -72941,17 +73161,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "KR",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -72959,6 +73168,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "KR",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73997,17 +74217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "KR",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1332198295",
     "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
     "city": "Puerto del Rosario",
@@ -74015,6 +74224,17 @@
     "lat": 28.49344,
     "lng": -13.86612,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1378260136",
+    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
+    "city": "Borkum",
+    "countryCode": "KR",
+    "lat": 53.94773,
+    "lng": 6.59236,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74250,17 +74470,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "KR",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -74268,6 +74477,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "KR",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75757,17 +75977,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1313745880",
-    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
-    "city": "Beatenberg",
-    "countryCode": "KR",
-    "lat": 46.70009,
-    "lng": 7.81521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575671482",
     "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
     "city": "Hamburg",
@@ -75775,6 +75984,17 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1313745880",
+    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
+    "city": "Beatenberg",
+    "countryCode": "KR",
+    "lat": 46.70009,
+    "lng": 7.81521,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75995,6 +76215,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1416154217",
+    "name": "Vilnius: Vilniaus širdis",
+    "city": "Vilnius",
+    "countryCode": "KR",
+    "lat": 54.68496,
+    "lng": 25.2855,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76120,17 +76351,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "IN",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -77880,6 +78100,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "IN",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -78914,6 +79145,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "IN",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -79102,7 +79344,7 @@
   },
   {
     "id": "windy-1384974004",
-    "name": "Cabo San Lucas: Villa del Arco, beach",
+    "name": "Cabo San Lucas › South: Playa 8 cascadas - Pelican Rock - Playa Coral Negro",
     "city": "Cabo San Lucas",
     "countryCode": "IN",
     "lat": 22.89358,
@@ -79519,17 +79761,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
-    "countryCode": "IN",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391976707",
     "name": "Barentsburg: Isfjord Radio, Spitsbergen",
     "city": "Barentsburg",
@@ -79537,6 +79768,17 @@
     "lat": 78.06057,
     "lng": 13.65189,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391976707/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
+    "countryCode": "IN",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79630,11 +79872,11 @@
   },
   {
     "id": "windy-1467096063",
-    "name": "Victoria › North-east: Gozo Malta: case, strade, colline mare",
+    "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
     "countryCode": "IN",
-    "lat": 36.04839,
-    "lng": 14.24459,
+    "lat": 36.04833,
+    "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -80047,17 +80289,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1579629203",
-    "name": "Real Sitio de San Ildefonso",
-    "city": "Real Sitio de San Ildefonso",
-    "countryCode": "IN",
-    "lat": 40.78907,
-    "lng": -4.00394,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -80065,6 +80296,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579629203",
+    "name": "Real Sitio de San Ildefonso",
+    "city": "Real Sitio de San Ildefonso",
+    "countryCode": "IN",
+    "lat": 40.78907,
+    "lng": -4.00394,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80982,17 +81224,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "IN",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -81000,6 +81231,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "IN",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82632,6 +82874,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "IN",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -83798,17 +84051,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "IN",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -83816,6 +84058,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "IN",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84854,17 +85107,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "IN",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1332198295",
     "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
     "city": "Puerto del Rosario",
@@ -84872,6 +85114,17 @@
     "lat": 28.49344,
     "lng": -13.86612,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1378260136",
+    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
+    "city": "Borkum",
+    "countryCode": "IN",
+    "lat": 53.94773,
+    "lng": 6.59236,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85107,17 +85360,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "IN",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -85125,6 +85367,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "IN",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86614,17 +86867,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1313745880",
-    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
-    "city": "Beatenberg",
-    "countryCode": "IN",
-    "lat": 46.70009,
-    "lng": 7.81521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575671482",
     "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
     "city": "Hamburg",
@@ -86632,6 +86874,17 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1313745880",
+    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
+    "city": "Beatenberg",
+    "countryCode": "IN",
+    "lat": 46.70009,
+    "lng": 7.81521,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86852,6 +87105,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1416154217",
+    "name": "Vilnius: Vilniaus širdis",
+    "city": "Vilnius",
+    "countryCode": "IN",
+    "lat": 54.68496,
+    "lng": 25.2855,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86977,17 +87241,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "BR",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -88737,6 +88990,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "BR",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -89771,6 +90035,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "BR",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -89959,7 +90234,7 @@
   },
   {
     "id": "windy-1384974004",
-    "name": "Cabo San Lucas: Villa del Arco, beach",
+    "name": "Cabo San Lucas › South: Playa 8 cascadas - Pelican Rock - Playa Coral Negro",
     "city": "Cabo San Lucas",
     "countryCode": "BR",
     "lat": 22.89358,
@@ -90376,17 +90651,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
-    "countryCode": "BR",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391976707",
     "name": "Barentsburg: Isfjord Radio, Spitsbergen",
     "city": "Barentsburg",
@@ -90394,6 +90658,17 @@
     "lat": 78.06057,
     "lng": 13.65189,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391976707/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
+    "countryCode": "BR",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90487,11 +90762,11 @@
   },
   {
     "id": "windy-1467096063",
-    "name": "Victoria › North-east: Gozo Malta: case, strade, colline mare",
+    "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
     "countryCode": "BR",
-    "lat": 36.04839,
-    "lng": 14.24459,
+    "lat": 36.04833,
+    "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -90904,17 +91179,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1579629203",
-    "name": "Real Sitio de San Ildefonso",
-    "city": "Real Sitio de San Ildefonso",
-    "countryCode": "BR",
-    "lat": 40.78907,
-    "lng": -4.00394,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -90922,6 +91186,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579629203",
+    "name": "Real Sitio de San Ildefonso",
+    "city": "Real Sitio de San Ildefonso",
+    "countryCode": "BR",
+    "lat": 40.78907,
+    "lng": -4.00394,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91839,17 +92114,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "BR",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -91857,6 +92121,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "BR",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93489,6 +93764,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "BR",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -94655,17 +94941,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "BR",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -94673,6 +94948,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "BR",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95711,17 +95997,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "BR",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1332198295",
     "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
     "city": "Puerto del Rosario",
@@ -95729,6 +96004,17 @@
     "lat": 28.49344,
     "lng": -13.86612,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1378260136",
+    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
+    "city": "Borkum",
+    "countryCode": "BR",
+    "lat": 53.94773,
+    "lng": 6.59236,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95964,17 +96250,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "BR",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -95982,6 +96257,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "BR",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97471,17 +97757,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1313745880",
-    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
-    "city": "Beatenberg",
-    "countryCode": "BR",
-    "lat": 46.70009,
-    "lng": 7.81521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575671482",
     "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
     "city": "Hamburg",
@@ -97489,6 +97764,17 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1313745880",
+    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
+    "city": "Beatenberg",
+    "countryCode": "BR",
+    "lat": 46.70009,
+    "lng": 7.81521,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97709,6 +97995,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1416154217",
+    "name": "Vilnius: Vilniaus širdis",
+    "city": "Vilnius",
+    "countryCode": "BR",
+    "lat": 54.68496,
+    "lng": 25.2855,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97834,17 +98131,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1171132133",
-    "name": "Honolulu: Beach",
-    "city": "Honolulu",
-    "countryCode": "AU",
-    "lat": 21.29701,
-    "lng": -157.86688,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -99594,6 +99880,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1229546637",
+    "name": "Naifaru: Kuredu Island Resort & Spa",
+    "city": "Naifaru",
+    "countryCode": "AU",
+    "lat": 5.54924,
+    "lng": 73.46516,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229546637/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1296561174",
     "name": "Κ. Παύλιανης › South: Pavliani › South: Καταφύγιο − Οίτη",
     "city": "unknown",
@@ -100628,6 +100925,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1268964748",
+    "name": "Leavenworth: Fish Lake - Washington",
+    "city": "Leavenworth",
+    "countryCode": "AU",
+    "lat": 47.83006,
+    "lng": -120.707,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1268964748/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -100816,7 +101124,7 @@
   },
   {
     "id": "windy-1384974004",
-    "name": "Cabo San Lucas: Villa del Arco, beach",
+    "name": "Cabo San Lucas › South: Playa 8 cascadas - Pelican Rock - Playa Coral Negro",
     "city": "Cabo San Lucas",
     "countryCode": "AU",
     "lat": 22.89358,
@@ -101233,17 +101541,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1349708404",
-    "name": "Wimereux: Digue Promenade Michel Hamiot",
-    "city": "Wimereux",
-    "countryCode": "AU",
-    "lat": 50.76399,
-    "lng": 1.60609,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1391976707",
     "name": "Barentsburg: Isfjord Radio, Spitsbergen",
     "city": "Barentsburg",
@@ -101251,6 +101548,17 @@
     "lat": 78.06057,
     "lng": 13.65189,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1391976707/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1349708404",
+    "name": "Wimereux: Digue Promenade Michel Hamiot",
+    "city": "Wimereux",
+    "countryCode": "AU",
+    "lat": 50.76399,
+    "lng": 1.60609,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1349708404/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101344,11 +101652,11 @@
   },
   {
     "id": "windy-1467096063",
-    "name": "Victoria › North-east: Gozo Malta: case, strade, colline mare",
+    "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
     "countryCode": "AU",
-    "lat": 36.04839,
-    "lng": 14.24459,
+    "lat": 36.04833,
+    "lng": 14.24444,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467096063/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -101761,17 +102069,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1579629203",
-    "name": "Real Sitio de San Ildefonso",
-    "city": "Real Sitio de San Ildefonso",
-    "countryCode": "AU",
-    "lat": 40.78907,
-    "lng": -4.00394,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1478340902",
     "name": "Ibiza: Stadt - Balearische Inseln, Spanien",
     "city": "unknown",
@@ -101779,6 +102076,17 @@
     "lat": 38.9119,
     "lng": 1.43425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478340902/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1579629203",
+    "name": "Real Sitio de San Ildefonso",
+    "city": "Real Sitio de San Ildefonso",
+    "countryCode": "AU",
+    "lat": 40.78907,
+    "lng": -4.00394,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579629203/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102696,17 +103004,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1292513230",
-    "name": "Zinal: Grimentz",
-    "city": "Zinal",
-    "countryCode": "AU",
-    "lat": 46.14478,
-    "lng": 7.6037,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1401283880",
     "name": "Monte: Pico do Arieiro",
     "city": "Monte",
@@ -102714,6 +103011,17 @@
     "lat": 32.73565,
     "lng": -16.92846,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1401283880/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1292513230",
+    "name": "Zinal: Grimentz",
+    "city": "Zinal",
+    "countryCode": "AU",
+    "lat": 46.14478,
+    "lng": 7.6037,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513230/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104346,6 +104654,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "AU",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1197885308",
     "name": "Savines-le-Lac › West: Lac de Serre-Poncon",
     "city": "Savines-le-Lac",
@@ -105512,17 +105831,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1573770736",
-    "name": "Kittila › North: Levi - Tuikku",
-    "city": "Kittila",
-    "countryCode": "AU",
-    "lat": 67.79125,
-    "lng": 24.84657,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1252945368",
     "name": "Barcelona: Port - Moll de la Fusta (looking to North-East)",
     "city": "Barcelona",
@@ -105530,6 +105838,17 @@
     "lat": 41.37747,
     "lng": 2.17965,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1252945368/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1573770736",
+    "name": "Kittila › North: Levi - Tuikku",
+    "city": "Kittila",
+    "countryCode": "AU",
+    "lat": 67.79125,
+    "lng": 24.84657,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1573770736/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106568,17 +106887,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1378260136",
-    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
-    "city": "Borkum",
-    "countryCode": "AU",
-    "lat": 53.94773,
-    "lng": 6.59236,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1332198295",
     "name": "Puerto del Rosario: Puerto Cabras - Fuerteventura",
     "city": "Puerto del Rosario",
@@ -106586,6 +106894,17 @@
     "lat": 28.49344,
     "lng": -13.86612,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1332198295/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1378260136",
+    "name": "Borkum: Alpha Ventus Offshore Wind Farm",
+    "city": "Borkum",
+    "countryCode": "AU",
+    "lat": 53.94773,
+    "lng": 6.59236,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1378260136/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106821,17 +107140,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1333200036",
-    "name": "Veysonnaz: Sportneige",
-    "city": "Veysonnaz",
-    "countryCode": "AU",
-    "lat": 46.19225,
-    "lng": 7.33814,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1606333312",
     "name": "Madrid: Sol: GRAN VIA - CLAVEL",
     "city": "Madrid",
@@ -106839,6 +107147,17 @@
     "lat": 40.41974,
     "lng": -3.69976,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1333200036",
+    "name": "Veysonnaz: Sportneige",
+    "city": "Veysonnaz",
+    "countryCode": "AU",
+    "lat": 46.19225,
+    "lng": 7.33814,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333200036/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108328,17 +108647,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1313745880",
-    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
-    "city": "Beatenberg",
-    "countryCode": "AU",
-    "lat": 46.70009,
-    "lng": 7.81521,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575671482",
     "name": "Hamburg: Livespotting - Live aus der Hasestadt - am Kontorhausviertel",
     "city": "Hamburg",
@@ -108346,6 +108654,17 @@
     "lat": 53.54855,
     "lng": 10.00145,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575671482/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1313745880",
+    "name": "Beatenberg: swissmountainview.ch - Lake Thun - Niesen",
+    "city": "Beatenberg",
+    "countryCode": "AU",
+    "lat": 46.70009,
+    "lng": 7.81521,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1313745880/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108566,6 +108885,17 @@
     "lat": 54.58365,
     "lng": 10.02588,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309247619/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1416154217",
+    "name": "Vilnius: Vilniaus širdis",
+    "city": "Vilnius",
+    "countryCode": "AU",
+    "lat": 54.68496,
+    "lng": 25.2855,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1416154217/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
