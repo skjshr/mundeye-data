@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000swsg",
+    "type": "earthquake",
+    "lat": 36.7079,
+    "lng": 26.7078,
+    "intensity": 4.7,
+    "timestamp": "2026-05-10T20:29:54.713Z",
+    "description": "M 4.7 - 22 km W of Kéfalos, Greece",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sws5",
+    "type": "earthquake",
+    "lat": 20.495,
+    "lng": 94.1576,
+    "intensity": 5,
+    "timestamp": "2026-05-10T19:36:36.864Z",
+    "description": "M 5.0 - 74 km W of Yenangyaung, Burma (Myanmar)",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swr8",
     "type": "earthquake",
     "lat": -16.8014,
@@ -17,6 +37,16 @@
     "intensity": 5.2,
     "timestamp": "2026-05-10T16:34:33.326Z",
     "description": "M 5.2 - 27 km WSW of Madang, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000swr0",
+    "type": "earthquake",
+    "lat": 0.6495,
+    "lng": 126.0166,
+    "intensity": 4.5,
+    "timestamp": "2026-05-10T15:53:24.021Z",
+    "description": "M 4.5 - 132 km SE of Bitung, Indonesia",
     "source": "USGS"
   },
   {
@@ -107,26 +137,6 @@
     "intensity": 4.9,
     "timestamp": "2026-05-09T21:52:46.536Z",
     "description": "M 4.9 - 57 km WNW of Turangi, New Zealand",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swhy",
-    "type": "earthquake",
-    "lat": -26.8393,
-    "lng": -176.7692,
-    "intensity": 5.3,
-    "timestamp": "2026-05-09T20:39:49.843Z",
-    "description": "M 5.3 - south of the Fiji Islands",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swhx",
-    "type": "earthquake",
-    "lat": 8.5964,
-    "lng": -82.8661,
-    "intensity": 4.5,
-    "timestamp": "2026-05-09T20:26:12.892Z",
-    "description": "M 4.5 - 5 km NW of Paso Canoas Arriba, Panama",
     "source": "USGS"
   }
 ]
