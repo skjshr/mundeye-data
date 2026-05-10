@@ -1,5 +1,35 @@
 [
   {
+    "id": "ci41460512",
+    "type": "earthquake",
+    "lat": 32.9901657104492,
+    "lng": -115.552001953125,
+    "intensity": 4.48112858848809,
+    "timestamp": "2026-05-10T03:39:29.900Z",
+    "description": "M 4.5 - 2 km WNW of Brawley, CA",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000swk8",
+    "type": "earthquake",
+    "lat": -7.0242,
+    "lng": 132.0136,
+    "intensity": 5,
+    "timestamp": "2026-05-10T02:42:23.775Z",
+    "description": "M 5.0 - 174 km SSW of Tual, Indonesia",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000swk0",
+    "type": "earthquake",
+    "lat": -37.7219,
+    "lng": -73.1062,
+    "intensity": 5.5,
+    "timestamp": "2026-05-10T02:34:07.249Z",
+    "description": "M 5.5 - 27 km ENE of Cañete, Chile",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swi4",
     "type": "earthquake",
     "lat": -38.8053,
@@ -77,16 +107,6 @@
     "intensity": 5.8,
     "timestamp": "2026-05-09T04:42:23.298Z",
     "description": "M 5.8 - 292 km WSW of Adak, Alaska",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swe0",
-    "type": "earthquake",
-    "lat": -2.1622,
-    "lng": 139.0989,
-    "intensity": 4.6,
-    "timestamp": "2026-05-09T00:10:26.670Z",
-    "description": "M 4.6 - 177 km WNW of Abepura, Indonesia",
     "source": "USGS"
   }
 ]
