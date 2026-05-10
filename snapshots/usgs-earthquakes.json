@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000swr8",
+    "type": "earthquake",
+    "lat": -16.8014,
+    "lng": -173.4234,
+    "intensity": 5.3,
+    "timestamp": "2026-05-10T16:41:43.464Z",
+    "description": "M 5.3 - 101 km SSE of Hihifo, Tonga",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000swr6",
+    "type": "earthquake",
+    "lat": -5.3168,
+    "lng": 145.5539,
+    "intensity": 5.2,
+    "timestamp": "2026-05-10T16:34:33.326Z",
+    "description": "M 5.2 - 27 km WSW of Madang, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swq8",
     "type": "earthquake",
     "lat": 1.2342,
@@ -107,16 +127,6 @@
     "intensity": 4.5,
     "timestamp": "2026-05-09T20:26:12.892Z",
     "description": "M 4.5 - 5 km NW of Paso Canoas Arriba, Panama",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swhc",
-    "type": "earthquake",
-    "lat": 24.5387,
-    "lng": 123.7707,
-    "intensity": 4.6,
-    "timestamp": "2026-05-09T16:18:52.053Z",
-    "description": "M 4.6 - 44 km WNW of Ishigaki, Japan",
     "source": "USGS"
   }
 ]
