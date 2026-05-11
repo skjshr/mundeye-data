@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sx06",
+    "type": "earthquake",
+    "lat": 13.0978,
+    "lng": 145.9155,
+    "intensity": 4.8,
+    "timestamp": "2026-05-11T20:18:48.528Z",
+    "description": "M 4.8 - 121 km ESE of Yigo Village, Guam",
+    "source": "USGS"
+  },
+  {
     "id": "us6000swyj",
     "type": "earthquake",
     "lat": -31.7052,
@@ -77,36 +87,6 @@
     "intensity": 4.6,
     "timestamp": "2026-05-10T21:08:18.305Z",
     "description": "M 4.6 - 292 km N of Saipan, Northern Mariana Islands",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swsg",
-    "type": "earthquake",
-    "lat": 36.7079,
-    "lng": 26.7078,
-    "intensity": 4.7,
-    "timestamp": "2026-05-10T20:29:54.713Z",
-    "description": "M 4.7 - 22 km W of Kéfalos, Greece",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000swv6",
-    "type": "earthquake",
-    "lat": -8.8937,
-    "lng": 157.997,
-    "intensity": 4.9,
-    "timestamp": "2026-05-10T20:16:45.329Z",
-    "description": "M 4.9 - 154 km SE of Gizo, Solomon Islands",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sws5",
-    "type": "earthquake",
-    "lat": 20.495,
-    "lng": 94.1576,
-    "intensity": 5,
-    "timestamp": "2026-05-10T19:36:36.864Z",
-    "description": "M 5.0 - 74 km W of Yenangyaung, Burma (Myanmar)",
     "source": "USGS"
   }
 ]

@@ -1837,17 +1837,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "JP",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -1915,11 +1904,11 @@
   },
   {
     "id": "windy-1233593344",
-    "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
+    "name": "Palafrugell › North-east: Tamariu Beach",
     "city": "Palafrugell",
     "countryCode": "JP",
-    "lat": 41.91729,
-    "lng": 3.20719,
+    "lat": 41.91744,
+    "lng": 3.20686,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233593344/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -2141,6 +2130,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2629,6 +2629,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "JP",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -2816,17 +2827,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235749501",
-    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
-    "city": "Leoben",
-    "countryCode": "JP",
-    "lat": 47.37991,
-    "lng": 15.09255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467307240",
     "name": "Tarland › South: Glen Tanar",
     "city": "Tarland",
@@ -2834,6 +2834,17 @@
     "lat": 57.12793,
     "lng": -2.8604,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467307240/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235749501",
+    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
+    "city": "Leoben",
+    "countryCode": "JP",
+    "lat": 47.37991,
+    "lng": 15.09255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5808,6 +5819,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "JP",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -6765,17 +6787,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1621036369",
-    "name": "Munich: Marienplatz - Altes Rathaus",
-    "city": "Munich",
-    "countryCode": "JP",
-    "lat": 48.13678,
-    "lng": 11.57694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -6783,6 +6794,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1621036369",
+    "name": "Munich: Marienplatz - Altes Rathaus",
+    "city": "Munich",
+    "countryCode": "JP",
+    "lat": 48.13678,
+    "lng": 11.57694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7172,6 +7194,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225124398",
+    "name": "Triest › North-west: Gulf of Trieste",
+    "city": "Triest",
+    "countryCode": "JP",
+    "lat": 45.64854,
+    "lng": 13.7728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1526640732",
     "name": "Trondheim: Sør-Trøndelag, Norway",
     "city": "Trondheim",
@@ -7212,17 +7245,6 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1225124398",
-    "name": "Triest › North-west: Gulf of Trieste",
-    "city": "Triest",
-    "countryCode": "JP",
-    "lat": 45.64854,
-    "lng": 13.7728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7645,17 +7667,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1398894675",
-    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
-    "city": "Bergen",
-    "countryCode": "JP",
-    "lat": 60.39691,
-    "lng": 5.3155,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1230040189",
     "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
     "city": "Duino Aurisina",
@@ -7663,6 +7674,17 @@
     "lat": 45.74117,
     "lng": 13.66974,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1398894675",
+    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
+    "city": "Bergen",
+    "countryCode": "JP",
+    "lat": 60.39691,
+    "lng": 5.3155,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7685,6 +7707,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "JP",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8514,17 +8547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211399257",
-    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 53.53494,
-    "lng": 10.00095,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -8532,6 +8554,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211399257",
+    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 53.53494,
+    "lng": 10.00095,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8624,17 +8657,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1544601845",
-    "name": "Vagsli: Telemark fylke, Norge",
-    "city": "Vagsli",
-    "countryCode": "JP",
-    "lat": 59.77519,
-    "lng": 7.33493,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -8642,6 +8664,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1544601845",
+    "name": "Vagsli: Telemark fylke, Norge",
+    "city": "Vagsli",
+    "countryCode": "JP",
+    "lat": 59.77519,
+    "lng": 7.33493,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9284,17 +9317,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "JP",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -9302,6 +9324,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "JP",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9460,17 +9493,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "JP",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -9478,6 +9500,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "JP",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10483,17 +10516,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "JP",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -10501,6 +10523,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "JP",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10820,17 +10853,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "JP",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12672,17 +12694,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "US",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -12750,11 +12761,11 @@
   },
   {
     "id": "windy-1233593344",
-    "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
+    "name": "Palafrugell › North-east: Tamariu Beach",
     "city": "Palafrugell",
     "countryCode": "US",
-    "lat": 41.91729,
-    "lng": 3.20719,
+    "lat": 41.91744,
+    "lng": 3.20686,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233593344/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -12976,6 +12987,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13464,6 +13486,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "US",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -13651,17 +13684,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235749501",
-    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
-    "city": "Leoben",
-    "countryCode": "US",
-    "lat": 47.37991,
-    "lng": 15.09255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467307240",
     "name": "Tarland › South: Glen Tanar",
     "city": "Tarland",
@@ -13669,6 +13691,17 @@
     "lat": 57.12793,
     "lng": -2.8604,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467307240/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235749501",
+    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
+    "city": "Leoben",
+    "countryCode": "US",
+    "lat": 47.37991,
+    "lng": 15.09255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16643,6 +16676,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "US",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -17600,17 +17644,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1621036369",
-    "name": "Munich: Marienplatz - Altes Rathaus",
-    "city": "Munich",
-    "countryCode": "US",
-    "lat": 48.13678,
-    "lng": 11.57694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -17618,6 +17651,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1621036369",
+    "name": "Munich: Marienplatz - Altes Rathaus",
+    "city": "Munich",
+    "countryCode": "US",
+    "lat": 48.13678,
+    "lng": 11.57694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18007,6 +18051,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225124398",
+    "name": "Triest › North-west: Gulf of Trieste",
+    "city": "Triest",
+    "countryCode": "US",
+    "lat": 45.64854,
+    "lng": 13.7728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1526640732",
     "name": "Trondheim: Sør-Trøndelag, Norway",
     "city": "Trondheim",
@@ -18047,17 +18102,6 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1225124398",
-    "name": "Triest › North-west: Gulf of Trieste",
-    "city": "Triest",
-    "countryCode": "US",
-    "lat": 45.64854,
-    "lng": 13.7728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18480,17 +18524,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1398894675",
-    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
-    "city": "Bergen",
-    "countryCode": "US",
-    "lat": 60.39691,
-    "lng": 5.3155,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1230040189",
     "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
     "city": "Duino Aurisina",
@@ -18498,6 +18531,17 @@
     "lat": 45.74117,
     "lng": 13.66974,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1398894675",
+    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
+    "city": "Bergen",
+    "countryCode": "US",
+    "lat": 60.39691,
+    "lng": 5.3155,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18520,6 +18564,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "US",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19349,17 +19404,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211399257",
-    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 53.53494,
-    "lng": 10.00095,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -19367,6 +19411,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211399257",
+    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 53.53494,
+    "lng": 10.00095,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19459,17 +19514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1544601845",
-    "name": "Vagsli: Telemark fylke, Norge",
-    "city": "Vagsli",
-    "countryCode": "US",
-    "lat": 59.77519,
-    "lng": 7.33493,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -19477,6 +19521,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1544601845",
+    "name": "Vagsli: Telemark fylke, Norge",
+    "city": "Vagsli",
+    "countryCode": "US",
+    "lat": 59.77519,
+    "lng": 7.33493,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20119,17 +20174,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "US",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -20137,6 +20181,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "US",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20295,17 +20350,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "US",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -20313,6 +20357,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "US",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21318,17 +21373,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "US",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -21336,6 +21380,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "US",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21655,17 +21710,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "US",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23507,17 +23551,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "GB",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -23585,11 +23618,11 @@
   },
   {
     "id": "windy-1233593344",
-    "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
+    "name": "Palafrugell › North-east: Tamariu Beach",
     "city": "Palafrugell",
     "countryCode": "GB",
-    "lat": 41.91729,
-    "lng": 3.20719,
+    "lat": 41.91744,
+    "lng": 3.20686,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233593344/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -23811,6 +23844,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24299,6 +24343,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "GB",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -24486,17 +24541,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235749501",
-    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
-    "city": "Leoben",
-    "countryCode": "GB",
-    "lat": 47.37991,
-    "lng": 15.09255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467307240",
     "name": "Tarland › South: Glen Tanar",
     "city": "Tarland",
@@ -24504,6 +24548,17 @@
     "lat": 57.12793,
     "lng": -2.8604,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467307240/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235749501",
+    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
+    "city": "Leoben",
+    "countryCode": "GB",
+    "lat": 47.37991,
+    "lng": 15.09255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27478,6 +27533,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "GB",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -28435,17 +28501,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1621036369",
-    "name": "Munich: Marienplatz - Altes Rathaus",
-    "city": "Munich",
-    "countryCode": "GB",
-    "lat": 48.13678,
-    "lng": 11.57694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -28453,6 +28508,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1621036369",
+    "name": "Munich: Marienplatz - Altes Rathaus",
+    "city": "Munich",
+    "countryCode": "GB",
+    "lat": 48.13678,
+    "lng": 11.57694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28842,6 +28908,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225124398",
+    "name": "Triest › North-west: Gulf of Trieste",
+    "city": "Triest",
+    "countryCode": "GB",
+    "lat": 45.64854,
+    "lng": 13.7728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1526640732",
     "name": "Trondheim: Sør-Trøndelag, Norway",
     "city": "Trondheim",
@@ -28882,17 +28959,6 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1225124398",
-    "name": "Triest › North-west: Gulf of Trieste",
-    "city": "Triest",
-    "countryCode": "GB",
-    "lat": 45.64854,
-    "lng": 13.7728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29315,17 +29381,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1398894675",
-    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
-    "city": "Bergen",
-    "countryCode": "GB",
-    "lat": 60.39691,
-    "lng": 5.3155,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1230040189",
     "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
     "city": "Duino Aurisina",
@@ -29333,6 +29388,17 @@
     "lat": 45.74117,
     "lng": 13.66974,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1398894675",
+    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
+    "city": "Bergen",
+    "countryCode": "GB",
+    "lat": 60.39691,
+    "lng": 5.3155,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29355,6 +29421,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "GB",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30184,17 +30261,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211399257",
-    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 53.53494,
-    "lng": 10.00095,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -30202,6 +30268,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211399257",
+    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 53.53494,
+    "lng": 10.00095,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30294,17 +30371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1544601845",
-    "name": "Vagsli: Telemark fylke, Norge",
-    "city": "Vagsli",
-    "countryCode": "GB",
-    "lat": 59.77519,
-    "lng": 7.33493,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -30312,6 +30378,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1544601845",
+    "name": "Vagsli: Telemark fylke, Norge",
+    "city": "Vagsli",
+    "countryCode": "GB",
+    "lat": 59.77519,
+    "lng": 7.33493,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30954,17 +31031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "GB",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -30972,6 +31038,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "GB",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31130,17 +31207,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "GB",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -31148,6 +31214,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "GB",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32153,17 +32230,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "GB",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -32171,6 +32237,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "GB",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32490,17 +32567,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "GB",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34342,17 +34408,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "DE",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -34420,11 +34475,11 @@
   },
   {
     "id": "windy-1233593344",
-    "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
+    "name": "Palafrugell › North-east: Tamariu Beach",
     "city": "Palafrugell",
     "countryCode": "DE",
-    "lat": 41.91729,
-    "lng": 3.20719,
+    "lat": 41.91744,
+    "lng": 3.20686,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233593344/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -34646,6 +34701,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35134,6 +35200,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "DE",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -35321,17 +35398,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235749501",
-    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
-    "city": "Leoben",
-    "countryCode": "DE",
-    "lat": 47.37991,
-    "lng": 15.09255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467307240",
     "name": "Tarland › South: Glen Tanar",
     "city": "Tarland",
@@ -35339,6 +35405,17 @@
     "lat": 57.12793,
     "lng": -2.8604,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467307240/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235749501",
+    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
+    "city": "Leoben",
+    "countryCode": "DE",
+    "lat": 47.37991,
+    "lng": 15.09255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38313,6 +38390,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "DE",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -39270,17 +39358,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1621036369",
-    "name": "Munich: Marienplatz - Altes Rathaus",
-    "city": "Munich",
-    "countryCode": "DE",
-    "lat": 48.13678,
-    "lng": 11.57694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -39288,6 +39365,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1621036369",
+    "name": "Munich: Marienplatz - Altes Rathaus",
+    "city": "Munich",
+    "countryCode": "DE",
+    "lat": 48.13678,
+    "lng": 11.57694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39677,6 +39765,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225124398",
+    "name": "Triest › North-west: Gulf of Trieste",
+    "city": "Triest",
+    "countryCode": "DE",
+    "lat": 45.64854,
+    "lng": 13.7728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1526640732",
     "name": "Trondheim: Sør-Trøndelag, Norway",
     "city": "Trondheim",
@@ -39717,17 +39816,6 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1225124398",
-    "name": "Triest › North-west: Gulf of Trieste",
-    "city": "Triest",
-    "countryCode": "DE",
-    "lat": 45.64854,
-    "lng": 13.7728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40150,17 +40238,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1398894675",
-    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
-    "city": "Bergen",
-    "countryCode": "DE",
-    "lat": 60.39691,
-    "lng": 5.3155,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1230040189",
     "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
     "city": "Duino Aurisina",
@@ -40168,6 +40245,17 @@
     "lat": 45.74117,
     "lng": 13.66974,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1398894675",
+    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
+    "city": "Bergen",
+    "countryCode": "DE",
+    "lat": 60.39691,
+    "lng": 5.3155,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40190,6 +40278,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "DE",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41019,17 +41118,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211399257",
-    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 53.53494,
-    "lng": 10.00095,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -41037,6 +41125,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211399257",
+    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 53.53494,
+    "lng": 10.00095,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41129,17 +41228,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1544601845",
-    "name": "Vagsli: Telemark fylke, Norge",
-    "city": "Vagsli",
-    "countryCode": "DE",
-    "lat": 59.77519,
-    "lng": 7.33493,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -41147,6 +41235,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1544601845",
+    "name": "Vagsli: Telemark fylke, Norge",
+    "city": "Vagsli",
+    "countryCode": "DE",
+    "lat": 59.77519,
+    "lng": 7.33493,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41789,17 +41888,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "DE",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -41807,6 +41895,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "DE",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41965,17 +42064,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "DE",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -41983,6 +42071,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "DE",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42988,17 +43087,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "DE",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -43006,6 +43094,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "DE",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43325,17 +43424,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "DE",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45177,17 +45265,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "FR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -45255,11 +45332,11 @@
   },
   {
     "id": "windy-1233593344",
-    "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
+    "name": "Palafrugell › North-east: Tamariu Beach",
     "city": "Palafrugell",
     "countryCode": "FR",
-    "lat": 41.91729,
-    "lng": 3.20719,
+    "lat": 41.91744,
+    "lng": 3.20686,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233593344/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -45481,6 +45558,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45969,6 +46057,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "FR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -46156,17 +46255,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235749501",
-    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
-    "city": "Leoben",
-    "countryCode": "FR",
-    "lat": 47.37991,
-    "lng": 15.09255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467307240",
     "name": "Tarland › South: Glen Tanar",
     "city": "Tarland",
@@ -46174,6 +46262,17 @@
     "lat": 57.12793,
     "lng": -2.8604,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467307240/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235749501",
+    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
+    "city": "Leoben",
+    "countryCode": "FR",
+    "lat": 47.37991,
+    "lng": 15.09255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49148,6 +49247,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "FR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -50105,17 +50215,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1621036369",
-    "name": "Munich: Marienplatz - Altes Rathaus",
-    "city": "Munich",
-    "countryCode": "FR",
-    "lat": 48.13678,
-    "lng": 11.57694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -50123,6 +50222,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1621036369",
+    "name": "Munich: Marienplatz - Altes Rathaus",
+    "city": "Munich",
+    "countryCode": "FR",
+    "lat": 48.13678,
+    "lng": 11.57694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50512,6 +50622,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225124398",
+    "name": "Triest › North-west: Gulf of Trieste",
+    "city": "Triest",
+    "countryCode": "FR",
+    "lat": 45.64854,
+    "lng": 13.7728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1526640732",
     "name": "Trondheim: Sør-Trøndelag, Norway",
     "city": "Trondheim",
@@ -50552,17 +50673,6 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1225124398",
-    "name": "Triest › North-west: Gulf of Trieste",
-    "city": "Triest",
-    "countryCode": "FR",
-    "lat": 45.64854,
-    "lng": 13.7728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50985,17 +51095,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1398894675",
-    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
-    "city": "Bergen",
-    "countryCode": "FR",
-    "lat": 60.39691,
-    "lng": 5.3155,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1230040189",
     "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
     "city": "Duino Aurisina",
@@ -51003,6 +51102,17 @@
     "lat": 45.74117,
     "lng": 13.66974,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1398894675",
+    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
+    "city": "Bergen",
+    "countryCode": "FR",
+    "lat": 60.39691,
+    "lng": 5.3155,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51025,6 +51135,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "FR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51854,17 +51975,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211399257",
-    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 53.53494,
-    "lng": 10.00095,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -51872,6 +51982,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211399257",
+    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 53.53494,
+    "lng": 10.00095,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51964,17 +52085,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1544601845",
-    "name": "Vagsli: Telemark fylke, Norge",
-    "city": "Vagsli",
-    "countryCode": "FR",
-    "lat": 59.77519,
-    "lng": 7.33493,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -51982,6 +52092,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1544601845",
+    "name": "Vagsli: Telemark fylke, Norge",
+    "city": "Vagsli",
+    "countryCode": "FR",
+    "lat": 59.77519,
+    "lng": 7.33493,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52624,17 +52745,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "FR",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -52642,6 +52752,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "FR",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52800,17 +52921,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "FR",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -52818,6 +52928,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "FR",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53823,17 +53944,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "FR",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -53841,6 +53951,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "FR",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54160,17 +54281,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "FR",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56012,17 +56122,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "CN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -56090,11 +56189,11 @@
   },
   {
     "id": "windy-1233593344",
-    "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
+    "name": "Palafrugell › North-east: Tamariu Beach",
     "city": "Palafrugell",
     "countryCode": "CN",
-    "lat": 41.91729,
-    "lng": 3.20719,
+    "lat": 41.91744,
+    "lng": 3.20686,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233593344/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -56316,6 +56415,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56804,6 +56914,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "CN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -56991,17 +57112,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235749501",
-    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
-    "city": "Leoben",
-    "countryCode": "CN",
-    "lat": 47.37991,
-    "lng": 15.09255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467307240",
     "name": "Tarland › South: Glen Tanar",
     "city": "Tarland",
@@ -57009,6 +57119,17 @@
     "lat": 57.12793,
     "lng": -2.8604,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467307240/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235749501",
+    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
+    "city": "Leoben",
+    "countryCode": "CN",
+    "lat": 47.37991,
+    "lng": 15.09255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59983,6 +60104,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "CN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -60940,17 +61072,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1621036369",
-    "name": "Munich: Marienplatz - Altes Rathaus",
-    "city": "Munich",
-    "countryCode": "CN",
-    "lat": 48.13678,
-    "lng": 11.57694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -60958,6 +61079,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1621036369",
+    "name": "Munich: Marienplatz - Altes Rathaus",
+    "city": "Munich",
+    "countryCode": "CN",
+    "lat": 48.13678,
+    "lng": 11.57694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61347,6 +61479,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225124398",
+    "name": "Triest › North-west: Gulf of Trieste",
+    "city": "Triest",
+    "countryCode": "CN",
+    "lat": 45.64854,
+    "lng": 13.7728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1526640732",
     "name": "Trondheim: Sør-Trøndelag, Norway",
     "city": "Trondheim",
@@ -61387,17 +61530,6 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1225124398",
-    "name": "Triest › North-west: Gulf of Trieste",
-    "city": "Triest",
-    "countryCode": "CN",
-    "lat": 45.64854,
-    "lng": 13.7728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61820,17 +61952,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1398894675",
-    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
-    "city": "Bergen",
-    "countryCode": "CN",
-    "lat": 60.39691,
-    "lng": 5.3155,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1230040189",
     "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
     "city": "Duino Aurisina",
@@ -61838,6 +61959,17 @@
     "lat": 45.74117,
     "lng": 13.66974,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1398894675",
+    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
+    "city": "Bergen",
+    "countryCode": "CN",
+    "lat": 60.39691,
+    "lng": 5.3155,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61860,6 +61992,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "CN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62689,17 +62832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211399257",
-    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 53.53494,
-    "lng": 10.00095,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -62707,6 +62839,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211399257",
+    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 53.53494,
+    "lng": 10.00095,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62799,17 +62942,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1544601845",
-    "name": "Vagsli: Telemark fylke, Norge",
-    "city": "Vagsli",
-    "countryCode": "CN",
-    "lat": 59.77519,
-    "lng": 7.33493,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -62817,6 +62949,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1544601845",
+    "name": "Vagsli: Telemark fylke, Norge",
+    "city": "Vagsli",
+    "countryCode": "CN",
+    "lat": 59.77519,
+    "lng": 7.33493,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63459,17 +63602,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "CN",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -63477,6 +63609,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "CN",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63635,17 +63778,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "CN",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -63653,6 +63785,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "CN",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64658,17 +64801,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "CN",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -64676,6 +64808,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "CN",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64995,17 +65138,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "CN",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -66847,17 +66979,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "KR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -66925,11 +67046,11 @@
   },
   {
     "id": "windy-1233593344",
-    "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
+    "name": "Palafrugell › North-east: Tamariu Beach",
     "city": "Palafrugell",
     "countryCode": "KR",
-    "lat": 41.91729,
-    "lng": 3.20719,
+    "lat": 41.91744,
+    "lng": 3.20686,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233593344/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -67151,6 +67272,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67639,6 +67771,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "KR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -67826,17 +67969,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235749501",
-    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
-    "city": "Leoben",
-    "countryCode": "KR",
-    "lat": 47.37991,
-    "lng": 15.09255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467307240",
     "name": "Tarland › South: Glen Tanar",
     "city": "Tarland",
@@ -67844,6 +67976,17 @@
     "lat": 57.12793,
     "lng": -2.8604,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467307240/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235749501",
+    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
+    "city": "Leoben",
+    "countryCode": "KR",
+    "lat": 47.37991,
+    "lng": 15.09255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70818,6 +70961,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "KR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -71775,17 +71929,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1621036369",
-    "name": "Munich: Marienplatz - Altes Rathaus",
-    "city": "Munich",
-    "countryCode": "KR",
-    "lat": 48.13678,
-    "lng": 11.57694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -71793,6 +71936,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1621036369",
+    "name": "Munich: Marienplatz - Altes Rathaus",
+    "city": "Munich",
+    "countryCode": "KR",
+    "lat": 48.13678,
+    "lng": 11.57694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72182,6 +72336,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225124398",
+    "name": "Triest › North-west: Gulf of Trieste",
+    "city": "Triest",
+    "countryCode": "KR",
+    "lat": 45.64854,
+    "lng": 13.7728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1526640732",
     "name": "Trondheim: Sør-Trøndelag, Norway",
     "city": "Trondheim",
@@ -72222,17 +72387,6 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1225124398",
-    "name": "Triest › North-west: Gulf of Trieste",
-    "city": "Triest",
-    "countryCode": "KR",
-    "lat": 45.64854,
-    "lng": 13.7728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72655,17 +72809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1398894675",
-    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
-    "city": "Bergen",
-    "countryCode": "KR",
-    "lat": 60.39691,
-    "lng": 5.3155,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1230040189",
     "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
     "city": "Duino Aurisina",
@@ -72673,6 +72816,17 @@
     "lat": 45.74117,
     "lng": 13.66974,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1398894675",
+    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
+    "city": "Bergen",
+    "countryCode": "KR",
+    "lat": 60.39691,
+    "lng": 5.3155,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72695,6 +72849,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "KR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73524,17 +73689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211399257",
-    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 53.53494,
-    "lng": 10.00095,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -73542,6 +73696,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211399257",
+    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 53.53494,
+    "lng": 10.00095,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73634,17 +73799,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1544601845",
-    "name": "Vagsli: Telemark fylke, Norge",
-    "city": "Vagsli",
-    "countryCode": "KR",
-    "lat": 59.77519,
-    "lng": 7.33493,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -73652,6 +73806,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1544601845",
+    "name": "Vagsli: Telemark fylke, Norge",
+    "city": "Vagsli",
+    "countryCode": "KR",
+    "lat": 59.77519,
+    "lng": 7.33493,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74294,17 +74459,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "KR",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -74312,6 +74466,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "KR",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74470,17 +74635,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "KR",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -74488,6 +74642,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "KR",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75493,17 +75658,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "KR",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -75511,6 +75665,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "KR",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75830,17 +75995,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "KR",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77682,17 +77836,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "IN",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -77760,11 +77903,11 @@
   },
   {
     "id": "windy-1233593344",
-    "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
+    "name": "Palafrugell › North-east: Tamariu Beach",
     "city": "Palafrugell",
     "countryCode": "IN",
-    "lat": 41.91729,
-    "lng": 3.20719,
+    "lat": 41.91744,
+    "lng": 3.20686,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233593344/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -77986,6 +78129,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78474,6 +78628,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "IN",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -78661,17 +78826,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235749501",
-    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
-    "city": "Leoben",
-    "countryCode": "IN",
-    "lat": 47.37991,
-    "lng": 15.09255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467307240",
     "name": "Tarland › South: Glen Tanar",
     "city": "Tarland",
@@ -78679,6 +78833,17 @@
     "lat": 57.12793,
     "lng": -2.8604,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467307240/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235749501",
+    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
+    "city": "Leoben",
+    "countryCode": "IN",
+    "lat": 47.37991,
+    "lng": 15.09255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81653,6 +81818,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "IN",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -82610,17 +82786,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1621036369",
-    "name": "Munich: Marienplatz - Altes Rathaus",
-    "city": "Munich",
-    "countryCode": "IN",
-    "lat": 48.13678,
-    "lng": 11.57694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -82628,6 +82793,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1621036369",
+    "name": "Munich: Marienplatz - Altes Rathaus",
+    "city": "Munich",
+    "countryCode": "IN",
+    "lat": 48.13678,
+    "lng": 11.57694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83017,6 +83193,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225124398",
+    "name": "Triest › North-west: Gulf of Trieste",
+    "city": "Triest",
+    "countryCode": "IN",
+    "lat": 45.64854,
+    "lng": 13.7728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1526640732",
     "name": "Trondheim: Sør-Trøndelag, Norway",
     "city": "Trondheim",
@@ -83057,17 +83244,6 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1225124398",
-    "name": "Triest › North-west: Gulf of Trieste",
-    "city": "Triest",
-    "countryCode": "IN",
-    "lat": 45.64854,
-    "lng": 13.7728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83490,17 +83666,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1398894675",
-    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
-    "city": "Bergen",
-    "countryCode": "IN",
-    "lat": 60.39691,
-    "lng": 5.3155,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1230040189",
     "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
     "city": "Duino Aurisina",
@@ -83508,6 +83673,17 @@
     "lat": 45.74117,
     "lng": 13.66974,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1398894675",
+    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
+    "city": "Bergen",
+    "countryCode": "IN",
+    "lat": 60.39691,
+    "lng": 5.3155,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83530,6 +83706,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "IN",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84359,17 +84546,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211399257",
-    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 53.53494,
-    "lng": 10.00095,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -84377,6 +84553,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211399257",
+    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 53.53494,
+    "lng": 10.00095,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84469,17 +84656,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1544601845",
-    "name": "Vagsli: Telemark fylke, Norge",
-    "city": "Vagsli",
-    "countryCode": "IN",
-    "lat": 59.77519,
-    "lng": 7.33493,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -84487,6 +84663,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1544601845",
+    "name": "Vagsli: Telemark fylke, Norge",
+    "city": "Vagsli",
+    "countryCode": "IN",
+    "lat": 59.77519,
+    "lng": 7.33493,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85129,17 +85316,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "IN",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -85147,6 +85323,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "IN",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85305,17 +85492,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "IN",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -85323,6 +85499,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "IN",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86328,17 +86515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "IN",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -86346,6 +86522,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "IN",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86665,17 +86852,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "IN",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88517,17 +88693,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "BR",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -88595,11 +88760,11 @@
   },
   {
     "id": "windy-1233593344",
-    "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
+    "name": "Palafrugell › North-east: Tamariu Beach",
     "city": "Palafrugell",
     "countryCode": "BR",
-    "lat": 41.91729,
-    "lng": 3.20719,
+    "lat": 41.91744,
+    "lng": 3.20686,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233593344/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -88821,6 +88986,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89309,6 +89485,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "BR",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -89496,17 +89683,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235749501",
-    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
-    "city": "Leoben",
-    "countryCode": "BR",
-    "lat": 47.37991,
-    "lng": 15.09255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467307240",
     "name": "Tarland › South: Glen Tanar",
     "city": "Tarland",
@@ -89514,6 +89690,17 @@
     "lat": 57.12793,
     "lng": -2.8604,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467307240/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235749501",
+    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
+    "city": "Leoben",
+    "countryCode": "BR",
+    "lat": 47.37991,
+    "lng": 15.09255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92488,6 +92675,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "BR",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -93445,17 +93643,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1621036369",
-    "name": "Munich: Marienplatz - Altes Rathaus",
-    "city": "Munich",
-    "countryCode": "BR",
-    "lat": 48.13678,
-    "lng": 11.57694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -93463,6 +93650,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1621036369",
+    "name": "Munich: Marienplatz - Altes Rathaus",
+    "city": "Munich",
+    "countryCode": "BR",
+    "lat": 48.13678,
+    "lng": 11.57694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93852,6 +94050,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225124398",
+    "name": "Triest › North-west: Gulf of Trieste",
+    "city": "Triest",
+    "countryCode": "BR",
+    "lat": 45.64854,
+    "lng": 13.7728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1526640732",
     "name": "Trondheim: Sør-Trøndelag, Norway",
     "city": "Trondheim",
@@ -93892,17 +94101,6 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1225124398",
-    "name": "Triest › North-west: Gulf of Trieste",
-    "city": "Triest",
-    "countryCode": "BR",
-    "lat": 45.64854,
-    "lng": 13.7728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94325,17 +94523,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1398894675",
-    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
-    "city": "Bergen",
-    "countryCode": "BR",
-    "lat": 60.39691,
-    "lng": 5.3155,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1230040189",
     "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
     "city": "Duino Aurisina",
@@ -94343,6 +94530,17 @@
     "lat": 45.74117,
     "lng": 13.66974,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1398894675",
+    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
+    "city": "Bergen",
+    "countryCode": "BR",
+    "lat": 60.39691,
+    "lng": 5.3155,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94365,6 +94563,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "BR",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95194,17 +95403,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211399257",
-    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 53.53494,
-    "lng": 10.00095,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -95212,6 +95410,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211399257",
+    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 53.53494,
+    "lng": 10.00095,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95304,17 +95513,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1544601845",
-    "name": "Vagsli: Telemark fylke, Norge",
-    "city": "Vagsli",
-    "countryCode": "BR",
-    "lat": 59.77519,
-    "lng": 7.33493,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -95322,6 +95520,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1544601845",
+    "name": "Vagsli: Telemark fylke, Norge",
+    "city": "Vagsli",
+    "countryCode": "BR",
+    "lat": 59.77519,
+    "lng": 7.33493,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95964,17 +96173,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "BR",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -95982,6 +96180,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "BR",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96140,17 +96349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "BR",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -96158,6 +96356,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "BR",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97163,17 +97372,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "BR",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -97181,6 +97379,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "BR",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97500,17 +97709,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "BR",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99352,17 +99550,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234953077",
-    "name": "Tiruvannamalai: Arunachala Hill and Temple",
-    "city": "Tiruvannamalai",
-    "countryCode": "AU",
-    "lat": 12.24056,
-    "lng": 79.05757,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234953077/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229546637",
     "name": "Naifaru: Kuredu Island Resort & Spa",
     "city": "Naifaru",
@@ -99430,11 +99617,11 @@
   },
   {
     "id": "windy-1233593344",
-    "name": "Palafrugell: Tamariu - Costa Brava. Finques Frigola",
+    "name": "Palafrugell › North-east: Tamariu Beach",
     "city": "Palafrugell",
     "countryCode": "AU",
-    "lat": 41.91729,
-    "lng": 3.20719,
+    "lat": 41.91744,
+    "lng": 3.20686,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1233593344/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -99656,6 +99843,17 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1484444428",
+    "name": "Shirakawa › West: Shirakawa-go",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 36.25656,
+    "lng": 136.90272,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100144,6 +100342,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1496397168",
+    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
+    "city": "Twizel",
+    "countryCode": "AU",
+    "lat": -44.17757,
+    "lng": 170.16081,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -100331,17 +100540,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235749501",
-    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
-    "city": "Leoben",
-    "countryCode": "AU",
-    "lat": 47.37991,
-    "lng": 15.09255,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467307240",
     "name": "Tarland › South: Glen Tanar",
     "city": "Tarland",
@@ -100349,6 +100547,17 @@
     "lat": 57.12793,
     "lng": -2.8604,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1467307240/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235749501",
+    "name": "Leoben: Schwammerlturm - Blick zum Alten Rathaus",
+    "city": "Leoben",
+    "countryCode": "AU",
+    "lat": 47.37991,
+    "lng": 15.09255,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235749501/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103323,6 +103532,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
+    "countryCode": "AU",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1567938478",
     "name": "Chiyoda › North-east: 東京都千代田区役所(庁舎より北東)",
     "city": "Chiyoda",
@@ -104280,17 +104500,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1621036369",
-    "name": "Munich: Marienplatz - Altes Rathaus",
-    "city": "Munich",
-    "countryCode": "AU",
-    "lat": 48.13678,
-    "lng": 11.57694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1671825348",
     "name": "Paris",
     "city": "Paris",
@@ -104298,6 +104507,17 @@
     "lat": 48.87039,
     "lng": 2.29353,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1671825348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1621036369",
+    "name": "Munich: Marienplatz - Altes Rathaus",
+    "city": "Munich",
+    "countryCode": "AU",
+    "lat": 48.13678,
+    "lng": 11.57694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1621036369/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104687,6 +104907,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1225124398",
+    "name": "Triest › North-west: Gulf of Trieste",
+    "city": "Triest",
+    "countryCode": "AU",
+    "lat": 45.64854,
+    "lng": 13.7728,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1526640732",
     "name": "Trondheim: Sør-Trøndelag, Norway",
     "city": "Trondheim",
@@ -104727,17 +104958,6 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1225124398",
-    "name": "Triest › North-west: Gulf of Trieste",
-    "city": "Triest",
-    "countryCode": "AU",
-    "lat": 45.64854,
-    "lng": 13.7728,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1225124398/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105160,17 +105380,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1398894675",
-    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
-    "city": "Bergen",
-    "countryCode": "AU",
-    "lat": 60.39691,
-    "lng": 5.3155,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1230040189",
     "name": "Duino Aurisina: Trieste S. Croce - Duino-Aurisina",
     "city": "Duino Aurisina",
@@ -105178,6 +105387,17 @@
     "lat": 45.74117,
     "lng": 13.66974,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230040189/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1398894675",
+    "name": "Bergen: Vågen - Haakon's Hall - Bergenhus Fortress - Bryggen - Sandviken",
+    "city": "Bergen",
+    "countryCode": "AU",
+    "lat": 60.39691,
+    "lng": 5.3155,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105200,6 +105420,17 @@
     "lat": 46.75524,
     "lng": 7.07116,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1145273348/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1556429112",
+    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
+    "city": "Fiordland Community",
+    "countryCode": "AU",
+    "lat": -45.39002,
+    "lng": 167.55646,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106029,17 +106260,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1211399257",
-    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 53.53494,
-    "lng": 10.00095,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1601618149",
     "name": "Olbia",
     "city": "Olbia",
@@ -106047,6 +106267,17 @@
     "lat": 40.92475,
     "lng": 9.50211,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1601618149/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1211399257",
+    "name": "Hamburg-Mitte: Hamburg - Cruise Center 2",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 53.53494,
+    "lng": 10.00095,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1211399257/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106139,17 +106370,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1544601845",
-    "name": "Vagsli: Telemark fylke, Norge",
-    "city": "Vagsli",
-    "countryCode": "AU",
-    "lat": 59.77519,
-    "lng": 7.33493,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1520060308",
     "name": "Petropavlovsk-Kamchatsky › North-east: Avachinsky Vulkan",
     "city": "Petropavlovsk-Kamchatsky",
@@ -106157,6 +106377,17 @@
     "lat": 53.05324,
     "lng": 158.64491,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520060308/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1544601845",
+    "name": "Vagsli: Telemark fylke, Norge",
+    "city": "Vagsli",
+    "countryCode": "AU",
+    "lat": 59.77519,
+    "lng": 7.33493,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1544601845/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106799,17 +107030,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1697041296",
-    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
-    "city": "Flims",
-    "countryCode": "AU",
-    "lat": 46.81268,
-    "lng": 9.3198,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1315299500",
     "name": "Gala: Gålå",
     "city": "Gala",
@@ -106817,6 +107037,17 @@
     "lat": 61.50399,
     "lng": 9.78882,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1697041296",
+    "name": "Flims: Conn: Lärchwald - Rein Anteriur",
+    "city": "Flims",
+    "countryCode": "AU",
+    "lat": 46.81268,
+    "lng": 9.3198,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697041296/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106975,17 +107206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
-    "city": "Cham",
-    "countryCode": "AU",
-    "lat": 47.18003,
-    "lng": 8.4696,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1316874012",
     "name": "Mo i Rana › South: NORWAY",
     "city": "Mo i Rana",
@@ -106993,6 +107213,17 @@
     "lat": 66.33861,
     "lng": 14.1037,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1316874012/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1295436939",
+    "name": "Cham: Segel Club",
+    "city": "Cham",
+    "countryCode": "AU",
+    "lat": 47.18003,
+    "lng": 8.4696,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107998,17 +108229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1520819241",
-    "name": "Vladivostok: Nekrasovskaya St",
-    "city": "Vladivostok",
-    "countryCode": "AU",
-    "lat": 43.13099,
-    "lng": 131.91193,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1631763103",
     "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
     "city": "Inari",
@@ -108016,6 +108236,17 @@
     "lat": 68.45088,
     "lng": 27.42372,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1520819241",
+    "name": "Vladivostok: Nekrasovskaya St",
+    "city": "Vladivostok",
+    "countryCode": "AU",
+    "lat": 43.13099,
+    "lng": 131.91193,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108335,17 +108566,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "AU",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
