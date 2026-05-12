@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000sxaj",
+    "type": "earthquake",
+    "lat": -21.2349,
+    "lng": -174.3689,
+    "intensity": 5.1,
+    "timestamp": "2026-05-12T21:53:48.536Z",
+    "description": "M 5.1 - 62 km E of ‘Ohonua, Tonga",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sx9x",
+    "type": "earthquake",
+    "lat": -23.2041,
+    "lng": -176.8485,
+    "intensity": 5.7,
+    "timestamp": "2026-05-12T21:19:36.870Z",
+    "description": "M 5.7 - 275 km SW of Houma, Tonga",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sx7r",
     "type": "earthquake",
     "lat": 2.8835,
@@ -17,6 +37,16 @@
     "intensity": 5.6,
     "timestamp": "2026-05-12T15:39:30.763Z",
     "description": "M 5.6 - 96 km W of Lata, Solomon Islands",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sx5d",
+    "type": "earthquake",
+    "lat": 28.4795,
+    "lng": 104.8209,
+    "intensity": 4.8,
+    "timestamp": "2026-05-12T14:55:15.727Z",
+    "description": "M 4.8 - 10 km ENE of Xunchang, China",
     "source": "USGS"
   },
   {
@@ -87,16 +117,6 @@
     "intensity": 4.5,
     "timestamp": "2026-05-11T23:16:35.604Z",
     "description": "M 4.5 - 90 km WSW of Taltal, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sx06",
-    "type": "earthquake",
-    "lat": 13.0978,
-    "lng": 145.9155,
-    "intensity": 4.8,
-    "timestamp": "2026-05-11T20:18:48.528Z",
-    "description": "M 4.8 - 121 km ESE of Yigo Village, Guam",
     "source": "USGS"
   }
 ]

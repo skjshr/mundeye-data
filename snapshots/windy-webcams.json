@@ -89,7 +89,7 @@
   },
   {
     "id": "windy-1337867816",
-    "name": "Oslo: Havn - Raadhuskaia",
+    "name": "Oslo › South-west: Pipervika - Kavringen - Hovedøya - Lindøya - Nakholmen",
     "city": "Oslo",
     "countryCode": "JP",
     "lat": 59.91175,
@@ -227,17 +227,6 @@
     "lat": 7.8293,
     "lng": 98.29401,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245318606/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -909,6 +898,17 @@
     "lat": 46.75466,
     "lng": 8.029,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1091875657/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183402927",
+    "name": "Denver: Live Downtown - weather camera",
+    "city": "Denver",
+    "countryCode": "JP",
+    "lat": 39.73719,
+    "lng": -104.96372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2486,17 +2486,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2504,17 +2493,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2559,17 +2537,6 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1344544249",
-    "name": "Marathia › North-west: Paralia Kourouta",
-    "city": "Marathia",
-    "countryCode": "JP",
-    "lat": 37.76793,
-    "lng": 21.29578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2966,17 +2933,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3586,17 +3542,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "JP",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -3824,6 +3769,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "JP",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5390,6 +5346,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -5775,6 +5742,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "JP",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793892542",
     "name": "Plymouth › East: Tamar Bridge - A38",
     "city": "Plymouth",
@@ -5786,13 +5764,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
     "countryCode": "JP",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6134,6 +6112,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "JP",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6490,17 +6479,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "JP",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -6508,6 +6486,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "JP",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6574,17 +6563,6 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "JP",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7051,17 +7029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1338449105",
-    "name": "Mossel Bay › North: Mossel Bay Harbour - Santos Beach Mosselbay - Outeniqua Mountain View Lodge",
-    "city": "Mossel Bay",
-    "countryCode": "JP",
-    "lat": -34.18631,
-    "lng": 22.15056,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1192090107",
     "name": "Floridsdorf: Alte Donau Yachtclub Seewind",
     "city": "unknown",
@@ -7194,17 +7161,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394463516",
-    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
-    "city": "Puy-Saint-Vincent",
-    "countryCode": "JP",
-    "lat": 44.89306,
-    "lng": 6.61778,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1250435470",
     "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
     "city": "Freising",
@@ -7212,6 +7168,17 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1394463516",
+    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
+    "city": "Puy-Saint-Vincent",
+    "countryCode": "JP",
+    "lat": 44.89306,
+    "lng": 6.61778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7443,17 +7410,6 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1559207795",
-    "name": "Hradec Kralove › North: Nový Hradec Králové",
-    "city": "Hradec Kralove",
-    "countryCode": "JP",
-    "lat": 50.17876,
-    "lng": 15.83994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7861,17 +7817,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8965,6 +8910,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "JP",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -8983,17 +8939,6 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "JP",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9361,17 +9306,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "JP",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -9379,6 +9313,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "JP",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9494,8 +9439,8 @@
   },
   {
     "id": "windy-1316874012",
-    "name": "Mo i Rana › South: NORWAY",
-    "city": "Mo i Rana",
+    "name": "Løkberg › South: Båsmoen - Mo i Rana - Ranfjorden",
+    "city": "Løkberg",
     "countryCode": "JP",
     "lat": 66.33861,
     "lng": 14.1037,
@@ -9703,11 +9648,11 @@
   },
   {
     "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
+    "name": "Kulstad › South: Tårnet",
+    "city": "Kulstad",
     "countryCode": "JP",
-    "lat": 65.87045,
-    "lng": 13.20994,
+    "lat": 65.87083,
+    "lng": 13.21028,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -10494,6 +10439,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1631763103",
+    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
+    "city": "Inari",
+    "countryCode": "JP",
+    "lat": 68.45088,
+    "lng": 27.42372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -10512,17 +10468,6 @@
     "lat": -46.90137,
     "lng": 168.12618,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "JP",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10913,7 +10858,7 @@
   },
   {
     "id": "windy-1337867816",
-    "name": "Oslo: Havn - Raadhuskaia",
+    "name": "Oslo › South-west: Pipervika - Kavringen - Hovedøya - Lindøya - Nakholmen",
     "city": "Oslo",
     "countryCode": "US",
     "lat": 59.91175,
@@ -11051,17 +10996,6 @@
     "lat": 7.8293,
     "lng": 98.29401,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245318606/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11733,6 +11667,17 @@
     "lat": 46.75466,
     "lng": 8.029,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1091875657/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183402927",
+    "name": "Denver: Live Downtown - weather camera",
+    "city": "Denver",
+    "countryCode": "US",
+    "lat": 39.73719,
+    "lng": -104.96372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13310,17 +13255,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13328,17 +13262,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13383,17 +13306,6 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1344544249",
-    "name": "Marathia › North-west: Paralia Kourouta",
-    "city": "Marathia",
-    "countryCode": "US",
-    "lat": 37.76793,
-    "lng": 21.29578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13790,17 +13702,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14410,17 +14311,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "US",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -14648,6 +14538,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "US",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16214,6 +16115,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -16599,6 +16511,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "US",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793892542",
     "name": "Plymouth › East: Tamar Bridge - A38",
     "city": "Plymouth",
@@ -16610,13 +16533,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
     "countryCode": "US",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16958,6 +16881,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "US",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17314,17 +17248,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "US",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -17332,6 +17255,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "US",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17398,17 +17332,6 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "US",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17875,17 +17798,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1338449105",
-    "name": "Mossel Bay › North: Mossel Bay Harbour - Santos Beach Mosselbay - Outeniqua Mountain View Lodge",
-    "city": "Mossel Bay",
-    "countryCode": "US",
-    "lat": -34.18631,
-    "lng": 22.15056,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1192090107",
     "name": "Floridsdorf: Alte Donau Yachtclub Seewind",
     "city": "unknown",
@@ -18018,17 +17930,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394463516",
-    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
-    "city": "Puy-Saint-Vincent",
-    "countryCode": "US",
-    "lat": 44.89306,
-    "lng": 6.61778,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1250435470",
     "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
     "city": "Freising",
@@ -18036,6 +17937,17 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1394463516",
+    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
+    "city": "Puy-Saint-Vincent",
+    "countryCode": "US",
+    "lat": 44.89306,
+    "lng": 6.61778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18267,17 +18179,6 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1559207795",
-    "name": "Hradec Kralove › North: Nový Hradec Králové",
-    "city": "Hradec Kralove",
-    "countryCode": "US",
-    "lat": 50.17876,
-    "lng": 15.83994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18685,17 +18586,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19789,6 +19679,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "US",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -19807,17 +19708,6 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "US",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20185,17 +20075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "US",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -20203,6 +20082,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "US",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20318,8 +20208,8 @@
   },
   {
     "id": "windy-1316874012",
-    "name": "Mo i Rana › South: NORWAY",
-    "city": "Mo i Rana",
+    "name": "Løkberg › South: Båsmoen - Mo i Rana - Ranfjorden",
+    "city": "Løkberg",
     "countryCode": "US",
     "lat": 66.33861,
     "lng": 14.1037,
@@ -20527,11 +20417,11 @@
   },
   {
     "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
+    "name": "Kulstad › South: Tårnet",
+    "city": "Kulstad",
     "countryCode": "US",
-    "lat": 65.87045,
-    "lng": 13.20994,
+    "lat": 65.87083,
+    "lng": 13.21028,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -21318,6 +21208,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1631763103",
+    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
+    "city": "Inari",
+    "countryCode": "US",
+    "lat": 68.45088,
+    "lng": 27.42372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -21336,17 +21237,6 @@
     "lat": -46.90137,
     "lng": 168.12618,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "US",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21737,7 +21627,7 @@
   },
   {
     "id": "windy-1337867816",
-    "name": "Oslo: Havn - Raadhuskaia",
+    "name": "Oslo › South-west: Pipervika - Kavringen - Hovedøya - Lindøya - Nakholmen",
     "city": "Oslo",
     "countryCode": "GB",
     "lat": 59.91175,
@@ -21875,17 +21765,6 @@
     "lat": 7.8293,
     "lng": 98.29401,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245318606/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22557,6 +22436,17 @@
     "lat": 46.75466,
     "lng": 8.029,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1091875657/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183402927",
+    "name": "Denver: Live Downtown - weather camera",
+    "city": "Denver",
+    "countryCode": "GB",
+    "lat": 39.73719,
+    "lng": -104.96372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24134,17 +24024,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24152,17 +24031,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24207,17 +24075,6 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1344544249",
-    "name": "Marathia › North-west: Paralia Kourouta",
-    "city": "Marathia",
-    "countryCode": "GB",
-    "lat": 37.76793,
-    "lng": 21.29578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24614,17 +24471,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25234,17 +25080,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "GB",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -25472,6 +25307,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "GB",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27038,6 +26884,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -27423,6 +27280,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "GB",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793892542",
     "name": "Plymouth › East: Tamar Bridge - A38",
     "city": "Plymouth",
@@ -27434,13 +27302,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
     "countryCode": "GB",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27782,6 +27650,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "GB",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28138,17 +28017,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "GB",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -28156,6 +28024,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "GB",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28222,17 +28101,6 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "GB",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28699,17 +28567,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1338449105",
-    "name": "Mossel Bay › North: Mossel Bay Harbour - Santos Beach Mosselbay - Outeniqua Mountain View Lodge",
-    "city": "Mossel Bay",
-    "countryCode": "GB",
-    "lat": -34.18631,
-    "lng": 22.15056,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1192090107",
     "name": "Floridsdorf: Alte Donau Yachtclub Seewind",
     "city": "unknown",
@@ -28842,17 +28699,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394463516",
-    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
-    "city": "Puy-Saint-Vincent",
-    "countryCode": "GB",
-    "lat": 44.89306,
-    "lng": 6.61778,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1250435470",
     "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
     "city": "Freising",
@@ -28860,6 +28706,17 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1394463516",
+    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
+    "city": "Puy-Saint-Vincent",
+    "countryCode": "GB",
+    "lat": 44.89306,
+    "lng": 6.61778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29091,17 +28948,6 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1559207795",
-    "name": "Hradec Kralove › North: Nový Hradec Králové",
-    "city": "Hradec Kralove",
-    "countryCode": "GB",
-    "lat": 50.17876,
-    "lng": 15.83994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29509,17 +29355,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30613,6 +30448,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "GB",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -30631,17 +30477,6 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "GB",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31009,17 +30844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "GB",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -31027,6 +30851,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "GB",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31142,8 +30977,8 @@
   },
   {
     "id": "windy-1316874012",
-    "name": "Mo i Rana › South: NORWAY",
-    "city": "Mo i Rana",
+    "name": "Løkberg › South: Båsmoen - Mo i Rana - Ranfjorden",
+    "city": "Løkberg",
     "countryCode": "GB",
     "lat": 66.33861,
     "lng": 14.1037,
@@ -31351,11 +31186,11 @@
   },
   {
     "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
+    "name": "Kulstad › South: Tårnet",
+    "city": "Kulstad",
     "countryCode": "GB",
-    "lat": 65.87045,
-    "lng": 13.20994,
+    "lat": 65.87083,
+    "lng": 13.21028,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -32142,6 +31977,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1631763103",
+    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
+    "city": "Inari",
+    "countryCode": "GB",
+    "lat": 68.45088,
+    "lng": 27.42372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -32160,17 +32006,6 @@
     "lat": -46.90137,
     "lng": 168.12618,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "GB",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32561,7 +32396,7 @@
   },
   {
     "id": "windy-1337867816",
-    "name": "Oslo: Havn - Raadhuskaia",
+    "name": "Oslo › South-west: Pipervika - Kavringen - Hovedøya - Lindøya - Nakholmen",
     "city": "Oslo",
     "countryCode": "DE",
     "lat": 59.91175,
@@ -32699,17 +32534,6 @@
     "lat": 7.8293,
     "lng": 98.29401,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245318606/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33381,6 +33205,17 @@
     "lat": 46.75466,
     "lng": 8.029,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1091875657/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183402927",
+    "name": "Denver: Live Downtown - weather camera",
+    "city": "Denver",
+    "countryCode": "DE",
+    "lat": 39.73719,
+    "lng": -104.96372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34958,17 +34793,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -34976,17 +34800,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35031,17 +34844,6 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1344544249",
-    "name": "Marathia › North-west: Paralia Kourouta",
-    "city": "Marathia",
-    "countryCode": "DE",
-    "lat": 37.76793,
-    "lng": 21.29578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35438,17 +35240,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36058,17 +35849,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "DE",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -36296,6 +36076,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "DE",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37862,6 +37653,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -38247,6 +38049,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "DE",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793892542",
     "name": "Plymouth › East: Tamar Bridge - A38",
     "city": "Plymouth",
@@ -38258,13 +38071,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
     "countryCode": "DE",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38606,6 +38419,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "DE",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38962,17 +38786,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "DE",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -38980,6 +38793,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "DE",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39046,17 +38870,6 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "DE",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39523,17 +39336,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1338449105",
-    "name": "Mossel Bay › North: Mossel Bay Harbour - Santos Beach Mosselbay - Outeniqua Mountain View Lodge",
-    "city": "Mossel Bay",
-    "countryCode": "DE",
-    "lat": -34.18631,
-    "lng": 22.15056,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1192090107",
     "name": "Floridsdorf: Alte Donau Yachtclub Seewind",
     "city": "unknown",
@@ -39666,17 +39468,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394463516",
-    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
-    "city": "Puy-Saint-Vincent",
-    "countryCode": "DE",
-    "lat": 44.89306,
-    "lng": 6.61778,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1250435470",
     "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
     "city": "Freising",
@@ -39684,6 +39475,17 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1394463516",
+    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
+    "city": "Puy-Saint-Vincent",
+    "countryCode": "DE",
+    "lat": 44.89306,
+    "lng": 6.61778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39915,17 +39717,6 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1559207795",
-    "name": "Hradec Kralove › North: Nový Hradec Králové",
-    "city": "Hradec Kralove",
-    "countryCode": "DE",
-    "lat": 50.17876,
-    "lng": 15.83994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40333,17 +40124,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41437,6 +41217,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "DE",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -41455,17 +41246,6 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "DE",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41833,17 +41613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "DE",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -41851,6 +41620,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "DE",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41966,8 +41746,8 @@
   },
   {
     "id": "windy-1316874012",
-    "name": "Mo i Rana › South: NORWAY",
-    "city": "Mo i Rana",
+    "name": "Løkberg › South: Båsmoen - Mo i Rana - Ranfjorden",
+    "city": "Løkberg",
     "countryCode": "DE",
     "lat": 66.33861,
     "lng": 14.1037,
@@ -42175,11 +41955,11 @@
   },
   {
     "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
+    "name": "Kulstad › South: Tårnet",
+    "city": "Kulstad",
     "countryCode": "DE",
-    "lat": 65.87045,
-    "lng": 13.20994,
+    "lat": 65.87083,
+    "lng": 13.21028,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -42966,6 +42746,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1631763103",
+    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
+    "city": "Inari",
+    "countryCode": "DE",
+    "lat": 68.45088,
+    "lng": 27.42372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -42984,17 +42775,6 @@
     "lat": -46.90137,
     "lng": 168.12618,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "DE",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43385,7 +43165,7 @@
   },
   {
     "id": "windy-1337867816",
-    "name": "Oslo: Havn - Raadhuskaia",
+    "name": "Oslo › South-west: Pipervika - Kavringen - Hovedøya - Lindøya - Nakholmen",
     "city": "Oslo",
     "countryCode": "FR",
     "lat": 59.91175,
@@ -43523,17 +43303,6 @@
     "lat": 7.8293,
     "lng": 98.29401,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245318606/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -44205,6 +43974,17 @@
     "lat": 46.75466,
     "lng": 8.029,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1091875657/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183402927",
+    "name": "Denver: Live Downtown - weather camera",
+    "city": "Denver",
+    "countryCode": "FR",
+    "lat": 39.73719,
+    "lng": -104.96372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45782,17 +45562,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45800,17 +45569,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45855,17 +45613,6 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1344544249",
-    "name": "Marathia › North-west: Paralia Kourouta",
-    "city": "Marathia",
-    "countryCode": "FR",
-    "lat": 37.76793,
-    "lng": 21.29578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46262,17 +46009,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46882,17 +46618,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "FR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -47120,6 +46845,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "FR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48686,6 +48422,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -49071,6 +48818,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "FR",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793892542",
     "name": "Plymouth › East: Tamar Bridge - A38",
     "city": "Plymouth",
@@ -49082,13 +48840,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
     "countryCode": "FR",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49430,6 +49188,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "FR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49786,17 +49555,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "FR",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -49804,6 +49562,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "FR",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49870,17 +49639,6 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "FR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50347,17 +50105,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1338449105",
-    "name": "Mossel Bay › North: Mossel Bay Harbour - Santos Beach Mosselbay - Outeniqua Mountain View Lodge",
-    "city": "Mossel Bay",
-    "countryCode": "FR",
-    "lat": -34.18631,
-    "lng": 22.15056,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1192090107",
     "name": "Floridsdorf: Alte Donau Yachtclub Seewind",
     "city": "unknown",
@@ -50490,17 +50237,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394463516",
-    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
-    "city": "Puy-Saint-Vincent",
-    "countryCode": "FR",
-    "lat": 44.89306,
-    "lng": 6.61778,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1250435470",
     "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
     "city": "Freising",
@@ -50508,6 +50244,17 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1394463516",
+    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
+    "city": "Puy-Saint-Vincent",
+    "countryCode": "FR",
+    "lat": 44.89306,
+    "lng": 6.61778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50739,17 +50486,6 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1559207795",
-    "name": "Hradec Kralove › North: Nový Hradec Králové",
-    "city": "Hradec Kralove",
-    "countryCode": "FR",
-    "lat": 50.17876,
-    "lng": 15.83994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51157,17 +50893,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52261,6 +51986,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "FR",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -52279,17 +52015,6 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "FR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52657,17 +52382,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "FR",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -52675,6 +52389,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "FR",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52790,8 +52515,8 @@
   },
   {
     "id": "windy-1316874012",
-    "name": "Mo i Rana › South: NORWAY",
-    "city": "Mo i Rana",
+    "name": "Løkberg › South: Båsmoen - Mo i Rana - Ranfjorden",
+    "city": "Løkberg",
     "countryCode": "FR",
     "lat": 66.33861,
     "lng": 14.1037,
@@ -52999,11 +52724,11 @@
   },
   {
     "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
+    "name": "Kulstad › South: Tårnet",
+    "city": "Kulstad",
     "countryCode": "FR",
-    "lat": 65.87045,
-    "lng": 13.20994,
+    "lat": 65.87083,
+    "lng": 13.21028,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -53790,6 +53515,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1631763103",
+    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
+    "city": "Inari",
+    "countryCode": "FR",
+    "lat": 68.45088,
+    "lng": 27.42372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -53808,17 +53544,6 @@
     "lat": -46.90137,
     "lng": 168.12618,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "FR",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54209,7 +53934,7 @@
   },
   {
     "id": "windy-1337867816",
-    "name": "Oslo: Havn - Raadhuskaia",
+    "name": "Oslo › South-west: Pipervika - Kavringen - Hovedøya - Lindøya - Nakholmen",
     "city": "Oslo",
     "countryCode": "CN",
     "lat": 59.91175,
@@ -54347,17 +54072,6 @@
     "lat": 7.8293,
     "lng": 98.29401,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245318606/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -55029,6 +54743,17 @@
     "lat": 46.75466,
     "lng": 8.029,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1091875657/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183402927",
+    "name": "Denver: Live Downtown - weather camera",
+    "city": "Denver",
+    "countryCode": "CN",
+    "lat": 39.73719,
+    "lng": -104.96372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56606,17 +56331,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56624,17 +56338,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56679,17 +56382,6 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1344544249",
-    "name": "Marathia › North-west: Paralia Kourouta",
-    "city": "Marathia",
-    "countryCode": "CN",
-    "lat": 37.76793,
-    "lng": 21.29578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57086,17 +56778,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57706,17 +57387,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "CN",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -57944,6 +57614,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "CN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59510,6 +59191,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -59895,6 +59587,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "CN",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793892542",
     "name": "Plymouth › East: Tamar Bridge - A38",
     "city": "Plymouth",
@@ -59906,13 +59609,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
     "countryCode": "CN",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60254,6 +59957,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "CN",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60610,17 +60324,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "CN",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -60628,6 +60331,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "CN",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60694,17 +60408,6 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "CN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61171,17 +60874,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1338449105",
-    "name": "Mossel Bay › North: Mossel Bay Harbour - Santos Beach Mosselbay - Outeniqua Mountain View Lodge",
-    "city": "Mossel Bay",
-    "countryCode": "CN",
-    "lat": -34.18631,
-    "lng": 22.15056,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1192090107",
     "name": "Floridsdorf: Alte Donau Yachtclub Seewind",
     "city": "unknown",
@@ -61314,17 +61006,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394463516",
-    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
-    "city": "Puy-Saint-Vincent",
-    "countryCode": "CN",
-    "lat": 44.89306,
-    "lng": 6.61778,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1250435470",
     "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
     "city": "Freising",
@@ -61332,6 +61013,17 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1394463516",
+    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
+    "city": "Puy-Saint-Vincent",
+    "countryCode": "CN",
+    "lat": 44.89306,
+    "lng": 6.61778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61563,17 +61255,6 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1559207795",
-    "name": "Hradec Kralove › North: Nový Hradec Králové",
-    "city": "Hradec Kralove",
-    "countryCode": "CN",
-    "lat": 50.17876,
-    "lng": 15.83994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61981,17 +61662,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63085,6 +62755,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "CN",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -63103,17 +62784,6 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "CN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63481,17 +63151,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "CN",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -63499,6 +63158,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "CN",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63614,8 +63284,8 @@
   },
   {
     "id": "windy-1316874012",
-    "name": "Mo i Rana › South: NORWAY",
-    "city": "Mo i Rana",
+    "name": "Løkberg › South: Båsmoen - Mo i Rana - Ranfjorden",
+    "city": "Løkberg",
     "countryCode": "CN",
     "lat": 66.33861,
     "lng": 14.1037,
@@ -63823,11 +63493,11 @@
   },
   {
     "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
+    "name": "Kulstad › South: Tårnet",
+    "city": "Kulstad",
     "countryCode": "CN",
-    "lat": 65.87045,
-    "lng": 13.20994,
+    "lat": 65.87083,
+    "lng": 13.21028,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -64614,6 +64284,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1631763103",
+    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
+    "city": "Inari",
+    "countryCode": "CN",
+    "lat": 68.45088,
+    "lng": 27.42372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -64632,17 +64313,6 @@
     "lat": -46.90137,
     "lng": 168.12618,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "CN",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65033,7 +64703,7 @@
   },
   {
     "id": "windy-1337867816",
-    "name": "Oslo: Havn - Raadhuskaia",
+    "name": "Oslo › South-west: Pipervika - Kavringen - Hovedøya - Lindøya - Nakholmen",
     "city": "Oslo",
     "countryCode": "KR",
     "lat": 59.91175,
@@ -65171,17 +64841,6 @@
     "lat": 7.8293,
     "lng": 98.29401,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245318606/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65853,6 +65512,17 @@
     "lat": 46.75466,
     "lng": 8.029,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1091875657/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183402927",
+    "name": "Denver: Live Downtown - weather camera",
+    "city": "Denver",
+    "countryCode": "KR",
+    "lat": 39.73719,
+    "lng": -104.96372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67430,17 +67100,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67448,17 +67107,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67503,17 +67151,6 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1344544249",
-    "name": "Marathia › North-west: Paralia Kourouta",
-    "city": "Marathia",
-    "countryCode": "KR",
-    "lat": 37.76793,
-    "lng": 21.29578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67910,17 +67547,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68530,17 +68156,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "KR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -68768,6 +68383,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "KR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70334,6 +69960,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -70719,6 +70356,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "KR",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793892542",
     "name": "Plymouth › East: Tamar Bridge - A38",
     "city": "Plymouth",
@@ -70730,13 +70378,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
     "countryCode": "KR",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71078,6 +70726,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "KR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71434,17 +71093,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "KR",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -71452,6 +71100,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "KR",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71518,17 +71177,6 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "KR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71995,17 +71643,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1338449105",
-    "name": "Mossel Bay › North: Mossel Bay Harbour - Santos Beach Mosselbay - Outeniqua Mountain View Lodge",
-    "city": "Mossel Bay",
-    "countryCode": "KR",
-    "lat": -34.18631,
-    "lng": 22.15056,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1192090107",
     "name": "Floridsdorf: Alte Donau Yachtclub Seewind",
     "city": "unknown",
@@ -72138,17 +71775,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394463516",
-    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
-    "city": "Puy-Saint-Vincent",
-    "countryCode": "KR",
-    "lat": 44.89306,
-    "lng": 6.61778,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1250435470",
     "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
     "city": "Freising",
@@ -72156,6 +71782,17 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1394463516",
+    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
+    "city": "Puy-Saint-Vincent",
+    "countryCode": "KR",
+    "lat": 44.89306,
+    "lng": 6.61778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72387,17 +72024,6 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1559207795",
-    "name": "Hradec Kralove › North: Nový Hradec Králové",
-    "city": "Hradec Kralove",
-    "countryCode": "KR",
-    "lat": 50.17876,
-    "lng": 15.83994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72805,17 +72431,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73909,6 +73524,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "KR",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -73927,17 +73553,6 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "KR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74305,17 +73920,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "KR",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -74323,6 +73927,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "KR",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74438,8 +74053,8 @@
   },
   {
     "id": "windy-1316874012",
-    "name": "Mo i Rana › South: NORWAY",
-    "city": "Mo i Rana",
+    "name": "Løkberg › South: Båsmoen - Mo i Rana - Ranfjorden",
+    "city": "Løkberg",
     "countryCode": "KR",
     "lat": 66.33861,
     "lng": 14.1037,
@@ -74647,11 +74262,11 @@
   },
   {
     "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
+    "name": "Kulstad › South: Tårnet",
+    "city": "Kulstad",
     "countryCode": "KR",
-    "lat": 65.87045,
-    "lng": 13.20994,
+    "lat": 65.87083,
+    "lng": 13.21028,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -75438,6 +75053,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1631763103",
+    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
+    "city": "Inari",
+    "countryCode": "KR",
+    "lat": 68.45088,
+    "lng": 27.42372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -75456,17 +75082,6 @@
     "lat": -46.90137,
     "lng": 168.12618,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "KR",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75857,7 +75472,7 @@
   },
   {
     "id": "windy-1337867816",
-    "name": "Oslo: Havn - Raadhuskaia",
+    "name": "Oslo › South-west: Pipervika - Kavringen - Hovedøya - Lindøya - Nakholmen",
     "city": "Oslo",
     "countryCode": "IN",
     "lat": 59.91175,
@@ -75995,17 +75610,6 @@
     "lat": 7.8293,
     "lng": 98.29401,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245318606/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76677,6 +76281,17 @@
     "lat": 46.75466,
     "lng": 8.029,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1091875657/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183402927",
+    "name": "Denver: Live Downtown - weather camera",
+    "city": "Denver",
+    "countryCode": "IN",
+    "lat": 39.73719,
+    "lng": -104.96372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78254,17 +77869,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -78272,17 +77876,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78327,17 +77920,6 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1344544249",
-    "name": "Marathia › North-west: Paralia Kourouta",
-    "city": "Marathia",
-    "countryCode": "IN",
-    "lat": 37.76793,
-    "lng": 21.29578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78734,17 +78316,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79354,17 +78925,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "IN",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -79592,6 +79152,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "IN",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81158,6 +80729,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -81543,6 +81125,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "IN",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793892542",
     "name": "Plymouth › East: Tamar Bridge - A38",
     "city": "Plymouth",
@@ -81554,13 +81147,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
     "countryCode": "IN",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81902,6 +81495,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "IN",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82258,17 +81862,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "IN",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -82276,6 +81869,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "IN",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82342,17 +81946,6 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "IN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82819,17 +82412,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1338449105",
-    "name": "Mossel Bay › North: Mossel Bay Harbour - Santos Beach Mosselbay - Outeniqua Mountain View Lodge",
-    "city": "Mossel Bay",
-    "countryCode": "IN",
-    "lat": -34.18631,
-    "lng": 22.15056,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1192090107",
     "name": "Floridsdorf: Alte Donau Yachtclub Seewind",
     "city": "unknown",
@@ -82962,17 +82544,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394463516",
-    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
-    "city": "Puy-Saint-Vincent",
-    "countryCode": "IN",
-    "lat": 44.89306,
-    "lng": 6.61778,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1250435470",
     "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
     "city": "Freising",
@@ -82980,6 +82551,17 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1394463516",
+    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
+    "city": "Puy-Saint-Vincent",
+    "countryCode": "IN",
+    "lat": 44.89306,
+    "lng": 6.61778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83211,17 +82793,6 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1559207795",
-    "name": "Hradec Kralove › North: Nový Hradec Králové",
-    "city": "Hradec Kralove",
-    "countryCode": "IN",
-    "lat": 50.17876,
-    "lng": 15.83994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83629,17 +83200,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84733,6 +84293,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "IN",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -84751,17 +84322,6 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "IN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85129,17 +84689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "IN",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -85147,6 +84696,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "IN",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85262,8 +84822,8 @@
   },
   {
     "id": "windy-1316874012",
-    "name": "Mo i Rana › South: NORWAY",
-    "city": "Mo i Rana",
+    "name": "Løkberg › South: Båsmoen - Mo i Rana - Ranfjorden",
+    "city": "Løkberg",
     "countryCode": "IN",
     "lat": 66.33861,
     "lng": 14.1037,
@@ -85471,11 +85031,11 @@
   },
   {
     "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
+    "name": "Kulstad › South: Tårnet",
+    "city": "Kulstad",
     "countryCode": "IN",
-    "lat": 65.87045,
-    "lng": 13.20994,
+    "lat": 65.87083,
+    "lng": 13.21028,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -86262,6 +85822,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1631763103",
+    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
+    "city": "Inari",
+    "countryCode": "IN",
+    "lat": 68.45088,
+    "lng": 27.42372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -86280,17 +85851,6 @@
     "lat": -46.90137,
     "lng": 168.12618,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "IN",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86681,7 +86241,7 @@
   },
   {
     "id": "windy-1337867816",
-    "name": "Oslo: Havn - Raadhuskaia",
+    "name": "Oslo › South-west: Pipervika - Kavringen - Hovedøya - Lindøya - Nakholmen",
     "city": "Oslo",
     "countryCode": "BR",
     "lat": 59.91175,
@@ -86819,17 +86379,6 @@
     "lat": 7.8293,
     "lng": 98.29401,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245318606/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87501,6 +87050,17 @@
     "lat": 46.75466,
     "lng": 8.029,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1091875657/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183402927",
+    "name": "Denver: Live Downtown - weather camera",
+    "city": "Denver",
+    "countryCode": "BR",
+    "lat": 39.73719,
+    "lng": -104.96372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89078,17 +88638,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -89096,17 +88645,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89151,17 +88689,6 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1344544249",
-    "name": "Marathia › North-west: Paralia Kourouta",
-    "city": "Marathia",
-    "countryCode": "BR",
-    "lat": 37.76793,
-    "lng": 21.29578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89558,17 +89085,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90178,17 +89694,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "BR",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -90416,6 +89921,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "BR",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91982,6 +91498,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -92367,6 +91894,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "BR",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793892542",
     "name": "Plymouth › East: Tamar Bridge - A38",
     "city": "Plymouth",
@@ -92378,13 +91916,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
     "countryCode": "BR",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92726,6 +92264,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "BR",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93082,17 +92631,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "BR",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -93100,6 +92638,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "BR",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93166,17 +92715,6 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "BR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93643,17 +93181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1338449105",
-    "name": "Mossel Bay › North: Mossel Bay Harbour - Santos Beach Mosselbay - Outeniqua Mountain View Lodge",
-    "city": "Mossel Bay",
-    "countryCode": "BR",
-    "lat": -34.18631,
-    "lng": 22.15056,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1192090107",
     "name": "Floridsdorf: Alte Donau Yachtclub Seewind",
     "city": "unknown",
@@ -93786,17 +93313,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394463516",
-    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
-    "city": "Puy-Saint-Vincent",
-    "countryCode": "BR",
-    "lat": 44.89306,
-    "lng": 6.61778,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1250435470",
     "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
     "city": "Freising",
@@ -93804,6 +93320,17 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1394463516",
+    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
+    "city": "Puy-Saint-Vincent",
+    "countryCode": "BR",
+    "lat": 44.89306,
+    "lng": 6.61778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94035,17 +93562,6 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1559207795",
-    "name": "Hradec Kralove › North: Nový Hradec Králové",
-    "city": "Hradec Kralove",
-    "countryCode": "BR",
-    "lat": 50.17876,
-    "lng": 15.83994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94453,17 +93969,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95557,6 +95062,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "BR",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -95575,17 +95091,6 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "BR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95953,17 +95458,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "BR",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -95971,6 +95465,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "BR",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96086,8 +95591,8 @@
   },
   {
     "id": "windy-1316874012",
-    "name": "Mo i Rana › South: NORWAY",
-    "city": "Mo i Rana",
+    "name": "Løkberg › South: Båsmoen - Mo i Rana - Ranfjorden",
+    "city": "Løkberg",
     "countryCode": "BR",
     "lat": 66.33861,
     "lng": 14.1037,
@@ -96295,11 +95800,11 @@
   },
   {
     "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
+    "name": "Kulstad › South: Tårnet",
+    "city": "Kulstad",
     "countryCode": "BR",
-    "lat": 65.87045,
-    "lng": 13.20994,
+    "lat": 65.87083,
+    "lng": 13.21028,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -97086,6 +96591,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1631763103",
+    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
+    "city": "Inari",
+    "countryCode": "BR",
+    "lat": 68.45088,
+    "lng": 27.42372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -97104,17 +96620,6 @@
     "lat": -46.90137,
     "lng": 168.12618,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "BR",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97505,7 +97010,7 @@
   },
   {
     "id": "windy-1337867816",
-    "name": "Oslo: Havn - Raadhuskaia",
+    "name": "Oslo › South-west: Pipervika - Kavringen - Hovedøya - Lindøya - Nakholmen",
     "city": "Oslo",
     "countryCode": "AU",
     "lat": 59.91175,
@@ -97643,17 +97148,6 @@
     "lat": 7.8293,
     "lng": 98.29401,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1245318606/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98325,6 +97819,17 @@
     "lat": 46.75466,
     "lng": 8.029,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1091875657/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1183402927",
+    "name": "Denver: Live Downtown - weather camera",
+    "city": "Denver",
+    "countryCode": "AU",
+    "lat": 39.73719,
+    "lng": -104.96372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1183402927/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99902,17 +99407,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -99920,17 +99414,6 @@
     "lat": 46.14789,
     "lng": 8.79203,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217411157/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476644",
-    "name": "Lenk: Betelberg, Talstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.45814,
-    "lng": 7.43041,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476644/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99975,17 +99458,6 @@
     "lat": 69.01668,
     "lng": 20.87425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1210831370/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1344544249",
-    "name": "Marathia › North-west: Paralia Kourouta",
-    "city": "Marathia",
-    "countryCode": "AU",
-    "lat": 37.76793,
-    "lng": 21.29578,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1344544249/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100382,17 +99854,6 @@
     "lat": 43.47972,
     "lng": -110.76245,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1178986924/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1120476796",
-    "name": "Lenk: Metsch, Talstation 6er SB",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.45193,
-    "lng": 7.44135,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1120476796/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101002,17 +100463,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1075651001",
-    "name": "Bullet: Les Petites Roches - Chasseron",
-    "city": "Bullet",
-    "countryCode": "AU",
-    "lat": 46.83025,
-    "lng": 6.54785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1075651001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1467096063",
     "name": "Victoria › North-east: Tas-Salvatur Hill",
     "city": "Victoria",
@@ -101240,6 +100690,17 @@
     "lat": 43.17335,
     "lng": 16.44076,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1369846835/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1223106729",
+    "name": "Akaslompolo: Kolari, Ylläs, Äkäslompolo, Finland 3",
+    "city": "Akaslompolo",
+    "countryCode": "AU",
+    "lat": 67.61373,
+    "lng": 24.15052,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1223106729/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102806,6 +102267,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1572407376",
+    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": -44.67137,
+    "lng": 167.92803,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -103191,6 +102663,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1296808711",
+    "name": "Osek: Dlouha Louka: Osek",
+    "city": "Osek",
+    "countryCode": "AU",
+    "lat": 50.64956,
+    "lng": 13.64694,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793892542",
     "name": "Plymouth › East: Tamar Bridge - A38",
     "city": "Plymouth",
@@ -103202,13 +102685,13 @@
     "category": "city"
   },
   {
-    "id": "windy-1296808711",
-    "name": "Osek: Dlouha Louka: Osek",
-    "city": "Osek",
+    "id": "windy-1203347226",
+    "name": "Hibiscus and Bays: Orewa",
+    "city": "Hibiscus and Bays",
     "countryCode": "AU",
-    "lat": 50.64956,
-    "lng": 13.64694,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1296808711/original.jpg",
+    "lat": -36.59247,
+    "lng": 174.69969,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103550,6 +103033,17 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1230651774",
+    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
+    "city": "Kuranda",
+    "countryCode": "AU",
+    "lat": -16.8342,
+    "lng": 145.64462,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103906,17 +103400,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1348599722",
-    "name": "Ahrenshoop: Strand",
-    "city": "Ahrenshoop",
-    "countryCode": "AU",
-    "lat": 54.38388,
-    "lng": 12.42512,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1187538760",
     "name": "Korbach › North-east: Fußgängerzone Korbach - Prof.-Bier-Straße",
     "city": "Korbach",
@@ -103924,6 +103407,17 @@
     "lat": 51.27462,
     "lng": 8.87153,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1187538760/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1348599722",
+    "name": "Ahrenshoop: Strand",
+    "city": "Ahrenshoop",
+    "countryCode": "AU",
+    "lat": 54.38388,
+    "lng": 12.42512,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1348599722/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103990,17 +103484,6 @@
     "lat": 69.01711,
     "lng": 20.87385,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1368434292/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "AU",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104467,17 +103950,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1338449105",
-    "name": "Mossel Bay › North: Mossel Bay Harbour - Santos Beach Mosselbay - Outeniqua Mountain View Lodge",
-    "city": "Mossel Bay",
-    "countryCode": "AU",
-    "lat": -34.18631,
-    "lng": 22.15056,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1338449105/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1192090107",
     "name": "Floridsdorf: Alte Donau Yachtclub Seewind",
     "city": "unknown",
@@ -104610,17 +104082,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1394463516",
-    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
-    "city": "Puy-Saint-Vincent",
-    "countryCode": "AU",
-    "lat": 44.89306,
-    "lng": 6.61778,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1250435470",
     "name": "Freising: Marienplatz - Rathaus - Asamgebäude - Dom",
     "city": "Freising",
@@ -104628,6 +104089,17 @@
     "lat": 48.40093,
     "lng": 11.74391,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1250435470/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1394463516",
+    "name": "Puy-Saint-Vincent › South-east: Fort de la Croix-de-Bretagne",
+    "city": "Puy-Saint-Vincent",
+    "countryCode": "AU",
+    "lat": 44.89306,
+    "lng": 6.61778,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394463516/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104859,17 +104331,6 @@
     "lat": 48.34907,
     "lng": 17.1919,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1256991934/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1559207795",
-    "name": "Hradec Kralove › North: Nový Hradec Králové",
-    "city": "Hradec Kralove",
-    "countryCode": "AU",
-    "lat": 50.17876,
-    "lng": 15.83994,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1559207795/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105277,17 +104738,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106381,6 +105831,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1410639903",
+    "name": "Zagreb: Sljeme - Medvednica - ski center near",
+    "city": "Zagreb",
+    "countryCode": "AU",
+    "lat": 45.8996,
+    "lng": 15.94725,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -106399,17 +105860,6 @@
     "lat": 48.91071,
     "lng": 2.17933,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1299660563/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "AU",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106777,17 +106227,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1186401316",
-    "name": "Traben-Trarbach: Trarbach - Moselle",
-    "city": "Traben-Trarbach",
-    "countryCode": "AU",
-    "lat": 49.94889,
-    "lng": 7.1126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -106795,6 +106234,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1186401316",
+    "name": "Traben-Trarbach: Trarbach - Moselle",
+    "city": "Traben-Trarbach",
+    "countryCode": "AU",
+    "lat": 49.94889,
+    "lng": 7.1126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186401316/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106910,8 +106360,8 @@
   },
   {
     "id": "windy-1316874012",
-    "name": "Mo i Rana › South: NORWAY",
-    "city": "Mo i Rana",
+    "name": "Løkberg › South: Båsmoen - Mo i Rana - Ranfjorden",
+    "city": "Løkberg",
     "countryCode": "AU",
     "lat": 66.33861,
     "lng": 14.1037,
@@ -107119,11 +106569,11 @@
   },
   {
     "id": "windy-1309604777",
-    "name": "Mosjoen: Kulstaddalen",
-    "city": "Mosjoen",
+    "name": "Kulstad › South: Tårnet",
+    "city": "Kulstad",
     "countryCode": "AU",
-    "lat": 65.87045,
-    "lng": 13.20994,
+    "lat": 65.87083,
+    "lng": 13.21028,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309604777/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -107910,6 +107360,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1631763103",
+    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
+    "city": "Inari",
+    "countryCode": "AU",
+    "lat": 68.45088,
+    "lng": 27.42372,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1574367301",
     "name": "Killarney Municipal District: Killarney Urban ED: Killarney - Munster, Irland",
     "city": "Killarney Municipal District",
@@ -107928,17 +107389,6 @@
     "lat": -46.90137,
     "lng": 168.12618,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1631763103",
-    "name": "Inari: Tie 4 - Saariselkä, Kaunispää - maisema2",
-    "city": "Inari",
-    "countryCode": "AU",
-    "lat": 68.45088,
-    "lng": 27.42372,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631763103/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
