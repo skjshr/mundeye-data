@@ -1,12 +1,42 @@
 [
   {
+    "id": "us6000sxc7",
+    "type": "earthquake",
+    "lat": 11.5397,
+    "lng": -86.7186,
+    "intensity": 4.5,
+    "timestamp": "2026-05-13T03:45:21.331Z",
+    "description": "M 4.5 - 35 km SW of Masachapa, Nicaragua",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sxc0",
+    "type": "earthquake",
+    "lat": 30.3722,
+    "lng": 138.4279,
+    "intensity": 5.1,
+    "timestamp": "2026-05-13T03:08:33.276Z",
+    "description": "M 5.1 - Izu Islands, Japan region",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sxbv",
+    "type": "earthquake",
+    "lat": 41.6624,
+    "lng": 145.9025,
+    "intensity": 4.9,
+    "timestamp": "2026-05-13T02:24:36.823Z",
+    "description": "M 4.9 - 175 km SSE of Akkeshi, Japan",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxaj",
     "type": "earthquake",
-    "lat": -21.2349,
-    "lng": -174.3689,
+    "lat": -21.1489,
+    "lng": -174.4653,
     "intensity": 5.1,
-    "timestamp": "2026-05-12T21:53:48.536Z",
-    "description": "M 5.1 - 62 km E of ‘Ohonua, Tonga",
+    "timestamp": "2026-05-12T21:53:44.573Z",
+    "description": "M 5.1 - 55 km ENE of ‘Ohonua, Tonga",
     "source": "USGS"
   },
   {
@@ -87,26 +117,6 @@
     "intensity": 4.9,
     "timestamp": "2026-05-12T05:18:57.588Z",
     "description": "M 4.9 - Nicobar Islands, India region",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sx2w",
-    "type": "earthquake",
-    "lat": 52.1738,
-    "lng": 160.8367,
-    "intensity": 4.5,
-    "timestamp": "2026-05-12T04:08:24.653Z",
-    "description": "M 4.5 - 179 km SE of Petropavlovsk-Kamchatsky, Russia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sx2s",
-    "type": "earthquake",
-    "lat": -10.2288,
-    "lng": 161.21,
-    "intensity": 5,
-    "timestamp": "2026-05-12T03:45:42.646Z",
-    "description": "M 5.0 - 81 km WNW of Kirakira, Solomon Islands",
     "source": "USGS"
   }
 ]
