@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sxi7",
+    "type": "earthquake",
+    "lat": 9.8919,
+    "lng": 57.0362,
+    "intensity": 4.8,
+    "timestamp": "2026-05-13T16:58:44.087Z",
+    "description": "M 4.8 - Carlsberg Ridge",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxh5",
     "type": "earthquake",
     "lat": 9.6946,
@@ -117,16 +127,6 @@
     "intensity": 5.7,
     "timestamp": "2026-05-12T21:19:36.870Z",
     "description": "M 5.7 - 275 km SW of Houma, Tonga",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sx7r",
-    "type": "earthquake",
-    "lat": 2.8835,
-    "lng": 127.9058,
-    "intensity": 4.7,
-    "timestamp": "2026-05-12T18:10:22.469Z",
-    "description": "M 4.7 - 128 km N of Tobelo, Indonesia",
     "source": "USGS"
   }
 ]
