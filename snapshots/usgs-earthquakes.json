@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000sxd4",
+    "type": "earthquake",
+    "lat": -55.3734,
+    "lng": -28.3706,
+    "intensity": 5,
+    "timestamp": "2026-05-13T06:36:37.861Z",
+    "description": "M 5.0 - South Sandwich Islands region",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sxcz",
+    "type": "earthquake",
+    "lat": 51.4073,
+    "lng": 158.4693,
+    "intensity": 4.6,
+    "timestamp": "2026-05-13T05:39:54.585Z",
+    "description": "M 4.6 - 137 km E of Ozernovskiy, Russia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxc7",
     "type": "earthquake",
     "lat": 11.5397,
@@ -87,36 +107,6 @@
     "intensity": 5,
     "timestamp": "2026-05-12T08:53:56.666Z",
     "description": "M 5.0 - 224 km SE of Pondaguitan, Philippines",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sx3h",
-    "type": "earthquake",
-    "lat": 23.2629,
-    "lng": 121.4893,
-    "intensity": 5.1,
-    "timestamp": "2026-05-12T06:53:32.598Z",
-    "description": "M 5.1 - 79 km S of Hualien City, Taiwan",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sx3g",
-    "type": "earthquake",
-    "lat": 52.3443,
-    "lng": 160.1716,
-    "intensity": 4.6,
-    "timestamp": "2026-05-12T06:23:03.205Z",
-    "description": "M 4.6 - 131 km SE of Petropavlovsk-Kamchatsky, Russia",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sx36",
-    "type": "earthquake",
-    "lat": 7.0489,
-    "lng": 92.4295,
-    "intensity": 4.9,
-    "timestamp": "2026-05-12T05:18:57.588Z",
-    "description": "M 4.9 - Nicobar Islands, India region",
     "source": "USGS"
   }
 ]
