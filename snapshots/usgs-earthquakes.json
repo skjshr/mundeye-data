@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sxqf",
+    "type": "earthquake",
+    "lat": -6.198,
+    "lng": 130.3702,
+    "intensity": 6.2,
+    "timestamp": "2026-05-14T17:53:14.710Z",
+    "description": "M 6.2 - 271 km WSW of Tual, Indonesia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxnw",
     "type": "earthquake",
     "lat": 25.1362,
