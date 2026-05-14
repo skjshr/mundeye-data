@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sxka",
+    "type": "earthquake",
+    "lat": 5.0578,
+    "lng": 36.842,
+    "intensity": 4.7,
+    "timestamp": "2026-05-14T00:14:01.393Z",
+    "description": "M 4.7 - 41 km ENE of Turmi, Ethiopia",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxk1",
     "type": "earthquake",
     "lat": 19.1928,
