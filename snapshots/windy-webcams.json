@@ -209,6 +209,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "JP",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -2090,6 +2101,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "JP",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1113821046",
     "name": "Nesslau: Stein: Toggenburg Alpakas",
     "city": "Nesslau",
@@ -2141,17 +2163,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2662,17 +2673,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "JP",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -2893,17 +2893,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309943775",
-    "name": "Viceno: Campeggio Cistella",
-    "city": "Viceno",
-    "countryCode": "JP",
-    "lat": 46.22878,
-    "lng": 8.29938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -2911,6 +2900,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309943775",
+    "name": "Viceno: Campeggio Cistella",
+    "city": "Viceno",
+    "countryCode": "JP",
+    "lat": 46.22878,
+    "lng": 8.29938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4785,17 +4785,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "JP",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -4803,6 +4792,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "JP",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5599,17 +5599,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "JP",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952591",
     "name": "Brescia: Brescia Castle",
     "city": "Brescia",
@@ -5617,6 +5606,17 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "JP",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5819,17 +5819,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "JP",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -5881,17 +5870,6 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "JP",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6233,17 +6211,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "JP",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6743,17 +6710,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "JP",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1532064276",
     "name": "Freiburg im Breisgau: Baden-Württemberg, Germany",
     "city": "Freiburg im Breisgau",
@@ -6761,6 +6717,17 @@
     "lat": 48.00122,
     "lng": 7.84889,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532064276/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "JP",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10131,17 +10098,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "JP",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -10831,6 +10787,17 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "JP",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11044,6 +11011,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "US",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -12925,6 +12903,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "US",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1113821046",
     "name": "Nesslau: Stein: Toggenburg Alpakas",
     "city": "Nesslau",
@@ -12976,17 +12965,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13497,17 +13475,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "US",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -13728,17 +13695,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309943775",
-    "name": "Viceno: Campeggio Cistella",
-    "city": "Viceno",
-    "countryCode": "US",
-    "lat": 46.22878,
-    "lng": 8.29938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -13746,6 +13702,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309943775",
+    "name": "Viceno: Campeggio Cistella",
+    "city": "Viceno",
+    "countryCode": "US",
+    "lat": 46.22878,
+    "lng": 8.29938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15620,17 +15587,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "US",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -15638,6 +15594,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "US",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16434,17 +16401,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "US",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952591",
     "name": "Brescia: Brescia Castle",
     "city": "Brescia",
@@ -16452,6 +16408,17 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "US",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16654,17 +16621,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "US",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -16716,17 +16672,6 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "US",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17068,17 +17013,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "US",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17578,17 +17512,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "US",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1532064276",
     "name": "Freiburg im Breisgau: Baden-Württemberg, Germany",
     "city": "Freiburg im Breisgau",
@@ -17596,6 +17519,17 @@
     "lat": 48.00122,
     "lng": 7.84889,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532064276/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "US",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20966,17 +20900,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "US",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -21666,6 +21589,17 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "US",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21879,6 +21813,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "GB",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -23760,6 +23705,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "GB",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1113821046",
     "name": "Nesslau: Stein: Toggenburg Alpakas",
     "city": "Nesslau",
@@ -23811,17 +23767,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24332,17 +24277,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "GB",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -24563,17 +24497,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309943775",
-    "name": "Viceno: Campeggio Cistella",
-    "city": "Viceno",
-    "countryCode": "GB",
-    "lat": 46.22878,
-    "lng": 8.29938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -24581,6 +24504,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309943775",
+    "name": "Viceno: Campeggio Cistella",
+    "city": "Viceno",
+    "countryCode": "GB",
+    "lat": 46.22878,
+    "lng": 8.29938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26455,17 +26389,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "GB",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -26473,6 +26396,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "GB",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27269,17 +27203,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "GB",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952591",
     "name": "Brescia: Brescia Castle",
     "city": "Brescia",
@@ -27287,6 +27210,17 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "GB",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27489,17 +27423,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "GB",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -27551,17 +27474,6 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "GB",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27903,17 +27815,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "GB",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28413,17 +28314,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "GB",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1532064276",
     "name": "Freiburg im Breisgau: Baden-Württemberg, Germany",
     "city": "Freiburg im Breisgau",
@@ -28431,6 +28321,17 @@
     "lat": 48.00122,
     "lng": 7.84889,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532064276/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "GB",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31801,17 +31702,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "GB",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -32501,6 +32391,17 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "GB",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32714,6 +32615,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "DE",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -34595,6 +34507,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "DE",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1113821046",
     "name": "Nesslau: Stein: Toggenburg Alpakas",
     "city": "Nesslau",
@@ -34646,17 +34569,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35167,17 +35079,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "DE",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -35398,17 +35299,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309943775",
-    "name": "Viceno: Campeggio Cistella",
-    "city": "Viceno",
-    "countryCode": "DE",
-    "lat": 46.22878,
-    "lng": 8.29938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -35416,6 +35306,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309943775",
+    "name": "Viceno: Campeggio Cistella",
+    "city": "Viceno",
+    "countryCode": "DE",
+    "lat": 46.22878,
+    "lng": 8.29938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37290,17 +37191,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "DE",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -37308,6 +37198,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "DE",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38104,17 +38005,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "DE",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952591",
     "name": "Brescia: Brescia Castle",
     "city": "Brescia",
@@ -38122,6 +38012,17 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "DE",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38324,17 +38225,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "DE",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -38386,17 +38276,6 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "DE",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38738,17 +38617,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "DE",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39248,17 +39116,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "DE",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1532064276",
     "name": "Freiburg im Breisgau: Baden-Württemberg, Germany",
     "city": "Freiburg im Breisgau",
@@ -39266,6 +39123,17 @@
     "lat": 48.00122,
     "lng": 7.84889,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532064276/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "DE",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42636,17 +42504,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "DE",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -43336,6 +43193,17 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "DE",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43549,6 +43417,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "FR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -45430,6 +45309,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "FR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1113821046",
     "name": "Nesslau: Stein: Toggenburg Alpakas",
     "city": "Nesslau",
@@ -45481,17 +45371,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46002,17 +45881,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "FR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -46233,17 +46101,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309943775",
-    "name": "Viceno: Campeggio Cistella",
-    "city": "Viceno",
-    "countryCode": "FR",
-    "lat": 46.22878,
-    "lng": 8.29938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -46251,6 +46108,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309943775",
+    "name": "Viceno: Campeggio Cistella",
+    "city": "Viceno",
+    "countryCode": "FR",
+    "lat": 46.22878,
+    "lng": 8.29938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48125,17 +47993,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "FR",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -48143,6 +48000,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "FR",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48939,17 +48807,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "FR",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952591",
     "name": "Brescia: Brescia Castle",
     "city": "Brescia",
@@ -48957,6 +48814,17 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "FR",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49159,17 +49027,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "FR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -49221,17 +49078,6 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "FR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49573,17 +49419,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "FR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50083,17 +49918,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "FR",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1532064276",
     "name": "Freiburg im Breisgau: Baden-Württemberg, Germany",
     "city": "Freiburg im Breisgau",
@@ -50101,6 +49925,17 @@
     "lat": 48.00122,
     "lng": 7.84889,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532064276/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "FR",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53471,17 +53306,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "FR",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -54171,6 +53995,17 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "FR",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54384,6 +54219,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "CN",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -56265,6 +56111,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "CN",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1113821046",
     "name": "Nesslau: Stein: Toggenburg Alpakas",
     "city": "Nesslau",
@@ -56316,17 +56173,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56837,17 +56683,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "CN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -57068,17 +56903,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309943775",
-    "name": "Viceno: Campeggio Cistella",
-    "city": "Viceno",
-    "countryCode": "CN",
-    "lat": 46.22878,
-    "lng": 8.29938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -57086,6 +56910,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309943775",
+    "name": "Viceno: Campeggio Cistella",
+    "city": "Viceno",
+    "countryCode": "CN",
+    "lat": 46.22878,
+    "lng": 8.29938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58960,17 +58795,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "CN",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -58978,6 +58802,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "CN",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59774,17 +59609,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "CN",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952591",
     "name": "Brescia: Brescia Castle",
     "city": "Brescia",
@@ -59792,6 +59616,17 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "CN",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59994,17 +59829,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "CN",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -60056,17 +59880,6 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "CN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60408,17 +60221,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "CN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60918,17 +60720,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "CN",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1532064276",
     "name": "Freiburg im Breisgau: Baden-Württemberg, Germany",
     "city": "Freiburg im Breisgau",
@@ -60936,6 +60727,17 @@
     "lat": 48.00122,
     "lng": 7.84889,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532064276/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "CN",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64306,17 +64108,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "CN",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -65006,6 +64797,17 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "CN",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65219,6 +65021,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "KR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -67100,6 +66913,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "KR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1113821046",
     "name": "Nesslau: Stein: Toggenburg Alpakas",
     "city": "Nesslau",
@@ -67151,17 +66975,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67672,17 +67485,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "KR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -67903,17 +67705,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309943775",
-    "name": "Viceno: Campeggio Cistella",
-    "city": "Viceno",
-    "countryCode": "KR",
-    "lat": 46.22878,
-    "lng": 8.29938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -67921,6 +67712,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309943775",
+    "name": "Viceno: Campeggio Cistella",
+    "city": "Viceno",
+    "countryCode": "KR",
+    "lat": 46.22878,
+    "lng": 8.29938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69795,17 +69597,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "KR",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -69813,6 +69604,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "KR",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70609,17 +70411,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "KR",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952591",
     "name": "Brescia: Brescia Castle",
     "city": "Brescia",
@@ -70627,6 +70418,17 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "KR",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70829,17 +70631,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "KR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -70891,17 +70682,6 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "KR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71243,17 +71023,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "KR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71753,17 +71522,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "KR",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1532064276",
     "name": "Freiburg im Breisgau: Baden-Württemberg, Germany",
     "city": "Freiburg im Breisgau",
@@ -71771,6 +71529,17 @@
     "lat": 48.00122,
     "lng": 7.84889,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532064276/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "KR",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75141,17 +74910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "KR",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -75841,6 +75599,17 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "KR",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76054,6 +75823,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "IN",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -77935,6 +77715,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "IN",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1113821046",
     "name": "Nesslau: Stein: Toggenburg Alpakas",
     "city": "Nesslau",
@@ -77986,17 +77777,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78507,17 +78287,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "IN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -78738,17 +78507,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309943775",
-    "name": "Viceno: Campeggio Cistella",
-    "city": "Viceno",
-    "countryCode": "IN",
-    "lat": 46.22878,
-    "lng": 8.29938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -78756,6 +78514,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309943775",
+    "name": "Viceno: Campeggio Cistella",
+    "city": "Viceno",
+    "countryCode": "IN",
+    "lat": 46.22878,
+    "lng": 8.29938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80630,17 +80399,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "IN",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -80648,6 +80406,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "IN",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81444,17 +81213,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "IN",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952591",
     "name": "Brescia: Brescia Castle",
     "city": "Brescia",
@@ -81462,6 +81220,17 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "IN",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81664,17 +81433,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "IN",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -81726,17 +81484,6 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "IN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82078,17 +81825,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "IN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82588,17 +82324,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "IN",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1532064276",
     "name": "Freiburg im Breisgau: Baden-Württemberg, Germany",
     "city": "Freiburg im Breisgau",
@@ -82606,6 +82331,17 @@
     "lat": 48.00122,
     "lng": 7.84889,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532064276/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "IN",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85976,17 +85712,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "IN",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -86676,6 +86401,17 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "IN",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86889,6 +86625,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "BR",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -88770,6 +88517,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "BR",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1113821046",
     "name": "Nesslau: Stein: Toggenburg Alpakas",
     "city": "Nesslau",
@@ -88821,17 +88579,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89342,17 +89089,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "BR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -89573,17 +89309,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309943775",
-    "name": "Viceno: Campeggio Cistella",
-    "city": "Viceno",
-    "countryCode": "BR",
-    "lat": 46.22878,
-    "lng": 8.29938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -89591,6 +89316,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309943775",
+    "name": "Viceno: Campeggio Cistella",
+    "city": "Viceno",
+    "countryCode": "BR",
+    "lat": 46.22878,
+    "lng": 8.29938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91465,17 +91201,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "BR",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -91483,6 +91208,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "BR",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92279,17 +92015,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "BR",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952591",
     "name": "Brescia: Brescia Castle",
     "city": "Brescia",
@@ -92297,6 +92022,17 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "BR",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92499,17 +92235,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "BR",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -92561,17 +92286,6 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "BR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92913,17 +92627,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "BR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93423,17 +93126,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "BR",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1532064276",
     "name": "Freiburg im Breisgau: Baden-Württemberg, Germany",
     "city": "Freiburg im Breisgau",
@@ -93441,6 +93133,17 @@
     "lat": 48.00122,
     "lng": 7.84889,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532064276/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "BR",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96811,17 +96514,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "BR",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -97511,6 +97203,17 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "BR",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97724,6 +97427,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1513089804",
+    "name": "Chennai: Tamil Nadu - North-North West",
+    "city": "Chennai",
+    "countryCode": "AU",
+    "lat": 12.45619,
+    "lng": 80.1182,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1513089804/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1245318606",
     "name": "Phuket › North: Karon Beach",
     "city": "Phuket",
@@ -99605,6 +99319,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1197918606",
+    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
+    "city": "Vancouver",
+    "countryCode": "AU",
+    "lat": 49.27433,
+    "lng": -123.21156,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1113821046",
     "name": "Nesslau: Stein: Toggenburg Alpakas",
     "city": "Nesslau",
@@ -99656,17 +99381,6 @@
     "lat": 64.17266,
     "lng": -51.67224,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309962155/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100177,17 +99891,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "AU",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1292513213",
     "name": "Valbella: Lenzerheide Alp Stätz",
     "city": "Valbella",
@@ -100408,17 +100111,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1309943775",
-    "name": "Viceno: Campeggio Cistella",
-    "city": "Viceno",
-    "countryCode": "AU",
-    "lat": 46.22878,
-    "lng": 8.29938,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1254415053",
     "name": "La Fuente de San Esteban: Fuente De",
     "city": "La Fuente de San Esteban",
@@ -100426,6 +100118,17 @@
     "lat": 43.15719,
     "lng": -4.80791,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1254415053/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1309943775",
+    "name": "Viceno: Campeggio Cistella",
+    "city": "Viceno",
+    "countryCode": "AU",
+    "lat": 46.22878,
+    "lng": 8.29938,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1309943775/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102300,17 +102003,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1204407046",
-    "name": "Liberec › East: Tramvajová vozovna",
-    "city": "Liberec",
-    "countryCode": "AU",
-    "lat": 50.76153,
-    "lng": 15.04816,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -102318,6 +102010,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1204407046",
+    "name": "Liberec › East: Tramvajová vozovna",
+    "city": "Liberec",
+    "countryCode": "AU",
+    "lat": 50.76153,
+    "lng": 15.04816,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1204407046/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103114,17 +102817,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "AU",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1234952591",
     "name": "Brescia: Brescia Castle",
     "city": "Brescia",
@@ -103132,6 +102824,17 @@
     "lat": 45.54636,
     "lng": 10.23474,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234952591/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "AU",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103334,17 +103037,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1384062006",
-    "name": "Trondheim: Bymarka Ski hut",
-    "city": "Trondheim",
-    "countryCode": "AU",
-    "lat": 63.41725,
-    "lng": 10.26128,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1470388309",
     "name": "Vienna › North: Satzberg",
     "city": "Vienna",
@@ -103396,17 +103088,6 @@
     "lat": 35.69403,
     "lng": 139.75363,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1567938478/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "AU",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103748,17 +103429,6 @@
     "lat": 69.98321,
     "lng": 23.28286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1394437365/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "AU",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104258,17 +103928,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1138022422",
-    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
-    "city": "Sumiswald",
-    "countryCode": "AU",
-    "lat": 47.02767,
-    "lng": 7.74495,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1532064276",
     "name": "Freiburg im Breisgau: Baden-Württemberg, Germany",
     "city": "Freiburg im Breisgau",
@@ -104276,6 +103935,17 @@
     "lat": 48.00122,
     "lng": 7.84889,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1532064276/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1138022422",
+    "name": "Sumiswald: Wetterstation Oberthal, Zäziwil",
+    "city": "Sumiswald",
+    "countryCode": "AU",
+    "lat": 47.02767,
+    "lng": 7.74495,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1138022422/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107646,17 +107316,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1509983635",
-    "name": "Pinzolo: Piazza Brenta Alta - Trentino-Alto Adige, Italia: Visuale dal Hotel Garnì la Montanara Madonna di Campiglio",
-    "city": "Pinzolo",
-    "countryCode": "AU",
-    "lat": 46.23221,
-    "lng": 10.82627,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1509983635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1183553729",
     "name": "Downtown Historic District: San Jose 2",
     "city": "unknown",
@@ -108346,6 +108005,17 @@
     "lat": 49.2304,
     "lng": 13.51987,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1385571616/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1631456236",
+    "name": "Cheonghak-dong",
+    "city": "Cheonghak-dong",
+    "countryCode": "AU",
+    "lat": 35.1055,
+    "lng": 129.06463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1631456236/original.jpg",
     "playerUrl": "",
     "category": "city"
   }

@@ -3,8 +3,8 @@
     "symbol": "SPX",
     "name": "S&P 500",
     "countryCode": "US",
-    "price": 7508.1,
-    "changePct": 0.86,
+    "price": 7488,
+    "changePct": -0.27,
     "currency": "USD",
     "asOf": "2026-05-14T00:00:00.000Z"
   },
@@ -12,8 +12,8 @@
     "symbol": "DJI",
     "name": "Dow Jones",
     "countryCode": "US",
-    "price": 50090.3,
-    "changePct": 0.8,
+    "price": 50005.3,
+    "changePct": -0.17,
     "currency": "USD",
     "asOf": "2026-05-14T00:00:00.000Z"
   },
@@ -21,8 +21,8 @@
     "symbol": "IXIC",
     "name": "NASDAQ Composite",
     "countryCode": "US",
-    "price": 26670.174,
-    "changePct": 1.01,
+    "price": 26568.188,
+    "changePct": -0.38,
     "currency": "USD",
     "asOf": "2026-05-14T00:00:00.000Z"
   },
@@ -48,8 +48,8 @@
     "symbol": "FTSE",
     "name": "FTSE 100",
     "countryCode": "GB",
-    "price": 22809.2,
-    "changePct": 0.24,
+    "price": 22828.07,
+    "changePct": 0.08,
     "currency": "GBP",
     "asOf": "2026-05-14T00:00:00.000Z"
   },
@@ -57,8 +57,8 @@
     "symbol": "DAX",
     "name": "DAX",
     "countryCode": "DE",
-    "price": 24456.08,
-    "changePct": 0.1,
+    "price": 24452.62,
+    "changePct": -0.01,
     "currency": "EUR",
     "asOf": "2026-05-14T00:00:00.000Z"
   }
