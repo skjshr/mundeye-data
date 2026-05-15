@@ -231,17 +231,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -2475,17 +2464,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2574,6 +2552,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "JP",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -2581,6 +2570,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4653,17 +4653,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "JP",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -4671,6 +4660,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "JP",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6556,17 +6556,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "JP",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229806176",
     "name": "Enkhuizen › East: Oude Haven - Paktuinen",
     "city": "Enkhuizen",
@@ -7326,17 +7315,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "JP",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -7344,6 +7322,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "JP",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7828,17 +7817,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9251,17 +9229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315299500",
-    "name": "Gala: Gålå",
-    "city": "Gala",
-    "countryCode": "JP",
-    "lat": 61.50399,
-    "lng": 9.78882,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -10252,17 +10219,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "JP",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -10384,17 +10340,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "JP",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1191947191",
     "name": "Garafia › North: Nordic Optical Telescope",
     "city": "Garafia",
@@ -10402,6 +10347,17 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "JP",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11000,17 +10956,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -13244,17 +13189,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13343,6 +13277,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "US",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -13350,6 +13295,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15422,17 +15378,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "US",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -15440,6 +15385,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "US",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17325,17 +17281,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "US",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229806176",
     "name": "Enkhuizen › East: Oude Haven - Paktuinen",
     "city": "Enkhuizen",
@@ -18095,17 +18040,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "US",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -18113,6 +18047,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "US",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18597,17 +18542,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20020,17 +19954,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315299500",
-    "name": "Gala: Gålå",
-    "city": "Gala",
-    "countryCode": "US",
-    "lat": 61.50399,
-    "lng": 9.78882,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -21021,17 +20944,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "US",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -21153,17 +21065,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "US",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1191947191",
     "name": "Garafia › North: Nordic Optical Telescope",
     "city": "Garafia",
@@ -21171,6 +21072,17 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "US",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21769,17 +21681,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -24013,17 +23914,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24112,6 +24002,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "GB",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -24119,6 +24020,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26191,17 +26103,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "GB",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -26209,6 +26110,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "GB",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28094,17 +28006,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "GB",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229806176",
     "name": "Enkhuizen › East: Oude Haven - Paktuinen",
     "city": "Enkhuizen",
@@ -28864,17 +28765,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "GB",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -28882,6 +28772,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "GB",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29366,17 +29267,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30789,17 +30679,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315299500",
-    "name": "Gala: Gålå",
-    "city": "Gala",
-    "countryCode": "GB",
-    "lat": 61.50399,
-    "lng": 9.78882,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -31790,17 +31669,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "GB",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -31922,17 +31790,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "GB",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1191947191",
     "name": "Garafia › North: Nordic Optical Telescope",
     "city": "Garafia",
@@ -31940,6 +31797,17 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "GB",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32538,17 +32406,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -34782,17 +34639,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -34881,6 +34727,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "DE",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -34888,6 +34745,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36960,17 +36828,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "DE",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -36978,6 +36835,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "DE",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38863,17 +38731,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "DE",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229806176",
     "name": "Enkhuizen › East: Oude Haven - Paktuinen",
     "city": "Enkhuizen",
@@ -39633,17 +39490,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "DE",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -39651,6 +39497,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "DE",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40135,17 +39992,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41558,17 +41404,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315299500",
-    "name": "Gala: Gålå",
-    "city": "Gala",
-    "countryCode": "DE",
-    "lat": 61.50399,
-    "lng": 9.78882,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -42559,17 +42394,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "DE",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -42691,17 +42515,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "DE",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1191947191",
     "name": "Garafia › North: Nordic Optical Telescope",
     "city": "Garafia",
@@ -42709,6 +42522,17 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "DE",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43307,17 +43131,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -45551,17 +45364,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45650,6 +45452,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "FR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -45657,6 +45470,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47729,17 +47553,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "FR",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -47747,6 +47560,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "FR",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49632,17 +49456,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "FR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229806176",
     "name": "Enkhuizen › East: Oude Haven - Paktuinen",
     "city": "Enkhuizen",
@@ -50402,17 +50215,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "FR",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -50420,6 +50222,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "FR",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50904,17 +50717,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52327,17 +52129,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315299500",
-    "name": "Gala: Gålå",
-    "city": "Gala",
-    "countryCode": "FR",
-    "lat": 61.50399,
-    "lng": 9.78882,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -53328,17 +53119,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "FR",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -53460,17 +53240,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "FR",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1191947191",
     "name": "Garafia › North: Nordic Optical Telescope",
     "city": "Garafia",
@@ -53478,6 +53247,17 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "FR",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54076,17 +53856,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -56320,17 +56089,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56419,6 +56177,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "CN",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -56426,6 +56195,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58498,17 +58278,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "CN",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -58516,6 +58285,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "CN",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60401,17 +60181,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "CN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229806176",
     "name": "Enkhuizen › East: Oude Haven - Paktuinen",
     "city": "Enkhuizen",
@@ -61171,17 +60940,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "CN",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -61189,6 +60947,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "CN",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61673,17 +61442,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63096,17 +62854,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315299500",
-    "name": "Gala: Gålå",
-    "city": "Gala",
-    "countryCode": "CN",
-    "lat": 61.50399,
-    "lng": 9.78882,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -64097,17 +63844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "CN",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -64229,17 +63965,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "CN",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1191947191",
     "name": "Garafia › North: Nordic Optical Telescope",
     "city": "Garafia",
@@ -64247,6 +63972,17 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "CN",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64845,17 +64581,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -67089,17 +66814,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67188,6 +66902,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "KR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -67195,6 +66920,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69267,17 +69003,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "KR",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -69285,6 +69010,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "KR",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71170,17 +70906,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "KR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229806176",
     "name": "Enkhuizen › East: Oude Haven - Paktuinen",
     "city": "Enkhuizen",
@@ -71940,17 +71665,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "KR",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -71958,6 +71672,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "KR",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72442,17 +72167,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73865,17 +73579,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315299500",
-    "name": "Gala: Gålå",
-    "city": "Gala",
-    "countryCode": "KR",
-    "lat": 61.50399,
-    "lng": 9.78882,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -74866,17 +74569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "KR",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -74998,17 +74690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "KR",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1191947191",
     "name": "Garafia › North: Nordic Optical Telescope",
     "city": "Garafia",
@@ -75016,6 +74697,17 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "KR",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75614,17 +75306,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -77858,17 +77539,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -77957,6 +77627,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "IN",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -77964,6 +77645,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80036,17 +79728,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "IN",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -80054,6 +79735,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "IN",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81939,17 +81631,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "IN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229806176",
     "name": "Enkhuizen › East: Oude Haven - Paktuinen",
     "city": "Enkhuizen",
@@ -82709,17 +82390,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "IN",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -82727,6 +82397,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "IN",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83211,17 +82892,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84634,17 +84304,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315299500",
-    "name": "Gala: Gålå",
-    "city": "Gala",
-    "countryCode": "IN",
-    "lat": 61.50399,
-    "lng": 9.78882,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -85635,17 +85294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "IN",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -85767,17 +85415,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "IN",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1191947191",
     "name": "Garafia › North: Nordic Optical Telescope",
     "city": "Garafia",
@@ -85785,6 +85422,17 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "IN",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86383,17 +86031,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -88627,17 +88264,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -88726,6 +88352,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "BR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -88733,6 +88370,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90805,17 +90453,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "BR",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -90823,6 +90460,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "BR",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92708,17 +92356,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "BR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229806176",
     "name": "Enkhuizen › East: Oude Haven - Paktuinen",
     "city": "Enkhuizen",
@@ -93478,17 +93115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "BR",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -93496,6 +93122,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "BR",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93980,17 +93617,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95403,17 +95029,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315299500",
-    "name": "Gala: Gålå",
-    "city": "Gala",
-    "countryCode": "BR",
-    "lat": 61.50399,
-    "lng": 9.78882,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -96404,17 +96019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "BR",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -96536,17 +96140,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "BR",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1191947191",
     "name": "Garafia › North: Nordic Optical Telescope",
     "city": "Garafia",
@@ -96554,6 +96147,17 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "BR",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97152,17 +96756,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -99396,17 +98989,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -99495,6 +99077,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "AU",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1324392866",
     "name": "Vrsar: Marina",
     "city": "Vrsar",
@@ -99502,6 +99095,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101574,17 +101178,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "AU",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -101592,6 +101185,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "AU",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103477,17 +103081,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "AU",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229806176",
     "name": "Enkhuizen › East: Oude Haven - Paktuinen",
     "city": "Enkhuizen",
@@ -104247,17 +103840,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "AU",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -104265,6 +103847,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "AU",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104749,17 +104342,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106172,17 +105754,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1315299500",
-    "name": "Gala: Gålå",
-    "city": "Gala",
-    "countryCode": "AU",
-    "lat": 61.50399,
-    "lng": 9.78882,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1315299500/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697041296",
     "name": "Flims: Conn: Lärchwald - Rein Anteriur",
     "city": "Flims",
@@ -107173,17 +106744,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1693844957",
-    "name": "Khamovniki District › South-east",
-    "city": "Khamovniki District",
-    "countryCode": "AU",
-    "lat": 55.74311,
-    "lng": 37.60463,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1546480555",
     "name": "Southland District: St. Anne's Point: Entrance to Milford Sound, NZ",
     "city": "unknown",
@@ -107305,17 +106865,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1311798001",
-    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
-    "city": "Quedlinburg",
-    "countryCode": "AU",
-    "lat": 51.78868,
-    "lng": 11.14126,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1191947191",
     "name": "Garafia › North: Nordic Optical Telescope",
     "city": "Garafia",
@@ -107323,6 +106872,17 @@
     "lat": 28.75662,
     "lng": -17.88508,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1191947191/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1311798001",
+    "name": "Quedlinburg: Hotel Zum Bär und Marktplatz",
+    "city": "Quedlinburg",
+    "countryCode": "AU",
+    "lat": 51.78868,
+    "lng": 11.14126,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1311798001/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
