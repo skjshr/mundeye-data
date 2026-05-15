@@ -10,6 +10,16 @@
     "source": "USGS"
   },
   {
+    "id": "us6000sxx0",
+    "type": "earthquake",
+    "lat": 27.9065,
+    "lng": 142.15,
+    "intensity": 4.8,
+    "timestamp": "2026-05-15T11:20:54.030Z",
+    "description": "M 4.8 - Bonin Islands, Japan region",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sxu9",
     "type": "earthquake",
     "lat": -2.9915,
@@ -17,6 +27,16 @@
     "intensity": 5.4,
     "timestamp": "2026-05-15T01:13:58.659Z",
     "description": "M 5.4 - 119 km SSE of Lorengau, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sxx5",
+    "type": "earthquake",
+    "lat": -40.5826,
+    "lng": -16.7257,
+    "intensity": 4.5,
+    "timestamp": "2026-05-14T23:09:28.238Z",
+    "description": "M 4.5 - southern Mid-Atlantic Ridge",
     "source": "USGS"
   },
   {
@@ -47,16 +67,6 @@
     "intensity": 5.2,
     "timestamp": "2026-05-14T15:34:06.382Z",
     "description": "M 5.2 - Volcano Islands, Japan region",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sxn9",
-    "type": "earthquake",
-    "lat": 4.0895,
-    "lng": -76.7348,
-    "intensity": 5.3,
-    "timestamp": "2026-05-14T12:48:22.202Z",
-    "description": "M 5.3 - 32 km WNW of Darien, Colombia",
     "source": "USGS"
   }
 ]
