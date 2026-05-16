@@ -132,6 +132,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "JP",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -1661,17 +1672,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "JP",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -2592,17 +2592,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "JP",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5863,17 +5852,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "JP",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -6211,17 +6189,6 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "JP",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10978,6 +10945,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "US",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -12507,17 +12485,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "US",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -13438,17 +13405,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "US",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16709,17 +16665,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "US",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -17057,17 +17002,6 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "US",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21824,6 +21758,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "GB",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -23353,17 +23298,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "GB",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -24284,17 +24218,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "GB",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27555,17 +27478,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "GB",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -27903,17 +27815,6 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "GB",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32670,6 +32571,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "DE",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -34199,17 +34111,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "DE",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -35130,17 +35031,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "DE",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38401,17 +38291,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "DE",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -38749,17 +38628,6 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "DE",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43516,6 +43384,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "FR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -45045,17 +44924,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "FR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -45976,17 +45844,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "FR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49247,17 +49104,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "FR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -49595,17 +49441,6 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "FR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54362,6 +54197,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "CN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -55891,17 +55737,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "CN",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -56822,17 +56657,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "CN",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60093,17 +59917,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "CN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -60441,17 +60254,6 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "CN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65208,6 +65010,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "KR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -66737,17 +66550,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "KR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -67668,17 +67470,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "KR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70939,17 +70730,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "KR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -71287,17 +71067,6 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "KR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76054,6 +75823,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "IN",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -77583,17 +77363,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "IN",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -78514,17 +78283,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "IN",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81785,17 +81543,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "IN",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -82133,17 +81880,6 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "IN",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86900,6 +86636,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "BR",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -88429,17 +88176,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "BR",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -89360,17 +89096,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "BR",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92631,17 +92356,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "BR",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -92979,17 +92693,6 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "BR",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97746,6 +97449,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1171132133",
+    "name": "Honolulu: Beach",
+    "city": "Honolulu",
+    "countryCode": "AU",
+    "lat": 21.29701,
+    "lng": -157.86688,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1171132133/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1793901985",
     "name": "Sydney › South-west: Sydney Opera House - Sydney Harbour Bridge - Dawes Point",
     "city": "Sydney",
@@ -99275,17 +98989,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1295524534",
-    "name": "Klisoura: Kleisoura Kastorias 1180m",
-    "city": "Klisoura",
-    "countryCode": "AU",
-    "lat": 40.53516,
-    "lng": 21.46954,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295524534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1109590185",
     "name": "Melchsee-Frutt",
     "city": "Melchsee-Frutt",
@@ -100206,17 +99909,6 @@
     "lat": 46.79078,
     "lng": 7.74351,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1081757307/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1216894327",
-    "name": "Tarnaby: Storuman, Sweden",
-    "city": "Tarnaby",
-    "countryCode": "AU",
-    "lat": 65.70988,
-    "lng": 15.26404,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103477,17 +103169,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1203347226",
-    "name": "Hibiscus and Bays: Orewa",
-    "city": "Hibiscus and Bays",
-    "countryCode": "AU",
-    "lat": -36.59247,
-    "lng": 174.69969,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1203347226/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1650355280",
     "name": "South Georgia › North: Mawson Station",
     "city": "unknown",
@@ -103825,17 +103506,6 @@
     "lat": 33.9892,
     "lng": -118.4757,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230041522/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1230651774",
-    "name": "Kuranda: Barron Falls - Kuranda Scenic Railway - Barron Gorge",
-    "city": "Kuranda",
-    "countryCode": "AU",
-    "lat": -16.8342,
-    "lng": 145.64462,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1230651774/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
