@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sy84",
+    "type": "earthquake",
+    "lat": 17.5127,
+    "lng": -61.1771,
+    "intensity": 6,
+    "timestamp": "2026-05-16T14:50:03.503Z",
+    "description": "M 6.0 - 70 km ESE of Codrington, Antigua and Barbuda",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sy7u",
     "type": "earthquake",
     "lat": -17.7887,
