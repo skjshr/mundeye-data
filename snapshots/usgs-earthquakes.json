@@ -1,5 +1,35 @@
 [
   {
+    "id": "us6000sy50",
+    "type": "earthquake",
+    "lat": -21.8473,
+    "lng": -68.4323,
+    "intensity": 4.8,
+    "timestamp": "2026-05-16T01:59:43.392Z",
+    "description": "M 4.8 - 71 km SSW of Ollagüe, Chile",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sy4v",
+    "type": "earthquake",
+    "lat": -32.555,
+    "lng": -178.5946,
+    "intensity": 4.6,
+    "timestamp": "2026-05-16T01:22:16.192Z",
+    "description": "M 4.6 - south of the Kermadec Islands",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000sy49",
+    "type": "earthquake",
+    "lat": -17.8368,
+    "lng": -178.6924,
+    "intensity": 4.5,
+    "timestamp": "2026-05-15T22:20:25.566Z",
+    "description": "M 4.5 - 212 km E of Levuka, Fiji",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sy3u",
     "type": "earthquake",
     "lat": -17.8372,
