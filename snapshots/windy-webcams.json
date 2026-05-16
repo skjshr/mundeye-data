@@ -2123,17 +2123,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -2636,17 +2625,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "JP",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4697,17 +4675,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1175255635",
-    "name": "Wil: Wiler Turm",
-    "city": "Wil",
-    "countryCode": "JP",
-    "lat": 47.47868,
-    "lng": 9.04953,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -4715,6 +4682,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1175255635",
+    "name": "Wil: Wiler Turm",
+    "city": "Wil",
+    "countryCode": "JP",
+    "lat": 47.47868,
+    "lng": 9.04953,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4814,6 +4792,17 @@
     "lat": 47.86261,
     "lng": 16.83187,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543302/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202324869",
+    "name": "Arillas Magouladon: Παραλία Αρίλλας",
+    "city": "Arillas Magouladon",
+    "countryCode": "JP",
+    "lat": 39.6238,
+    "lng": 19.9096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202324869/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4961,17 +4950,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "JP",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -4979,6 +4957,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "JP",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5687,17 +5676,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608913222",
-    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "JP",
-    "lat": 44.55123,
-    "lng": 9.453,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -5705,6 +5683,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608913222",
+    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "JP",
+    "lat": 44.55123,
+    "lng": 9.453,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7513,17 +7502,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1132573715",
     "name": "Binn: Schmidigehischre - Lengtal",
     "city": "Binn",
@@ -7997,6 +7975,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "JP",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -8004,6 +7993,17 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326806895",
+    "name": "Kalamata: View of the Taygetos mountain",
+    "city": "Kalamata",
+    "countryCode": "JP",
+    "lat": 37.03082,
+    "lng": 22.1132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8921,17 +8921,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "JP",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -8939,6 +8928,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "JP",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9075,17 +9075,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -9093,6 +9082,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9295,17 +9295,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "JP",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -9313,6 +9302,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "JP",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9614,17 +9614,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "JP",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -9632,6 +9621,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "JP",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9757,17 +9757,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "JP",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -9775,6 +9764,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "JP",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9845,17 +9845,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "JP",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -9863,6 +9852,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "JP",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10230,17 +10230,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "JP",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -10248,6 +10237,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "JP",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10809,6 +10809,17 @@
     "lat": 57.23827,
     "lng": -5.88985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "JP",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -12936,17 +12947,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -13449,17 +13449,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "US",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15510,17 +15499,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1175255635",
-    "name": "Wil: Wiler Turm",
-    "city": "Wil",
-    "countryCode": "US",
-    "lat": 47.47868,
-    "lng": 9.04953,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -15528,6 +15506,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1175255635",
+    "name": "Wil: Wiler Turm",
+    "city": "Wil",
+    "countryCode": "US",
+    "lat": 47.47868,
+    "lng": 9.04953,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15627,6 +15616,17 @@
     "lat": 47.86261,
     "lng": 16.83187,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543302/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202324869",
+    "name": "Arillas Magouladon: Παραλία Αρίλλας",
+    "city": "Arillas Magouladon",
+    "countryCode": "US",
+    "lat": 39.6238,
+    "lng": 19.9096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202324869/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15774,17 +15774,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "US",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -15792,6 +15781,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "US",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16500,17 +16500,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608913222",
-    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "US",
-    "lat": 44.55123,
-    "lng": 9.453,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -16518,6 +16507,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608913222",
+    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "US",
+    "lat": 44.55123,
+    "lng": 9.453,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18326,17 +18326,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1132573715",
     "name": "Binn: Schmidigehischre - Lengtal",
     "city": "Binn",
@@ -18810,6 +18799,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "US",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -18817,6 +18817,17 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326806895",
+    "name": "Kalamata: View of the Taygetos mountain",
+    "city": "Kalamata",
+    "countryCode": "US",
+    "lat": 37.03082,
+    "lng": 22.1132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19734,17 +19745,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "US",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -19752,6 +19752,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "US",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19888,17 +19899,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -19906,6 +19906,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20108,17 +20119,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "US",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -20126,6 +20126,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "US",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20427,17 +20438,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "US",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -20445,6 +20445,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "US",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20570,17 +20581,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "US",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -20588,6 +20588,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "US",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20658,17 +20669,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "US",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -20676,6 +20676,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "US",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21043,17 +21054,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "US",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -21061,6 +21061,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "US",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21622,6 +21633,17 @@
     "lat": 57.23827,
     "lng": -5.88985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "US",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -23749,17 +23771,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -24262,17 +24273,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "GB",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26323,17 +26323,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1175255635",
-    "name": "Wil: Wiler Turm",
-    "city": "Wil",
-    "countryCode": "GB",
-    "lat": 47.47868,
-    "lng": 9.04953,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -26341,6 +26330,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1175255635",
+    "name": "Wil: Wiler Turm",
+    "city": "Wil",
+    "countryCode": "GB",
+    "lat": 47.47868,
+    "lng": 9.04953,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26440,6 +26440,17 @@
     "lat": 47.86261,
     "lng": 16.83187,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543302/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202324869",
+    "name": "Arillas Magouladon: Παραλία Αρίλλας",
+    "city": "Arillas Magouladon",
+    "countryCode": "GB",
+    "lat": 39.6238,
+    "lng": 19.9096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202324869/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26587,17 +26598,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "GB",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -26605,6 +26605,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "GB",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27313,17 +27324,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608913222",
-    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "GB",
-    "lat": 44.55123,
-    "lng": 9.453,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -27331,6 +27331,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608913222",
+    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "GB",
+    "lat": 44.55123,
+    "lng": 9.453,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29139,17 +29150,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1132573715",
     "name": "Binn: Schmidigehischre - Lengtal",
     "city": "Binn",
@@ -29623,6 +29623,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "GB",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -29630,6 +29641,17 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326806895",
+    "name": "Kalamata: View of the Taygetos mountain",
+    "city": "Kalamata",
+    "countryCode": "GB",
+    "lat": 37.03082,
+    "lng": 22.1132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30547,17 +30569,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "GB",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -30565,6 +30576,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "GB",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30701,17 +30723,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -30719,6 +30730,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30921,17 +30943,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "GB",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -30939,6 +30950,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "GB",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31240,17 +31262,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "GB",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -31258,6 +31269,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "GB",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31383,17 +31405,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "GB",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -31401,6 +31412,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "GB",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31471,17 +31493,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "GB",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -31489,6 +31500,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "GB",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31856,17 +31878,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "GB",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -31874,6 +31885,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "GB",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32435,6 +32457,17 @@
     "lat": 57.23827,
     "lng": -5.88985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "GB",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34562,17 +34595,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -35075,17 +35097,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "DE",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37136,17 +37147,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1175255635",
-    "name": "Wil: Wiler Turm",
-    "city": "Wil",
-    "countryCode": "DE",
-    "lat": 47.47868,
-    "lng": 9.04953,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -37154,6 +37154,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1175255635",
+    "name": "Wil: Wiler Turm",
+    "city": "Wil",
+    "countryCode": "DE",
+    "lat": 47.47868,
+    "lng": 9.04953,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37253,6 +37264,17 @@
     "lat": 47.86261,
     "lng": 16.83187,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543302/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202324869",
+    "name": "Arillas Magouladon: Παραλία Αρίλλας",
+    "city": "Arillas Magouladon",
+    "countryCode": "DE",
+    "lat": 39.6238,
+    "lng": 19.9096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202324869/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37400,17 +37422,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "DE",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -37418,6 +37429,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "DE",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38126,17 +38148,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608913222",
-    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "DE",
-    "lat": 44.55123,
-    "lng": 9.453,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -38144,6 +38155,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608913222",
+    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "DE",
+    "lat": 44.55123,
+    "lng": 9.453,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39952,17 +39974,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1132573715",
     "name": "Binn: Schmidigehischre - Lengtal",
     "city": "Binn",
@@ -40436,6 +40447,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "DE",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -40443,6 +40465,17 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326806895",
+    "name": "Kalamata: View of the Taygetos mountain",
+    "city": "Kalamata",
+    "countryCode": "DE",
+    "lat": 37.03082,
+    "lng": 22.1132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41360,17 +41393,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "DE",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -41378,6 +41400,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "DE",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41514,17 +41547,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -41532,6 +41554,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41734,17 +41767,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "DE",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -41752,6 +41774,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "DE",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42053,17 +42086,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "DE",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -42071,6 +42093,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "DE",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42196,17 +42229,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "DE",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -42214,6 +42236,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "DE",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42284,17 +42317,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "DE",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -42302,6 +42324,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "DE",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42669,17 +42702,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "DE",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -42687,6 +42709,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "DE",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43248,6 +43281,17 @@
     "lat": 57.23827,
     "lng": -5.88985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "DE",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45375,17 +45419,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -45888,17 +45921,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "FR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47949,17 +47971,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1175255635",
-    "name": "Wil: Wiler Turm",
-    "city": "Wil",
-    "countryCode": "FR",
-    "lat": 47.47868,
-    "lng": 9.04953,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -47967,6 +47978,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1175255635",
+    "name": "Wil: Wiler Turm",
+    "city": "Wil",
+    "countryCode": "FR",
+    "lat": 47.47868,
+    "lng": 9.04953,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48066,6 +48088,17 @@
     "lat": 47.86261,
     "lng": 16.83187,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543302/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202324869",
+    "name": "Arillas Magouladon: Παραλία Αρίλλας",
+    "city": "Arillas Magouladon",
+    "countryCode": "FR",
+    "lat": 39.6238,
+    "lng": 19.9096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202324869/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48213,17 +48246,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "FR",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -48231,6 +48253,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "FR",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48939,17 +48972,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608913222",
-    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "FR",
-    "lat": 44.55123,
-    "lng": 9.453,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -48957,6 +48979,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608913222",
+    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "FR",
+    "lat": 44.55123,
+    "lng": 9.453,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50765,17 +50798,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1132573715",
     "name": "Binn: Schmidigehischre - Lengtal",
     "city": "Binn",
@@ -51249,6 +51271,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "FR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -51256,6 +51289,17 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326806895",
+    "name": "Kalamata: View of the Taygetos mountain",
+    "city": "Kalamata",
+    "countryCode": "FR",
+    "lat": 37.03082,
+    "lng": 22.1132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52173,17 +52217,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "FR",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -52191,6 +52224,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "FR",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52327,17 +52371,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -52345,6 +52378,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52547,17 +52591,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "FR",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -52565,6 +52598,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "FR",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52866,17 +52910,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "FR",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -52884,6 +52917,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "FR",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53009,17 +53053,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "FR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -53027,6 +53060,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "FR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53097,17 +53141,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "FR",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -53115,6 +53148,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "FR",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53482,17 +53526,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "FR",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -53500,6 +53533,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "FR",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54061,6 +54105,17 @@
     "lat": 57.23827,
     "lng": -5.88985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "FR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56188,17 +56243,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -56701,17 +56745,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "CN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58762,17 +58795,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1175255635",
-    "name": "Wil: Wiler Turm",
-    "city": "Wil",
-    "countryCode": "CN",
-    "lat": 47.47868,
-    "lng": 9.04953,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -58780,6 +58802,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1175255635",
+    "name": "Wil: Wiler Turm",
+    "city": "Wil",
+    "countryCode": "CN",
+    "lat": 47.47868,
+    "lng": 9.04953,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58879,6 +58912,17 @@
     "lat": 47.86261,
     "lng": 16.83187,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543302/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202324869",
+    "name": "Arillas Magouladon: Παραλία Αρίλλας",
+    "city": "Arillas Magouladon",
+    "countryCode": "CN",
+    "lat": 39.6238,
+    "lng": 19.9096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202324869/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59026,17 +59070,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "CN",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -59044,6 +59077,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "CN",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59752,17 +59796,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608913222",
-    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "CN",
-    "lat": 44.55123,
-    "lng": 9.453,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -59770,6 +59803,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608913222",
+    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "CN",
+    "lat": 44.55123,
+    "lng": 9.453,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61578,17 +61622,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1132573715",
     "name": "Binn: Schmidigehischre - Lengtal",
     "city": "Binn",
@@ -62062,6 +62095,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "CN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -62069,6 +62113,17 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326806895",
+    "name": "Kalamata: View of the Taygetos mountain",
+    "city": "Kalamata",
+    "countryCode": "CN",
+    "lat": 37.03082,
+    "lng": 22.1132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62986,17 +63041,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "CN",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -63004,6 +63048,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "CN",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63140,17 +63195,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -63158,6 +63202,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63360,17 +63415,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "CN",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -63378,6 +63422,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "CN",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63679,17 +63734,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "CN",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -63697,6 +63741,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "CN",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63822,17 +63877,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "CN",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -63840,6 +63884,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "CN",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63910,17 +63965,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "CN",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -63928,6 +63972,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "CN",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64295,17 +64350,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "CN",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -64313,6 +64357,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "CN",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64874,6 +64929,17 @@
     "lat": 57.23827,
     "lng": -5.88985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "CN",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67001,17 +67067,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -67514,17 +67569,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "KR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69575,17 +69619,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1175255635",
-    "name": "Wil: Wiler Turm",
-    "city": "Wil",
-    "countryCode": "KR",
-    "lat": 47.47868,
-    "lng": 9.04953,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -69593,6 +69626,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1175255635",
+    "name": "Wil: Wiler Turm",
+    "city": "Wil",
+    "countryCode": "KR",
+    "lat": 47.47868,
+    "lng": 9.04953,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69692,6 +69736,17 @@
     "lat": 47.86261,
     "lng": 16.83187,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543302/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202324869",
+    "name": "Arillas Magouladon: Παραλία Αρίλλας",
+    "city": "Arillas Magouladon",
+    "countryCode": "KR",
+    "lat": 39.6238,
+    "lng": 19.9096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202324869/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69839,17 +69894,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "KR",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -69857,6 +69901,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "KR",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70565,17 +70620,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608913222",
-    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "KR",
-    "lat": 44.55123,
-    "lng": 9.453,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -70583,6 +70627,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608913222",
+    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "KR",
+    "lat": 44.55123,
+    "lng": 9.453,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72391,17 +72446,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1132573715",
     "name": "Binn: Schmidigehischre - Lengtal",
     "city": "Binn",
@@ -72875,6 +72919,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "KR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -72882,6 +72937,17 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326806895",
+    "name": "Kalamata: View of the Taygetos mountain",
+    "city": "Kalamata",
+    "countryCode": "KR",
+    "lat": 37.03082,
+    "lng": 22.1132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73799,17 +73865,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "KR",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -73817,6 +73872,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "KR",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73953,17 +74019,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -73971,6 +74026,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74173,17 +74239,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "KR",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -74191,6 +74246,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "KR",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74492,17 +74558,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "KR",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -74510,6 +74565,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "KR",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74635,17 +74701,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "KR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -74653,6 +74708,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "KR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74723,17 +74789,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "KR",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -74741,6 +74796,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "KR",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75108,17 +75174,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "KR",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -75126,6 +75181,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "KR",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75687,6 +75753,17 @@
     "lat": 57.23827,
     "lng": -5.88985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "KR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77814,17 +77891,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -78327,17 +78393,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "IN",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80388,17 +80443,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1175255635",
-    "name": "Wil: Wiler Turm",
-    "city": "Wil",
-    "countryCode": "IN",
-    "lat": 47.47868,
-    "lng": 9.04953,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -80406,6 +80450,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1175255635",
+    "name": "Wil: Wiler Turm",
+    "city": "Wil",
+    "countryCode": "IN",
+    "lat": 47.47868,
+    "lng": 9.04953,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80505,6 +80560,17 @@
     "lat": 47.86261,
     "lng": 16.83187,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543302/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202324869",
+    "name": "Arillas Magouladon: Παραλία Αρίλλας",
+    "city": "Arillas Magouladon",
+    "countryCode": "IN",
+    "lat": 39.6238,
+    "lng": 19.9096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202324869/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80652,17 +80718,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "IN",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -80670,6 +80725,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "IN",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81378,17 +81444,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608913222",
-    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "IN",
-    "lat": 44.55123,
-    "lng": 9.453,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -81396,6 +81451,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608913222",
+    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "IN",
+    "lat": 44.55123,
+    "lng": 9.453,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83204,17 +83270,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1132573715",
     "name": "Binn: Schmidigehischre - Lengtal",
     "city": "Binn",
@@ -83688,6 +83743,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "IN",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -83695,6 +83761,17 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326806895",
+    "name": "Kalamata: View of the Taygetos mountain",
+    "city": "Kalamata",
+    "countryCode": "IN",
+    "lat": 37.03082,
+    "lng": 22.1132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84612,17 +84689,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "IN",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -84630,6 +84696,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "IN",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84766,17 +84843,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -84784,6 +84850,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84986,17 +85063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "IN",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -85004,6 +85070,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "IN",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85305,17 +85382,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "IN",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -85323,6 +85389,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "IN",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85448,17 +85525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "IN",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -85466,6 +85532,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "IN",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85536,17 +85613,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "IN",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -85554,6 +85620,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "IN",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85921,17 +85998,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "IN",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -85939,6 +86005,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "IN",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86500,6 +86577,17 @@
     "lat": 57.23827,
     "lng": -5.88985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "IN",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88627,17 +88715,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -89140,17 +89217,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "BR",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91201,17 +91267,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1175255635",
-    "name": "Wil: Wiler Turm",
-    "city": "Wil",
-    "countryCode": "BR",
-    "lat": 47.47868,
-    "lng": 9.04953,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -91219,6 +91274,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1175255635",
+    "name": "Wil: Wiler Turm",
+    "city": "Wil",
+    "countryCode": "BR",
+    "lat": 47.47868,
+    "lng": 9.04953,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91318,6 +91384,17 @@
     "lat": 47.86261,
     "lng": 16.83187,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543302/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202324869",
+    "name": "Arillas Magouladon: Παραλία Αρίλλας",
+    "city": "Arillas Magouladon",
+    "countryCode": "BR",
+    "lat": 39.6238,
+    "lng": 19.9096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202324869/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91465,17 +91542,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "BR",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -91483,6 +91549,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "BR",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92191,17 +92268,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608913222",
-    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "BR",
-    "lat": 44.55123,
-    "lng": 9.453,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -92209,6 +92275,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608913222",
+    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "BR",
+    "lat": 44.55123,
+    "lng": 9.453,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94017,17 +94094,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1132573715",
     "name": "Binn: Schmidigehischre - Lengtal",
     "city": "Binn",
@@ -94501,6 +94567,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "BR",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -94508,6 +94585,17 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326806895",
+    "name": "Kalamata: View of the Taygetos mountain",
+    "city": "Kalamata",
+    "countryCode": "BR",
+    "lat": 37.03082,
+    "lng": 22.1132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95425,17 +95513,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "BR",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -95443,6 +95520,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "BR",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95579,17 +95667,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -95597,6 +95674,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95799,17 +95887,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "BR",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -95817,6 +95894,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "BR",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96118,17 +96206,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "BR",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -96136,6 +96213,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "BR",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96261,17 +96349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "BR",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -96279,6 +96356,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "BR",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96349,17 +96437,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "BR",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -96367,6 +96444,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "BR",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96734,17 +96822,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "BR",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -96752,6 +96829,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "BR",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97313,6 +97401,17 @@
     "lat": 57.23827,
     "lng": -5.88985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "BR",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99440,17 +99539,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1484444428",
-    "name": "Shirakawa › West: Shirakawa-go",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.25656,
-    "lng": 136.90272,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1484444428/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1299584174",
     "name": "Menconico › North: Monte Alpe - Via del Mare",
     "city": "Menconico",
@@ -99953,17 +100041,6 @@
     "lat": 50.03583,
     "lng": 15.77944,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1238681821/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1496397168",
-    "name": "Twizel › North: Lakestone Lodge - Lake Pukaki - Mount Cook - Aoraki/Mount Cook National Park - South Island - New Zealand",
-    "city": "Twizel",
-    "countryCode": "AU",
-    "lat": -44.17757,
-    "lng": 170.16081,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1496397168/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102014,17 +102091,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1175255635",
-    "name": "Wil: Wiler Turm",
-    "city": "Wil",
-    "countryCode": "AU",
-    "lat": 47.47868,
-    "lng": 9.04953,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1716387140",
     "name": "Tondo",
     "city": "Tondo",
@@ -102032,6 +102098,17 @@
     "lat": 14.59851,
     "lng": 120.95286,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1716387140/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1175255635",
+    "name": "Wil: Wiler Turm",
+    "city": "Wil",
+    "countryCode": "AU",
+    "lat": 47.47868,
+    "lng": 9.04953,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1175255635/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102131,6 +102208,17 @@
     "lat": 47.86261,
     "lng": 16.83187,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543302/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1202324869",
+    "name": "Arillas Magouladon: Παραλία Αρίλλας",
+    "city": "Arillas Magouladon",
+    "countryCode": "AU",
+    "lat": 39.6238,
+    "lng": 19.9096,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1202324869/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102278,17 +102366,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1517470268",
-    "name": "Hoyos del Espino › West: El Túnel",
-    "city": "Hoyos del Espino",
-    "countryCode": "AU",
-    "lat": 40.35557,
-    "lng": -5.17544,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1444762905",
     "name": "Quarteira: Praia da Rocha Baixinha",
     "city": "Quarteira",
@@ -102296,6 +102373,17 @@
     "lat": 37.07398,
     "lng": -8.12123,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1444762905/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1517470268",
+    "name": "Hoyos del Espino › West: El Túnel",
+    "city": "Hoyos del Espino",
+    "countryCode": "AU",
+    "lat": 40.35557,
+    "lng": -5.17544,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1517470268/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103004,17 +103092,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1608913222",
-    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
-    "city": "Santo Stefano d'Aveto",
-    "countryCode": "AU",
-    "lat": 44.55123,
-    "lng": 9.453,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1593446638",
     "name": "Los Andes › North: Laguna del Inca",
     "city": "Los Andes",
@@ -103022,6 +103099,17 @@
     "lat": -32.83517,
     "lng": -70.12979,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1593446638/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1608913222",
+    "name": "Santo Stefano d'Aveto: Rocca d'Aveto",
+    "city": "Santo Stefano d'Aveto",
+    "countryCode": "AU",
+    "lat": 44.55123,
+    "lng": 9.453,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1608913222/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104830,17 +104918,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1575667527",
-    "name": "Greenland: Freya Gletscher",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 74.38248,
-    "lng": -20.78783,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1132573715",
     "name": "Binn: Schmidigehischre - Lengtal",
     "city": "Binn",
@@ -105314,6 +105391,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1606333312",
+    "name": "Madrid: Sol: Gran Vía",
+    "city": "Madrid",
+    "countryCode": "AU",
+    "lat": 40.41974,
+    "lng": -3.69976,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1606333312/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1376382103",
     "name": "Lignano Sabbiadoro: spiaggia VIP",
     "city": "Lignano Sabbiadoro",
@@ -105321,6 +105409,17 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1326806895",
+    "name": "Kalamata: View of the Taygetos mountain",
+    "city": "Kalamata",
+    "countryCode": "AU",
+    "lat": 37.03082,
+    "lng": 22.1132,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106238,17 +106337,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1652953217",
-    "name": "Genoa: Primocanale",
-    "city": "Genoa",
-    "countryCode": "AU",
-    "lat": 44.40499,
-    "lng": 8.93613,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -106256,6 +106344,17 @@
     "lat": 44.40248,
     "lng": 6.92572,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286464894/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1652953217",
+    "name": "Genoa: Primocanale",
+    "city": "Genoa",
+    "countryCode": "AU",
+    "lat": 44.40499,
+    "lng": 8.93613,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1652953217/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106392,17 +106491,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1197467727",
-    "name": "Rudolfsheim-Funfhaus: Votivkirche",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 48.17653,
-    "lng": 16.35431,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286473689",
     "name": "Agaete › South: Dedo De Dios",
     "city": "Agaete",
@@ -106410,6 +106498,17 @@
     "lat": 28.10084,
     "lng": -15.71014,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1286473689/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1197467727",
+    "name": "Rudolfsheim-Funfhaus: Votivkirche",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 48.17653,
+    "lng": 16.35431,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197467727/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106612,17 +106711,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1235591757",
-    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
-    "city": "Berg im Drautal",
-    "countryCode": "AU",
-    "lat": 46.74883,
-    "lng": 13.14584,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1579385444",
     "name": "Alejandro Korn › North-west",
     "city": "Alejandro Korn",
@@ -106630,6 +106718,17 @@
     "lat": -35.00534,
     "lng": -58.3626,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1579385444/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1235591757",
+    "name": "Berg im Drautal: Hotel Glocknerhof - Modellflugschule Glocknerhof - Weissensee",
+    "city": "Berg im Drautal",
+    "countryCode": "AU",
+    "lat": 46.74883,
+    "lng": 13.14584,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1235591757/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106931,17 +107030,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273268534",
-    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
-    "city": "Bellaria-Igea Marina",
-    "countryCode": "AU",
-    "lat": 44.12937,
-    "lng": 12.48632,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1048420603",
     "name": "Uzwil: Niederuzwil MeteoTop",
     "city": "Uzwil",
@@ -106949,6 +107037,17 @@
     "lat": 47.44569,
     "lng": 9.14196,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1048420603/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273268534",
+    "name": "Bellaria-Igea Marina: Spiaggia di Igea Marina Italy",
+    "city": "Bellaria-Igea Marina",
+    "countryCode": "AU",
+    "lat": 44.12937,
+    "lng": 12.48632,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273268534/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107074,17 +107173,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1273275960",
-    "name": "Seebach: Schnurrenhof: Mummelsee",
-    "city": "Seebach",
-    "countryCode": "AU",
-    "lat": 48.5966,
-    "lng": 8.20109,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217948891",
     "name": "Hamburg › North: Wooden Bridge",
     "city": "Hamburg",
@@ -107092,6 +107180,17 @@
     "lat": 53.5464,
     "lng": 9.98939,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1217948891/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1273275960",
+    "name": "Seebach: Schnurrenhof: Mummelsee",
+    "city": "Seebach",
+    "countryCode": "AU",
+    "lat": 48.5966,
+    "lng": 8.20109,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1273275960/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107162,17 +107261,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1545481310",
-    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
-    "city": "Limone Piemonte",
-    "countryCode": "AU",
-    "lat": 44.19849,
-    "lng": 7.58523,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1609680440",
     "name": "Asco › South-west: Station de ski d'Asco",
     "city": "Asco",
@@ -107180,6 +107268,17 @@
     "lat": 42.40287,
     "lng": 8.92303,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609680440/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1545481310",
+    "name": "Limone Piemonte: Piemonte, Italia: Maneggio",
+    "city": "Limone Piemonte",
+    "countryCode": "AU",
+    "lat": 44.19849,
+    "lng": 7.58523,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481310/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107547,17 +107646,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1146478867",
-    "name": "Seedorf: Hafenanlage Bolzbach",
-    "city": "Seedorf",
-    "countryCode": "AU",
-    "lat": 46.89909,
-    "lng": 8.59337,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1259781095",
     "name": "Kalyvia Thorikou › North-west: Ymittos",
     "city": "Kalyvia Thorikou",
@@ -107565,6 +107653,17 @@
     "lat": 37.83412,
     "lng": 23.92784,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1259781095/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1146478867",
+    "name": "Seedorf: Hafenanlage Bolzbach",
+    "city": "Seedorf",
+    "countryCode": "AU",
+    "lat": 46.89909,
+    "lng": 8.59337,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1146478867/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -108126,6 +108225,17 @@
     "lat": 57.23827,
     "lng": -5.88985,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1199785856",
+    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
+    "city": "Jaun",
+    "countryCode": "AU",
+    "lat": 46.61146,
+    "lng": 7.29212,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
