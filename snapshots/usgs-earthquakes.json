@@ -1,5 +1,15 @@
 [
   {
+    "id": "us6000sy6x",
+    "type": "earthquake",
+    "lat": -22.985,
+    "lng": -66.294,
+    "intensity": 4.7,
+    "timestamp": "2026-05-16T10:59:47.078Z",
+    "description": "M 4.7 - 67 km WNW of El Aguilar, Argentina",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sy5x",
     "type": "earthquake",
     "lat": -31.9282,
@@ -77,26 +87,6 @@
     "intensity": 4.9,
     "timestamp": "2026-05-15T15:45:18.856Z",
     "description": "M 4.9 - 11 km WNW of Palca, Peru",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sxwq",
-    "type": "earthquake",
-    "lat": 38.9127,
-    "lng": 142.2498,
-    "intensity": 6.7,
-    "timestamp": "2026-05-15T11:22:01.649Z",
-    "description": "M 6.7 - 49 km ESE of Ōfunato, Japan",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000sxx0",
-    "type": "earthquake",
-    "lat": 27.9065,
-    "lng": 142.15,
-    "intensity": 4.8,
-    "timestamp": "2026-05-15T11:20:54.030Z",
-    "description": "M 4.8 - Bonin Islands, Japan region",
     "source": "USGS"
   }
 ]

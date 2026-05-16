@@ -474,11 +474,11 @@
   },
   {
     "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
+    "name": "Davos › South-west: Alter Höhwaldsteg - Lake Davos",
     "city": "Davos",
     "countryCode": "JP",
-    "lat": 46.82646,
-    "lng": 9.85831,
+    "lat": 46.82494,
+    "lng": 9.85906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -1001,6 +1001,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1049529921",
+    "name": "Capriasca › South: Lugano San Salvatore",
+    "city": "Capriasca",
+    "countryCode": "JP",
+    "lat": 46.06933,
+    "lng": 8.97697,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1211725853",
     "name": "Berlin: RBB-Fernsehzentrum - Germany",
     "city": "Berlin",
@@ -1448,17 +1459,6 @@
     "lat": 50.36558,
     "lng": 7.61421,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186264357/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1049529921",
-    "name": "Capriasca: Lugano San Salvatore",
-    "city": "Capriasca",
-    "countryCode": "JP",
-    "lat": 46.06933,
-    "lng": 8.97697,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2669,6 +2669,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "JP",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3960,17 +3971,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543185",
-    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
-    "city": "Davos",
-    "countryCode": "JP",
-    "lat": 46.83298,
-    "lng": 9.80603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1200850755",
     "name": "Palermo",
     "city": "Palermo",
@@ -3978,6 +3978,17 @@
     "lat": 38.11234,
     "lng": 13.29537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200850755/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543185",
+    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
+    "city": "Davos",
+    "countryCode": "JP",
+    "lat": 46.83298,
+    "lng": 9.80603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5038,17 +5049,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1347300032",
-    "name": "La Gavia: Mexico DF Santa Fe",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 19.35781,
-    "lng": -99.27785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -5056,6 +5056,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1347300032",
+    "name": "La Gavia: Mexico DF Santa Fe",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 19.35781,
+    "lng": -99.27785,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6600,6 +6611,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "JP",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199786121",
     "name": "Plaffeien: Schwarzsee im Kanton Freiburg",
     "city": "Plaffeien",
@@ -7403,17 +7425,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "JP",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -7421,6 +7432,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "JP",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7535,17 +7557,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132573715",
-    "name": "Binn: Schmidigehischre - Lengtal",
-    "city": "Binn",
-    "countryCode": "JP",
-    "lat": 46.36471,
-    "lng": 8.18449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -7553,6 +7564,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132573715",
+    "name": "Binn: Schmidigehischre - Lengtal",
+    "city": "Binn",
+    "countryCode": "JP",
+    "lat": 46.36471,
+    "lng": 8.18449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8026,17 +8048,6 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1326806895",
-    "name": "Kalamata: View of the Taygetos mountain",
-    "city": "Kalamata",
-    "countryCode": "JP",
-    "lat": 37.03082,
-    "lng": 22.1132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8723,6 +8734,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "JP",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1240733458",
     "name": "Nuremberg: Live",
     "city": "Nuremberg",
@@ -8734,17 +8756,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "JP",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -8752,6 +8763,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1541525857",
+    "name": "Doliana: Tringía",
+    "city": "Doliana",
+    "countryCode": "JP",
+    "lat": 39.63496,
+    "lng": 21.395,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -8943,17 +8965,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "JP",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -9141,17 +9152,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "JP",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481042",
     "name": "Limone Piemonte: Piemonte, Italia: Cabanaira",
     "city": "Limone Piemonte",
@@ -9159,6 +9159,17 @@
     "lat": 44.1596,
     "lng": 7.5908,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481042/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "JP",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -9483,11 +9494,11 @@
   },
   {
     "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
+    "name": "Cham › South-east: Segel Club Cham - Lake Zug",
     "city": "Cham",
     "countryCode": "JP",
-    "lat": 47.18003,
-    "lng": 8.4696,
+    "lat": 47.18008,
+    "lng": 8.46842,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -10329,17 +10340,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -10842,28 +10842,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1478630419",
-    "name": "Broadford: Broadford Bay - Applecross",
-    "city": "Broadford",
-    "countryCode": "JP",
-    "lat": 57.23827,
-    "lng": -5.88985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "JP",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11342,11 +11320,11 @@
   },
   {
     "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
+    "name": "Davos › South-west: Alter Höhwaldsteg - Lake Davos",
     "city": "Davos",
     "countryCode": "US",
-    "lat": 46.82646,
-    "lng": 9.85831,
+    "lat": 46.82494,
+    "lng": 9.85906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -11869,6 +11847,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1049529921",
+    "name": "Capriasca › South: Lugano San Salvatore",
+    "city": "Capriasca",
+    "countryCode": "US",
+    "lat": 46.06933,
+    "lng": 8.97697,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1211725853",
     "name": "Berlin: RBB-Fernsehzentrum - Germany",
     "city": "Berlin",
@@ -12316,17 +12305,6 @@
     "lat": 50.36558,
     "lng": 7.61421,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186264357/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1049529921",
-    "name": "Capriasca: Lugano San Salvatore",
-    "city": "Capriasca",
-    "countryCode": "US",
-    "lat": 46.06933,
-    "lng": 8.97697,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13537,6 +13515,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "US",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14828,17 +14817,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543185",
-    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
-    "city": "Davos",
-    "countryCode": "US",
-    "lat": 46.83298,
-    "lng": 9.80603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1200850755",
     "name": "Palermo",
     "city": "Palermo",
@@ -14846,6 +14824,17 @@
     "lat": 38.11234,
     "lng": 13.29537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200850755/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543185",
+    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
+    "city": "Davos",
+    "countryCode": "US",
+    "lat": 46.83298,
+    "lng": 9.80603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15906,17 +15895,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1347300032",
-    "name": "La Gavia: Mexico DF Santa Fe",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 19.35781,
-    "lng": -99.27785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -15924,6 +15902,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1347300032",
+    "name": "La Gavia: Mexico DF Santa Fe",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 19.35781,
+    "lng": -99.27785,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17468,6 +17457,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "US",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199786121",
     "name": "Plaffeien: Schwarzsee im Kanton Freiburg",
     "city": "Plaffeien",
@@ -18271,17 +18271,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "US",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -18289,6 +18278,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "US",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18403,17 +18403,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132573715",
-    "name": "Binn: Schmidigehischre - Lengtal",
-    "city": "Binn",
-    "countryCode": "US",
-    "lat": 46.36471,
-    "lng": 8.18449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -18421,6 +18410,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132573715",
+    "name": "Binn: Schmidigehischre - Lengtal",
+    "city": "Binn",
+    "countryCode": "US",
+    "lat": 46.36471,
+    "lng": 8.18449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18894,17 +18894,6 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1326806895",
-    "name": "Kalamata: View of the Taygetos mountain",
-    "city": "Kalamata",
-    "countryCode": "US",
-    "lat": 37.03082,
-    "lng": 22.1132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19591,6 +19580,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "US",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1240733458",
     "name": "Nuremberg: Live",
     "city": "Nuremberg",
@@ -19602,17 +19602,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "US",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -19620,6 +19609,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1541525857",
+    "name": "Doliana: Tringía",
+    "city": "Doliana",
+    "countryCode": "US",
+    "lat": 39.63496,
+    "lng": 21.395,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -19811,17 +19811,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "US",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -20009,17 +19998,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "US",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481042",
     "name": "Limone Piemonte: Piemonte, Italia: Cabanaira",
     "city": "Limone Piemonte",
@@ -20027,6 +20005,17 @@
     "lat": 44.1596,
     "lng": 7.5908,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481042/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "US",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20351,11 +20340,11 @@
   },
   {
     "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
+    "name": "Cham › South-east: Segel Club Cham - Lake Zug",
     "city": "Cham",
     "countryCode": "US",
-    "lat": 47.18003,
-    "lng": 8.4696,
+    "lat": 47.18008,
+    "lng": 8.46842,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -21197,17 +21186,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -21710,28 +21688,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1478630419",
-    "name": "Broadford: Broadford Bay - Applecross",
-    "city": "Broadford",
-    "countryCode": "US",
-    "lat": 57.23827,
-    "lng": -5.88985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "US",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22210,11 +22166,11 @@
   },
   {
     "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
+    "name": "Davos › South-west: Alter Höhwaldsteg - Lake Davos",
     "city": "Davos",
     "countryCode": "GB",
-    "lat": 46.82646,
-    "lng": 9.85831,
+    "lat": 46.82494,
+    "lng": 9.85906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -22737,6 +22693,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1049529921",
+    "name": "Capriasca › South: Lugano San Salvatore",
+    "city": "Capriasca",
+    "countryCode": "GB",
+    "lat": 46.06933,
+    "lng": 8.97697,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1211725853",
     "name": "Berlin: RBB-Fernsehzentrum - Germany",
     "city": "Berlin",
@@ -23184,17 +23151,6 @@
     "lat": 50.36558,
     "lng": 7.61421,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186264357/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1049529921",
-    "name": "Capriasca: Lugano San Salvatore",
-    "city": "Capriasca",
-    "countryCode": "GB",
-    "lat": 46.06933,
-    "lng": 8.97697,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24405,6 +24361,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "GB",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25696,17 +25663,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543185",
-    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
-    "city": "Davos",
-    "countryCode": "GB",
-    "lat": 46.83298,
-    "lng": 9.80603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1200850755",
     "name": "Palermo",
     "city": "Palermo",
@@ -25714,6 +25670,17 @@
     "lat": 38.11234,
     "lng": 13.29537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200850755/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543185",
+    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
+    "city": "Davos",
+    "countryCode": "GB",
+    "lat": 46.83298,
+    "lng": 9.80603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26774,17 +26741,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1347300032",
-    "name": "La Gavia: Mexico DF Santa Fe",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 19.35781,
-    "lng": -99.27785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -26792,6 +26748,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1347300032",
+    "name": "La Gavia: Mexico DF Santa Fe",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 19.35781,
+    "lng": -99.27785,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28336,6 +28303,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "GB",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199786121",
     "name": "Plaffeien: Schwarzsee im Kanton Freiburg",
     "city": "Plaffeien",
@@ -29139,17 +29117,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "GB",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -29157,6 +29124,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "GB",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29271,17 +29249,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132573715",
-    "name": "Binn: Schmidigehischre - Lengtal",
-    "city": "Binn",
-    "countryCode": "GB",
-    "lat": 46.36471,
-    "lng": 8.18449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -29289,6 +29256,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132573715",
+    "name": "Binn: Schmidigehischre - Lengtal",
+    "city": "Binn",
+    "countryCode": "GB",
+    "lat": 46.36471,
+    "lng": 8.18449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29762,17 +29740,6 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1326806895",
-    "name": "Kalamata: View of the Taygetos mountain",
-    "city": "Kalamata",
-    "countryCode": "GB",
-    "lat": 37.03082,
-    "lng": 22.1132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30459,6 +30426,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "GB",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1240733458",
     "name": "Nuremberg: Live",
     "city": "Nuremberg",
@@ -30470,17 +30448,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "GB",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -30488,6 +30455,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1541525857",
+    "name": "Doliana: Tringía",
+    "city": "Doliana",
+    "countryCode": "GB",
+    "lat": 39.63496,
+    "lng": 21.395,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -30679,17 +30657,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "GB",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -30877,17 +30844,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "GB",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481042",
     "name": "Limone Piemonte: Piemonte, Italia: Cabanaira",
     "city": "Limone Piemonte",
@@ -30895,6 +30851,17 @@
     "lat": 44.1596,
     "lng": 7.5908,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481042/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "GB",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31219,11 +31186,11 @@
   },
   {
     "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
+    "name": "Cham › South-east: Segel Club Cham - Lake Zug",
     "city": "Cham",
     "countryCode": "GB",
-    "lat": 47.18003,
-    "lng": 8.4696,
+    "lat": 47.18008,
+    "lng": 8.46842,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -32065,17 +32032,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -32578,28 +32534,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1478630419",
-    "name": "Broadford: Broadford Bay - Applecross",
-    "city": "Broadford",
-    "countryCode": "GB",
-    "lat": 57.23827,
-    "lng": -5.88985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "GB",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33078,11 +33012,11 @@
   },
   {
     "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
+    "name": "Davos › South-west: Alter Höhwaldsteg - Lake Davos",
     "city": "Davos",
     "countryCode": "DE",
-    "lat": 46.82646,
-    "lng": 9.85831,
+    "lat": 46.82494,
+    "lng": 9.85906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -33605,6 +33539,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1049529921",
+    "name": "Capriasca › South: Lugano San Salvatore",
+    "city": "Capriasca",
+    "countryCode": "DE",
+    "lat": 46.06933,
+    "lng": 8.97697,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1211725853",
     "name": "Berlin: RBB-Fernsehzentrum - Germany",
     "city": "Berlin",
@@ -34052,17 +33997,6 @@
     "lat": 50.36558,
     "lng": 7.61421,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186264357/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1049529921",
-    "name": "Capriasca: Lugano San Salvatore",
-    "city": "Capriasca",
-    "countryCode": "DE",
-    "lat": 46.06933,
-    "lng": 8.97697,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35273,6 +35207,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "DE",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36564,17 +36509,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543185",
-    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
-    "city": "Davos",
-    "countryCode": "DE",
-    "lat": 46.83298,
-    "lng": 9.80603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1200850755",
     "name": "Palermo",
     "city": "Palermo",
@@ -36582,6 +36516,17 @@
     "lat": 38.11234,
     "lng": 13.29537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200850755/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543185",
+    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
+    "city": "Davos",
+    "countryCode": "DE",
+    "lat": 46.83298,
+    "lng": 9.80603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37642,17 +37587,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1347300032",
-    "name": "La Gavia: Mexico DF Santa Fe",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 19.35781,
-    "lng": -99.27785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -37660,6 +37594,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1347300032",
+    "name": "La Gavia: Mexico DF Santa Fe",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 19.35781,
+    "lng": -99.27785,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -39204,6 +39149,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "DE",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199786121",
     "name": "Plaffeien: Schwarzsee im Kanton Freiburg",
     "city": "Plaffeien",
@@ -40007,17 +39963,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "DE",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -40025,6 +39970,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "DE",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40139,17 +40095,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132573715",
-    "name": "Binn: Schmidigehischre - Lengtal",
-    "city": "Binn",
-    "countryCode": "DE",
-    "lat": 46.36471,
-    "lng": 8.18449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -40157,6 +40102,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132573715",
+    "name": "Binn: Schmidigehischre - Lengtal",
+    "city": "Binn",
+    "countryCode": "DE",
+    "lat": 46.36471,
+    "lng": 8.18449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40630,17 +40586,6 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1326806895",
-    "name": "Kalamata: View of the Taygetos mountain",
-    "city": "Kalamata",
-    "countryCode": "DE",
-    "lat": 37.03082,
-    "lng": 22.1132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41327,6 +41272,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "DE",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1240733458",
     "name": "Nuremberg: Live",
     "city": "Nuremberg",
@@ -41338,17 +41294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "DE",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -41356,6 +41301,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1541525857",
+    "name": "Doliana: Tringía",
+    "city": "Doliana",
+    "countryCode": "DE",
+    "lat": 39.63496,
+    "lng": 21.395,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -41547,17 +41503,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "DE",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -41745,17 +41690,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "DE",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481042",
     "name": "Limone Piemonte: Piemonte, Italia: Cabanaira",
     "city": "Limone Piemonte",
@@ -41763,6 +41697,17 @@
     "lat": 44.1596,
     "lng": 7.5908,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481042/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "DE",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42087,11 +42032,11 @@
   },
   {
     "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
+    "name": "Cham › South-east: Segel Club Cham - Lake Zug",
     "city": "Cham",
     "countryCode": "DE",
-    "lat": 47.18003,
-    "lng": 8.4696,
+    "lat": 47.18008,
+    "lng": 8.46842,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -42933,17 +42878,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -43446,28 +43380,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1478630419",
-    "name": "Broadford: Broadford Bay - Applecross",
-    "city": "Broadford",
-    "countryCode": "DE",
-    "lat": 57.23827,
-    "lng": -5.88985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "DE",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43946,11 +43858,11 @@
   },
   {
     "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
+    "name": "Davos › South-west: Alter Höhwaldsteg - Lake Davos",
     "city": "Davos",
     "countryCode": "FR",
-    "lat": 46.82646,
-    "lng": 9.85831,
+    "lat": 46.82494,
+    "lng": 9.85906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -44473,6 +44385,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1049529921",
+    "name": "Capriasca › South: Lugano San Salvatore",
+    "city": "Capriasca",
+    "countryCode": "FR",
+    "lat": 46.06933,
+    "lng": 8.97697,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1211725853",
     "name": "Berlin: RBB-Fernsehzentrum - Germany",
     "city": "Berlin",
@@ -44920,17 +44843,6 @@
     "lat": 50.36558,
     "lng": 7.61421,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186264357/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1049529921",
-    "name": "Capriasca: Lugano San Salvatore",
-    "city": "Capriasca",
-    "countryCode": "FR",
-    "lat": 46.06933,
-    "lng": 8.97697,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46141,6 +46053,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "FR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47432,17 +47355,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543185",
-    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
-    "city": "Davos",
-    "countryCode": "FR",
-    "lat": 46.83298,
-    "lng": 9.80603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1200850755",
     "name": "Palermo",
     "city": "Palermo",
@@ -47450,6 +47362,17 @@
     "lat": 38.11234,
     "lng": 13.29537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200850755/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543185",
+    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
+    "city": "Davos",
+    "countryCode": "FR",
+    "lat": 46.83298,
+    "lng": 9.80603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48510,17 +48433,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1347300032",
-    "name": "La Gavia: Mexico DF Santa Fe",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 19.35781,
-    "lng": -99.27785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -48528,6 +48440,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1347300032",
+    "name": "La Gavia: Mexico DF Santa Fe",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 19.35781,
+    "lng": -99.27785,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50072,6 +49995,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "FR",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199786121",
     "name": "Plaffeien: Schwarzsee im Kanton Freiburg",
     "city": "Plaffeien",
@@ -50875,17 +50809,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "FR",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -50893,6 +50816,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "FR",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51007,17 +50941,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132573715",
-    "name": "Binn: Schmidigehischre - Lengtal",
-    "city": "Binn",
-    "countryCode": "FR",
-    "lat": 46.36471,
-    "lng": 8.18449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -51025,6 +50948,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132573715",
+    "name": "Binn: Schmidigehischre - Lengtal",
+    "city": "Binn",
+    "countryCode": "FR",
+    "lat": 46.36471,
+    "lng": 8.18449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -51498,17 +51432,6 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1326806895",
-    "name": "Kalamata: View of the Taygetos mountain",
-    "city": "Kalamata",
-    "countryCode": "FR",
-    "lat": 37.03082,
-    "lng": 22.1132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52195,6 +52118,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "FR",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1240733458",
     "name": "Nuremberg: Live",
     "city": "Nuremberg",
@@ -52206,17 +52140,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "FR",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -52224,6 +52147,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1541525857",
+    "name": "Doliana: Tringía",
+    "city": "Doliana",
+    "countryCode": "FR",
+    "lat": 39.63496,
+    "lng": 21.395,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52415,17 +52349,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "FR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -52613,17 +52536,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "FR",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481042",
     "name": "Limone Piemonte: Piemonte, Italia: Cabanaira",
     "city": "Limone Piemonte",
@@ -52631,6 +52543,17 @@
     "lat": 44.1596,
     "lng": 7.5908,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481042/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "FR",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -52955,11 +52878,11 @@
   },
   {
     "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
+    "name": "Cham › South-east: Segel Club Cham - Lake Zug",
     "city": "Cham",
     "countryCode": "FR",
-    "lat": 47.18003,
-    "lng": 8.4696,
+    "lat": 47.18008,
+    "lng": 8.46842,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -53801,17 +53724,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -54314,28 +54226,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1478630419",
-    "name": "Broadford: Broadford Bay - Applecross",
-    "city": "Broadford",
-    "countryCode": "FR",
-    "lat": 57.23827,
-    "lng": -5.88985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "FR",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54814,11 +54704,11 @@
   },
   {
     "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
+    "name": "Davos › South-west: Alter Höhwaldsteg - Lake Davos",
     "city": "Davos",
     "countryCode": "CN",
-    "lat": 46.82646,
-    "lng": 9.85831,
+    "lat": 46.82494,
+    "lng": 9.85906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -55341,6 +55231,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1049529921",
+    "name": "Capriasca › South: Lugano San Salvatore",
+    "city": "Capriasca",
+    "countryCode": "CN",
+    "lat": 46.06933,
+    "lng": 8.97697,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1211725853",
     "name": "Berlin: RBB-Fernsehzentrum - Germany",
     "city": "Berlin",
@@ -55788,17 +55689,6 @@
     "lat": 50.36558,
     "lng": 7.61421,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186264357/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1049529921",
-    "name": "Capriasca: Lugano San Salvatore",
-    "city": "Capriasca",
-    "countryCode": "CN",
-    "lat": 46.06933,
-    "lng": 8.97697,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57009,6 +56899,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "CN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58300,17 +58201,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543185",
-    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
-    "city": "Davos",
-    "countryCode": "CN",
-    "lat": 46.83298,
-    "lng": 9.80603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1200850755",
     "name": "Palermo",
     "city": "Palermo",
@@ -58318,6 +58208,17 @@
     "lat": 38.11234,
     "lng": 13.29537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200850755/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543185",
+    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
+    "city": "Davos",
+    "countryCode": "CN",
+    "lat": 46.83298,
+    "lng": 9.80603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59378,17 +59279,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1347300032",
-    "name": "La Gavia: Mexico DF Santa Fe",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 19.35781,
-    "lng": -99.27785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -59396,6 +59286,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1347300032",
+    "name": "La Gavia: Mexico DF Santa Fe",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 19.35781,
+    "lng": -99.27785,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60940,6 +60841,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "CN",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199786121",
     "name": "Plaffeien: Schwarzsee im Kanton Freiburg",
     "city": "Plaffeien",
@@ -61743,17 +61655,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "CN",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -61761,6 +61662,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "CN",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61875,17 +61787,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132573715",
-    "name": "Binn: Schmidigehischre - Lengtal",
-    "city": "Binn",
-    "countryCode": "CN",
-    "lat": 46.36471,
-    "lng": 8.18449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -61893,6 +61794,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132573715",
+    "name": "Binn: Schmidigehischre - Lengtal",
+    "city": "Binn",
+    "countryCode": "CN",
+    "lat": 46.36471,
+    "lng": 8.18449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -62366,17 +62278,6 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1326806895",
-    "name": "Kalamata: View of the Taygetos mountain",
-    "city": "Kalamata",
-    "countryCode": "CN",
-    "lat": 37.03082,
-    "lng": 22.1132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63063,6 +62964,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "CN",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1240733458",
     "name": "Nuremberg: Live",
     "city": "Nuremberg",
@@ -63074,17 +62986,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "CN",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -63092,6 +62993,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1541525857",
+    "name": "Doliana: Tringía",
+    "city": "Doliana",
+    "countryCode": "CN",
+    "lat": 39.63496,
+    "lng": 21.395,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63283,17 +63195,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "CN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -63481,17 +63382,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "CN",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481042",
     "name": "Limone Piemonte: Piemonte, Italia: Cabanaira",
     "city": "Limone Piemonte",
@@ -63499,6 +63389,17 @@
     "lat": 44.1596,
     "lng": 7.5908,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481042/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "CN",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63823,11 +63724,11 @@
   },
   {
     "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
+    "name": "Cham › South-east: Segel Club Cham - Lake Zug",
     "city": "Cham",
     "countryCode": "CN",
-    "lat": 47.18003,
-    "lng": 8.4696,
+    "lat": 47.18008,
+    "lng": 8.46842,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -64669,17 +64570,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -65182,28 +65072,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1478630419",
-    "name": "Broadford: Broadford Bay - Applecross",
-    "city": "Broadford",
-    "countryCode": "CN",
-    "lat": 57.23827,
-    "lng": -5.88985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "CN",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65682,11 +65550,11 @@
   },
   {
     "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
+    "name": "Davos › South-west: Alter Höhwaldsteg - Lake Davos",
     "city": "Davos",
     "countryCode": "KR",
-    "lat": 46.82646,
-    "lng": 9.85831,
+    "lat": 46.82494,
+    "lng": 9.85906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -66209,6 +66077,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1049529921",
+    "name": "Capriasca › South: Lugano San Salvatore",
+    "city": "Capriasca",
+    "countryCode": "KR",
+    "lat": 46.06933,
+    "lng": 8.97697,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1211725853",
     "name": "Berlin: RBB-Fernsehzentrum - Germany",
     "city": "Berlin",
@@ -66656,17 +66535,6 @@
     "lat": 50.36558,
     "lng": 7.61421,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186264357/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1049529921",
-    "name": "Capriasca: Lugano San Salvatore",
-    "city": "Capriasca",
-    "countryCode": "KR",
-    "lat": 46.06933,
-    "lng": 8.97697,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67877,6 +67745,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "KR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69168,17 +69047,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543185",
-    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
-    "city": "Davos",
-    "countryCode": "KR",
-    "lat": 46.83298,
-    "lng": 9.80603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1200850755",
     "name": "Palermo",
     "city": "Palermo",
@@ -69186,6 +69054,17 @@
     "lat": 38.11234,
     "lng": 13.29537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200850755/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543185",
+    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
+    "city": "Davos",
+    "countryCode": "KR",
+    "lat": 46.83298,
+    "lng": 9.80603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70246,17 +70125,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1347300032",
-    "name": "La Gavia: Mexico DF Santa Fe",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 19.35781,
-    "lng": -99.27785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -70264,6 +70132,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1347300032",
+    "name": "La Gavia: Mexico DF Santa Fe",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 19.35781,
+    "lng": -99.27785,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71808,6 +71687,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "KR",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199786121",
     "name": "Plaffeien: Schwarzsee im Kanton Freiburg",
     "city": "Plaffeien",
@@ -72611,17 +72501,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "KR",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -72629,6 +72508,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "KR",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72743,17 +72633,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132573715",
-    "name": "Binn: Schmidigehischre - Lengtal",
-    "city": "Binn",
-    "countryCode": "KR",
-    "lat": 46.36471,
-    "lng": 8.18449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -72761,6 +72640,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132573715",
+    "name": "Binn: Schmidigehischre - Lengtal",
+    "city": "Binn",
+    "countryCode": "KR",
+    "lat": 46.36471,
+    "lng": 8.18449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73234,17 +73124,6 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1326806895",
-    "name": "Kalamata: View of the Taygetos mountain",
-    "city": "Kalamata",
-    "countryCode": "KR",
-    "lat": 37.03082,
-    "lng": 22.1132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -73931,6 +73810,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "KR",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1240733458",
     "name": "Nuremberg: Live",
     "city": "Nuremberg",
@@ -73942,17 +73832,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "KR",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -73960,6 +73839,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1541525857",
+    "name": "Doliana: Tringía",
+    "city": "Doliana",
+    "countryCode": "KR",
+    "lat": 39.63496,
+    "lng": 21.395,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74151,17 +74041,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "KR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -74349,17 +74228,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "KR",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481042",
     "name": "Limone Piemonte: Piemonte, Italia: Cabanaira",
     "city": "Limone Piemonte",
@@ -74367,6 +74235,17 @@
     "lat": 44.1596,
     "lng": 7.5908,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481042/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "KR",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74691,11 +74570,11 @@
   },
   {
     "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
+    "name": "Cham › South-east: Segel Club Cham - Lake Zug",
     "city": "Cham",
     "countryCode": "KR",
-    "lat": 47.18003,
-    "lng": 8.4696,
+    "lat": 47.18008,
+    "lng": 8.46842,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -75537,17 +75416,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -76050,28 +75918,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1478630419",
-    "name": "Broadford: Broadford Bay - Applecross",
-    "city": "Broadford",
-    "countryCode": "KR",
-    "lat": 57.23827,
-    "lng": -5.88985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "KR",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76550,11 +76396,11 @@
   },
   {
     "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
+    "name": "Davos › South-west: Alter Höhwaldsteg - Lake Davos",
     "city": "Davos",
     "countryCode": "IN",
-    "lat": 46.82646,
-    "lng": 9.85831,
+    "lat": 46.82494,
+    "lng": 9.85906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -77077,6 +76923,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1049529921",
+    "name": "Capriasca › South: Lugano San Salvatore",
+    "city": "Capriasca",
+    "countryCode": "IN",
+    "lat": 46.06933,
+    "lng": 8.97697,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1211725853",
     "name": "Berlin: RBB-Fernsehzentrum - Germany",
     "city": "Berlin",
@@ -77524,17 +77381,6 @@
     "lat": 50.36558,
     "lng": 7.61421,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186264357/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1049529921",
-    "name": "Capriasca: Lugano San Salvatore",
-    "city": "Capriasca",
-    "countryCode": "IN",
-    "lat": 46.06933,
-    "lng": 8.97697,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78745,6 +78591,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "IN",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80036,17 +79893,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543185",
-    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
-    "city": "Davos",
-    "countryCode": "IN",
-    "lat": 46.83298,
-    "lng": 9.80603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1200850755",
     "name": "Palermo",
     "city": "Palermo",
@@ -80054,6 +79900,17 @@
     "lat": 38.11234,
     "lng": 13.29537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200850755/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543185",
+    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
+    "city": "Davos",
+    "countryCode": "IN",
+    "lat": 46.83298,
+    "lng": 9.80603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81114,17 +80971,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1347300032",
-    "name": "La Gavia: Mexico DF Santa Fe",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 19.35781,
-    "lng": -99.27785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -81132,6 +80978,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1347300032",
+    "name": "La Gavia: Mexico DF Santa Fe",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 19.35781,
+    "lng": -99.27785,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -82676,6 +82533,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "IN",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199786121",
     "name": "Plaffeien: Schwarzsee im Kanton Freiburg",
     "city": "Plaffeien",
@@ -83479,17 +83347,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "IN",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -83497,6 +83354,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "IN",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83611,17 +83479,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132573715",
-    "name": "Binn: Schmidigehischre - Lengtal",
-    "city": "Binn",
-    "countryCode": "IN",
-    "lat": 46.36471,
-    "lng": 8.18449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -83629,6 +83486,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132573715",
+    "name": "Binn: Schmidigehischre - Lengtal",
+    "city": "Binn",
+    "countryCode": "IN",
+    "lat": 46.36471,
+    "lng": 8.18449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84102,17 +83970,6 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1326806895",
-    "name": "Kalamata: View of the Taygetos mountain",
-    "city": "Kalamata",
-    "countryCode": "IN",
-    "lat": 37.03082,
-    "lng": 22.1132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -84799,6 +84656,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "IN",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1240733458",
     "name": "Nuremberg: Live",
     "city": "Nuremberg",
@@ -84810,17 +84678,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "IN",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -84828,6 +84685,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1541525857",
+    "name": "Doliana: Tringía",
+    "city": "Doliana",
+    "countryCode": "IN",
+    "lat": 39.63496,
+    "lng": 21.395,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85019,17 +84887,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "IN",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -85217,17 +85074,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "IN",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481042",
     "name": "Limone Piemonte: Piemonte, Italia: Cabanaira",
     "city": "Limone Piemonte",
@@ -85235,6 +85081,17 @@
     "lat": 44.1596,
     "lng": 7.5908,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481042/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "IN",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85559,11 +85416,11 @@
   },
   {
     "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
+    "name": "Cham › South-east: Segel Club Cham - Lake Zug",
     "city": "Cham",
     "countryCode": "IN",
-    "lat": 47.18003,
-    "lng": 8.4696,
+    "lat": 47.18008,
+    "lng": 8.46842,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -86405,17 +86262,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -86918,28 +86764,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1478630419",
-    "name": "Broadford: Broadford Bay - Applecross",
-    "city": "Broadford",
-    "countryCode": "IN",
-    "lat": 57.23827,
-    "lng": -5.88985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "IN",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -87418,11 +87242,11 @@
   },
   {
     "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
+    "name": "Davos › South-west: Alter Höhwaldsteg - Lake Davos",
     "city": "Davos",
     "countryCode": "BR",
-    "lat": 46.82646,
-    "lng": 9.85831,
+    "lat": 46.82494,
+    "lng": 9.85906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -87945,6 +87769,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1049529921",
+    "name": "Capriasca › South: Lugano San Salvatore",
+    "city": "Capriasca",
+    "countryCode": "BR",
+    "lat": 46.06933,
+    "lng": 8.97697,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1211725853",
     "name": "Berlin: RBB-Fernsehzentrum - Germany",
     "city": "Berlin",
@@ -88392,17 +88227,6 @@
     "lat": 50.36558,
     "lng": 7.61421,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186264357/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1049529921",
-    "name": "Capriasca: Lugano San Salvatore",
-    "city": "Capriasca",
-    "countryCode": "BR",
-    "lat": 46.06933,
-    "lng": 8.97697,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89613,6 +89437,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "BR",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90904,17 +90739,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543185",
-    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
-    "city": "Davos",
-    "countryCode": "BR",
-    "lat": 46.83298,
-    "lng": 9.80603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1200850755",
     "name": "Palermo",
     "city": "Palermo",
@@ -90922,6 +90746,17 @@
     "lat": 38.11234,
     "lng": 13.29537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200850755/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543185",
+    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
+    "city": "Davos",
+    "countryCode": "BR",
+    "lat": 46.83298,
+    "lng": 9.80603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91982,17 +91817,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1347300032",
-    "name": "La Gavia: Mexico DF Santa Fe",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 19.35781,
-    "lng": -99.27785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -92000,6 +91824,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1347300032",
+    "name": "La Gavia: Mexico DF Santa Fe",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 19.35781,
+    "lng": -99.27785,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93544,6 +93379,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "BR",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199786121",
     "name": "Plaffeien: Schwarzsee im Kanton Freiburg",
     "city": "Plaffeien",
@@ -94347,17 +94193,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "BR",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -94365,6 +94200,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "BR",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94479,17 +94325,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132573715",
-    "name": "Binn: Schmidigehischre - Lengtal",
-    "city": "Binn",
-    "countryCode": "BR",
-    "lat": 46.36471,
-    "lng": 8.18449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -94497,6 +94332,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132573715",
+    "name": "Binn: Schmidigehischre - Lengtal",
+    "city": "Binn",
+    "countryCode": "BR",
+    "lat": 46.36471,
+    "lng": 8.18449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -94970,17 +94816,6 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1326806895",
-    "name": "Kalamata: View of the Taygetos mountain",
-    "city": "Kalamata",
-    "countryCode": "BR",
-    "lat": 37.03082,
-    "lng": 22.1132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95667,6 +95502,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "BR",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1240733458",
     "name": "Nuremberg: Live",
     "city": "Nuremberg",
@@ -95678,17 +95524,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "BR",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -95696,6 +95531,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1541525857",
+    "name": "Doliana: Tringía",
+    "city": "Doliana",
+    "countryCode": "BR",
+    "lat": 39.63496,
+    "lng": 21.395,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -95887,17 +95733,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "BR",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -96085,17 +95920,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "BR",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481042",
     "name": "Limone Piemonte: Piemonte, Italia: Cabanaira",
     "city": "Limone Piemonte",
@@ -96103,6 +95927,17 @@
     "lat": 44.1596,
     "lng": 7.5908,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481042/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "BR",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96427,11 +96262,11 @@
   },
   {
     "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
+    "name": "Cham › South-east: Segel Club Cham - Lake Zug",
     "city": "Cham",
     "countryCode": "BR",
-    "lat": 47.18003,
-    "lng": 8.4696,
+    "lat": 47.18008,
+    "lng": 8.46842,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -97273,17 +97108,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -97786,28 +97610,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1478630419",
-    "name": "Broadford: Broadford Bay - Applecross",
-    "city": "Broadford",
-    "countryCode": "BR",
-    "lat": 57.23827,
-    "lng": -5.88985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "BR",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -98286,11 +98088,11 @@
   },
   {
     "id": "windy-1028382983",
-    "name": "Davos: Wolfgang - Davosersee",
+    "name": "Davos › South-west: Alter Höhwaldsteg - Lake Davos",
     "city": "Davos",
     "countryCode": "AU",
-    "lat": 46.82646,
-    "lng": 9.85831,
+    "lat": 46.82494,
+    "lng": 9.85906,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1028382983/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -98813,6 +98615,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1049529921",
+    "name": "Capriasca › South: Lugano San Salvatore",
+    "city": "Capriasca",
+    "countryCode": "AU",
+    "lat": 46.06933,
+    "lng": 8.97697,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1211725853",
     "name": "Berlin: RBB-Fernsehzentrum - Germany",
     "city": "Berlin",
@@ -99260,17 +99073,6 @@
     "lat": 50.36558,
     "lng": 7.61421,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1186264357/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1049529921",
-    "name": "Capriasca: Lugano San Salvatore",
-    "city": "Capriasca",
-    "countryCode": "AU",
-    "lat": 46.06933,
-    "lng": 8.97697,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1049529921/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100481,6 +100283,17 @@
     "lat": 46.7593,
     "lng": 9.53504,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292513213/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1010435704",
+    "name": "Solothurn",
+    "city": "Solothurn",
+    "countryCode": "AU",
+    "lat": 47.20837,
+    "lng": 7.53662,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1010435704/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101772,17 +101585,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1232543185",
-    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
-    "city": "Davos",
-    "countryCode": "AU",
-    "lat": 46.83298,
-    "lng": 9.80603,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1200850755",
     "name": "Palermo",
     "city": "Palermo",
@@ -101790,6 +101592,17 @@
     "lat": 38.11234,
     "lng": 13.29537,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1200850755/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1232543185",
+    "name": "Davos: Dorf - Weissfluhjoch, Blick Schifer",
+    "city": "Davos",
+    "countryCode": "AU",
+    "lat": 46.83298,
+    "lng": 9.80603,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1232543185/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102850,17 +102663,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1347300032",
-    "name": "La Gavia: Mexico DF Santa Fe",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 19.35781,
-    "lng": -99.27785,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1229966886",
     "name": "Rome › West: Tetti di roma",
     "city": "Rome",
@@ -102868,6 +102670,17 @@
     "lat": 41.89383,
     "lng": 12.47223,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1347300032",
+    "name": "La Gavia: Mexico DF Santa Fe",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 19.35781,
+    "lng": -99.27785,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104412,6 +104225,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1295480394",
+    "name": "Ronda",
+    "city": "Ronda",
+    "countryCode": "AU",
+    "lat": 36.74853,
+    "lng": -5.1578,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295480394/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1199786121",
     "name": "Plaffeien: Schwarzsee im Kanton Freiburg",
     "city": "Plaffeien",
@@ -105215,17 +105039,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1504022331",
-    "name": "Punta Marina Terme › North-east: Bagno Baloo",
-    "city": "Punta Marina Terme",
-    "countryCode": "AU",
-    "lat": 44.45357,
-    "lng": 12.29125,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1357750681",
     "name": "Belgrade: Live - Slavija",
     "city": "Belgrade",
@@ -105233,6 +105046,17 @@
     "lat": 44.80244,
     "lng": 20.46634,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1357750681/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1504022331",
+    "name": "Punta Marina Terme › North-east: Bagno Baloo",
+    "city": "Punta Marina Terme",
+    "countryCode": "AU",
+    "lat": 44.45357,
+    "lng": 12.29125,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1504022331/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105347,17 +105171,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1132573715",
-    "name": "Binn: Schmidigehischre - Lengtal",
-    "city": "Binn",
-    "countryCode": "AU",
-    "lat": 46.36471,
-    "lng": 8.18449,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1575667527",
     "name": "Greenland: Freya Gletscher",
     "city": "unknown",
@@ -105365,6 +105178,17 @@
     "lat": 74.38248,
     "lng": -20.78783,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1575667527/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1132573715",
+    "name": "Binn: Schmidigehischre - Lengtal",
+    "city": "Binn",
+    "countryCode": "AU",
+    "lat": 46.36471,
+    "lng": 8.18449,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132573715/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -105838,17 +105662,6 @@
     "lat": 45.68891,
     "lng": 13.1471,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1376382103/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1326806895",
-    "name": "Kalamata: View of the Taygetos mountain",
-    "city": "Kalamata",
-    "countryCode": "AU",
-    "lat": 37.03082,
-    "lng": 22.1132,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1326806895/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106535,6 +106348,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1697035740",
+    "name": "Hasliberg: Käserstatt - Lake Brienz",
+    "city": "Hasliberg",
+    "countryCode": "AU",
+    "lat": 46.75757,
+    "lng": 8.21877,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1697035740/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1240733458",
     "name": "Nuremberg: Live",
     "city": "Nuremberg",
@@ -106546,17 +106370,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1541525857",
-    "name": "Doliana: Tringía",
-    "city": "Doliana",
-    "countryCode": "AU",
-    "lat": 39.63496,
-    "lng": 21.395,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1607110571",
     "name": "Stosswihr › East: Col de la Schlucht",
     "city": "Stosswihr",
@@ -106564,6 +106377,17 @@
     "lat": 48.06361,
     "lng": 7.02463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607110571/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1541525857",
+    "name": "Doliana: Tringía",
+    "city": "Doliana",
+    "countryCode": "AU",
+    "lat": 39.63496,
+    "lng": 21.395,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1541525857/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106755,17 +106579,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1410639903",
-    "name": "Zagreb: Sljeme - Medvednica - ski center near",
-    "city": "Zagreb",
-    "countryCode": "AU",
-    "lat": 45.8996,
-    "lng": 15.94725,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1410639903/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1286464894",
     "name": "Alba: Colle della Maddalena - Argentera",
     "city": "Alba",
@@ -106953,17 +106766,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1234534511",
-    "name": "Mutzenich: Monschau - WetterCam 1",
-    "city": "Mutzenich",
-    "countryCode": "AU",
-    "lat": 50.56397,
-    "lng": 6.21148,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1545481042",
     "name": "Limone Piemonte: Piemonte, Italia: Cabanaira",
     "city": "Limone Piemonte",
@@ -106971,6 +106773,17 @@
     "lat": 44.1596,
     "lng": 7.5908,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1545481042/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1234534511",
+    "name": "Mutzenich: Monschau - WetterCam 1",
+    "city": "Mutzenich",
+    "countryCode": "AU",
+    "lat": 50.56397,
+    "lng": 6.21148,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1234534511/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107295,11 +107108,11 @@
   },
   {
     "id": "windy-1295436939",
-    "name": "Cham: Segel Club",
+    "name": "Cham › South-east: Segel Club Cham - Lake Zug",
     "city": "Cham",
     "countryCode": "AU",
-    "lat": 47.18003,
-    "lng": 8.4696,
+    "lat": 47.18008,
+    "lng": 8.46842,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1295436939/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -108141,17 +107954,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1280647091",
-    "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": 36.6009,
-    "lng": -118.06158,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1280647091/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1215701217",
     "name": "Vysoke Myto › South-west: Nám. Přemysla Otakara II - Zvonice",
     "city": "Vysoke Myto",
@@ -108654,28 +108456,6 @@
     "lat": 53.62779,
     "lng": 9.52425,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1195856932/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1478630419",
-    "name": "Broadford: Broadford Bay - Applecross",
-    "city": "Broadford",
-    "countryCode": "AU",
-    "lat": 57.23827,
-    "lng": -5.88985,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1478630419/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1199785856",
-    "name": "Jaun: Live Blick auf das Wander- und Skigebiet - mit dem Gastlosenexpress",
-    "city": "Jaun",
-    "countryCode": "AU",
-    "lat": 46.61146,
-    "lng": 7.29212,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1199785856/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
