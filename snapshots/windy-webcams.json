@@ -166,11 +166,11 @@
   },
   {
     "id": "windy-1151927998",
-    "name": "Boltigen: Jaunpass › North",
+    "name": "Boltigen: Jaunpass › North-west: Sportbahnen Jaunpass AG",
     "city": "Boltigen",
     "countryCode": "JP",
-    "lat": 46.59273,
-    "lng": 7.33923,
+    "lat": 46.59257,
+    "lng": 7.33983,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1151927998/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -1177,6 +1177,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1188507764",
+    "name": "Graz › West: Kunsthaus Graz",
+    "city": "Graz",
+    "countryCode": "JP",
+    "lat": 47.06667,
+    "lng": 15.45,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1188507764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1252677414",
     "name": "Sellin › North: Seebrücke Sellin",
     "city": "Sellin",
@@ -2064,17 +2075,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "JP",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3477,11 +3477,11 @@
   },
   {
     "id": "windy-1114426119",
-    "name": "Bellinzona: UNESCO-Castelgrande in",
+    "name": "Bellinzona › North-west: Cima dell'Uomo",
     "city": "Bellinzona",
     "countryCode": "JP",
-    "lat": 46.18589,
-    "lng": 9.01342,
+    "lat": 46.18694,
+    "lng": 9.01231,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1114426119/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -7349,7 +7349,7 @@
   },
   {
     "id": "windy-1215902258",
-    "name": "Bassersdorf",
+    "name": "Bassersdorf › West: Sportplatz Acherwis",
     "city": "Bassersdorf",
     "countryCode": "JP",
     "lat": 47.44719,
@@ -8900,7 +8900,7 @@
   },
   {
     "id": "windy-1249042255",
-    "name": "Bergun: Dorf",
+    "name": "Bergun › North-west: Dorf",
     "city": "Bergun",
     "countryCode": "JP",
     "lat": 46.62867,
@@ -11034,11 +11034,11 @@
   },
   {
     "id": "windy-1151927998",
-    "name": "Boltigen: Jaunpass › North",
+    "name": "Boltigen: Jaunpass › North-west: Sportbahnen Jaunpass AG",
     "city": "Boltigen",
     "countryCode": "US",
-    "lat": 46.59273,
-    "lng": 7.33923,
+    "lat": 46.59257,
+    "lng": 7.33983,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1151927998/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -12045,6 +12045,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1188507764",
+    "name": "Graz › West: Kunsthaus Graz",
+    "city": "Graz",
+    "countryCode": "US",
+    "lat": 47.06667,
+    "lng": 15.45,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1188507764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1252677414",
     "name": "Sellin › North: Seebrücke Sellin",
     "city": "Sellin",
@@ -12932,17 +12943,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "US",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14345,11 +14345,11 @@
   },
   {
     "id": "windy-1114426119",
-    "name": "Bellinzona: UNESCO-Castelgrande in",
+    "name": "Bellinzona › North-west: Cima dell'Uomo",
     "city": "Bellinzona",
     "countryCode": "US",
-    "lat": 46.18589,
-    "lng": 9.01342,
+    "lat": 46.18694,
+    "lng": 9.01231,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1114426119/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -18217,7 +18217,7 @@
   },
   {
     "id": "windy-1215902258",
-    "name": "Bassersdorf",
+    "name": "Bassersdorf › West: Sportplatz Acherwis",
     "city": "Bassersdorf",
     "countryCode": "US",
     "lat": 47.44719,
@@ -19768,7 +19768,7 @@
   },
   {
     "id": "windy-1249042255",
-    "name": "Bergun: Dorf",
+    "name": "Bergun › North-west: Dorf",
     "city": "Bergun",
     "countryCode": "US",
     "lat": 46.62867,
@@ -21902,11 +21902,11 @@
   },
   {
     "id": "windy-1151927998",
-    "name": "Boltigen: Jaunpass › North",
+    "name": "Boltigen: Jaunpass › North-west: Sportbahnen Jaunpass AG",
     "city": "Boltigen",
     "countryCode": "GB",
-    "lat": 46.59273,
-    "lng": 7.33923,
+    "lat": 46.59257,
+    "lng": 7.33983,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1151927998/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -22913,6 +22913,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1188507764",
+    "name": "Graz › West: Kunsthaus Graz",
+    "city": "Graz",
+    "countryCode": "GB",
+    "lat": 47.06667,
+    "lng": 15.45,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1188507764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1252677414",
     "name": "Sellin › North: Seebrücke Sellin",
     "city": "Sellin",
@@ -23800,17 +23811,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "GB",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -25213,11 +25213,11 @@
   },
   {
     "id": "windy-1114426119",
-    "name": "Bellinzona: UNESCO-Castelgrande in",
+    "name": "Bellinzona › North-west: Cima dell'Uomo",
     "city": "Bellinzona",
     "countryCode": "GB",
-    "lat": 46.18589,
-    "lng": 9.01342,
+    "lat": 46.18694,
+    "lng": 9.01231,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1114426119/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -29085,7 +29085,7 @@
   },
   {
     "id": "windy-1215902258",
-    "name": "Bassersdorf",
+    "name": "Bassersdorf › West: Sportplatz Acherwis",
     "city": "Bassersdorf",
     "countryCode": "GB",
     "lat": 47.44719,
@@ -30636,7 +30636,7 @@
   },
   {
     "id": "windy-1249042255",
-    "name": "Bergun: Dorf",
+    "name": "Bergun › North-west: Dorf",
     "city": "Bergun",
     "countryCode": "GB",
     "lat": 46.62867,
@@ -32770,11 +32770,11 @@
   },
   {
     "id": "windy-1151927998",
-    "name": "Boltigen: Jaunpass › North",
+    "name": "Boltigen: Jaunpass › North-west: Sportbahnen Jaunpass AG",
     "city": "Boltigen",
     "countryCode": "DE",
-    "lat": 46.59273,
-    "lng": 7.33923,
+    "lat": 46.59257,
+    "lng": 7.33983,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1151927998/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -33781,6 +33781,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1188507764",
+    "name": "Graz › West: Kunsthaus Graz",
+    "city": "Graz",
+    "countryCode": "DE",
+    "lat": 47.06667,
+    "lng": 15.45,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1188507764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1252677414",
     "name": "Sellin › North: Seebrücke Sellin",
     "city": "Sellin",
@@ -34668,17 +34679,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "DE",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36081,11 +36081,11 @@
   },
   {
     "id": "windy-1114426119",
-    "name": "Bellinzona: UNESCO-Castelgrande in",
+    "name": "Bellinzona › North-west: Cima dell'Uomo",
     "city": "Bellinzona",
     "countryCode": "DE",
-    "lat": 46.18589,
-    "lng": 9.01342,
+    "lat": 46.18694,
+    "lng": 9.01231,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1114426119/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -39953,7 +39953,7 @@
   },
   {
     "id": "windy-1215902258",
-    "name": "Bassersdorf",
+    "name": "Bassersdorf › West: Sportplatz Acherwis",
     "city": "Bassersdorf",
     "countryCode": "DE",
     "lat": 47.44719,
@@ -41504,7 +41504,7 @@
   },
   {
     "id": "windy-1249042255",
-    "name": "Bergun: Dorf",
+    "name": "Bergun › North-west: Dorf",
     "city": "Bergun",
     "countryCode": "DE",
     "lat": 46.62867,
@@ -43638,11 +43638,11 @@
   },
   {
     "id": "windy-1151927998",
-    "name": "Boltigen: Jaunpass › North",
+    "name": "Boltigen: Jaunpass › North-west: Sportbahnen Jaunpass AG",
     "city": "Boltigen",
     "countryCode": "FR",
-    "lat": 46.59273,
-    "lng": 7.33923,
+    "lat": 46.59257,
+    "lng": 7.33983,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1151927998/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -44649,6 +44649,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1188507764",
+    "name": "Graz › West: Kunsthaus Graz",
+    "city": "Graz",
+    "countryCode": "FR",
+    "lat": 47.06667,
+    "lng": 15.45,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1188507764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1252677414",
     "name": "Sellin › North: Seebrücke Sellin",
     "city": "Sellin",
@@ -45536,17 +45547,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "FR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46949,11 +46949,11 @@
   },
   {
     "id": "windy-1114426119",
-    "name": "Bellinzona: UNESCO-Castelgrande in",
+    "name": "Bellinzona › North-west: Cima dell'Uomo",
     "city": "Bellinzona",
     "countryCode": "FR",
-    "lat": 46.18589,
-    "lng": 9.01342,
+    "lat": 46.18694,
+    "lng": 9.01231,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1114426119/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -50821,7 +50821,7 @@
   },
   {
     "id": "windy-1215902258",
-    "name": "Bassersdorf",
+    "name": "Bassersdorf › West: Sportplatz Acherwis",
     "city": "Bassersdorf",
     "countryCode": "FR",
     "lat": 47.44719,
@@ -52372,7 +52372,7 @@
   },
   {
     "id": "windy-1249042255",
-    "name": "Bergun: Dorf",
+    "name": "Bergun › North-west: Dorf",
     "city": "Bergun",
     "countryCode": "FR",
     "lat": 46.62867,
@@ -54506,11 +54506,11 @@
   },
   {
     "id": "windy-1151927998",
-    "name": "Boltigen: Jaunpass › North",
+    "name": "Boltigen: Jaunpass › North-west: Sportbahnen Jaunpass AG",
     "city": "Boltigen",
     "countryCode": "CN",
-    "lat": 46.59273,
-    "lng": 7.33923,
+    "lat": 46.59257,
+    "lng": 7.33983,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1151927998/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -55517,6 +55517,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1188507764",
+    "name": "Graz › West: Kunsthaus Graz",
+    "city": "Graz",
+    "countryCode": "CN",
+    "lat": 47.06667,
+    "lng": 15.45,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1188507764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1252677414",
     "name": "Sellin › North: Seebrücke Sellin",
     "city": "Sellin",
@@ -56404,17 +56415,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "CN",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57817,11 +57817,11 @@
   },
   {
     "id": "windy-1114426119",
-    "name": "Bellinzona: UNESCO-Castelgrande in",
+    "name": "Bellinzona › North-west: Cima dell'Uomo",
     "city": "Bellinzona",
     "countryCode": "CN",
-    "lat": 46.18589,
-    "lng": 9.01342,
+    "lat": 46.18694,
+    "lng": 9.01231,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1114426119/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -61689,7 +61689,7 @@
   },
   {
     "id": "windy-1215902258",
-    "name": "Bassersdorf",
+    "name": "Bassersdorf › West: Sportplatz Acherwis",
     "city": "Bassersdorf",
     "countryCode": "CN",
     "lat": 47.44719,
@@ -63240,7 +63240,7 @@
   },
   {
     "id": "windy-1249042255",
-    "name": "Bergun: Dorf",
+    "name": "Bergun › North-west: Dorf",
     "city": "Bergun",
     "countryCode": "CN",
     "lat": 46.62867,
@@ -65374,11 +65374,11 @@
   },
   {
     "id": "windy-1151927998",
-    "name": "Boltigen: Jaunpass › North",
+    "name": "Boltigen: Jaunpass › North-west: Sportbahnen Jaunpass AG",
     "city": "Boltigen",
     "countryCode": "KR",
-    "lat": 46.59273,
-    "lng": 7.33923,
+    "lat": 46.59257,
+    "lng": 7.33983,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1151927998/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -66385,6 +66385,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1188507764",
+    "name": "Graz › West: Kunsthaus Graz",
+    "city": "Graz",
+    "countryCode": "KR",
+    "lat": 47.06667,
+    "lng": 15.45,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1188507764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1252677414",
     "name": "Sellin › North: Seebrücke Sellin",
     "city": "Sellin",
@@ -67272,17 +67283,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "KR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -68685,11 +68685,11 @@
   },
   {
     "id": "windy-1114426119",
-    "name": "Bellinzona: UNESCO-Castelgrande in",
+    "name": "Bellinzona › North-west: Cima dell'Uomo",
     "city": "Bellinzona",
     "countryCode": "KR",
-    "lat": 46.18589,
-    "lng": 9.01342,
+    "lat": 46.18694,
+    "lng": 9.01231,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1114426119/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -72557,7 +72557,7 @@
   },
   {
     "id": "windy-1215902258",
-    "name": "Bassersdorf",
+    "name": "Bassersdorf › West: Sportplatz Acherwis",
     "city": "Bassersdorf",
     "countryCode": "KR",
     "lat": 47.44719,
@@ -74108,7 +74108,7 @@
   },
   {
     "id": "windy-1249042255",
-    "name": "Bergun: Dorf",
+    "name": "Bergun › North-west: Dorf",
     "city": "Bergun",
     "countryCode": "KR",
     "lat": 46.62867,
@@ -76242,11 +76242,11 @@
   },
   {
     "id": "windy-1151927998",
-    "name": "Boltigen: Jaunpass › North",
+    "name": "Boltigen: Jaunpass › North-west: Sportbahnen Jaunpass AG",
     "city": "Boltigen",
     "countryCode": "IN",
-    "lat": 46.59273,
-    "lng": 7.33923,
+    "lat": 46.59257,
+    "lng": 7.33983,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1151927998/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -77253,6 +77253,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1188507764",
+    "name": "Graz › West: Kunsthaus Graz",
+    "city": "Graz",
+    "countryCode": "IN",
+    "lat": 47.06667,
+    "lng": 15.45,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1188507764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1252677414",
     "name": "Sellin › North: Seebrücke Sellin",
     "city": "Sellin",
@@ -78140,17 +78151,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "IN",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79553,11 +79553,11 @@
   },
   {
     "id": "windy-1114426119",
-    "name": "Bellinzona: UNESCO-Castelgrande in",
+    "name": "Bellinzona › North-west: Cima dell'Uomo",
     "city": "Bellinzona",
     "countryCode": "IN",
-    "lat": 46.18589,
-    "lng": 9.01342,
+    "lat": 46.18694,
+    "lng": 9.01231,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1114426119/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -83425,7 +83425,7 @@
   },
   {
     "id": "windy-1215902258",
-    "name": "Bassersdorf",
+    "name": "Bassersdorf › West: Sportplatz Acherwis",
     "city": "Bassersdorf",
     "countryCode": "IN",
     "lat": 47.44719,
@@ -84976,7 +84976,7 @@
   },
   {
     "id": "windy-1249042255",
-    "name": "Bergun: Dorf",
+    "name": "Bergun › North-west: Dorf",
     "city": "Bergun",
     "countryCode": "IN",
     "lat": 46.62867,
@@ -87110,11 +87110,11 @@
   },
   {
     "id": "windy-1151927998",
-    "name": "Boltigen: Jaunpass › North",
+    "name": "Boltigen: Jaunpass › North-west: Sportbahnen Jaunpass AG",
     "city": "Boltigen",
     "countryCode": "BR",
-    "lat": 46.59273,
-    "lng": 7.33923,
+    "lat": 46.59257,
+    "lng": 7.33983,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1151927998/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -88121,6 +88121,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1188507764",
+    "name": "Graz › West: Kunsthaus Graz",
+    "city": "Graz",
+    "countryCode": "BR",
+    "lat": 47.06667,
+    "lng": 15.45,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1188507764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1252677414",
     "name": "Sellin › North: Seebrücke Sellin",
     "city": "Sellin",
@@ -89008,17 +89019,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "BR",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90421,11 +90421,11 @@
   },
   {
     "id": "windy-1114426119",
-    "name": "Bellinzona: UNESCO-Castelgrande in",
+    "name": "Bellinzona › North-west: Cima dell'Uomo",
     "city": "Bellinzona",
     "countryCode": "BR",
-    "lat": 46.18589,
-    "lng": 9.01342,
+    "lat": 46.18694,
+    "lng": 9.01231,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1114426119/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -94293,7 +94293,7 @@
   },
   {
     "id": "windy-1215902258",
-    "name": "Bassersdorf",
+    "name": "Bassersdorf › West: Sportplatz Acherwis",
     "city": "Bassersdorf",
     "countryCode": "BR",
     "lat": 47.44719,
@@ -95844,7 +95844,7 @@
   },
   {
     "id": "windy-1249042255",
-    "name": "Bergun: Dorf",
+    "name": "Bergun › North-west: Dorf",
     "city": "Bergun",
     "countryCode": "BR",
     "lat": 46.62867,
@@ -97978,11 +97978,11 @@
   },
   {
     "id": "windy-1151927998",
-    "name": "Boltigen: Jaunpass › North",
+    "name": "Boltigen: Jaunpass › North-west: Sportbahnen Jaunpass AG",
     "city": "Boltigen",
     "countryCode": "AU",
-    "lat": 46.59273,
-    "lng": 7.33923,
+    "lat": 46.59257,
+    "lng": 7.33983,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1151927998/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -98989,6 +98989,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1188507764",
+    "name": "Graz › West: Kunsthaus Graz",
+    "city": "Graz",
+    "countryCode": "AU",
+    "lat": 47.06667,
+    "lng": 15.45,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1188507764/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1252677414",
     "name": "Sellin › North: Seebrücke Sellin",
     "city": "Sellin",
@@ -99876,17 +99887,6 @@
     "lat": 45.66143,
     "lng": 10.04873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248885715/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1197918606",
-    "name": "Vancouver: Jericho Beach - West Point Grey - West Vancouver",
-    "city": "Vancouver",
-    "countryCode": "AU",
-    "lat": 49.27433,
-    "lng": -123.21156,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197918606/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101289,11 +101289,11 @@
   },
   {
     "id": "windy-1114426119",
-    "name": "Bellinzona: UNESCO-Castelgrande in",
+    "name": "Bellinzona › North-west: Cima dell'Uomo",
     "city": "Bellinzona",
     "countryCode": "AU",
-    "lat": 46.18589,
-    "lng": 9.01342,
+    "lat": 46.18694,
+    "lng": 9.01231,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1114426119/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -105161,7 +105161,7 @@
   },
   {
     "id": "windy-1215902258",
-    "name": "Bassersdorf",
+    "name": "Bassersdorf › West: Sportplatz Acherwis",
     "city": "Bassersdorf",
     "countryCode": "AU",
     "lat": 47.44719,
@@ -106712,7 +106712,7 @@
   },
   {
     "id": "windy-1249042255",
-    "name": "Bergun: Dorf",
+    "name": "Bergun › North-west: Dorf",
     "city": "Bergun",
     "countryCode": "AU",
     "lat": 46.62867,
