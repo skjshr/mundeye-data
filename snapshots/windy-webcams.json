@@ -763,8 +763,8 @@
     "name": "Lenk: i. S. Blick auf Betelberg",
     "city": "Lenk",
     "countryCode": "JP",
-    "lat": 46.45438,
-    "lng": 7.45341,
+    "lat": 46.45514,
+    "lng": 7.45539,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518829/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -2498,7 +2498,7 @@
   },
   {
     "id": "windy-1154342436",
-    "name": "Lausanne › South-east: Centre",
+    "name": "Lausanne › South-east: Lausanne Cathedral - Lake Geneva - Les Jumelles",
     "city": "Lausanne",
     "countryCode": "JP",
     "lat": 46.52612,
@@ -5379,17 +5379,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "JP",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -6942,7 +6931,7 @@
   },
   {
     "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
+    "name": "Kuttigen › North-east: Asperstrihe Grillplatz",
     "city": "Kuttigen",
     "countryCode": "JP",
     "lat": 47.43145,
@@ -7630,17 +7619,6 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "JP",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10208,6 +10186,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1693844957",
+    "name": "Khamovniki District › South-east",
+    "city": "Khamovniki District",
+    "countryCode": "JP",
+    "lat": 55.74311,
+    "lng": 37.60463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -10380,17 +10369,6 @@
     "lat": 43.31224,
     "lng": 13.72692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "JP",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11521,8 +11499,8 @@
     "name": "Lenk: i. S. Blick auf Betelberg",
     "city": "Lenk",
     "countryCode": "US",
-    "lat": 46.45438,
-    "lng": 7.45341,
+    "lat": 46.45514,
+    "lng": 7.45539,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518829/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -13256,7 +13234,7 @@
   },
   {
     "id": "windy-1154342436",
-    "name": "Lausanne › South-east: Centre",
+    "name": "Lausanne › South-east: Lausanne Cathedral - Lake Geneva - Les Jumelles",
     "city": "Lausanne",
     "countryCode": "US",
     "lat": 46.52612,
@@ -16137,17 +16115,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "US",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -17700,7 +17667,7 @@
   },
   {
     "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
+    "name": "Kuttigen › North-east: Asperstrihe Grillplatz",
     "city": "Kuttigen",
     "countryCode": "US",
     "lat": 47.43145,
@@ -18388,17 +18355,6 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "US",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20966,6 +20922,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1693844957",
+    "name": "Khamovniki District › South-east",
+    "city": "Khamovniki District",
+    "countryCode": "US",
+    "lat": 55.74311,
+    "lng": 37.60463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -21138,17 +21105,6 @@
     "lat": 43.31224,
     "lng": 13.72692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "US",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -22279,8 +22235,8 @@
     "name": "Lenk: i. S. Blick auf Betelberg",
     "city": "Lenk",
     "countryCode": "GB",
-    "lat": 46.45438,
-    "lng": 7.45341,
+    "lat": 46.45514,
+    "lng": 7.45539,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518829/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -24014,7 +23970,7 @@
   },
   {
     "id": "windy-1154342436",
-    "name": "Lausanne › South-east: Centre",
+    "name": "Lausanne › South-east: Lausanne Cathedral - Lake Geneva - Les Jumelles",
     "city": "Lausanne",
     "countryCode": "GB",
     "lat": 46.52612,
@@ -26895,17 +26851,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "GB",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -28458,7 +28403,7 @@
   },
   {
     "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
+    "name": "Kuttigen › North-east: Asperstrihe Grillplatz",
     "city": "Kuttigen",
     "countryCode": "GB",
     "lat": 47.43145,
@@ -29146,17 +29091,6 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "GB",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31724,6 +31658,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1693844957",
+    "name": "Khamovniki District › South-east",
+    "city": "Khamovniki District",
+    "countryCode": "GB",
+    "lat": 55.74311,
+    "lng": 37.60463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -31896,17 +31841,6 @@
     "lat": 43.31224,
     "lng": 13.72692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "GB",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -33037,8 +32971,8 @@
     "name": "Lenk: i. S. Blick auf Betelberg",
     "city": "Lenk",
     "countryCode": "DE",
-    "lat": 46.45438,
-    "lng": 7.45341,
+    "lat": 46.45514,
+    "lng": 7.45539,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518829/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -34772,7 +34706,7 @@
   },
   {
     "id": "windy-1154342436",
-    "name": "Lausanne › South-east: Centre",
+    "name": "Lausanne › South-east: Lausanne Cathedral - Lake Geneva - Les Jumelles",
     "city": "Lausanne",
     "countryCode": "DE",
     "lat": 46.52612,
@@ -37653,17 +37587,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "DE",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -39216,7 +39139,7 @@
   },
   {
     "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
+    "name": "Kuttigen › North-east: Asperstrihe Grillplatz",
     "city": "Kuttigen",
     "countryCode": "DE",
     "lat": 47.43145,
@@ -39904,17 +39827,6 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "DE",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42482,6 +42394,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1693844957",
+    "name": "Khamovniki District › South-east",
+    "city": "Khamovniki District",
+    "countryCode": "DE",
+    "lat": 55.74311,
+    "lng": 37.60463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -42654,17 +42577,6 @@
     "lat": 43.31224,
     "lng": 13.72692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "DE",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43795,8 +43707,8 @@
     "name": "Lenk: i. S. Blick auf Betelberg",
     "city": "Lenk",
     "countryCode": "FR",
-    "lat": 46.45438,
-    "lng": 7.45341,
+    "lat": 46.45514,
+    "lng": 7.45539,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518829/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -45530,7 +45442,7 @@
   },
   {
     "id": "windy-1154342436",
-    "name": "Lausanne › South-east: Centre",
+    "name": "Lausanne › South-east: Lausanne Cathedral - Lake Geneva - Les Jumelles",
     "city": "Lausanne",
     "countryCode": "FR",
     "lat": 46.52612,
@@ -48411,17 +48323,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "FR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -49974,7 +49875,7 @@
   },
   {
     "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
+    "name": "Kuttigen › North-east: Asperstrihe Grillplatz",
     "city": "Kuttigen",
     "countryCode": "FR",
     "lat": 47.43145,
@@ -50662,17 +50563,6 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "FR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53240,6 +53130,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1693844957",
+    "name": "Khamovniki District › South-east",
+    "city": "Khamovniki District",
+    "countryCode": "FR",
+    "lat": 55.74311,
+    "lng": 37.60463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -53412,17 +53313,6 @@
     "lat": 43.31224,
     "lng": 13.72692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "FR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54553,8 +54443,8 @@
     "name": "Lenk: i. S. Blick auf Betelberg",
     "city": "Lenk",
     "countryCode": "CN",
-    "lat": 46.45438,
-    "lng": 7.45341,
+    "lat": 46.45514,
+    "lng": 7.45539,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518829/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -56288,7 +56178,7 @@
   },
   {
     "id": "windy-1154342436",
-    "name": "Lausanne › South-east: Centre",
+    "name": "Lausanne › South-east: Lausanne Cathedral - Lake Geneva - Les Jumelles",
     "city": "Lausanne",
     "countryCode": "CN",
     "lat": 46.52612,
@@ -59169,17 +59059,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "CN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -60732,7 +60611,7 @@
   },
   {
     "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
+    "name": "Kuttigen › North-east: Asperstrihe Grillplatz",
     "city": "Kuttigen",
     "countryCode": "CN",
     "lat": 47.43145,
@@ -61420,17 +61299,6 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "CN",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63998,6 +63866,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1693844957",
+    "name": "Khamovniki District › South-east",
+    "city": "Khamovniki District",
+    "countryCode": "CN",
+    "lat": 55.74311,
+    "lng": 37.60463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -64170,17 +64049,6 @@
     "lat": 43.31224,
     "lng": 13.72692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "CN",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -65311,8 +65179,8 @@
     "name": "Lenk: i. S. Blick auf Betelberg",
     "city": "Lenk",
     "countryCode": "KR",
-    "lat": 46.45438,
-    "lng": 7.45341,
+    "lat": 46.45514,
+    "lng": 7.45539,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518829/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -67046,7 +66914,7 @@
   },
   {
     "id": "windy-1154342436",
-    "name": "Lausanne › South-east: Centre",
+    "name": "Lausanne › South-east: Lausanne Cathedral - Lake Geneva - Les Jumelles",
     "city": "Lausanne",
     "countryCode": "KR",
     "lat": 46.52612,
@@ -69927,17 +69795,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "KR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -71490,7 +71347,7 @@
   },
   {
     "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
+    "name": "Kuttigen › North-east: Asperstrihe Grillplatz",
     "city": "Kuttigen",
     "countryCode": "KR",
     "lat": 47.43145,
@@ -72178,17 +72035,6 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "KR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74756,6 +74602,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1693844957",
+    "name": "Khamovniki District › South-east",
+    "city": "Khamovniki District",
+    "countryCode": "KR",
+    "lat": 55.74311,
+    "lng": 37.60463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -74928,17 +74785,6 @@
     "lat": 43.31224,
     "lng": 13.72692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "KR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -76069,8 +75915,8 @@
     "name": "Lenk: i. S. Blick auf Betelberg",
     "city": "Lenk",
     "countryCode": "IN",
-    "lat": 46.45438,
-    "lng": 7.45341,
+    "lat": 46.45514,
+    "lng": 7.45539,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518829/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -77804,7 +77650,7 @@
   },
   {
     "id": "windy-1154342436",
-    "name": "Lausanne › South-east: Centre",
+    "name": "Lausanne › South-east: Lausanne Cathedral - Lake Geneva - Les Jumelles",
     "city": "Lausanne",
     "countryCode": "IN",
     "lat": 46.52612,
@@ -80685,17 +80531,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "IN",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -82248,7 +82083,7 @@
   },
   {
     "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
+    "name": "Kuttigen › North-east: Asperstrihe Grillplatz",
     "city": "Kuttigen",
     "countryCode": "IN",
     "lat": 47.43145,
@@ -82936,17 +82771,6 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "IN",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85514,6 +85338,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1693844957",
+    "name": "Khamovniki District › South-east",
+    "city": "Khamovniki District",
+    "countryCode": "IN",
+    "lat": 55.74311,
+    "lng": 37.60463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -85686,17 +85521,6 @@
     "lat": 43.31224,
     "lng": 13.72692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "IN",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86827,8 +86651,8 @@
     "name": "Lenk: i. S. Blick auf Betelberg",
     "city": "Lenk",
     "countryCode": "BR",
-    "lat": 46.45438,
-    "lng": 7.45341,
+    "lat": 46.45514,
+    "lng": 7.45539,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518829/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -88562,7 +88386,7 @@
   },
   {
     "id": "windy-1154342436",
-    "name": "Lausanne › South-east: Centre",
+    "name": "Lausanne › South-east: Lausanne Cathedral - Lake Geneva - Les Jumelles",
     "city": "Lausanne",
     "countryCode": "BR",
     "lat": 46.52612,
@@ -91443,17 +91267,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "BR",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -93006,7 +92819,7 @@
   },
   {
     "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
+    "name": "Kuttigen › North-east: Asperstrihe Grillplatz",
     "city": "Kuttigen",
     "countryCode": "BR",
     "lat": 47.43145,
@@ -93694,17 +93507,6 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "BR",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96272,6 +96074,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1693844957",
+    "name": "Khamovniki District › South-east",
+    "city": "Khamovniki District",
+    "countryCode": "BR",
+    "lat": 55.74311,
+    "lng": 37.60463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -96444,17 +96257,6 @@
     "lat": 43.31224,
     "lng": 13.72692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "BR",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97585,8 +97387,8 @@
     "name": "Lenk: i. S. Blick auf Betelberg",
     "city": "Lenk",
     "countryCode": "AU",
-    "lat": 46.45438,
-    "lng": 7.45341,
+    "lat": 46.45514,
+    "lng": 7.45539,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1292518829/original.jpg",
     "playerUrl": "",
     "category": "city"
@@ -99320,7 +99122,7 @@
   },
   {
     "id": "windy-1154342436",
-    "name": "Lausanne › South-east: Centre",
+    "name": "Lausanne › South-east: Lausanne Cathedral - Lake Geneva - Les Jumelles",
     "city": "Lausanne",
     "countryCode": "AU",
     "lat": 46.52612,
@@ -102201,17 +102003,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1572407376",
-    "name": "Southland District › North-west: Southern Discoveries - Milford Sound Visitor Centre - Milford Sound / Piopiotahi - Mount Phillips - Mitre Peak - Fiordland",
-    "city": "unknown",
-    "countryCode": "AU",
-    "lat": -44.67137,
-    "lng": 167.92803,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1572407376/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1697040056",
     "name": "Flims: Flims Waldhaus: Caumasee",
     "city": "Flims",
@@ -103764,7 +103555,7 @@
   },
   {
     "id": "windy-1730332451",
-    "name": "Kuttigen › North-east: › North-East",
+    "name": "Kuttigen › North-east: Asperstrihe Grillplatz",
     "city": "Kuttigen",
     "countryCode": "AU",
     "lat": 47.43145,
@@ -104452,17 +104243,6 @@
     "lat": 60.39691,
     "lng": 5.3155,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1398894675/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1556429112",
-    "name": "Fiordland Community: Kepler Track, Fiordland National Park",
-    "city": "Fiordland Community",
-    "countryCode": "AU",
-    "lat": -45.39002,
-    "lng": 167.55646,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1556429112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107030,6 +106810,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1693844957",
+    "name": "Khamovniki District › South-east",
+    "city": "Khamovniki District",
+    "countryCode": "AU",
+    "lat": 55.74311,
+    "lng": 37.60463,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1280647091",
     "name": "Lone Pine: Mt Whitney webcam from - Film History Museum",
     "city": "unknown",
@@ -107202,17 +106993,6 @@
     "lat": 43.31224,
     "lng": 13.72692,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1333963000/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1248130573",
-    "name": "Oban: Stewart Island Sails Ashore Webcam",
-    "city": "Oban",
-    "countryCode": "AU",
-    "lat": -46.90137,
-    "lng": 168.12618,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
