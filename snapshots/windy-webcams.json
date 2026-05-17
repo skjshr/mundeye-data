@@ -242,17 +242,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "JP",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -2475,17 +2464,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "JP",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -2563,6 +2541,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "JP",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -2581,6 +2570,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "JP",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -2669,17 +2669,6 @@
     "lat": 38.18677,
     "lng": -0.56255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636891878/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "JP",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -3263,6 +3252,17 @@
     "lat": 47.47916,
     "lng": 19.05899,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1294221464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1463484648",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia",
+    "city": "Biella",
+    "countryCode": "JP",
+    "lat": 45.62688,
+    "lng": 7.98107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1463484648/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4642,17 +4642,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "JP",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -4660,6 +4649,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "JP",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -4961,17 +4961,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "JP",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -4979,6 +4968,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "JP",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5489,17 +5489,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "JP",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -5507,6 +5496,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "JP",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -5716,6 +5716,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "JP",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -6563,17 +6574,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "JP",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -7817,17 +7817,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "JP",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10153,17 +10142,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "JP",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -10171,6 +10149,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "JP",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10369,6 +10358,17 @@
     "lat": 43.13099,
     "lng": 131.91193,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "JP",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -10754,6 +10754,17 @@
     "lat": 47.28853,
     "lng": 11.69147,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390986548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271712581",
+    "name": "Raska Municipality: Kopaonik: JAT Apartmani 2",
+    "city": "Raska Municipality",
+    "countryCode": "JP",
+    "lat": 43.28602,
+    "lng": 20.80918,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271712581/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -11000,17 +11011,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "US",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -13233,17 +13233,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "US",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -13321,6 +13310,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "US",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -13339,6 +13339,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "US",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -13427,17 +13438,6 @@
     "lat": 38.18677,
     "lng": -0.56255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636891878/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "US",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -14021,6 +14021,17 @@
     "lat": 47.47916,
     "lng": 19.05899,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1294221464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1463484648",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia",
+    "city": "Biella",
+    "countryCode": "US",
+    "lat": 45.62688,
+    "lng": 7.98107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1463484648/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15400,17 +15411,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "US",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -15418,6 +15418,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "US",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -15719,17 +15730,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "US",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -15737,6 +15737,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "US",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16247,17 +16258,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "US",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -16265,6 +16265,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "US",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -16474,6 +16485,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "US",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -17321,17 +17343,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "US",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -18575,17 +18586,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "US",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -20911,17 +20911,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "US",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -20929,6 +20918,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "US",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21127,6 +21127,17 @@
     "lat": 43.13099,
     "lng": 131.91193,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "US",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21512,6 +21523,17 @@
     "lat": 47.28853,
     "lng": 11.69147,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390986548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271712581",
+    "name": "Raska Municipality: Kopaonik: JAT Apartmani 2",
+    "city": "Raska Municipality",
+    "countryCode": "US",
+    "lat": 43.28602,
+    "lng": 20.80918,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271712581/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -21758,17 +21780,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "GB",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -23991,17 +24002,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "GB",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -24079,6 +24079,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "GB",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -24097,6 +24108,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "GB",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24185,17 +24207,6 @@
     "lat": 38.18677,
     "lng": -0.56255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636891878/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "GB",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -24779,6 +24790,17 @@
     "lat": 47.47916,
     "lng": 19.05899,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1294221464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1463484648",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia",
+    "city": "Biella",
+    "countryCode": "GB",
+    "lat": 45.62688,
+    "lng": 7.98107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1463484648/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26158,17 +26180,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "GB",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -26176,6 +26187,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "GB",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -26477,17 +26499,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "GB",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -26495,6 +26506,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "GB",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27005,17 +27027,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "GB",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -27023,6 +27034,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "GB",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -27232,6 +27254,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "GB",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -28079,17 +28112,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "GB",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -29333,17 +29355,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "GB",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31669,17 +31680,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "GB",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -31687,6 +31687,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "GB",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -31885,6 +31896,17 @@
     "lat": 43.13099,
     "lng": 131.91193,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "GB",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32270,6 +32292,17 @@
     "lat": 47.28853,
     "lng": 11.69147,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390986548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271712581",
+    "name": "Raska Municipality: Kopaonik: JAT Apartmani 2",
+    "city": "Raska Municipality",
+    "countryCode": "GB",
+    "lat": 43.28602,
+    "lng": 20.80918,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271712581/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -32516,17 +32549,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "DE",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -34749,17 +34771,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "DE",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -34837,6 +34848,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "DE",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -34855,6 +34877,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "DE",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -34943,17 +34976,6 @@
     "lat": 38.18677,
     "lng": -0.56255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636891878/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "DE",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -35537,6 +35559,17 @@
     "lat": 47.47916,
     "lng": 19.05899,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1294221464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1463484648",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia",
+    "city": "Biella",
+    "countryCode": "DE",
+    "lat": 45.62688,
+    "lng": 7.98107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1463484648/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -36916,17 +36949,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "DE",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -36934,6 +36956,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "DE",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37235,17 +37268,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "DE",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -37253,6 +37275,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "DE",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37763,17 +37796,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "DE",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -37781,6 +37803,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "DE",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -37990,6 +38023,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "DE",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -38837,17 +38881,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "DE",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -40091,17 +40124,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "DE",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42427,17 +42449,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "DE",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -42445,6 +42456,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "DE",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -42643,6 +42665,17 @@
     "lat": 43.13099,
     "lng": 131.91193,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "DE",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43028,6 +43061,17 @@
     "lat": 47.28853,
     "lng": 11.69147,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390986548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271712581",
+    "name": "Raska Municipality: Kopaonik: JAT Apartmani 2",
+    "city": "Raska Municipality",
+    "countryCode": "DE",
+    "lat": 43.28602,
+    "lng": 20.80918,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271712581/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -43274,17 +43318,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "FR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -45507,17 +45540,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "FR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -45595,6 +45617,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "FR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -45613,6 +45646,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "FR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -45701,17 +45745,6 @@
     "lat": 38.18677,
     "lng": -0.56255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636891878/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "FR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -46295,6 +46328,17 @@
     "lat": 47.47916,
     "lng": 19.05899,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1294221464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1463484648",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia",
+    "city": "Biella",
+    "countryCode": "FR",
+    "lat": 45.62688,
+    "lng": 7.98107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1463484648/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47674,17 +47718,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "FR",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -47692,6 +47725,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "FR",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -47993,17 +48037,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "FR",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -48011,6 +48044,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "FR",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48521,17 +48565,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "FR",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -48539,6 +48572,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "FR",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -48748,6 +48792,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "FR",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -49595,17 +49650,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "FR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -50849,17 +50893,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "FR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53185,17 +53218,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "FR",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -53203,6 +53225,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "FR",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53401,6 +53434,17 @@
     "lat": 43.13099,
     "lng": 131.91193,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "FR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -53786,6 +53830,17 @@
     "lat": 47.28853,
     "lng": 11.69147,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390986548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271712581",
+    "name": "Raska Municipality: Kopaonik: JAT Apartmani 2",
+    "city": "Raska Municipality",
+    "countryCode": "FR",
+    "lat": 43.28602,
+    "lng": 20.80918,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271712581/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -54032,17 +54087,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "CN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -56265,17 +56309,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "CN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -56353,6 +56386,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "CN",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -56371,6 +56415,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "CN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -56459,17 +56514,6 @@
     "lat": 38.18677,
     "lng": -0.56255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636891878/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "CN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -57053,6 +57097,17 @@
     "lat": 47.47916,
     "lng": 19.05899,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1294221464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1463484648",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia",
+    "city": "Biella",
+    "countryCode": "CN",
+    "lat": 45.62688,
+    "lng": 7.98107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1463484648/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58432,17 +58487,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "CN",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -58450,6 +58494,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "CN",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -58751,17 +58806,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "CN",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -58769,6 +58813,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "CN",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59279,17 +59334,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "CN",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -59297,6 +59341,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "CN",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -59506,6 +59561,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "CN",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -60353,17 +60419,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "CN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -61607,17 +61662,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "CN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -63943,17 +63987,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "CN",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -63961,6 +63994,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "CN",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64159,6 +64203,17 @@
     "lat": 43.13099,
     "lng": 131.91193,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "CN",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64544,6 +64599,17 @@
     "lat": 47.28853,
     "lng": 11.69147,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390986548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271712581",
+    "name": "Raska Municipality: Kopaonik: JAT Apartmani 2",
+    "city": "Raska Municipality",
+    "countryCode": "CN",
+    "lat": 43.28602,
+    "lng": 20.80918,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271712581/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -64790,17 +64856,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "KR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -67023,17 +67078,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "KR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -67111,6 +67155,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "KR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -67129,6 +67184,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "KR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67217,17 +67283,6 @@
     "lat": 38.18677,
     "lng": -0.56255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636891878/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "KR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -67811,6 +67866,17 @@
     "lat": 47.47916,
     "lng": 19.05899,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1294221464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1463484648",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia",
+    "city": "Biella",
+    "countryCode": "KR",
+    "lat": 45.62688,
+    "lng": 7.98107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1463484648/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69190,17 +69256,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "KR",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -69208,6 +69263,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "KR",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -69509,17 +69575,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "KR",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -69527,6 +69582,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "KR",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70037,17 +70103,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "KR",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -70055,6 +70110,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "KR",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -70264,6 +70330,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "KR",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -71111,17 +71188,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "KR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -72365,17 +72431,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "KR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74701,17 +74756,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "KR",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -74719,6 +74763,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "KR",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -74917,6 +74972,17 @@
     "lat": 43.13099,
     "lng": 131.91193,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "KR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75302,6 +75368,17 @@
     "lat": 47.28853,
     "lng": 11.69147,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390986548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271712581",
+    "name": "Raska Municipality: Kopaonik: JAT Apartmani 2",
+    "city": "Raska Municipality",
+    "countryCode": "KR",
+    "lat": 43.28602,
+    "lng": 20.80918,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271712581/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -75548,17 +75625,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "IN",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -77781,17 +77847,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "IN",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -77869,6 +77924,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "IN",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -77887,6 +77953,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "IN",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -77975,17 +78052,6 @@
     "lat": 38.18677,
     "lng": -0.56255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636891878/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "IN",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -78569,6 +78635,17 @@
     "lat": 47.47916,
     "lng": 19.05899,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1294221464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1463484648",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia",
+    "city": "Biella",
+    "countryCode": "IN",
+    "lat": 45.62688,
+    "lng": 7.98107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1463484648/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -79948,17 +80025,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "IN",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -79966,6 +80032,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "IN",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80267,17 +80344,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "IN",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -80285,6 +80351,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "IN",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -80795,17 +80872,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "IN",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -80813,6 +80879,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "IN",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81022,6 +81099,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "IN",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -81869,17 +81957,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "IN",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -83123,17 +83200,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "IN",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85459,17 +85525,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "IN",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -85477,6 +85532,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "IN",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -85675,6 +85741,17 @@
     "lat": 43.13099,
     "lng": 131.91193,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "IN",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86060,6 +86137,17 @@
     "lat": 47.28853,
     "lng": 11.69147,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390986548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271712581",
+    "name": "Raska Municipality: Kopaonik: JAT Apartmani 2",
+    "city": "Raska Municipality",
+    "countryCode": "IN",
+    "lat": 43.28602,
+    "lng": 20.80918,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271712581/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -86306,17 +86394,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "BR",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -88539,17 +88616,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "BR",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -88627,6 +88693,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "BR",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -88645,6 +88722,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "BR",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -88733,17 +88821,6 @@
     "lat": 38.18677,
     "lng": -0.56255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636891878/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "BR",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -89327,6 +89404,17 @@
     "lat": 47.47916,
     "lng": 19.05899,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1294221464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1463484648",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia",
+    "city": "Biella",
+    "countryCode": "BR",
+    "lat": 45.62688,
+    "lng": 7.98107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1463484648/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -90706,17 +90794,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "BR",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -90724,6 +90801,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "BR",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91025,17 +91113,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "BR",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -91043,6 +91120,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "BR",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91553,17 +91641,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "BR",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -91571,6 +91648,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "BR",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -91780,6 +91868,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "BR",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -92627,17 +92726,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "BR",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -93881,17 +93969,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "BR",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96217,17 +96294,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "BR",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -96235,6 +96301,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "BR",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96433,6 +96510,17 @@
     "lat": 43.13099,
     "lng": 131.91193,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "BR",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -96818,6 +96906,17 @@
     "lat": 47.28853,
     "lng": 11.69147,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390986548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271712581",
+    "name": "Raska Municipality: Kopaonik: JAT Apartmani 2",
+    "city": "Raska Municipality",
+    "countryCode": "BR",
+    "lat": 43.28602,
+    "lng": 20.80918,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271712581/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -97064,17 +97163,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1013252886",
-    "name": "Lenk: Betelberg, Bergstation Wallegg",
-    "city": "Lenk",
-    "countryCode": "AU",
-    "lat": 46.43454,
-    "lng": 7.41491,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1013252886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1070189674",
     "name": "Meyrin: Cointrin › North-east: Route de l'Aéroport",
     "city": "Meyrin",
@@ -99297,17 +99385,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1105964003",
-    "name": "Rothenthurm: Skilift Neusell, Bergstation",
-    "city": "Rothenthurm",
-    "countryCode": "AU",
-    "lat": 47.08631,
-    "lng": 8.67019,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1105964003/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1217411157",
     "name": "Ascona › South: Porto Patriziale Ascona - Gambarogno - Lake Maggiore",
     "city": "Ascona",
@@ -99385,6 +99462,17 @@
     "category": "city"
   },
   {
+    "id": "windy-1216894327",
+    "name": "Tarnaby: Storuman, Sweden",
+    "city": "Tarnaby",
+    "countryCode": "AU",
+    "lat": 65.70988,
+    "lng": 15.26404,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1216894327/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
     "id": "windy-1131368730",
     "name": "Adelboden: Engstligenalp / Berghaus Bärtschi - Wildstrubel",
     "city": "Adelboden",
@@ -99403,6 +99491,17 @@
     "lat": 45.15002,
     "lng": 13.60264,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1324392866/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1547038112",
+    "name": "Jackson: Spotted Horse Ranch on Hoback River",
+    "city": "Jackson",
+    "countryCode": "AU",
+    "lat": 43.30086,
+    "lng": -110.67134,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1547038112/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -99491,17 +99590,6 @@
     "lat": 38.18677,
     "lng": -0.56255,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1636891878/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1384959603",
-    "name": "Breznik › South-east: Lusen",
-    "city": "Breznik",
-    "countryCode": "AU",
-    "lat": 48.97126,
-    "lng": 13.48243,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384959603/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -100085,6 +100173,17 @@
     "lat": 47.47916,
     "lng": 19.05899,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1294221464/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1463484648",
+    "name": "Biella: Santuario d'Oropa - Piemonte, Italia",
+    "city": "Biella",
+    "countryCode": "AU",
+    "lat": 45.62688,
+    "lng": 7.98107,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1463484648/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101464,17 +101563,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1084783665",
-    "name": "Altendorf: SZ",
-    "city": "Altendorf",
-    "countryCode": "AU",
-    "lat": 47.1819,
-    "lng": 8.80357,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1500120146",
     "name": "Phuket › North-east: Phuket Ocean View Resort - Freedom Beach - Freedom Beach Viewpoint",
     "city": "Phuket",
@@ -101482,6 +101570,17 @@
     "lat": 7.87877,
     "lng": 98.29209,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1500120146/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1084783665",
+    "name": "Altendorf: SZ",
+    "city": "Altendorf",
+    "countryCode": "AU",
+    "lat": 47.1819,
+    "lng": 8.80357,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1084783665/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -101783,17 +101882,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1229966886",
-    "name": "Rome › West: Tetti di roma",
-    "city": "Rome",
-    "countryCode": "AU",
-    "lat": 41.89383,
-    "lng": 12.47223,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1347300032",
     "name": "La Gavia: Mexico DF Santa Fe",
     "city": "unknown",
@@ -101801,6 +101889,17 @@
     "lat": 19.35781,
     "lng": -99.27785,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1347300032/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1229966886",
+    "name": "Rome › West: Tetti di roma",
+    "city": "Rome",
+    "countryCode": "AU",
+    "lat": 41.89383,
+    "lng": 12.47223,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1229966886/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102311,17 +102410,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1318757469",
-    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
-    "city": "Netstal",
-    "countryCode": "AU",
-    "lat": 47.03632,
-    "lng": 9.00501,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1177842701",
     "name": "Key West › South-west: Mallory square",
     "city": "Key West",
@@ -102329,6 +102417,17 @@
     "lat": 24.56058,
     "lng": -81.80735,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1177842701/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1318757469",
+    "name": "Netstal: Klöntalersee, Klöntal, Hotel Rhodannenberg, Traumperspektiven Klöntal",
+    "city": "Netstal",
+    "countryCode": "AU",
+    "lat": 47.03632,
+    "lng": 9.00501,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1318757469/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -102538,6 +102637,17 @@
     "lat": 59.32903,
     "lng": 18.05873,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1562271770/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1384062006",
+    "name": "Midtbyen › West: Gråkallen - Bymarka naturreservat - Storheia",
+    "city": "unknown",
+    "countryCode": "AU",
+    "lat": 63.41752,
+    "lng": 10.26091,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1384062006/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -103385,17 +103495,6 @@
     "lat": 44.52368,
     "lng": 6.40125,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1197885308/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1115031497",
-    "name": "Matt: Weissenberge 2",
-    "city": "Matt",
-    "countryCode": "AU",
-    "lat": 46.96421,
-    "lng": 9.185,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1115031497/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -104639,17 +104738,6 @@
     "lat": 45.76257,
     "lng": 126.62739,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1607263795/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
-    "id": "windy-1132577265",
-    "name": "Surlej: Silvaplana, Eventbar Hossa",
-    "city": "Surlej",
-    "countryCode": "AU",
-    "lat": 46.44102,
-    "lng": 9.83045,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1132577265/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -106975,17 +107063,6 @@
     "category": "city"
   },
   {
-    "id": "windy-1609419104",
-    "name": "Kyjov › East: Masarykovo náměstí",
-    "city": "Kyjov",
-    "countryCode": "AU",
-    "lat": 49.01017,
-    "lng": 17.12242,
-    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
-    "playerUrl": "",
-    "category": "city"
-  },
-  {
     "id": "windy-1693844957",
     "name": "Khamovniki District › South-east",
     "city": "Khamovniki District",
@@ -106993,6 +107070,17 @@
     "lat": 55.74311,
     "lng": 37.60463,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1693844957/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1609419104",
+    "name": "Kyjov › East: Masarykovo náměstí",
+    "city": "Kyjov",
+    "countryCode": "AU",
+    "lat": 49.01017,
+    "lng": 17.12242,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1609419104/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107191,6 +107279,17 @@
     "lat": 43.13099,
     "lng": 131.91193,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1520819241/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1248130573",
+    "name": "Oban: Stewart Island Sails Ashore Webcam",
+    "city": "Oban",
+    "countryCode": "AU",
+    "lat": -46.90137,
+    "lng": 168.12618,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1248130573/original.jpg",
     "playerUrl": "",
     "category": "city"
   },
@@ -107576,6 +107675,17 @@
     "lat": 47.28853,
     "lng": 11.69147,
     "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1390986548/original.jpg",
+    "playerUrl": "",
+    "category": "city"
+  },
+  {
+    "id": "windy-1271712581",
+    "name": "Raska Municipality: Kopaonik: JAT Apartmani 2",
+    "city": "Raska Municipality",
+    "countryCode": "AU",
+    "lat": 43.28602,
+    "lng": 20.80918,
+    "thumbnailUrl": "https://imgproxy.windy.com/_/preview/plain/current/1271712581/original.jpg",
     "playerUrl": "",
     "category": "city"
   }
