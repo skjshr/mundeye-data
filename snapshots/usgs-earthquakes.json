@@ -1,5 +1,25 @@
 [
   {
+    "id": "us6000syfn",
+    "type": "earthquake",
+    "lat": 24.4502,
+    "lng": 123.8586,
+    "intensity": 4.8,
+    "timestamp": "2026-05-17T23:21:21.028Z",
+    "description": "M 4.8 - 32 km WNW of Ishigaki, Japan",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000syfk",
+    "type": "earthquake",
+    "lat": -6.4496,
+    "lng": 147.5796,
+    "intensity": 5,
+    "timestamp": "2026-05-17T22:58:32.187Z",
+    "description": "M 5.0 - 31 km WNW of Finschhafen, Papua New Guinea",
+    "source": "USGS"
+  },
+  {
     "id": "us6000syex",
     "type": "earthquake",
     "lat": -6.3045,
@@ -97,16 +117,6 @@
     "intensity": 4.5,
     "timestamp": "2026-05-17T01:35:32.854Z",
     "description": "M 4.5 - 92 km SSE of San Pedro de Atacama, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000syak",
-    "type": "earthquake",
-    "lat": 39.9621,
-    "lng": 142.9476,
-    "intensity": 4.7,
-    "timestamp": "2026-05-17T00:07:28.770Z",
-    "description": "M 4.7 - 93 km ENE of Miyako, Japan",
     "source": "USGS"
   }
 ]
