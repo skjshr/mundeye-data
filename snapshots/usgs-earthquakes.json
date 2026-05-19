@@ -22,11 +22,11 @@
   {
     "id": "us6000synm",
     "type": "earthquake",
-    "lat": -18.1598,
-    "lng": 168.1719,
-    "intensity": 5.8,
-    "timestamp": "2026-05-19T02:29:25.526Z",
-    "description": "M 5.8 - 49 km SSW of Port-Vila, Vanuatu",
+    "lat": -18.1511,
+    "lng": 168.0931,
+    "intensity": 5.7,
+    "timestamp": "2026-05-19T02:29:24.366Z",
+    "description": "M 5.7 - 51 km SSW of Port-Vila, Vanuatu",
     "source": "USGS"
   },
   {
@@ -87,16 +87,6 @@
     "intensity": 4.7,
     "timestamp": "2026-05-18T08:48:06.071Z",
     "description": "M 4.7 - 22 km SSW of La Tirana, Chile",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000syh2",
-    "type": "earthquake",
-    "lat": -28.5299,
-    "lng": 74.2599,
-    "intensity": 5.2,
-    "timestamp": "2026-05-18T07:34:30.448Z",
-    "description": "M 5.2 - Mid-Indian Ridge",
     "source": "USGS"
   }
 ]
