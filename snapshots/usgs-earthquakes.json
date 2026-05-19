@@ -1,5 +1,35 @@
 [
   {
+    "id": "us6000syp2",
+    "type": "earthquake",
+    "lat": -17.7595,
+    "lng": -178.7166,
+    "intensity": 4.6,
+    "timestamp": "2026-05-19T03:17:03.782Z",
+    "description": "M 4.6 - 211 km E of Levuka, Fiji",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000synu",
+    "type": "earthquake",
+    "lat": -10.2484,
+    "lng": 161.1887,
+    "intensity": 4.8,
+    "timestamp": "2026-05-19T02:53:53.724Z",
+    "description": "M 4.8 - 83 km WNW of Kirakira, Solomon Islands",
+    "source": "USGS"
+  },
+  {
+    "id": "us6000synm",
+    "type": "earthquake",
+    "lat": -18.1598,
+    "lng": 168.1719,
+    "intensity": 5.8,
+    "timestamp": "2026-05-19T02:29:25.526Z",
+    "description": "M 5.8 - 49 km SSW of Port-Vila, Vanuatu",
+    "source": "USGS"
+  },
+  {
     "id": "us6000sym0",
     "type": "earthquake",
     "lat": 52.4994,
@@ -67,26 +97,6 @@
     "intensity": 5.2,
     "timestamp": "2026-05-18T07:34:30.448Z",
     "description": "M 5.2 - Mid-Indian Ridge",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000syg1",
-    "type": "earthquake",
-    "lat": -43.4009,
-    "lng": -82.4593,
-    "intensity": 5.4,
-    "timestamp": "2026-05-18T02:10:41.745Z",
-    "description": "M 5.4 - West Chile Rise",
-    "source": "USGS"
-  },
-  {
-    "id": "us6000syg0",
-    "type": "earthquake",
-    "lat": 16.4431,
-    "lng": 96.3164,
-    "intensity": 5.2,
-    "timestamp": "2026-05-18T02:05:24.327Z",
-    "description": "M 5.2 - 36 km SSE of Syriam, Burma (Myanmar)",
     "source": "USGS"
   }
 ]
